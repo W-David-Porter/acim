@@ -19,9 +19,9 @@
 		"scope": "html",
 		"prefix": "det",
 		"body": [
-			"<details><summary>Expanded</summary>\n\n</details>\n",
-			"<details><summary>Substituted</summary>\n\n</details>\n",
-			"<details><summary>Simplified</summary>\n\n</details>"
+			"<details>\n\t<summary>Expanded</summary>\n\t\t\n</details>\n",
+			"<details>\n\t<summary>Substituted</summary>\n\t\t\n</details>\n",
+			"<details>\n\t<summary>Simplified</summary>\n\t\t\n</details>"
 		],
 		"description": "Add details elements for expanded, substituted, simplified"
 	},

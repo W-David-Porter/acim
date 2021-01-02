@@ -118,15 +118,6 @@ main > nav li + li::before {
 }
 
 
-
-blockquote {
-	background: initial;
-	border-left: initial;
-	padding: initial;
-	margin-left: 2em;
-}
-
-
 details+details  {
 	margin-top: -1rem;
 }
@@ -150,6 +141,17 @@ details + p, details + div {
 	margin-top: 2em;
 }
 
-div.zero-height {
-	height: 0;
+
+p.intro {
+	font-style: italic;
 }
+
+span.quote {
+	display: block;
+	font-style: italic;
+	margin-left: 2em;
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+

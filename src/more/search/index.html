@@ -25,62 +25,9 @@ var data = `
 `
 
 
-
-const words = [
-  {
-      us: "emphasize",
-      gb: "emphasize"
-    }, {
-      us: "judgment",
-      gb: "judgment"
-    }, {
-      us: "realize",
-      gb: "realize"
-    }, {
-      us: "recognize",
-      gb: "recognize"
-    }
-  ]
-
-
-  const normaliseSpelling = function (builder) {
-
-    // Define a pipeline function that converts 'gray' to 'grey'
-
-    const pipelineFunction = function (token) {
-      
-      const word = words.find(function (w) {
-        return w.us == token.toString()
-      })
-
-      if (word) {
-        return token.update(function () {
-          searchTokens.push(word.gb)
-          return word.gb
-        })
-      } else {
-        searchTokens.push(token.toString())
-        return token
-      }
-    }
-
-    // Register the pipeline function so the index can be serialised
-    lunr.Pipeline.registerFunction(pipelineFunction, 'normaliseSpelling')
-
-    // Add the pipeline function to both the indexing pipeline …
-    // builder.pipeline.before(lunr.stemmer, pipelineFunction) pretty sure it's not necessary, might want to make sure
-    // … and the searching pipeline
-    builder.searchPipeline.before(lunr.stemmer, pipelineFunction)
-  }
-
   const searchTokens = []
 
-  let idx = lunr(function () {
-    this.use(normaliseSpelling)
-  })
   idx = lunr.Index.load(JSON.parse(data)) // TODO perhaps one day load via ajax
-
-
 
   var search = function () {
     console.log(`searching: ${searchTerm.value}`)
