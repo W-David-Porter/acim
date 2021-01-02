@@ -149,20 +149,20 @@ You must heal the separation.
 
 4. Right-mindedness is not to be confused with the knowing mind, because it is applicable only to right perception. 
 ²You can be right-minded or wrong-minded, and even this is subject to degrees, clearly demonstrating that knowledge is not involved. 
-³The term ‘right-mindedness’ is properly used as the correction for ‘wrong-mindedness’, and applies to the state of mind that induces accurate perception. 
+³The term “right-mindedness’ is properly used as the correction for “wrong-mindedness’, and applies to the state of mind that induces accurate perception. 
 ⁴It is miracle-minded because it heals misperception, and this is indeed a miracle in view of how you perceive yourself.
 
 ::: details Expanded
 Right-mindedness is not to be confused with the knowing mind, because it [right-mindedness] is applicable only to right perception. 
 ²You can be right-minded or wrong-minded, and even this [being right- or wrong-minded] is subject to degrees, clearly demonstrating that knowledge is not involved. 
-³The term ‘right-mindedness’ is properly used as the correction for ‘wrong-mindedness’, and applies to the state of mind that induces accurate perception. 
+³The term “right-mindedness’ is properly used as the correction for “wrong-mindedness’, and applies to the state of mind that induces accurate perception. 
 ⁴It [right-mindedness] is miracle-minded because it [right-mindedness] heals misperception, and this [healing misperception] is indeed a miracle in view of how you perceive yourself.
 :::
 
 ::: details Substituted
 Right-mindedness is not to be confused with the knowing mind, because right-mindedness is applicable only to right perception. 
 ²You can be right-minded or wrong-minded, and even being right- or wrong-minded is subject to degrees, clearly demonstrating that knowledge is not involved. 
-³The term ‘right-mindedness’ is properly used as the correction for ‘wrong-mindedness’, and applies to the state of mind that induces accurate perception. 
+³The term “right-mindedness’ is properly used as the correction for “wrong-mindedness’, and applies to the state of mind that induces accurate perception. 
 ⁴Right-mindedness is miracle-minded because right-mindedness heals misperception, and healing misperception is indeed a miracle in view of how you perceive yourself.
 :::
 
@@ -236,7 +236,7 @@ The separated mind miscreates, which is an attempt to create.
 ³The interpretative function of perception, a distorted form of creation, then permits you to interpret the body as yourself in an attempt to escape from the conflict you have induced. 
 ⁴Spirit, which knows, could not be reconciled with this loss of power, because it is incapable of darkness. 
 ⁵This makes spirit almost inaccessible to the mind and entirely inaccessible to the body. 
-⁶Thereäfter, spirit is perceived as a threat, because light abolishes darkness merely by showing you it is not there. 
+⁶Thereafter, spirit is perceived as a threat, because light abolishes darkness merely by showing you it is not there. 
 ⁷Truth will always overcome error in this way. 
 ⁸This cannot be an active process of correction because, as I have already emphasized, knowledge does not do anything. 
 ⁹It can be perceived as an attacker, but it cannot attack. 
@@ -248,7 +248,7 @@ The ability to perceive made the body possible, because you must perceive *somet
 ³The interpretative function of perception, a distorted form of creation, then permits you to interpret the body as yourself in an attempt to escape from the conflict you have induced. 
 ⁴Spirit, which knows, could not be reconciled with this loss of power [interpreting the body as yourself], because it [spirit] is incapable of darkness. 
 ⁵This [being incapable of darkness] makes spirit almost inaccessible to the mind and entirely inaccessible to the body. 
-⁶Thereäfter, spirit is perceived as a threat, because light abolishes darkness merely by showing you it [darkness] is not there. 
+⁶Thereafter, spirit is perceived as a threat, because light abolishes darkness merely by showing you it [darkness] is not there. 
 ⁷Truth will always overcome error in this way [showing you error is not there]. 
 ⁸This [truth overcoming error] cannot be an active process of correction because, as I have already emphasized, knowledge does not do anything. 
 ⁹It [knowledge] can be perceived as an attacker, but it [knowledge] cannot attack. 
@@ -261,7 +261,7 @@ The ability to perceive made the body possible, because you must perceive *somet
 ³The interpretative function of perception, a distorted form of creation, then permits you to interpret the body as yourself in an attempt to escape from the conflict you have induced. 
 ⁴Spirit, which knows, could not be reconciled with this loss of power, interpreting the body as yourself, because spirit is incapable of darkness. 
 ⁵Being incapable of darkness makes spirit almost inaccessible to the mind and entirely inaccessible to the body. 
-⁶Thereäfter, spirit is perceived as a threat, because light abolishes darkness merely by showing you darkness is not there. 
+⁶Thereafter, spirit is perceived as a threat, because light abolishes darkness merely by showing you darkness is not there. 
 ⁷Truth will always overcome error by showing you error is not there. 
 ⁸Truth overcoming error cannot be an active process of correction because, as I have already emphasized, knowledge does not do anything. 
 ⁹Knowledge can be perceived as an attacker, but knowledge cannot attack. 
@@ -316,7 +316,7 @@ Perception disappears in knowledge.
 ¹¹I cannot choose for you, but I can help you make your own right choice. 
 ¹²“Many are called but few are chosen” should be, “All are called but few choose to listen”. 
 ¹³Therefore, they [who choose not to listen] do not choose right. 
-¹⁴The ‘chosen ones’ are merely those [choosers] who choose right sooner. 
+¹⁴The “chosen ones’ are merely those [choosers] who choose right sooner. 
 ¹⁵Right minds can do this [choose to listen] now, and they [right minds] will find rest unto their [right-mind’s] souls. 
 ¹⁶God knows you only in peace, and this [peace] *is* your reality.
 :::
@@ -335,7 +335,7 @@ God and God’s creations remain in surety, and therefore know that no miscreati
 ¹¹I cannot choose for you, but I can help you make your own right choice. 
 ¹²“Many are called but few are chosen” should be, “All are called but few choose to listen”. 
 ¹³Therefore, they who choose not to listen do not choose right. 
-¹⁴The ‘chosen ones’ are merely choosers who choose right sooner. 
+¹⁴The “chosen ones’ are merely choosers who choose right sooner. 
 ¹⁵Right minds can choose to listen now, and right minds will find rest unto right-mind’s souls. 
 ¹⁶God knows you only in peace, and peace *is* your reality.
 :::

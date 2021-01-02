@@ -78,7 +78,7 @@ Everything you believe depends on your ideas about time. You need new ideas abou
 
 3. Look at a cup, for example. 
 ²Do you see a cup, or are you merely reviewing your past experiences of picking up a cup, being thirsty, drinking from a cup, feeling the rim of a cup against your lips, having breakfast and so on? 
-³Are not your aesthetic reäctions to the cup, too, based on past experiences? 
+³Are not your aesthetic reactions to the cup, too, based on past experiences? 
 ⁴How else would you know whether or not this kind of cup will break if you drop it? 
 ⁵What do you know about this cup except what you learned in the past? 
 ⁶You would have no idea what this cup is, except for your past learning. 
@@ -90,7 +90,7 @@ Everything you believe depends on your ideas about time. You need new ideas abou
 
 Look at a cup, for example. 
 ²Do you see a cup, or are you merely reviewing your past experiences of picking up a cup, being thirsty, drinking from a cup, feeling the rim of a cup against your lips, having breakfast and so on? 
-³Are not your aesthetic reäctions to the cup, too, based on past experiences? 
+³Are not your aesthetic reactions to the cup, too, based on past experiences? 
 ⁴How else would you know whether or not this kind of cup will break if you drop it [the cup]? 
 ⁵What do you know about this cup except what you learned in the past? 
 ⁶You would have no idea what this cup is, except for your past learning. 
@@ -100,7 +100,7 @@ Look at a cup, for example.
 
 Look at a cup, for example. 
 ²Do you see a cup, or are you merely reviewing your past experiences of picking up a cup, being thirsty, drinking from a cup, feeling the rim of a cup against your lips, having breakfast and so on? 
-³Are not your aesthetic reäctions to the cup, too, based on past experiences? 
+³Are not your aesthetic reactions to the cup, too, based on past experiences? 
 ⁴How else would you know whether or not this kind of cup will break if you drop the cup? 
 ⁵What do you know about this cup except what you learned in the past? 
 ⁶You would have no idea what this cup is, except for your past learning. ⁷Do you, then, really see the cup?

@@ -144,7 +144,7 @@ Distorted perceptions create distorted relationships.
 
 4. Ultimately, every member of the family of God must return. 
 ²The miracle calls him to return because it blesses and honours him, even though he may be absent in spirit. 
-³“God is not mocked” is not a warning but a reässurance. 
+³“God is not mocked” is not a warning but a reassurance. 
 ⁴God *would* be mocked if any of His creations lacked holiness. 
 ⁵The creation is whole, and the mark of wholeness is holiness. 
 ⁶Miracles are affirmations of Sonship, which is a state of completion and abundance.
@@ -152,7 +152,7 @@ Distorted perceptions create distorted relationships.
 ::: details Expanded
 Ultimately, every member of the family of God must return. 
 ²The miracle calls him [a member of the family of God] to return because it [the miracle] blesses and honours him [a member of the family of God], even though he [a member of the family of God] may be absent in spirit. 
-³“God is not mocked” is not a warning but a reässurance. 
+³“God is not mocked” is not a warning but a reassurance. 
 ⁴God *would* be mocked if any of His [God’s] creations lacked holiness. 
 ⁵The creation is whole, and the mark of wholeness is holiness. 
 ⁶Miracles are affirmations of Sonship, which is a state of completion and abundance.
@@ -161,7 +161,7 @@ Ultimately, every member of the family of God must return.
 ::: details Substituted
 Ultimately, every member of the family of God must return. 
 ²The miracle calls a member of the family of God to return because the miracle blesses and honours a member of the family of God, even though a member of the family of God may be absent in spirit. 
-³“God is not mocked” is not a warning but a reässurance. 
+³“God is not mocked” is not a warning but a reassurance. 
 ⁴God *would* be mocked if any of God’s creations lacked holiness. 
 ⁵The creation is whole, and the mark of wholeness is holiness. 
 ⁶Miracles are affirmations of Sonship, which is a state of completion and abundance.

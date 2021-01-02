@@ -15,7 +15,7 @@ next: W-pI.37
 1. Today’s idea extends the idea for yesterday from the perceiver to the perceived. 
 ²You are holy because your mind is part of God’s. 
 ³And because you are holy, your sight must be holy as well. 
-⁴‘Sinless’ means without sin. 
+⁴“Sinless’ means without sin. 
 ⁵You cannot be without sin a little. 
 ⁶You are sinless or not. 
 ⁷If your mind is part of God’s you must be sinless, or a part of His Mind would be sinful. 
@@ -28,7 +28,7 @@ next: W-pI.37
 Today’s idea extends the idea for yesterday from the perceiver to the perceived. 
 ²You are holy because your mind is part of God’s [mind]. 
 ³And because you are holy, your sight must be holy as well. 
-⁴‘Sinless’ means without sin. 
+⁴“Sinless’ means without sin. 
 ⁵You cannot be without sin a little. 
 ⁶You are sinless or not. 
 ⁷If your mind is part of God’s [mind] you must be sinless, or a part of His [God’s] Mind would be sinful. 
@@ -39,7 +39,7 @@ Today’s idea extends the idea for yesterday from the perceiver to the perceive
 Today’s idea extends the idea for yesterday from the perceiver to the perceived. 
 ²You are holy because your mind is part of God’s mind. 
 ³And because you are holy, your sight must be holy as well. 
-⁴‘Sinless’ means without sin. 
+⁴“Sinless’ means without sin. 
 ⁵You cannot be without sin a little. 
 ⁶You are sinless or not. 
 ⁷If your mind is part of God’s mind, you must be sinless, or a part of God’s Mind would be sinful. 

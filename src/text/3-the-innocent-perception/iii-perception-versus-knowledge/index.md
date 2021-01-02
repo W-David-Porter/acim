@@ -60,7 +60,7 @@ Strength is power.
 
 
 2. All your difficulties stem from the fact that you do not recognize yourself, your brother or God. 
-²To recognize means to ‘know again’, implying that you knew before. 
+²To recognize means to “know again’, implying that you knew before. 
 ³You can see in many ways because perception involves interpretation, and this means that it is not whole or consistent. 
 ⁴The miracle, being a way of perceiving, is not knowledge. 
 ⁵It is the right answer to a question, but you do not question when you know. 
@@ -136,7 +136,7 @@ Believing present and future will stop you from questioning illusions.
 4. True vision is the natural perception of spiritual sight, but it is still a correction rather than a fact. 
 ²Spiritual sight is symbolic, and therefore not a device for knowing. 
 ³It is, however, a means of right perception, which brings it into the proper domain of the miracle. 
-⁴A ‘vision of God’ would be a miracle rather than a revelation. 
+⁴A “vision of God’ would be a miracle rather than a revelation. 
 ⁵The fact that perception is involved at all removes the experience from the realm of knowledge. 
 ⁶That is why visions, however holy, do not last.
 
@@ -144,7 +144,7 @@ Believing present and future will stop you from questioning illusions.
 True vision is the natural perception of spiritual sight, but it [true vision] is still a correction rather than a fact. 
 ²Spiritual sight is symbolic, and therefore not a device for knowing. 
 ³It [spiritual sight] is, however, a means of right perception, which brings it [right perception] into the proper domain of the miracle. 
-⁴A ‘vision of God’ would be a miracle rather than a revelation. 
+⁴A “vision of God’ would be a miracle rather than a revelation. 
 ⁵The fact that perception is involved at all removes the experience [of a vision of God] from the realm of knowledge. 
 ⁶That is why visions, however holy, do not last.
 :::
@@ -153,7 +153,7 @@ True vision is the natural perception of spiritual sight, but it [true vision] i
 True vision is the natural perception of spiritual sight, but true vision is still a correction rather than a fact. 
 ²Spiritual sight is symbolic, and therefore not a device for knowing. 
 ³Spiritual sight is, however, a means of right perception, which brings right perception into the proper domain of the miracle. 
-⁴A ‘vision of God’ would be a miracle rather than a revelation. 
+⁴A “vision of God’ would be a miracle rather than a revelation. 
 ⁵The fact that perception is involved at all removes the experience of a vision of God from the realm of knowledge. 
 ⁶That is why visions, however holy, do not last.
 :::

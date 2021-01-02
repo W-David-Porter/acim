@@ -133,7 +133,7 @@ Giving up judgment enables perception to be given up.
 
 {% if showCommentary %}
 ::: details Commentary
-(1–3) …guiltlessness is in the Mind of the Father, it must be in our minds, too, beecause the Holy Spirit’s Love is the bridge that joins all our minds in one. Judging another or ourselves erases that innocence from our awareness, for judgment obviously means separation. Thus, our ego’s fear of the joining, marking the end of the thought of separation, leads us to choose judgment as the means of ‘protecting’ ourselves from the unifying Love of the Holy Spirit, reflected in this world by forgiveness. The great importance of giving up judgment as the prerequisite to peace is a major theme in the Course (Wapnick, AVI, p. 143.)
+(1–3) …guiltlessness is in the Mind of the Father, it must be in our minds, too, beecause the Holy Spirit’s Love is the bridge that joins all our minds in one. Judging another or ourselves erases that innocence from our awareness, for judgment obviously means separation. Thus, our ego’s fear of the joining, marking the end of the thought of separation, leads us to choose judgment as the means of “protecting’ ourselves from the unifying Love of the Holy Spirit, reflected in this world by forgiveness. The great importance of giving up judgment as the prerequisite to peace is a major theme in the Course (Wapnick, AVI, p. 143.)
 
 (1) …the benefits of the Holy Spirit, meaning the benefits of letting go of our guilt and experiencing the peace that comes from truly trusting in each other. (Wapnick, AVI, p. 159.)
 :::
@@ -266,7 +266,7 @@ The ego is the authority problem.
 
 {% if showCommentary %}
 ::: details Commentary
-(2) The Course states that the basis of our difficulties is the authority problem, a psychological concept which is redefined in religious terms. In the Course’s view this problem rests on the belief that we, rather than God, created ourselves. This strange belief is illustrated by the current emphasis in psychology on the ‘self-concept’, which implies that it is up to us to define and change our own reality as we see fit. This might be regarded as a modern versio of the situation found in the book of Genesis, in which Adam and Eve decided that they would be ‘other’ than God and have a will that was separated from His. … And indeed, most of us continually reäffirm the belief that we are separate from our Creator every second of our lives. (Wapnick, CP, p.5.)
+(2) The Course states that the basis of our difficulties is the authority problem, a psychological concept which is redefined in religious terms. In the Course’s view this problem rests on the belief that we, rather than God, created ourselves. This strange belief is illustrated by the current emphasis in psychology on the “self-concept’, which implies that it is up to us to define and change our own reality as we see fit. This might be regarded as a modern versio of the situation found in the book of Genesis, in which Adam and Eve decided that they would be “other’ than God and have a will that was separated from His. … And indeed, most of us continually reaffirm the belief that we are separate from our Creator every second of our lives. (Wapnick, CP, p.5.)
 :::
 {% endif %}
 

@@ -64,13 +64,13 @@ Your projections make distortions.
 
 {% if showCommentary %}
 ::: details Commentary
-(7) In the Course, the words ‘extension’ and ‘projection’ reflect the identical dynamic — the proceeding outward  of what is within the mind. ‘Extension’ … is reserved for the ‘movement’ or ‘outflow’ of spirit, while ‘projection’ is almost always utilised for the ego. …we can speak of extension as being the ‘appropriate’ use of projection. (Wapnick, L.D.N.C., p.447–448).
+(7) In the Course, the words “extension’ and “projection’ reflect the identical dynamic — the proceeding outward  of what is within the mind. “Extension’ … is reserved for the “movement’ or “outflow’ of spirit, while “projection’ is almost always utilised for the ego. …we can speak of extension as being the “appropriate’ use of projection. (Wapnick, L.D.N.C., p.447–448).
 
-(7) The Course distinguishes between two types of ‘projection’: One is called ‘extension’, referring to extending the Love of God that is accepted within. The other is an “inappropriate use of extension, or projection, occurs when you believe that some emptiness or lack exists in you, and that you can fill emptiness or lack with your own ideas instead of truth”. The ego’s purpose is always to distort the present reality of a situation so as to project guilt or lack, and justify its attack. (Wapnick, F.A.J., p.39.)
+(7) The Course distinguishes between two types of “projection’: One is called “extension’, referring to extending the Love of God that is accepted within. The other is an “inappropriate use of extension, or projection, occurs when you believe that some emptiness or lack exists in you, and that you can fill emptiness or lack with your own ideas instead of truth”. The ego’s purpose is always to distort the present reality of a situation so as to project guilt or lack, and justify its attack. (Wapnick, F.A.J., p.39.)
 
-(7) …linking the two terms [projection and extension] to the same dynamic [the proceeding ‘outward’ of what is within the mind] … (Wapnick, A.A.C., p.8.)
+(7) …linking the two terms [projection and extension] to the same dynamic [the proceeding “outward’ of what is within the mind] … (Wapnick, A.A.C., p.8.)
 
-(9–2:1) “You”, the ego tells the Son, “by refusing to accept as sufficient His gifts to you, have committed a sin against your Father and Creator. You”, the ego continues, “decided that perfection and everything as Christ was not enough, and that there had to be something more: ‘freedom’ to choose to be other than God”. It is this illusory exercise of choice in the name of ‘freedom’ that the ego terms sin. (Wapnick, L.D.N.C., p.461.)
+(9–2:1) “You”, the ego tells the Son, “by refusing to accept as sufficient His gifts to you, have committed a sin against your Father and Creator. You”, the ego continues, “decided that perfection and everything as Christ was not enough, and that there had to be something more: “freedom’ to choose to be other than God”. It is this illusory exercise of choice in the name of “freedom’ that the ego terms sin. (Wapnick, L.D.N.C., p.461.)
 
 (9–2:1) In the dream we believed that we had the power to oppose and defeat God, usurping His authority, making up a body we call our self to inhabit a material world of duality and fragmentation. (Wapnick, A.V.I., p.38.)
 
@@ -79,7 +79,7 @@ Your projections make distortions.
 {% endif %}
 
 
-2. These related distortions represent a picture of what actually occurred in the separation, or the ‘detour into fear’. 
+2. These related distortions represent a picture of what actually occurred in the separation, or the “detour into fear’. 
 ²None of this existed before the separation, nor does it actually exist now. 
 ³Everything God created is like Him. 
 ⁴Extension, as undertaken by God, is similar to the inner radiance that the children of the Father inherit from Him. 
@@ -89,7 +89,7 @@ Your projections make distortions.
 ⁸This requires God’s endowment of the Son with free will, because all loving creation is freely given in one continuous line, in which all aspects are of the same order.
 
 ::: details Expanded
-These related distortions [distortions related to projection] represent a picture of what actually occurred in the separation, or the ‘detour into fear’. 
+These related distortions [distortions related to projection] represent a picture of what actually occurred in the separation, or the “detour into fear’. 
 ²None of this [projections and distortions] existed before the separation, nor does it [projections and distortions] actually exist now. ³Everything God created is like Him [God]. 
 ⁴Extension, as undertaken by God, is similar to the inner radiance that the children of the Father inherit from Him [God]. 
 ⁵Its [extension’s] real source is internal. 
@@ -99,7 +99,7 @@ These related distortions [distortions related to projection] represent a pictur
 :::
 
 ::: details Substituted
-Distortions related to projection represent a picture of what actually occurred in the separation, or the ‘detour into fear’. 
+Distortions related to projection represent a picture of what actually occurred in the separation, or the “detour into fear’. 
 ²None of projections and distortions existed before the separation, nor do projections and distortions actually exist now. 
 ³Everything God created is like God. 
 ⁴Extension, as undertaken by God, is similar to the inner radiance that the children of the Father inherit from God. 
@@ -116,24 +116,24 @@ You can create just as God creates.
 
 
 3. The Garden of Eden, or the preseparation condition, was a state of mind in which nothing was needed. 
-²When Adam listened to the ‘lies of the serpent’, all he heard was untruth. 
+²When Adam listened to the “lies of the serpent’, all he heard was untruth. 
 ³You do not have to continue to believe what is not true unless you choose to do so. 
 ⁴All that can literally disappear in the twinkling of an eye because it is merely a misperception. 
 ⁵What is seen in dreams seems to be very real. 
 ⁶Yet the Bible says that a deep sleep fell upon Adam, and nowhere is there reference to his waking up. 
-⁷The world has not yet experienced any comprehensive reäwakening or rebirth. 
+⁷The world has not yet experienced any comprehensive reawakening or rebirth. 
 ⁸Such a rebirth is impossible as long as you continue to project or miscreate. 
 ⁹It still remains within you, however, to extend as God extended His Spirit to you. 
 ¹⁰In reality this is your only choice, because your free will was given you for your joy in creating the perfect.
 
 ::: details Expanded
 The Garden of Eden, or the preseparation condition, was a state of mind in which [state of mind] nothing was needed. 
-²When Adam listened to the ‘lies of the serpent’, all he [Adam] heard was untruth. 
+²When Adam listened to the “lies of the serpent’, all he [Adam] heard was untruth. 
 ³You do not have to continue to believe what is not true unless you choose to do so [believe what is not true]. 
 ⁴All that [what is not true] can literally disappear in the twinkling of an eye because it [what is not true] is merely a misperception. 
 ⁵What is seen in dreams seems to be very real. 
 ⁶Yet the Bible says that a deep sleep fell upon Adam, and nowhere [in the Bible] is there reference to his [Adam’s] waking up. 
-⁷The world has not yet experienced any comprehensive reäwakening or rebirth. 
+⁷The world has not yet experienced any comprehensive reawakening or rebirth. 
 ⁸Such a rebirth is impossible as long as you continue to project or miscreate. 
 ⁹It still remains within you, however, to extend as God extended His [God’s] Spirit to you. 
 ¹⁰In reality this [extending as God extended God’s spirit to you] is your only choice, because your free will was given you for your joy in creating the perfect.
@@ -141,12 +141,12 @@ The Garden of Eden, or the preseparation condition, was a state of mind in which
 
 ::: details Substituted
 The Garden of Eden, or the preseparation condition, was a state of mind; in state of mind nothing was needed. 
-²When Adam listened to the ‘lies of the serpent’, all Adam heard was untruth. 
+²When Adam listened to the “lies of the serpent’, all Adam heard was untruth. 
 ³You do not have to continue to believe what is not true unless you choose to believe what is not true. 
 ⁴All what is not true can literally disappear in the twinkling of an eye because what is not true is merely a misperception. 
 ⁵What is seen in dreams seems to be very real. 
 ⁶Yet the Bible says that a deep sleep fell upon Adam, and nowhere in the Bible is there reference to Adam’s waking up. 
-⁷The world has not yet experienced any comprehensive reäwakening or rebirth. 
+⁷The world has not yet experienced any comprehensive reawakening or rebirth. 
 ⁸Such a rebirth is impossible as long as you continue to project or miscreate. 
 ⁹It still remains within you, however, to extend as God extended God’s Spirit to you. 
 ¹⁰In reality, extending as God extended God’s spirit to you, is your only choice, because your free will was given you for your joy in creating the perfect.

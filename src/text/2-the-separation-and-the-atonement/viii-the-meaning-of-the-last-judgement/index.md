@@ -192,41 +192,41 @@ Withdraw belief from your miscreations.
 {% endif %}
 
 
-5. The term ‘Last judgment’ is frightening not only because it has been projected onto God, but also because of the association of ‘last’ with death. 
+5. The term “Last judgment’ is frightening not only because it has been projected onto God, but also because of the association of “last’ with death. 
 ²This is an outstanding example of upside-down perception. 
 ³If the meaning of the Last judgment is objectively examined, it is quite apparent that it is really the doorway to life. 
 ⁴No one who lives in fear is really alive. 
 ⁵Your own last judgment cannot be directed toward yourself, because you are not your own creation. 
 ⁶You can, however, apply it meaningfully and at any time to everything you have made, and retain in your memory only what is creative and good. 
 ⁷This is what your right-mindedness cannot but dictate. 
-⁸The purpose of time is solely to ‘give you time’ to achieve this judgment. 
+⁸The purpose of time is solely to “give you time’ to achieve this judgment. 
 ⁹It is your own perfect judgment of your own perfect creations. 
 ¹⁰When everything you retain is loveable, there is no reason for fear to remain with you. 
 ¹¹This is your part in the Atonement.
 
 ::: details Expanded
-The term ‘Last judgment’ is frightening not only because it [the Last judgment] has been projected onto God, but also because of the association of ‘last’ with death. 
+The term “Last judgment’ is frightening not only because it [the Last judgment] has been projected onto God, but also because of the association of “last’ with death. 
 ²This [associating last with death] is an outstanding example of upside-down perception. 
 ³If the meaning of the Last judgment is objectively examined, it is quite apparent that it [the Last judgment] is really the doorway to life. 
 ⁴No one who lives in fear is really alive. 
 ⁵Your own last judgment cannot be directed toward yourself, because you are not your own creation. 
 ⁶You can, however, apply it [your own last judgment] meaningfully and at any time to everything you have made, and retain in your memory only what is creative and good. 
 ⁷This [retaining what is creative and good] is what your right-mindedness cannot but [i.e. must] dictate. 
-⁸The purpose of time is solely to ‘give you time’ to achieve this judgment [of what is creative and good]. 
+⁸The purpose of time is solely to “give you time’ to achieve this judgment [of what is creative and good]. 
 ⁹It [judging what is perfect and good] is your own perfect judgment of your own perfect creations. 
 ¹⁰When everything you retain is loveable, there is no reason for fear to remain with you. 
 ¹¹This [to retain what is loveable] is your part in the Atonement.
 :::
 
 ::: details Substituted
-The term ‘Last judgment’ is frightening not only because the Last judgment has been projected onto God, but also because of the association of ‘last’ with death. 
+The term “Last judgment’ is frightening not only because the Last judgment has been projected onto God, but also because of the association of “last’ with death. 
 ²Associating last with death is an outstanding example of upside-down perception. 
 ³If the meaning of the Last judgment is objectively examined, it is quite apparent that the Last judgment is really the doorway to life. 
 ⁴No one who lives in fear is really alive. 
 ⁵Your own last judgment cannot be directed toward yourself, because you are not your own creation. 
 ⁶You can, however, apply your own last judgment meaningfully and at any time to everything you have made, and retain in your memory only what is creative and good. 
 ⁷Retaining what is creative and good is what your right-mindedness must dictate. 
-⁸The purpose of time is solely to ‘give you time’ to achieve this judgment of what is creative and good. 
+⁸The purpose of time is solely to “give you time’ to achieve this judgment of what is creative and good. 
 ⁹Judgeing what is perfect and good is your own perfect judgment of your own perfect creations. 
 ¹⁰When everything you retain is loveable, there is no reason for fear to remain with you. 
 ¹¹To retain what is loveable is your part in the Atonement.

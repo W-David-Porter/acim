@@ -247,7 +247,7 @@ The Holy Spirit helps you to understand the truth of who you are.
 ⁶This vision frightens the ego because it is so calm. 
 ⁷Peace is the ego’s greatest enemy because, according to its interpretation of reality, war is the guarantee of its survival. 
 ⁸The ego becomes strong in strife. 
-⁹If you believe there is strife you will reäct viciously, because the idea of danger has entered your mind. 
+⁹If you believe there is strife you will react viciously, because the idea of danger has entered your mind. 
 ¹⁰The idea itself is an appeal to the ego. 
 ¹¹The Holy Spirit is as vigilant as the ego to the call of danger, opposing it with His strength just as the ego welcomes it. 
 ¹²The Holy Spirit counters this welcome by welcoming peace. 
@@ -262,7 +262,7 @@ You cannot understand yourself alone.
 ⁶This vision [of your rightful place in the Sonship] frightens the ego because it [the vision of your rightful place in the Sonship] is so calm. 
 ⁷Peace is the ego’s greatest enemy because, according to its [the-ego’s] interpretation of reality, war is the guarantee of its [the-ego’s] survival. 
 ⁸The ego becomes strong in strife. 
-⁹If you believe there is strife you will reäct viciously, because the idea of danger has entered your mind. 
+⁹If you believe there is strife you will react viciously, because the idea of danger has entered your mind. 
 ¹⁰The idea itself [idea-of-danger’s self] is an appeal to the ego. 
 ¹¹The Holy Spirit is as vigilant as the ego [is vigilant] to the call of danger, opposing it [the call of danger] with His [the-Holy-Spirit’s] strength just as the ego welcomes it [the call of danger]. 
 ¹²The Holy Spirit counters this welcome [the ego’s welcome of the call of danger] by welcoming peace. 
@@ -278,7 +278,7 @@ You cannot understand yourself alone.
 ⁶The vision of your rightful place in the Sonship frightens the ego because the vision of your rightful place in the Sonship is so calm. 
 ⁷Peace is the ego’s greatest enemy because, according to the-ego’s interpretation of reality, war is the guarantee of the-ego’s survival. 
 ⁸The ego becomes strong in strife. 
-⁹If you believe there is strife you will reäct viciously, because the idea of danger has entered your mind. 
+⁹If you believe there is strife you will react viciously, because the idea of danger has entered your mind. 
 ¹⁰The idea of danger is an appeal to the ego. 
 ¹¹The Holy Spirit is as vigilant as the ego is vigilant to the call of danger, opposing the call of danger with the-Holy-Spirit’s strength just as the ego welcomes the call of danger. 
 ¹²The Holy Spirit counters the ego’s welcome of the call of danger by welcoming peace. 

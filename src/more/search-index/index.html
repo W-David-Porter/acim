@@ -328,7 +328,7 @@ next: ""
     result.innerHTML = ""
     var results = idx.search(searchTerm.value)
     if (results.length == 0) {
-      result.innerHTML = `We could not find anything for ‘${searchTerm.value}’.`
+      result.innerHTML = `We could not find anything for “${searchTerm.value}’.`
       return;
     }
     var out = []

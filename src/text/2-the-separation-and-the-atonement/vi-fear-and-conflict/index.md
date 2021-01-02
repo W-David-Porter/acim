@@ -68,7 +68,7 @@ Let me guide your mind.
 ⁵You may believe that you are responsible for what you do, but not for what you think. 
 ⁶The truth is that you are responsible for what you think, because it is only at this level that you can exercise choice. 
 ⁷What you do comes from what you think. 
-⁸You cannot separate yourself from the truth by ‘giving’ autonomy to behaviour. 
+⁸You cannot separate yourself from the truth by “giving’ autonomy to behaviour. 
 ⁹This is controlled by me automatically as soon as you place what you think under my guidance. 
 ¹⁰Whenever you are afraid, it is a sure sign that you have allowed your mind to miscreate and have not allowed me to guide it.
 
@@ -80,7 +80,7 @@ I do not foster level confusion, but you must choose to correct it [level-confus
 ⁵You may believe that you are responsible for what you do, but not [responsible] for what you think. 
 ⁶The truth is that you are responsible for what you think, because it is only at this level [the level of what you think] that you can exercise choice. 
 ⁷What you do comes from what you think. 
-⁸You cannot separate yourself from the truth by ‘giving’ autonomy to behaviour. 
+⁸You cannot separate yourself from the truth by “giving’ autonomy to behaviour. 
 ⁹This [behaviour] is controlled by me automatically as soon as you place what you think under my guidance. 
 ¹⁰Whenever you are afraid, it [being afraid] is a sure sign that you have allowed your mind to miscreate and have not allowed me to guide it [your mind].
 :::
@@ -93,7 +93,7 @@ I do not foster level confusion, but you must choose to correct level-confusion.
 ⁵You may believe that you are responsible for what you do, but not responsible for what you think. 
 ⁶The truth is that you are responsible for what you think, because it is only at the level of what you think that you can exercise choice. 
 ⁷What you do comes from what you think. 
-⁸You cannot separate yourself from the truth by ‘giving’ autonomy to behaviour. 
+⁸You cannot separate yourself from the truth by “giving’ autonomy to behaviour. 
 ⁹Behaviour is controlled by me automatically as soon as you place what you think under my guidance. 
 ¹⁰Whenever you are afraid, being afraid is a sure sign that you have allowed your mind to miscreate and have not allowed me to guide your mind.
 ::: 

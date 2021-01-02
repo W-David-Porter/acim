@@ -136,6 +136,6 @@ Make these lessons your journey.
 
 (1,2,7–10) We are certainly *not* asked to take as our model what Christianity taught to be the sacrificial suffering of Jesus’s death. (Wapnick, CP, p.75)
 
-(1–3, 7–10) The crucifixion is the symbol of suffering, sacrifice, and the death of innocence at the hands of sin. To feel victimised by the actions or decisions of others, or helpless in the face of ‘natural forces’ or the forces of sickness, are all different names for the same mistake of believing that God is unjust and that we are His victims, deserving His punishment because of our sinfulness. (Wapnick, FAJ, p.303)
+(1–3, 7–10) The crucifixion is the symbol of suffering, sacrifice, and the death of innocence at the hands of sin. To feel victimised by the actions or decisions of others, or helpless in the face of “natural forces’ or the forces of sickness, are all different names for the same mistake of believing that God is unjust and that we are His victims, deserving His punishment because of our sinfulness. (Wapnick, FAJ, p.303)
 ::: 
 {% endif %}

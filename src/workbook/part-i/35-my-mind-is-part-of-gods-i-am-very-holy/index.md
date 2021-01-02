@@ -126,7 +126,7 @@ You true identity is that your mind is part of God’s and that you are very hol
 
 7. You should not think of these terms in an abstract way. 
 ²They will occur to you as various situations, personalities and events in which you figure cross your mind. 
-³Pick up any specific situation that occurs to you, identify the descriptive term or terms you feel are applicable to your reäctions to that situation, and use them in applying today’s idea. 
+³Pick up any specific situation that occurs to you, identify the descriptive term or terms you feel are applicable to your reactions to that situation, and use them in applying today’s idea. 
 ⁴After you have named each one, add:
 
 >⁵But my mind is part of God’s. 
@@ -134,7 +134,7 @@ You true identity is that your mind is part of God’s and that you are very hol
 
 8. During the longer exercise periods, there will probably be intervals in which nothing specific occurs to you. 
 ²Do not strain to think up specific things to fill the interval, but merely relax and repeat today’s idea slowly until something occurs to you. 
-³Although nothing that does occur should be omitted from the exercises, nothing should be ‘dug out’ with effort. 
+³Although nothing that does occur should be omitted from the exercises, nothing should be “dug out’ with effort. 
 ⁴Neither force nor discrimination should be used.
 
 9. As often as possible during the day, pick up a specific attribute or attributes you are ascribing to yourself at the time and apply the idea for today to them, adding the idea in the form stated above to each of them. 

@@ -84,7 +84,7 @@ Then you can ceate the good, the beautiful and the holy.
 
 3. Fantasy is a distorted form of vision. 
 ²Fantasies of any kind are distortions, because they always involve twisting perception into unreality. 
-³Actions that stem from distortions are literally the reäctions of those who know not what they do. 
+³Actions that stem from distortions are literally the reactions of those who know not what they do. 
 ⁴Fantasy is an attempt to control reality according to false needs. 
 ⁵Twist reality in any way and you are perceiving destructively. 
 ⁶Fantasies are a means of making false associations and attempting to obtain pleasure from them. 
@@ -93,14 +93,14 @@ Then you can ceate the good, the beautiful and the holy.
 ⁹If you offer miracles, you will be equally strong in your belief in them. 
 ¹⁰The strength of your conviction will then sustain the belief of the miracle receiver. 
 ¹¹Fantasies become totally unnecessary as the wholly satisfying nature of reality becomes apparent to both giver and receiver. 
-¹²Reality is ‘lost’ through usurpation, which produces tyranny. 
-¹³As long as a single ‘slave’ remains to walk the earth, your release is not complete. 
+¹²Reality is “lost’ through usurpation, which produces tyranny. 
+¹³As long as a single “slave’ remains to walk the earth, your release is not complete. 
 ¹⁴Complete restoration of the Sonship is the only goal of the miracle-minded.
 
 ::: details Expanded 
 Fantasy is a distorted form of vision. 
 ²Fantasies of any kind are distortions, because they [fantasies] always involve twisting perception into unreality. 
-³Actions that stem from distortions are literally the reäctions of those who know not what they do. 
+³Actions that stem from distortions are literally the reactions of those who know not what they do. 
 ⁴Fantasy is an attempt to control reality according to false needs. 
 ⁵Twist reality in any way and you are perceiving destructively. 
 ⁶Fantasies are a means of making false associations and attempting to obtain pleasure from them [false associations]. 
@@ -109,15 +109,15 @@ Fantasy is a distorted form of vision.
 ⁹If you offer miracles, you will be equally strong in your belief in them [miracles]. 
 ¹⁰The strength of your conviction will then sustain the belief of the miracle receiver. 
 ¹¹Fantasies become totally unnecessary as the wholly satisfying nature of reality becomes apparent to both giver and receiver. 
-¹²Reality is ‘lost’ through usurpation, which [usurpation] produces tyranny. 
-¹³As long as a single ‘slave’ remains to walk the earth, your release is not complete. 
+¹²Reality is “lost’ through usurpation, which [usurpation] produces tyranny. 
+¹³As long as a single “slave’ remains to walk the earth, your release is not complete. 
 ¹⁴Complete restoration of the Sonship is the only goal of the miracle-minded.
 :::
 
 ::: details Substituted
 Fantasy is a distorted form of vision. 
 ²Fantasies of any kind are distortions, because fantasies always involve twisting perception into unreality. 
-³Actions that stem from distortions are literally the reäctions of those who know not what they do. 
+³Actions that stem from distortions are literally the reactions of those who know not what they do. 
 ⁴Fantasy is an attempt to control reality according to false needs. 
 ⁵Twist reality in any way and you are perceiving destructively. 
 ⁶Fantasies are a means of making false associations and attempting to obtain pleasure from false associations. 
@@ -126,7 +126,7 @@ Fantasy is a distorted form of vision.
 ⁹If you offer miracles, you will be equally strong in your belief in miracles. 
 ¹⁰The strength of your conviction will then sustain the belief of the miracle receiver. 
 ¹¹Fantasies become totally unnecessary as the wholly satisfying nature of reality becomes apparent to both giver and receiver. 
-¹²Reality is ‘lost’ through usurpation; usurpation produces tyranny. 
+¹²Reality is “lost’ through usurpation; usurpation produces tyranny. 
 ¹³As long as a single “slave” remains to walk the earth, your release is not complete. 
 ¹⁴Complete restoration of the Sonship is the only goal of the miracle-minded.
 :::
@@ -194,7 +194,7 @@ Without preparation now you may be fearful later on.
 ³However, it was also emphasized that awe is proper in the Presence of your Creator. 
 ⁴I have been careful to clarify my role in the Atonement without either over- or understating it. 
 ⁵I am also trying to do the same with yours. 
-⁶I have stressed that awe is not an appropriate reäction to me because of our inherent equality. 
+⁶I have stressed that awe is not an appropriate reaction to me because of our inherent equality. 
 ⁷Some of the later steps in this course, however, involve a more direct approach to God Himself. 
 ⁸It would be unwise to start on these steps without careful preparation, or awe will be confused with fear, and the experience will be more traumatic than beatific. 
 ⁹Healing is of God in the end. 
@@ -207,7 +207,7 @@ A solid foundation is necessary because of the confusion between fear and awe to
 ³However, it was also emphasized that awe is proper in the Presence of your Creator. 
 ⁴I have been careful to clarify my role in the Atonement without either over- or understating it [my role in the Atonement]. 
 ⁵I am also trying to do the same with yours [role in the Atonement]. 
-⁶I have stressed that awe is not an appropriate reäction to me because of our inherent equality. 
+⁶I have stressed that awe is not an appropriate reaction to me because of our inherent equality. 
 ⁷Some of the later steps in this course, however, involve a more direct approach to God Himself. 
 ⁸It would be unwise to start on these [later] steps without careful preparation, or awe will be confused with fear, and the experience will be more traumatic than beatific. 
 ⁹Healing is of God in the end. 
@@ -221,7 +221,7 @@ A solid foundation is necessary because of the confusion between fear and awe to
 ³However, it was also emphasized that awe is proper in the Presence of your Creator. 
 ⁴I have been careful to clarify my role in the Atonement without either over- or understating my role in the Atonement. 
 ⁵I am also trying to do the same with your role in the Atonement. 
-⁶I have stressed that awe is not an appropriate reäction to me because of our inherent equality. 
+⁶I have stressed that awe is not an appropriate reaction to me because of our inherent equality. 
 ⁷Some of the later steps in this course, however, involve a more direct approach to God Himself. 
 ⁸It would be unwise to start on later steps without careful preparation, or awe will be confused with fear, and the experience will be more traumatic than beatific. 
 ⁹Healing is of God in the end. 

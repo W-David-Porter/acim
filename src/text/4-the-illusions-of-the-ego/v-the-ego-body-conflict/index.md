@@ -47,7 +47,7 @@ The ego needs to keep its thought system out of awareness.
 ²Thoughts of God are unacceptable to the ego, because they clearly point to the non-existence of the ego itself. 
 ³The ego therefore either distorts them or refuses to accept them. 
 ⁴It cannot, however, make them cease to be. 
-⁵It therefore tries to conceal not only ‘unacceptable’ body impulses, but also the Thoughts of God, because both are threatening to it. 
+⁵It therefore tries to conceal not only “unacceptable’ body impulses, but also the Thoughts of God, because both are threatening to it. 
 ⁶Being concerned primarily with its own preservation in the face of threat, the ego perceives them as the same. 
 ⁷By perceiving them as the same, the ego attempts to save itself from being swept away, as it would surely be in the presence of knowledge.
 
@@ -56,7 +56,7 @@ A major source of the ego’s off-balanced state is its [the-ego’s] lack of di
 ²Thoughts of God are unacceptable to the ego, because they [the Thoughts of God] clearly point to the non-existence of the ego itself [the-ego’s-self]. 
 ³The ego therefore either distorts them [the Thoughts of God] or refuses to accept them [the Thoughts of God]. 
 ⁴It [the ego] cannot, however, make them [the Thoughts of God] cease to be. 
-⁵It [the ego] therefore tries to conceal not only ‘unacceptable’ body impulses, but also the Thoughts of God, because both [unacceptable body impulses and thoughts of God] are threatening to it [the ego]. 
+⁵It [the ego] therefore tries to conceal not only “unacceptable’ body impulses, but also the Thoughts of God, because both [unacceptable body impulses and thoughts of God] are threatening to it [the ego]. 
 ⁶Being concerned primarily with its [the-ego’s] own preservation in the face of threat, the ego perceives them [unacceptable body impulses and thougts of God] as the same. 
 ⁷By perceiving them [unacceptable body impulses and thougts of God] as the same, the ego attempts to save itself [the-ego’s-self] from being swept away, as it [the ego] would surely be in the presence of knowledge.
 :::
@@ -66,7 +66,7 @@ A major source of the ego’s off-balanced state is the-ego’s lack of discrimi
 ²Thoughts of God are unacceptable to the ego, because the Thoughts of God clearly point to the non-existence of the-ego’s-self. 
 ³The ego therefore either distorts the Thoughts of God or refuses to accept the Thoughts of God. 
 ⁴The ego cannot, however, make them the Thoughts of God cease to be. 
-⁵The ego therefore tries to conceal not only ‘unacceptable’ body impulses, but also the Thoughts of God, because unacceptable body impulses and thoughts of God are threatening to the ego. 
+⁵The ego therefore tries to conceal not only “unacceptable’ body impulses, but also the Thoughts of God, because unacceptable body impulses and thoughts of God are threatening to the ego. 
 ⁶Being concerned primarily with the-ego’s own preservation in the face of threat, the ego perceives unacceptable body impulses and thougts of God as the same. 
 ⁷By perceiving unacceptable body impulses and thougts of God as the same, the ego attempts to save the-ego’s-self from being swept away, as the ego would surely be in the presence of knowledge.
 :::
@@ -157,7 +157,7 @@ The ego pushes the uneasiness of feeling unprotected out of awareness.
 ::: details Commentary
 (5–11) …this clever description of the final stage in the ego’s strategy of not having the Son remember what it is really up to. …[referring] to the body as a defence against fear  …[an] example of the ego’s ability to bring abou tthe Son’s amnesia …the ego attempts to convince the Son to trust it. And when the Son recognizes the clearly paradoxical and contradictory advice the ego gives him, *and complains about it*, the ego responds by simply not responding. (Wapnick, AAC, p.50)
 
-(9–11) Once the thought that God created this world is accorded truth, the ego can safely rest. Whatever inconsistencies may from time to time appear within the consciousness of individuals are quickly disposed of, either by the ego’s “appeal to ‘mysteries’, insisting that you must accept the meaningless to save yourself” ([T-9.IV.4:7](/text/9-the-acceptance-of-the-atonement/iv-the-holy-spirits-plan-of-forgiveness/#4)), or by repression. Once pushed out of awareness, these inconsistent thoughts are no longer accessible to question and revision. (Wapnick, LDNC, p.571–572)
+(9–11) Once the thought that God created this world is accorded truth, the ego can safely rest. Whatever inconsistencies may from time to time appear within the consciousness of individuals are quickly disposed of, either by the ego’s “appeal to “mysteries’, insisting that you must accept the meaningless to save yourself” ([T-9.IV.4:7](/text/9-the-acceptance-of-the-atonement/iv-the-holy-spirits-plan-of-forgiveness/#4)), or by repression. Once pushed out of awareness, these inconsistent thoughts are no longer accessible to question and revision. (Wapnick, LDNC, p.571–572)
 ::: 
  {% endif %}
 

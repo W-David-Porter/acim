@@ -238,7 +238,7 @@ The Holy Spirit can reïnterpret on behalf of later generations to release them 
 :::
 
 
-9. “The wicked shall perish” becomes a statement of Atonement, if the word ‘perish’ is understood as ‘be undone’. 
+9. “The wicked shall perish” becomes a statement of Atonement, if the word “perish’ is understood as “be undone’. 
 ²Every loveless thought must be undone, a word the ego cannot even understand. 
 ³To the ego, to be undone means to be destroyed. 
 ⁴The ego will not be destroyed because it is part of your thought, but because it is uncreative and therefore unsharing, it will be reïnterpreted to release you from fear. 
@@ -246,7 +246,7 @@ The Holy Spirit can reïnterpret on behalf of later generations to release them 
 ⁶You can delay the completion of the Kingdom, but you cannot introduce the concept of fear into it.
 
 ::: details Expanded
-“The wicked shall perish” becomes a statement of Atonement, if the word ‘perish’ is understood as ‘be undone’. 
+“The wicked shall perish” becomes a statement of Atonement, if the word “perish’ is understood as “be undone’. 
 ²Every loveless thought must be undone, a word the ego cannot even understand. 
 ³To the ego, to be undone means to be destroyed. 
 ⁴The ego will not be destroyed because it [the ego] is part of your thought, but because it [the ego] is uncreative and therefore unsharing, it [the ego] will be reïnterpreted to release you from fear. 
@@ -255,7 +255,7 @@ The Holy Spirit can reïnterpret on behalf of later generations to release them 
 :::
 
 ::: details Substituted
-“The wicked shall perish” becomes a statement of Atonement, if the word ‘perish’ is understood as ‘be undone’. 
+“The wicked shall perish” becomes a statement of Atonement, if the word “perish’ is understood as “be undone’. 
 ²Every loveless thought must be undone, a word the ego cannot even understand. 
 ³To the ego, to be undone means to be destroyed. 
 ⁴The ego will not be destroyed because the ego is part of your thought, but because the ego is uncreative and therefore unsharing, it will be reïnterpreted to release you from fear. 

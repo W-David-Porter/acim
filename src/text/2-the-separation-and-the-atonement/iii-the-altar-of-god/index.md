@@ -14,7 +14,7 @@ next: T-2.IV
 1. The Atonement can only be accepted within you by releasing the inner light. 
 ²Since the separation, defences have been used almost entirely to defend *against* the Atonement, and thus maintain the separation. 
 ³This is generally seen as a need to protect the body. 
-⁴The many body fantasies in which minds engage arise from the distorted belief that the body can be used as a means for attaining ‘atonement’. 
+⁴The many body fantasies in which minds engage arise from the distorted belief that the body can be used as a means for attaining “atonement’. 
 ⁵Perceiving the body as a temple is only the first step in correcting this distortion, because it alters only part of it. 
 ⁶It *does* recognize that Atonement in physical terms is impossible. 
 ⁷The next step, however, is to realize that a temple is not a structure at all. 
@@ -28,7 +28,7 @@ next: T-2.IV
 1. The Atonement can only be accepted within you by releasing the inner light. 
 ²Since the separation, defences have been used almost entirely to defend *against* the Atonement, and thus maintain the separation. 
 ³This [using defences against the Atonement] is generally seen as a need to protect the body. 
-⁴The many body fantasies in which minds engage arise from the distorted belief that the body can be used as a means for attaining ‘atonement’. 
+⁴The many body fantasies in which minds engage arise from the distorted belief that the body can be used as a means for attaining “atonement’. 
 ⁵Perceiving the body as a temple is only the first step in correcting this distortion [that the body can be used to attain atonement], because it [perceiving the body as a temple] alters only part of it [the distortion that the body can be used as a temple]. 
 ⁶It [perceiving the body as a a temple] *does* recognize that Atonement in physical terms is impossible. 
 ⁷The next step, however, is to realize that a temple is not a structure at all. 
@@ -43,7 +43,7 @@ next: T-2.IV
 1. The Atonement can only be accepted within you by releasing the inner light. 
 ²Since the separation, defences have been used almost entirely to defend *against* the Atonement, and thus maintain the separation. 
 ³Using defences against the Atonement is generally seen as a need to protect the body. 
-⁴The many body fantasies in which minds engage arise from the distorted belief that the body can be used as a means for attaining ‘atonement’. 
+⁴The many body fantasies in which minds engage arise from the distorted belief that the body can be used as a means for attaining “atonement’. 
 ⁵Perceiving the body as a temple is only the first step in correcting the distortion that the body can be used to attain atonement, because perceiving the body as a temple alters only part of the distortion that the body can be used as a temple. 
 ⁶Perceiving the body as a a temple *does* recognize that Atonement in physical terms is impossible. 
 ⁷The next step, however, is to realize that a temple is not a structure at all. 
@@ -102,7 +102,7 @@ The Atonement is the defence against separation thoughts.
 ⁵Tolerance for pain may be high, but it is not without limit. 
 ⁶Eventually everyone begins to recognize, however dimly, that there *must* be a better way. 
 ⁷As this recognition becomes more firmly established, it becomes a turning point. 
-⁸This ultimately reäwakens spiritual vision, simultaneously weakening the investment in physical sight. 
+⁸This ultimately reawakens spiritual vision, simultaneously weakening the investment in physical sight. 
 ⁹The alternating investment in the two levels of perception is usually experienced as conflict, which can become very acute. 
 ¹⁰But the outcome is as certain as God.
 
@@ -114,7 +114,7 @@ The Atonement is the defence against separation thoughts.
 ⁵Tolerance for pain may be high, but it [tolerance for pain] is not without limit. 
 ⁶Eventually everyone begins to recognize, however dimly, that there *must* be a better way. 
 ⁷As this recognition [that there must be a better way] becomes more firmly established, it [recognition that there must be a better way] becomes a turning point. 
-⁸This [recognising there must be a better way] ultimately reäwakens spiritual vision, simultaneously weakening the investment in physical sight. 
+⁸This [recognising there must be a better way] ultimately reawakens spiritual vision, simultaneously weakening the investment in physical sight. 
 ⁹The alternating investment in the two levels of perception is usually experienced as conflict, which [experience of conflict] can become very acute. 
 ¹⁰But the outcome is as certain as God.
 :::
@@ -127,7 +127,7 @@ The Atonement is the defence against separation thoughts.
 ⁵Tolerance for pain may be high, but tolerance for pain is not without limit. 
 ⁶Eventually everyone begins to recognize, however dimly, that there *must* be a better way. 
 ⁷As the recognition that there must be a better way becomes more firmly established, the recognition that there must be a better way becomes a turning point. 
-⁸Recognising there must be a better way ultimately reäwakens spiritual vision, simultaneously weakening the investment in physical sight. 
+⁸Recognising there must be a better way ultimately reawakens spiritual vision, simultaneously weakening the investment in physical sight. 
 ⁹The alternating investment in the two levels of perception is usually experienced as conflict; experience of conflict can become very acute. 
 ¹⁰But the outcome is as certain as God.
 :::
@@ -135,7 +135,7 @@ The Atonement is the defence against separation thoughts.
 ::: details Simplified
 Everyone has a pain limit. 
 Everyone eventually recognizes there must be a better way. 
-Then spiritual vision can be reäwakened.
+Then spiritual vision can be reawakened.
 ::: 
 
 {% if showCommentary %}

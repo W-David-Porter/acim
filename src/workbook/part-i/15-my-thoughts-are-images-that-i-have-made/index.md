@@ -14,7 +14,7 @@ next: W-pI.16
 
 1. It is because the thoughts you think you think appear as images that you do not recognize them as nothing. 
 ²You think you think them, and so you think you see them. 
-³This is how your ‘seeing’ was made. 
+³This is how your “seeing’ was made. 
 ⁴This is the function you have given your body’s eyes. 
 ⁵It is not seeing. 
 ⁶It is image making. 
@@ -26,7 +26,7 @@ next: W-pI.16
 
 It is because the thoughts you think you think appear as images that you do not recognize them [thoughts] as nothing. 
 ²You think you think them [thoughts], and so you think you see them [thoughts]. 
-³This [thinking] is how your ‘seeing’ was made. 
+³This [thinking] is how your “seeing’ was made. 
 ⁴This [seeing thoughts] is the function you have given your body’s eyes. 
 ⁵It [seeing thoughts] is not seeing. 
 ⁶It [seeing thoughts] is image making. 
@@ -36,7 +36,7 @@ It is because the thoughts you think you think appear as images that you do not 
 
 It is because the thoughts you think you think appear as images that you do not recognize thoughts as nothing. 
 ²You think you think thoughts, and so you think you see thoughts. 
-³Thinking is how your ‘seeing’ was made. 
+³Thinking is how your “seeing’ was made. 
 ⁴Seeing thoughts is the function you have given your body’s eyes. 
 ⁵Seeing thoughts is not seeing. 
 ⁶Seeing thoughts is image making. 
@@ -74,7 +74,7 @@ Real vision begins when edges of light begun to be seen
 
 :::
 
-3. As we go along, you may have many ‘light episodes’. 
+3. As we go along, you may have many “light episodes’. 
 ²They [light episodes] may take many different forms, some of them [forms] quite unexpected. 
 ³Do not be afraid of them [light episodes]. 
 ⁴They [light episodes] are signs that you are opening your eyes at last. 
@@ -86,7 +86,7 @@ Real vision begins when edges of light begun to be seen
 
 #::: details Expanded
 
-As we go along, you may have many ‘light episodes’. 
+As we go along, you may have many “light episodes’. 
 ²Light episodes may take many different forms, some of the forms can be quite unexpected. 
 ³Do not be afraid of light episodes. 
 ⁴Light episodes are signs that you are opening your eyes at last. 

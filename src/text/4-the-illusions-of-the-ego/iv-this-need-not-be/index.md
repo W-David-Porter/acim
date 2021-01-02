@@ -147,7 +147,7 @@ Be vigilant aganst what the ego dictates.
 
 
 5. When you feel guilty, remember that the ego has indeed violated the laws of God, but *you* have not. 
-²Leave the ‘sins’ of the ego to me. 
+²Leave the “sins’ of the ego to me. 
 ³That is what Atonement is for. 
 ⁴But until you change your mind about those whom your ego has hurt, the Atonement cannot release you. 
 ⁵While you feel guilty your ego is in command, because only the ego can experience guilt. 
@@ -155,7 +155,7 @@ Be vigilant aganst what the ego dictates.
 
 ::: details Expanded
 When you feel guilty, remember that the ego has indeed violated the laws of God, but *you* have not [violated the laws of God]. 
-²Leave the ‘sins’ of the ego to me. 
+²Leave the “sins’ of the ego to me. 
 ³That [leaving the sins of the ego to me] is what Atonement is for. 
 ⁴But until you change your mind about those whom your ego has hurt, the Atonement cannot release you. 
 ⁵While you feel guilty your ego is in command, because only the ego can experience guilt. 
@@ -164,7 +164,7 @@ When you feel guilty, remember that the ego has indeed violated the laws of God,
 
 ::: details Substituted
 When you feel guilty, remember that the ego has indeed violated the laws of God, but *you* have not violated the laws of God. 
-²Leave the ‘sins’ of the ego to me. 
+²Leave the “sins’ of the ego to me. 
 ³Leaving the sins of the ego to me is what Atonement is for. 
 ⁴But until you change your mind about those whom your ego has hurt, the Atonement cannot release you. 
 ⁵While you feel guilty your ego is in command, because only the ego can experience guilt. 
@@ -292,7 +292,7 @@ Withdraw allegiance, protection and love from the ego.
 
 (9–10) The ego is aware of a power greater than itself, to which it owes its existence, and this power is the Son’s mind that has chosen — through what *I have termed* the decision maker — to believe in the ego’s thought system. The ego knows that at any moment the Son can withdraw its belief in it, and then it, and the thought system of separation that it represents will inevitably disappear. And this is the threat experienced by the ego. c/f [T-7.VII.4:6](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom/#p4), [5:1–2](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom/#5), [6:2–3](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom/#6) (Wapnick, AAC, p.33–34) 
 
-(italics mine. Note that ‘decision maker’ does not appear in the text (once in the manual, and in a different context). See AAC. p.30 for Wapnick’s justification for using this term. –Ed.)
+(italics mine. Note that “decision maker’ does not appear in the text (once in the manual, and in a different context). See AAC. p.30 for Wapnick’s justification for using this term. –Ed.)
 :::
 {% endif %}
 
@@ -377,7 +377,7 @@ The ego wants you to think I am not real.
 ::: details Commentary
 (1–3) These are very clear statements of the end of the ego, as well as Jesus’ statement that he is no different from us. The First Coming of Christ is not the birth of Jesus, but rather is the creation of the Sonship of which he is a part. It was then that the ego’s dream appeared to be born, necessitating the Atonement correction. When the Atonement is complete and the Sonship awakens from the dream, the Second Coming of Christ dawns. And Jesus is asking us to join in that process with him, which he “undertook to begin” ([T-1.III.1:1](/text/1-the-meaning-of-miracles/iii-atonement-and-miracles/#1)) (Wapnick, AVI, p.228)
 
-(4) Jesus says he is in charge of the Atonement [T-1.III.1:1](/text/1-the-meaning-of-miracles/iii-atonement-and-miracles/#1), and the teacher’s manual states that the Holy Spirit established Jesus as the leader of the plan of the Atonement ([C-6.2:2](/clarification/6-the-holy-spirit/#2)). The meaning here is the same. Moreover, again, his judgment clearly lacks the implication of punishment or attack that is central to the traditional view. Jesus’ judgment is simply that the separation never happened, and so our pain and suffering not only is not warranted, but is inherently nonexistent, its cause of sin having been undone. Thus we are ‘protected’ from the ego’s thought system by the truth of the Atonement. (Wapnick, AVI, p.228–229)
+(4) Jesus says he is in charge of the Atonement [T-1.III.1:1](/text/1-the-meaning-of-miracles/iii-atonement-and-miracles/#1), and the teacher’s manual states that the Holy Spirit established Jesus as the leader of the plan of the Atonement ([C-6.2:2](/clarification/6-the-holy-spirit/#2)). The meaning here is the same. Moreover, again, his judgment clearly lacks the implication of punishment or attack that is central to the traditional view. Jesus’ judgment is simply that the separation never happened, and so our pain and suffering not only is not warranted, but is inherently nonexistent, its cause of sin having been undone. Thus we are “protected’ from the ego’s thought system by the truth of the Atonement. (Wapnick, AVI, p.228–229)
 :::
 {% endif %}
 

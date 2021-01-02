@@ -11,7 +11,7 @@ prev: T-4.V
 next: T-4.VII
 ---
 
-1. The ego does not recognize the real source of ‘threat’, and if you associate yourself with the ego, you do not understand the situation as it is. 
+1. The ego does not recognize the real source of “threat’, and if you associate yourself with the ego, you do not understand the situation as it is. 
 ²Only your allegiance to it gives the ego any power over you. 
 ³I have spoken of the ego as if it were a separate thing, acting on its own. 
 ⁴This was necessary to persuade you that you cannot dismiss it lightly, and must realize how much of your thinking is ego-directed. 
@@ -20,7 +20,7 @@ next: T-4.VII
 ⁷Your other life has continued without interruption, and has been and always will be totally unaffected by your attempts to dissociate it.
 
 ::: details Expanded
-The ego does not recognize the real source of ‘threat’, and if you associate yourself with the ego, you do not understand the situation as it [the situation] is. 
+The ego does not recognize the real source of “threat’, and if you associate yourself with the ego, you do not understand the situation as it [the situation] is. 
 ²Only your allegiance to it [the ego] gives the ego any power over you. 
 ³I have spoken of the ego as if it [the ego] were a separate thing, acting on its [the-ego’s] own. 
 ⁴This [speaking of the ego as if the ego were a separate thing] was necessary to persuade you that you cannot dismiss it [the ego] lightly, and must realize how much of your thinking is ego-directed. 
@@ -30,7 +30,7 @@ The ego does not recognize the real source of ‘threat’, and if you associate
 :::
 
 ::: details Substituted
-The ego does not recognize the real source of ‘threat’, and if you associate yourself with the ego, you do not understand the situation as the situation is. 
+The ego does not recognize the real source of “threat’, and if you associate yourself with the ego, you do not understand the situation as the situation is. 
 ²Only your allegiance to the ego gives the ego any power over you. 
 ³I have spoken of the ego as if the ego were a separate thing, acting on the-ego’s own. 
 ⁴Sspeaking of the ego as if the ego were a separate thing, was necessary to persuade you that you cannot dismiss the ego lightly, and must realize how much of your thinking is ego-directed. 
@@ -50,7 +50,7 @@ The ego is part of your belief about yourself.
 ::: details Commentary
 (3–4, 6) …although we speak of the ego as if it functioned autonomously, having an existence independent from the Son, in reality of course the ego is ourselves, or at least what we experience to be ourselves. (Wapnick, LDNC, p. 465)
 
-(3–6) …the two halves of the split mind — the ego and the Holy Spirit — represent two different and mutually exclusive reäctions to, or interpretations and experiences of the “tiny, mad idea”. They are anthropomorphised in *A Course in Miracles* for pedagogical reasons. Jesus explains his anthropomorphising the ego. (Wapnick, AAC, p.30) 
+(3–6) …the two halves of the split mind — the ego and the Holy Spirit — represent two different and mutually exclusive reactions to, or interpretations and experiences of the “tiny, mad idea”. They are anthropomorphised in *A Course in Miracles* for pedagogical reasons. Jesus explains his anthropomorphising the ego. (Wapnick, AAC, p.30) 
 :::
 {% endif %}
 
@@ -58,14 +58,14 @@ The ego is part of your belief about yourself.
 2. In learning to escape from illusions, your debt to your brother is something you must never forget. 
 ²It is the same debt that you owe to me. 
 ³Whenever you act egotistically towards another, you are throwing away the graciousness of your indebtedness and the holy perception it would produce. 
-⁴The term ‘holy’ can be used here because, as you learn how much you are indebted to the whole Sonship, which includes me, you come as close to knowledge as perception can. 
+⁴The term “holy’ can be used here because, as you learn how much you are indebted to the whole Sonship, which includes me, you come as close to knowledge as perception can. 
 ⁵The gap is then so small that knowledge can easily flow across it and obliterate it forever.
 
 ::: details Expanded
 In learning to escape from illusions, your debt to your brother is something you must never forget. 
 ²It [your debt to your brother] is the same debt that you owe to me. 
 ³Whenever you act egotistically towards another, you are throwing away the graciousness of your indebtedness and the holy perception it [the graciousness of your indebtedness] would produce. 
-⁴The term ‘holy’ can be used here because, as you learn how much you are indebted to the whole Sonship, which includes me, you come as close to knowledge as perception can. 
+⁴The term “holy’ can be used here because, as you learn how much you are indebted to the whole Sonship, which includes me, you come as close to knowledge as perception can. 
 ⁵The gap [between knowledge and perception] is then so small that knowledge can easily flow across it [the gap] and obliterate it [the gap] forever.
 :::
 
@@ -73,7 +73,7 @@ In learning to escape from illusions, your debt to your brother is something you
 In learning to escape from illusions, your debt to your brother is something you must never forget. 
 ²Your debt to your brother is the same debt that you owe to me. 
 ³Whenever you act egotistically towards another, you are throwing away the graciousness of your indebtedness and the holy perception the graciousness of your indebtedness would produce. 
-⁴The term ‘holy’ can be used here because, as you learn how much you are indebted to the whole Sonship, which includes me, you come as close to knowledge as perception can. 
+⁴The term “holy’ can be used here because, as you learn how much you are indebted to the whole Sonship, which includes me, you come as close to knowledge as perception can. 
 ⁵The gap between knowledge and perception is then so small that knowledge can easily flow across the gap and obliterate the gap forever.
 :::
 

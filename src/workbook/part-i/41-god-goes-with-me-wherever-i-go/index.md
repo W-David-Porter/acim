@@ -38,7 +38,7 @@ These feelings will be completely overcome.
 :::
 
 
-2. The separated ones have invented many ‘cures’ for what they believe to be “the ills of the world”. 
+2. The separated ones have invented many “cures’ for what they believe to be “the ills of the world”. 
 ²But the one thing they do not do is to question the reality of the problem. 
 ³Yet its effects cannot be cured because the problem is not real. 
 ⁴The idea for today has the power to end all this foolishness forever. 
@@ -48,19 +48,19 @@ These feelings will be completely overcome.
 
 #::: details Expanded
 
-The separated ones have invented many ‘cures’ for what they [the separated ones] believe to be “the ills of the world”. 
+The separated ones have invented many “cures’ for what they [the separated ones] believe to be “the ills of the world”. 
 ²But the one thing they [the separated ones] do not do is to question the reality of the problem. 
 ³Yet its [the problem’s] effects cannot be cured because the problem is not real. 
 ⁴The idea for today has the power to end all this foolishness forever. 
-⁵ And foolishness it [inventing ‘cures’] is, despite the serious and tragic forms it [inventing ‘cures’] may take.
+⁵ And foolishness it [inventing “cures’] is, despite the serious and tragic forms it [inventing “cures’] may take.
 
 #::: details Substituted
 
-The separated ones have invented many ‘cures’ for what the separated ones believe to be “the ills of the world”. 
+The separated ones have invented many “cures’ for what the separated ones believe to be “the ills of the world”. 
 ²But the one thing the separated ones do not do is to question the reality of the problem. 
 ³Yet the problem’s effects cannot be cured because the problem is not real. 
 ⁴The idea for today has the power to end all this foolishness forever. 
-⁵ And foolishness inventing ‘cures’ is, despite the serious and tragic forms inventing ‘cures’ may take.
+⁵ And foolishness inventing “cures’ is, despite the serious and tragic forms inventing “cures’ may take.
 
 #::: details Simplified
 

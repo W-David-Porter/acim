@@ -54,9 +54,9 @@ The world is meaningless
 
 and so on, using whatever descriptive terms happen to occur to you. 
 ³If terms which seem positive rather than negative occur to you, include them. 
-⁴For example, you might think of ‘a good world’, or ‘a satisfying world’. 
+⁴For example, you might think of “a good world’, or “a satisfying world’. 
 ⁵If such terms occur to you, use them along with the rest. 
-⁶You may not yet understand why these ‘nice’ adjectives belong in these exercises but remember that a ‘good world’ implies a ‘bad’ one, and a ‘satisfying world’ implies an ‘unsatisfying’ one. 
+⁶You may not yet understand why these “nice’ adjectives belong in these exercises but remember that a “good world’ implies a “bad’ one, and a “satisfying world’ implies an “unsatisfying’ one. 
 ⁷All terms which cross your mind are suitable subjects for today’s exercises. 
 ⁸Their seeming quality does not matter.
 

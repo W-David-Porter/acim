@@ -203,7 +203,7 @@ You do not have to obey the ego’s laws.
 
 
 6. Egos can clash in any situation, but spirit cannot clash at all. 
-²If you perceive a teacher as merely ‘a larger ego’ you will be afraid, because to enlarge an ego would be to increase anxiety about separation. 
+²If you perceive a teacher as merely “a larger ego’ you will be afraid, because to enlarge an ego would be to increase anxiety about separation. 
 ³I will teach with you and live with you if you will think with me, but my goal will always be to absolve you finally from the need for a teacher. 
 ⁴This is the opposite of the ego-oriented teacher’s goal. 
 ⁵He is concerned with the effect of his ego on other egos, and therefore interprets their interaction as a means of ego preservation. 
@@ -212,7 +212,7 @@ You do not have to obey the ego’s laws.
 
 ::: details Expanded
 Egos can clash in any situation, but spirit cannot clash at all. 
-²If you perceive a teacher as merely ‘a larger ego’ you will be afraid, because to enlarge an ego would be to increase anxiety about separation. 
+²If you perceive a teacher as merely “a larger ego’ you will be afraid, because to enlarge an ego would be to increase anxiety about separation. 
 ³I will teach with you and live with you if you will think with me, but my goal will always be to absolve you finally from the need for a teacher. 
 ⁴This [absolving you from the need for a teacher] is the opposite of the ego-oriented teacher’s goal. 
 ⁵He [the ego-oriented teacher] is concerned with the effect of his [the ego-oriented teacher’s] ego on other egos, and therefore interprets their [other egos’] interaction as a means of ego preservation. 
@@ -222,7 +222,7 @@ Egos can clash in any situation, but spirit cannot clash at all.
 
 ::: details Substituted
 Egos can clash in any situation, but spirit cannot clash at all. 
-²If you perceive a teacher as merely ‘a larger ego’ you will be afraid, because to enlarge an ego would be to increase anxiety about separation. 
+²If you perceive a teacher as merely “a larger ego’ you will be afraid, because to enlarge an ego would be to increase anxiety about separation. 
 ³I will teach with you and live with you if you will think with me, but my goal will always be to absolve you finally from the need for a teacher. 
 ⁴Absolving you from the need for a teacher is the opposite of the ego-oriented teacher’s goal. 
 ⁵The ego-oriented teacher is concerned with the effect of his the-ego-oriented-teacher’s ego on other egos, and therefore interprets other-egos’ interaction as a means of ego preservation. 
@@ -340,7 +340,7 @@ Reality is: God is Real, you are God’s Son, God is pleased with His Son.
 ⁷When you awaken you will not be able to understand this, because it is literally incredible. 
 ⁸*Do not believe the incredible now*. 
 ⁹Any attempt to increase its believableness is merely to postpone the inevitable. 
-¹⁰The word ‘inevitable’ is fearful to the ego, but joyous to the spirit. 
+¹⁰The word “inevitable’ is fearful to the ego, but joyous to the spirit. 
 ¹¹God is inevitable, and you cannot avoid Him any more than He can avoid you.
 
 ::: details Expanded
@@ -353,7 +353,7 @@ God is not the author of fear.
 ⁷When you awaken you will not be able to understand this [creating unlike God], because it [creating unlike God] is literally incredible. 
 ⁸*Do not believe the incredible now*. 
 ⁹Any attempt to increase its [the-incredible’s] believableness is merely to postpone the inevitable. 
-¹⁰The word ‘inevitable’ is fearful to the ego, but joyous to the spirit. 
+¹⁰The word “inevitable’ is fearful to the ego, but joyous to the spirit. 
 ¹¹God is inevitable, and you cannot avoid Him [God] any more than He [God] can avoid you.
 :::
 
@@ -367,7 +367,7 @@ God is not the author of fear.
 ⁷When you awaken you will not be able to understand creating unlike God, because creating unlike God is literally incredible. 
 ⁸*Do not believe the incredible now*. 
 ⁹Any attempt to increase the-incredible’s believableness is merely to postpone the inevitable. 
-¹⁰The word ‘inevitable’ is fearful to the ego, but joyous to the spirit. 
+¹⁰The word “inevitable’ is fearful to the ego, but joyous to the spirit. 
 ¹¹God is inevitable, and you cannot avoid God any more than God can avoid you.
 :::
 

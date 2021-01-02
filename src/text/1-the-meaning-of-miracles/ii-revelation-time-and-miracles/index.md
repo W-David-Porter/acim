@@ -96,7 +96,7 @@ Miracles are useful actions for others, until you are ready for revelation.
 ³You are a perfect creation, and should experience awe only in the Presence of the Creator of perfection. 
 ⁴The miracle is therefore a sign of love among equals. 
 ⁵Equals should not be in awe of one another because awe implies inequality. 
-⁶It is therefore an inappropriate reäction to me. 
+⁶It is therefore an inappropriate reaction to me. 
 ⁷An elder brother is entitled to respect for his greater experience, and obedience for his greater wisdom. 
 ⁸He is also entitled to love because he is a brother, and to devotion if he is devoted. 
 ⁹It is only my devotion that entitles me to yours. 
@@ -111,7 +111,7 @@ Awe should be reserved for revelation, to which [revelation] it [awe] is perfect
 ³You are a perfect creation, and should experience awe only in the Presence of the Creator of perfection. 
 ⁴The miracle is therefore a sign of love among equals. 
 ⁵Equals should not be in awe of one another [other equals] because awe implies inequality. 
-⁶It [awe] is therefore an inappropriate reäction to me. 
+⁶It [awe] is therefore an inappropriate reaction to me. 
 ⁷An elder brother is entitled to respect for his [the elder brother’s] greater experience, and obedience for his [the elder brother’s] greater wisdom. 
 ⁸He [an elder brother] is also entitled to love because he [an elder brother] is a brother, and [entitled] to devotion if he [the elder brother] is devoted. 
 ⁹It is only my devotion that entitles me to yours [your devotion]. 
@@ -127,7 +127,7 @@ Awe should be reserved for revelation; to revelation awe is perfectly and correc
 3You are a perfect creation, and should experience awe only in the Presence of the Creator of perfection. 
 ⁴The miracle is therefore a sign of love among equals. 
 ⁵Equals should not be in awe of other equals because awe implies inequality. 
-⁶Awe is therefore an inappropriate reäction to me. 
+⁶Awe is therefore an inappropriate reaction to me. 
 ⁷An elder brother is entitled to respect for the elder brother’s greater experience, and obedience for the elder brother’s greater wisdom. 
 ⁸An elder brother is also entitled to love because an elder brother is a brother, and entitled to devotion if the elder brother is devoted. 
 ⁹It is only my devotion that entitles me to your devotion. 
@@ -169,7 +169,7 @@ You have the potential to be like me.
 4. “No man comes unto the Father but by me” does not mean that I am in any way separate or different from you except in time, and time does not really exist. 
 ²The statement is more meaningful in terms of a vertical rather than a horizontal axis. 
 ³You stand below me and I stand below God. 
-⁴In the process of ‘rising up’, I am higher because without me the distance between God and man would be too great for you to encompass. 
+⁴In the process of “rising up’, I am higher because without me the distance between God and man would be too great for you to encompass. 
 ⁵I bridge the distance as an elder brother to you on the one hand, and as a Son of God on the other. 
 ⁶My devotion to my brothers has placed me in charge of the Sonship, which I render complete because I share it. 
 ⁷This may appear to contradict the statement “I and my Father are one”, but there are two parts to the statement in recognition that the Father is greater.
@@ -178,7 +178,7 @@ You have the potential to be like me.
 “No man comes unto the Father but by me” does not mean that I am in any way separate or different from you except in time, and time does not really exist. 
 ²The statement [“no man comes unto the Father but by me”] is more meaningful in terms of a vertical [axis] rather than a horizontal axis. 
 ³You stand below me and I stand below God. 
-⁴In the process of ‘rising up’, I am higher because without me the distance between God and man would be too great for you to encompass. 
+⁴In the process of “rising up’, I am higher because without me the distance between God and man would be too great for you to encompass. 
 ⁵I bridge the distance as an elder brother to you on the one hand, and as a Son of God on the other [hand]. 
 ⁶My devotion to my brothers has placed me in charge of the Sonship, which [Sonship] I render complete because I share it [the Sonship]. 
 ⁷This [sharing the Sonship] may appear to contradict the statement “I and my Father are one”, but there are two parts to the statement [“I and my Father are one”] in recognition that the Father is greater.
@@ -188,7 +188,7 @@ You have the potential to be like me.
 “No man comes unto the Father but by me” does not mean that I am in any way separate or different from you except in time, and time does not really exist. 
 ²The statement, “No man comes unto the Father but by me”, is more meaningful in terms of a vertical axis rather than a horizontal axis. 
 ³You stand below me and I stand below God. 
-⁴In the process of ‘rising up’, I am higher because without me the distance between God and man would be too great for you to encompass. 
+⁴In the process of “rising up’, I am higher because without me the distance between God and man would be too great for you to encompass. 
 ⁵I bridge the distance as an elder brother to you on the one hand, and as a Son of God on the other hand. 
 ⁶My devotion to my brothers has placed me in charge of the Sonship; I render the Sonship complete because I share the Sonship. 
 ⁷Sharing the Sonship may appear to contradict the statement “I and my Father are one”, but there are two parts to “I and my Father are one” in recognition that the Father is greater.

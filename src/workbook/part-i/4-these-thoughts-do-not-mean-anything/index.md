@@ -17,15 +17,15 @@ next: W-pI.5
 ²In these practice periods, begin with noting the thoughts that are crossing your mind for about a minute. 
 ³Then apply the idea to them. 
 ⁴If you are already aware of unhappy thoughts, use them as subjects for the idea. 
-⁵Do not, however, select only the thoughts you think are ‘bad’. 
-⁶You will find, if you train yourself to look at your thoughts, that they represent such a mixture that, in a sense, none of them can be called ‘good’ or ‘bad’. 
+⁵Do not, however, select only the thoughts you think are “bad’. 
+⁶You will find, if you train yourself to look at your thoughts, that they represent such a mixture that, in a sense, none of them can be called “good’ or “bad’. 
 ⁷This is why they do not mean anything.
 
 2. In selecting the subjects for the application of today’s idea, the usual specificity is required. 
-²Do not be afraid to use ‘good’ thoughts as well as ‘bad’. 
+²Do not be afraid to use “good’ thoughts as well as “bad’. 
 ³None of them represents your real thoughts, which are being covered up by them. 
-⁴The ‘good’ ones are but shadows of what lies beyond, and shadows make sight difficult. 
-⁵The ‘bad’ ones are blocks to sight, and make seeing impossible. 
+⁴The “good’ ones are but shadows of what lies beyond, and shadows make sight difficult. 
+⁵The “bad’ ones are blocks to sight, and make seeing impossible. 
 ⁶You do not want either.
 
 ::: details Annotations
@@ -33,19 +33,19 @@ next: W-pI.5
 #::: details Expanded
 
 In selecting the subjects for the application of today’s idea, the usual specificity is required. 
-²Do not be afraid to use ‘good’ thoughts as well as ‘bad’. 
+²Do not be afraid to use “good’ thoughts as well as “bad’. 
 ³None of them [good or bad thoughts] represents your real thoughts, which [thoughts] are being covered up by them [good and bad thoughts]. 
-⁴The ‘good’ ones [thoughts] are but [only] shadows of what lies beyond, and shadows make sight difficult. 
-⁵The ‘bad’ ones [thoughts] are blocks to sight, and make seeing impossible. 
+⁴The “good’ ones [thoughts] are but [only] shadows of what lies beyond, and shadows make sight difficult. 
+⁵The “bad’ ones [thoughts] are blocks to sight, and make seeing impossible. 
 ⁶You do not want either [shadows or blocks].
 
 #::: details Substituted
 
 In selecting the subjects for the application of today’s idea, the usual specificity is required. 
-²Do not be afraid to use ‘good’ thoughts as well as ‘bad’. 
+²Do not be afraid to use “good’ thoughts as well as “bad’. 
 ³Neither good nor bad thoughts represent your real thoughts; your real thoughts are being covered up by good and bad thoughts. 
-⁴The ‘good’ thoughts are only shadows of what lies beyond, and shadows make sight difficult. 
-⁵The ‘bad’ thoughts are blocks to sight, and make seeing impossible. 
+⁴The “good’ thoughts are only shadows of what lies beyond, and shadows make sight difficult. 
+⁵The “bad’ thoughts are blocks to sight, and make seeing impossible. 
 ⁶You do not want either shadows or blocks.
 
 #::: details Simplified

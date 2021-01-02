@@ -81,7 +81,7 @@ Forgiveness returns the mind to God.
 3. Today’s exercises require at least three full five-minute practice periods, and as many shorter ones as possible. 
 ²Begin the longer practice periods by repeating today’s idea to yourself, as usual. 
 ³Close your eyes as you do so, and spend a minute or two in searching your mind for those whom you have not forgiven. 
-⁴It does not matter ‘how much’ you have not forgiven them. 
+⁴It does not matter “how much’ you have not forgiven them. 
 ⁵You have forgiven them entirely or not at all.
 
 
@@ -115,7 +115,7 @@ Forgiveness returns the mind to God.
 
 7. The shorter practice periods may consist either of a repetition of the idea for today in the original or in a related form, as you prefer. 
 ²Be sure, however, to make more specific applications if they are needed. 
-³They will be needed at any time during the day when you become aware of any kind of negative reäction to anyone, present or not. 
+³They will be needed at any time during the day when you become aware of any kind of negative reaction to anyone, present or not. 
 ⁴In that event, tell him silently:
 
 >⁵God is the Love in which I forgive you.

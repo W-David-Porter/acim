@@ -59,7 +59,7 @@ The Atonement makes miracles possible.
 
 
 2. A major step in the Atonement plan is to undo error at all levels. 
-²Sickness or ‘not-right-mindedness’ is the result of level confusion, because it always entails the belief that what is amiss on one level can adversely affect another. 
+²Sickness or “not-right-mindedness’ is the result of level confusion, because it always entails the belief that what is amiss on one level can adversely affect another. 
 ³We have referred to miracles as the means of correcting level confusion, for all mistakes must be corrected at the level on which they occur. 
 ⁴Only the mind is capable of error. 
 ⁵The body can act wrongly only when it is responding to misthought. 
@@ -71,7 +71,7 @@ The Atonement makes miracles possible.
 
 ::: details Expanded
 A major step in the Atonement plan is to undo error at all levels. 
-²Sickness or ‘not-right-mindedness’ is the result of level confusion, because it [sickness] always entails the belief that what is amiss on one level can adversely affect another. 
+²Sickness or “not-right-mindedness’ is the result of level confusion, because it [sickness] always entails the belief that what is amiss on one level can adversely affect another. 
 ³We have referred to miracles as the means of correcting level confusion, for all mistakes must be corrected at the level on which they [mistakes] occur. 
 ⁴Only the mind is capable of error. 
 ⁵The body can act wrongly only when it [the body] is responding to misthought. 
@@ -84,7 +84,7 @@ A major step in the Atonement plan is to undo error at all levels.
 
 ::: details  Substituted
 A major step in the Atonement plan is to undo error at all levels. 
-²Sickness or ‘not-right-mindedness’ is the result of level confusion, because sickness always entails the belief that what is amiss on one level can adversely affect another. 
+²Sickness or “not-right-mindedness’ is the result of level confusion, because sickness always entails the belief that what is amiss on one level can adversely affect another. 
 ³We have referred to miracles as the means of correcting level confusion, for all mistakes must be corrected at the level on which mistakes occur. 
 ⁴Only the mind is capable of error. 
 ⁵The body can act wrongly only when the body is responding to misthought. 
@@ -120,7 +120,7 @@ Sickness is no different from any other form in the world that reflects the ego�
 ⁹Its abilities can be and frequently are overevaluated. 
 ¹⁰However, it is almost impossible to deny its existence in this world. 
 ¹¹Those who do so are engaging in a particularly unworthy form of denial. 
-¹²The term ‘unworthy’ here implies only that it is not necessary to protect the mind by denying the unmindful. 
+¹²The term “unworthy’ here implies only that it is not necessary to protect the mind by denying the unmindful. 
 ¹³If one denies this unfortunate aspect of the mind’s power, one is also denying the power itself.
 
 ::: details Expanded
@@ -135,7 +135,7 @@ Only the mind can create because spirit has already been created, and the body i
 ⁹Its [the body’s] abilities can be and frequently are overevaluated. 
 ¹⁰However, it is almost impossible to deny its [the body’s] existence in this world. 
 ¹¹Those who do so [deny the body’s existence in the world] are engaging in a particularly unworthy form of denial. 
-¹²The term ‘unworthy’ here implies only that it is not necessary to protect the mind by denying the unmindful.
+¹²The term “unworthy’ here implies only that it is not necessary to protect the mind by denying the unmindful.
 ¹³If one denies this unfortunate aspect [to miscreate] of the mind’s power [to create], one is also denying the power [to create] itself.
 :::
 
@@ -151,7 +151,7 @@ Only the mind can create because spirit has already been created, and the body i
 ⁹The body’s abilities can be and frequently are overevaluated. 
 ¹⁰However, it is almost impossible to deny the body’s existence in this world. 
 ¹¹Those who deny the body’s existence in the world are engaging in a particularly unworthy form of denial. 
-¹²The term ‘unworthy’ here implies only that it is not necessary to protect the mind by denying the unmindful. 
+¹²The term “unworthy’ here implies only that it is not necessary to protect the mind by denying the unmindful. 
 ¹³If one denies the unfortunate power of the mind to miscreate, one is also denying the mind’s power to create.
 :::
 

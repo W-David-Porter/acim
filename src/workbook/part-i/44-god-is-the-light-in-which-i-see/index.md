@@ -107,7 +107,7 @@ The light by which you see is always with you.
 
 
 9. If resistance rises in any form, pause long enough to repeat today’s idea, keeping your eyes closed unless you are aware of fear. 
-²In that case, you will probably find it more reässuring to open your eyes briefly. 
+²In that case, you will probably find it more reassuring to open your eyes briefly. 
 ³Try, however, to return to the exercises with eyes closed as soon as possible.
 
 

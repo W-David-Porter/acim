@@ -44,7 +44,7 @@ You think you are perceiving things that have no meaning.
 :::
 
 2. Recognition of meaninglessness arouses intense anxiety in all the separated ones. 
-²It represents a situation in which God and the ego ‘challenge’ each other as to whose meaning is to be written in the empty space that meaninglessness provides. 
+²It represents a situation in which God and the ego “challenge’ each other as to whose meaning is to be written in the empty space that meaninglessness provides. 
 ³The ego rushes in frantically to establish its own ideas there, fearful that the void may otherwise be used to demonstrate its own impotence and unreality. 
 ⁴And on this alone it is correct.
 
@@ -53,14 +53,14 @@ You think you are perceiving things that have no meaning.
 #::: details Expanded
 
 Recognition of meaninglessness arouses intense anxiety in all the separated ones. 
-²It [recognition of meaninglessness] represents a situation in which God and the ego ‘challenge’ each other as to whose meaning is to be written in the empty space that meaninglessness provides. 
+²It [recognition of meaninglessness] represents a situation in which God and the ego “challenge’ each other as to whose meaning is to be written in the empty space that meaninglessness provides. 
 ³The ego rushes in frantically to establish its [the-ego’s] own ideas there [in the empty space], fearful that the void may otherwise be used to demonstrate its [the ego’s] own impotence and unreality. 
 ⁴And on this [the void demonstrating the ego’s impotence and unreality] alone it [the ego] is correct.
 
 #::: details Substituted
 
 Recognition of meaninglessness arouses intense anxiety in all the separated ones. 
-²Recognition of meaninglessness represents a situation in which God and the ego ‘challenge’ each other as to whose meaning is to be written in the empty space that meaninglessness provides. 
+²Recognition of meaninglessness represents a situation in which God and the ego “challenge’ each other as to whose meaning is to be written in the empty space that meaninglessness provides. 
 ³The ego rushes in frantically to establish the ego’s own ideas in the empty space, fearful that the void may otherwise be used to demonstrate the ego’s own impotence and unreality. 
 ⁴And on the void demonstrating the ego’s impotence and unreality, alone, the ego is correct.
 
@@ -109,7 +109,7 @@ If you are fearful, you will use illusions to feel safe.
 >⁷A meaningless world engenders fear because I think I am in competition with God.
 
 5. You may find it difficult to avoid resistance, in one form or another, to this concluding statement. 
-²Whatever form such resistance may take, remind yourself that you are really afraid of such a thought because of the ‘vengeance’ of the ‘enemy’. 
+²Whatever form such resistance may take, remind yourself that you are really afraid of such a thought because of the “vengeance’ of the “enemy’. 
 ³You are not expected to believe the statement at this point, and will probably dismiss it as preposterous. 
 ⁴Note carefully, however, any signs of overt or covert fear which it may arouse.
 

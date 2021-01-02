@@ -52,20 +52,20 @@ A thought system based on lies has power because it is made by you.
 2. You cannot resolve the authority problem by depreciating the power of your mind. 
 ²To do so is to deceive yourself, and this will hurt you because you really understand the strength of the mind. 
 ³You also realize that you cannot weaken it, any more than you can weaken God. 
-⁴The ‘devil’ is a frightening concept because he seems to be extremely powerful and extremely active. 
+⁴The “devil’ is a frightening concept because he seems to be extremely powerful and extremely active. 
 ⁵He is perceived as a force in combat with God, battling Him for possession of His creations. 
 ⁶The devil deceives by lies, and builds kingdoms in which everything is in direct opposition to God. 
-⁷Yet he attracts men rather than repels them, and they are willing to ‘sell’ him their souls in return for gifts of no real worth. 
+⁷Yet he attracts men rather than repels them, and they are willing to “sell’ him their souls in return for gifts of no real worth. 
 ⁸This makes absolutely no sense.
 
 ::: details Expanded
 You cannot resolve the authority problem by depreciating the power of your mind. 
 ²To do so [depreciate the power of your mind] is to deceive yourself, and this [deceiving yourself] will hurt you because you really understand the strength of the mind. 
 ³You also realize that you cannot weaken it [your mind], any more than you can weaken God. 
-⁴The ‘devil’ is a frightening concept because he [the devil] seems to be extremely powerful and extremely active. 
+⁴The “devil’ is a frightening concept because he [the devil] seems to be extremely powerful and extremely active. 
 ⁵He [the devil] is perceived as a force in combat with God, battling Him [God] for possession of His [God’s] creations. 
 ⁶The devil deceives by lies, and builds kingdoms in which everything is in direct opposition to God. 
-⁷Yet he [the devil] attracts men rather than repels them [men], and they [men] are willing to ‘sell’ him [the devil] their [men’s] souls in return for gifts of no real worth. 
+⁷Yet he [the devil] attracts men rather than repels them [men], and they [men] are willing to “sell’ him [the devil] their [men’s] souls in return for gifts of no real worth. 
 ⁸This [men selling a man’s soul for no real worth] makes absolutely no sense.
 :::
 
@@ -73,10 +73,10 @@ You cannot resolve the authority problem by depreciating the power of your mind.
 You cannot resolve the authority problem by depreciating the power of your mind. 
 ²To depreciate the power of your mind is to deceive yourself, and deceiving yourself will hurt you because you really understand the strength of the mind. 
 ³You also realize that you cannot weaken your mind, any more than you can weaken God. 
-⁴The ‘devil’ is a frightening concept because the devil seems to be extremely powerful and extremely active. 
+⁴The “devil’ is a frightening concept because the devil seems to be extremely powerful and extremely active. 
 ⁵The devil is perceived as a force in combat with God, battling God for possession of His God’s creations. 
 ⁶The devil deceives by lies, and builds kingdoms in which everything is in direct opposition to God. 
-⁷Yet the devil attracts men rather than repels men, and men are willing to ‘sell’ the devil men’s souls in return for gifts of no real worth. 
+⁷Yet the devil attracts men rather than repels men, and men are willing to “sell’ the devil men’s souls in return for gifts of no real worth. 
 ⁸Men selling a man’s soul for no real worth makes absolutely no sense.
 :::
 
@@ -85,17 +85,17 @@ You can’t solve the authority problem by pretending the mind is weak.
 :::
 
 ::: details Note
-(2) ‘really understand’ — Ur-Text has “you KNOW the power of your mind”. (—Ed.)
+(2) “really understand’ — Ur-Text has “you KNOW the power of your mind”. (—Ed.)
 :::
 
 
 3. We have discussed the fall or separation before, but its meaning must be clearly understood. 
 ²The separation is a system of thought real enough in time, though not in eternity. 
 ³All beliefs are real to the believer. 
-⁴The fruit of only one tree was ‘forbidden’ in the symbolic garden. 
+⁴The fruit of only one tree was “forbidden’ in the symbolic garden. 
 ⁵But God could not have forbidden it, or it could not have *been* eaten. 
 ⁶If God knows His children, and I assure you that He does, would He have put them in a position where their own destruction was possible? 
-⁷The ‘forbidden tree’ was named the ‘tree of knowledge’. 
+⁷The “forbidden tree’ was named the “tree of knowledge’. 
 ⁸Yet God created knowledge and gave it freely to His creations. 
 ⁹The symbolism here has been given many interpretations, but you may be sure that any interpretation that sees either God or His creations as capable of destroying Their Own purpose is in error.
 
@@ -103,10 +103,10 @@ You can’t solve the authority problem by pretending the mind is weak.
 We have discussed the fall or separation before, but its [the separation’s] meaning must be clearly understood. 
 ²The separation is a system of thought real enough in time, though not [real] in eternity. 
 ³All beliefs are real to the believer. 
-⁴The fruit of only one tree was ‘forbidden’ in the symbolic garden. 
+⁴The fruit of only one tree was “forbidden’ in the symbolic garden. 
 ⁵But God could not have forbidden it [the forbidden fruit], or it [the forbidden fruit] could not have *been* eaten. 
 ⁶If God knows His [God’s] children, and I assure you that He [God] does, would He [God] have put them [God’s children] in a position where their [God’s children’s] own destruction was possible? 
-⁷The ‘forbidden tree’ was named the ‘tree of knowledge’. 
+⁷The “forbidden tree’ was named the “tree of knowledge’. 
 ⁸Yet God created knowledge and gave it [knowledge] freely to His [God’s] creations. 
 ⁹The symbolism here has been given many interpretations, but you may be sure that any interpretation that sees either God or His [God’s] creations as capable of destroying Their [God’s creation’s] Own purpose is in error.
 :::
@@ -115,10 +115,10 @@ We have discussed the fall or separation before, but its [the separation’s] me
 We have discussed the fall or separation before, but the separation’s meaning must be clearly understood. 
 ²The separation is a system of thought real enough in time, though not real in eternity. 
 ³All beliefs are real to the believer. 
-⁴The fruit of only one tree was ‘forbidden’ in the symbolic garden. 
+⁴The fruit of only one tree was “forbidden’ in the symbolic garden. 
 ⁵But God could not have forbidden the forbidden fruit, or the forbidden fruit could not have *been* eaten. 
 ⁶If God knows God’s children, and I assure you that God does, would God have put God’s children in a position where God’s-children’s own destruction was possible? 
-⁷The ‘forbidden tree’ was named the ‘tree of knowledge’. 
+⁷The “forbidden tree’ was named the “tree of knowledge’. 
 ⁸Yet God created knowledge and gave knowledge freely to His God’s creations. 
 ⁹The symbolism here has been given many interpretations, but you may be sure that any interpretation that sees either God or God’s creations as capable of destroying God’s-creation’s Own purpose is in error.
 :::
@@ -137,7 +137,7 @@ God created knowledge and gives knowledge to His children.
 
 4. Eating of the fruit of the tree of knowledge is a symbolic expression for usurping the ability for self-creating. 
 ²This is the only sense in which God and His creations are not co-creators. 
-³The belief that they are is implicit in the ‘self-concept’, or the tendency of the self to make an image of itself. 
+³The belief that they are is implicit in the “self-concept’, or the tendency of the self to make an image of itself. 
 ⁴Images are perceived, not known. 
 ⁵Knowledge cannot deceive, but perception can. 
 ⁶You can perceive yourself as self-creating, but you cannot do more than believe it. 
@@ -152,7 +152,7 @@ God created knowledge and gives knowledge to His children.
 ::: details Expanded
 Eating of the fruit of the tree of knowledge is a symbolic expression for usurping the ability for self-creating. 
 ²This [usurping the ability for self-creating] is the only sense in which God and His [God’s] creations are not co-creators. 
-³The belief that they [God and God’s creations] are [co-creators] is implicit in the ‘self-concept’, or the tendency of the self to make an image of itself [self’s self]. 
+³The belief that they [God and God’s creations] are [co-creators] is implicit in the “self-concept’, or the tendency of the self to make an image of itself [self’s self]. 
 ⁴Images are perceived, not known. 
 ⁵Knowledge cannot deceive, but perception can [deceive]. 
 ⁶You can perceive yourself as self-creating, but you cannot do more than believe it [you are self-creating]. 
@@ -167,7 +167,7 @@ Eating of the fruit of the tree of knowledge is a symbolic expression for usurpi
 ::: details Substituted
 Eating of the fruit of the tree of knowledge is a symbolic expression for usurping the ability for self-creating. 
 ²Usurping the ability for self-creating is the only sense in which God and His God’s creations are not co-creators. 
-³The belief that they God and God’s creations are co-creators is implicit in the ‘self-concept’, or the tendency of the self to make an image of self’s self. 
+³The belief that they God and God’s creations are co-creators is implicit in the “self-concept’, or the tendency of the self to make an image of self’s self. 
 ⁴Images are perceived, not known. 
 ⁵Knowledge cannot deceive, but perception can deceive. 
 ⁶You can perceive yourself as self-creating, but you cannot do more than believe you are self-creating. 
@@ -194,7 +194,7 @@ The Holy Spirit reminds you that you did not create yourself.
 {% endif %}
 
 
-5. The mind can make the belief in separation very real and very fearful, and this belief *is* the ‘devil’. 
+5. The mind can make the belief in separation very real and very fearful, and this belief *is* the “devil’. 
 ²It is powerful, active, destructive and clearly in opposition to God, because it literally denies His Fatherhood. 
 ³Look at your life and see what the devil has made. 
 ⁴But realize that this making will surely dissolve in the light of truth, because its foundation is a lie. 
@@ -207,7 +207,7 @@ The Holy Spirit reminds you that you did not create yourself.
 ¹¹There is no death, but there *is* a belief in death.
 
 ::: details Expanded
-The mind can make the belief in separation very real and very fearful, and this belief [in separation] *is* the ‘devil’. 
+The mind can make the belief in separation very real and very fearful, and this belief [in separation] *is* the “devil’. 
 ²It [the devil] is powerful, active, destructive and clearly in opposition to God, because it [the devil] literally denies His [God’s] Fatherhood. 
 ³Look at your life and see what the devil has made. 
 ⁴But realize that this [the devil’s] making will surely dissolve in the light of truth, because its [the-devil’s] foundation is a lie. 
@@ -221,7 +221,7 @@ The mind can make the belief in separation very real and very fearful, and this 
 :::
 
 ::: details Substituted
-The mind can make the belief in separation very real and very fearful, and the belief in separation *is* the ‘devil’. 
+The mind can make the belief in separation very real and very fearful, and the belief in separation *is* the “devil’. 
 ²The devil is powerful, active, destructive and clearly in opposition to God, because the devil literally denies God’s Fatherhood. 
 ³Look at your life and see what the devil has made. 
 ⁴But realize that the devil’s making will surely dissolve in the light of truth, because the-devil’s foundation is a lie. 
@@ -246,7 +246,7 @@ Do not be afraid about the destruction of your thought system.
 :::
 
 ::: details Note
-(1–4) For ‘the devil’, we can always read ‘the belief in separation’ (–Ed.) 
+(1–4) For “the devil’, we can always read “the belief in separation’ (–Ed.) 
 :::
 
 {% if showCommentary %}

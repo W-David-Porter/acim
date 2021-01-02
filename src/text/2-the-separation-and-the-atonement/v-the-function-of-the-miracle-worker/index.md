@@ -70,7 +70,7 @@ The body is a learning device for the mind.
 <div id=2 class=zero-height></div>
 
 2. Magic is the mindless or the miscreative use of mind. 
-²Physical medications are forms of ‘spells’, but if you are afraid to use the mind to heal, you should not attempt to do so. 
+²Physical medications are forms of “spells’, but if you are afraid to use the mind to heal, you should not attempt to do so. 
 ³The very fact that you are afraid makes your mind vulnerable to miscreation. 
 ⁴You are therefore likely to misunderstand any healing that might occur, and because egocentricity and fear usually occur together, you may be unable to accept the real Source of the healing. 
 ⁵Under these conditions, it is safer for you to rely temporarily on physical healing devices, because you cannot misperceive them as your own creations. 
@@ -78,7 +78,7 @@ The body is a learning device for the mind.
 
 ::: details Expanded
 Magic is the mindless or the miscreative use of mind. 
-²Physical medications are forms of ‘spells’, but if you are afraid to use the mind to heal, you should not attempt to do so [use the mind to heal]. 
+²Physical medications are forms of “spells’, but if you are afraid to use the mind to heal, you should not attempt to do so [use the mind to heal]. 
 ³The very fact that you are afraid makes your mind vulnerable to miscreation. 
 ⁴You are therefore likely to misunderstand any healing that might occur, and because egocentricity and fear usually occur together, you may be unable to accept the real Source of the healing. 
 ⁵Under these conditions [egocentricity and fear], it is safer for you to rely temporarily on physical healing devices, because you cannot misperceive them [physical healing devices] as your own creations. 
@@ -87,7 +87,7 @@ Magic is the mindless or the miscreative use of mind.
 
 ::: details Substituted
 Magic is the mindless or the miscreative use of mind. 
-²Physical medications are forms of ‘spells’, but if you are afraid to use the mind to heal, you should not attempt to use the mind to heal. 
+²Physical medications are forms of “spells’, but if you are afraid to use the mind to heal, you should not attempt to use the mind to heal. 
 ³The very fact that you are afraid makes your mind vulnerable to miscreation. 
 ⁴You are therefore likely to misunderstand any healing that might occur, and because egocentricity and fear usually occur together, you may be unable to accept the real Source of the healing. 
 ⁵Under conditions of egocentricity and fear, it is safer for you to rely temporarily on physical healing devices, because you cannot misperceive physical healing devices as your own creations. 
@@ -365,7 +365,7 @@ In a limited form of right-mindedness, you can see the perfection in others whil
 ⁵I said before that only revelation transcends time. 
 ⁶The miracle, as an expression of charity, can only shorten it. 
 ⁷It must be understood, however, that whenever you offer a miracle to another, you are shortening the suffering of both of you. 
-⁸This corrects retroäctively as well as progressively.
+⁸This corrects retroactively as well as progressively.
 
 ::: details Expanded
 Charity is a way of looking at another as if he [the other] had already gone far beyond his [the other’s] actual accomplishments in time. 
@@ -375,7 +375,7 @@ Charity is a way of looking at another as if he [the other] had already gone far
 ⁵I said before that only revelation transcends time. 
 ⁶The miracle, as an expression of charity, can only shorten it [time]. 
 ⁷It must be understood, however, that whenever you offer a miracle to another, you are shortening the suffering of both of you. 
-⁸This [offering a miracle to another] corrects retroäctively as well as progressively.
+⁸This [offering a miracle to another] corrects retroactively as well as progressively.
 :::
 
 ::: details Substituted
@@ -386,7 +386,7 @@ Charity is a way of looking at another as if the other had already gone far beyo
 ⁵I said before that only revelation transcends time. 
 ⁶The miracle, as an expression of charity, can only shorten time. 
 ⁷It must be understood, however, that whenever you offer a miracle to another, you are shortening the suffering of both of you. 
-⁸Offering a miracle to another corrects retroäctively as well as progressively.
+⁸Offering a miracle to another corrects retroactively as well as progressively.
 :::
 
 ::: details Simplified

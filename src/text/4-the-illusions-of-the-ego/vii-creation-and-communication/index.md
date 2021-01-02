@@ -51,7 +51,7 @@ The separated self not only has forgotten its *decision* to be on its own, but h
 ²The ego is thus against communication, except insofar as it is utilised to establish separateness rather than to abolish it. 
 ³The communication system of the ego is based on its own thought system, as is everything else it dictates. 
 ⁴Its communication is controlled by its need to protect itself, and it will disrupt communication when it experiences threat. 
-⁵This disruption is a reäction to a specific person or persons. 
+⁵This disruption is a reaction to a specific person or persons. 
 ⁶The specificity of the ego’s thinking, then, results in spurious generalisation which is really not abstract at all. 
 ⁷It merely responds in certain specific ways to everything it perceives as related.
 
@@ -60,7 +60,7 @@ Everything the ego perceives is a separate whole, without the relationships that
 ²The ego is thus against communication, except insofar as it [communication] is utilised to establish separateness rather than to abolish it [separateness]. 
 ³The communication system of the ego is based on its [the-ego’s] own thought system, as is everything else it [the ego] dictates. 
 ⁴Its [the-ego’s] communication is controlled by its [the-ego’s] need to protect itself [the-ego’s-self], and it [the ego] will disrupt communication when it [the ego] experiences threat. 
-⁵This disruption [of communication] is a reäction to a specific person or persons. 
+⁵This disruption [of communication] is a reaction to a specific person or persons. 
 ⁶The specificity of the ego’s thinking, then, results in spurious generalisation which [generalisation] is really not abstract at all. 
 ⁷It [the ego] merely responds in certain specific ways to everything it [the ego] perceives as related.
 :::
@@ -70,7 +70,7 @@ Everything the ego perceives is a separate whole, without the relationships that
 ²The ego is thus against communication, except insofar as communication is utilised to establish separateness rather than to abolish separateness. 
 ³The communication system of the ego is based on the-ego’s own thought system, as is everything else the ego dictates. 
 ⁴The-ego’s communication is controlled by the-ego’s need to protect the-ego’s-self, and the ego will disrupt communication when the ego experiences threat. 
-⁵The disruption of communication is a reäction to a specific person or persons. 
+⁵The disruption of communication is a reaction to a specific person or persons. 
 ⁶The specificity of the ego’s thinking, then, results in spurious generalisation, generalisation is really not abstract at all. 
 ⁷The ego merely responds in certain specific ways to everything the ego perceives as related.
 :::
@@ -83,7 +83,7 @@ The ego is threatened in specific situations.
 :::
 
 
-3. In contrast, spirit reäcts in the same way to everything it knows is true, and does not respond at all to anything else. 
+3. In contrast, spirit reacts in the same way to everything it knows is true, and does not respond at all to anything else. 
 ²Nor does it make any attempt to establish what is true. 
 ³It knows that what is true is everything that God created. 
 ⁴It is in complete and direct communication with every aspect of creation, because it is in complete and direct communication with its Creator. 
@@ -97,7 +97,7 @@ The ego is threatened in specific situations.
 ¹²That is why the mind cannot totally lose the ability to communicate, even though it may refuse to utilise it on behalf of being.
 
 ::: details Expanded
-In contrast, spirit reäcts in the same way to everything it [spirit] knows is true, and does not respond at all to anything else. 
+In contrast, spirit reacts in the same way to everything it [spirit] knows is true, and does not respond at all to anything else. 
 ²Nor does it [spirit] make any attempt to establish what is true. 
 ³It [spirit] knows that what is true is everything that God created. 
 ⁴It [spirit] is in complete and direct communication with every aspect of creation, because it [spirit] is in complete and direct communication with its [spirit’s] Creator. 
@@ -112,7 +112,7 @@ In contrast, spirit reäcts in the same way to everything it [spirit] knows is t
 :::
 
 ::: details Substituted
-In contrast, spirit reäcts in the same way to everything spirit knows is true, and does not respond at all to anything else. 
+In contrast, spirit reacts in the same way to everything spirit knows is true, and does not respond at all to anything else. 
 ²Nor does spirit make any attempt to establish what is true. 
 ³Spirit knows that what is true is everything that God created. 
 ⁴Spirit is in complete and direct communication with every aspect of creation, because spirit is in complete and direct communication with spirit’s Creator. 
@@ -176,7 +176,7 @@ You know your own reality when you communicate with all of reality.
 
 {% if showCommentary %}
 ::: details Commentary
-(1–4, 6–8) …when the mind appeared to separate from its Source, thereby becoming split, the ego was born. Consequently we now speak of two minds: Mind — one with God; and mind — split off from Him. This split-off mind is what eventually emerges as the full-blown ego, the separated, illusory and ‘sinful’ illusory self. *A Course in Miracles* in fact distinguishes between *being*, which refers only to spirit, the abstract Mind of God or Christ which is the only reality, and *existence*, wihch is the realm of the separated or specific mind, the illusory state of non-being. c/f [5:1,7](#5), [T-6.IV.7:4](/text/6-the-lessons-of-love/iv-the-only-answer/#7) (Wapnick, LDNC, p.494; AAC, p.145) 
+(1–4, 6–8) …when the mind appeared to separate from its Source, thereby becoming split, the ego was born. Consequently we now speak of two minds: Mind — one with God; and mind — split off from Him. This split-off mind is what eventually emerges as the full-blown ego, the separated, illusory and “sinful’ illusory self. *A Course in Miracles* in fact distinguishes between *being*, which refers only to spirit, the abstract Mind of God or Christ which is the only reality, and *existence*, wihch is the realm of the separated or specific mind, the illusory state of non-being. c/f [5:1,7](#5), [T-6.IV.7:4](/text/6-the-lessons-of-love/iv-the-only-answer/#7) (Wapnick, LDNC, p.494; AAC, p.145) 
 :::
 {% endif %}
 
@@ -188,7 +188,7 @@ You know your own reality when you communicate with all of reality.
 ³That is why God created you. 
 ⁴Divine Abstraction takes joy in sharing. 
 ⁵That is what creation means. 
-⁶‘How’, ‘what’ and ‘to whom’ are irrelevant, because real creation gives everything, since it can create only like itself. 
+⁶“How’, “what’ and “to whom’ are irrelevant, because real creation gives everything, since it can create only like itself. 
 ⁷Remember that in the Kingdom there is no difference between *having* and *being* as there is in existence. 
 ⁸In the state of being the mind gives everything always.
 
@@ -198,7 +198,7 @@ God, Who encompasses all being, created beings who have everything individually,
 ³That is why God created you. 
 ⁴Divine Abstraction takes joy in sharing. 
 ⁵That [sharing] is what creation means. 
-⁶‘How’, ‘what’ and ‘to whom’ are irrelevant, because real creation gives everything, since it [real creation] can create only like itself [real-creation’s-self]. 
+⁶“How’, “what’ and “to whom’ are irrelevant, because real creation gives everything, since it [real creation] can create only like itself [real-creation’s-self]. 
 ⁷Remember that in the Kingdom there is no difference between *having* and *being* as there is [a difference] in existence. 
 ⁸In the state of being the mind gives everything always.
 :::
@@ -209,7 +209,7 @@ God, Who encompasses all being, created beings who have everything individually,
 ³That is why God created you. 
 ⁴Divine Abstraction takes joy in sharing. 
 ⁵Sharing is what creation means. 
-⁶‘How’, ‘what’ and ‘to whom’ are irrelevant, because real creation gives everything, since real creation can create only like real-creation’s-self. 
+⁶“How’, “what’ and “to whom’ are irrelevant, because real creation gives everything, since real creation can create only like real-creation’s-self. 
 ⁷Remember that in the Kingdom there is no difference between *having* and *being* as there is a difference in existence. 
 ⁸In the state of being the mind gives everything always.
 :::

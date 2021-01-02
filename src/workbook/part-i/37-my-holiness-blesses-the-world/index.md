@@ -120,7 +120,7 @@ Quietly recognize that your are holy and blessed and so are all things.
 
 6. The shorter exercises consist of repeating the idea as often as you can. 
 ²It is particularly helpful to apply it silently to anyone you meet, using his name as you do so. 
-³It is essential to use the idea if anyone seems to cause an adverse reäction in you. 
+³It is essential to use the idea if anyone seems to cause an adverse reaction in you. 
 ⁴Offer him the blessing of your holiness immediately, that you may learn to keep it in your own awareness.
 
 ---

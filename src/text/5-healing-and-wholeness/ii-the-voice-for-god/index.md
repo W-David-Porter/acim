@@ -247,7 +247,7 @@ The Holy Spirit speaks for God’s will.
 ¹¹What profits it a man if he gain the whole world and lose his own soul? 
 ¹²If you listen to the wrong voice you *have* lost sight of your soul. 
 ¹³You cannot lose it, but you can not know it. 
-¹⁴It is therefore ‘lost’ to you until you choose right.
+¹⁴It is therefore “lost’ to you until you choose right.
 
 ::: details Expanded
 The Voice of the Holy Spirit does not command, because It [the Voice of the Holy Spirit] is incapable of arrogance. 
@@ -263,7 +263,7 @@ The Voice of the Holy Spirit does not command, because It [the Voice of the Holy
 ¹¹What profits it a man if he [a man] gain the whole world and lose his [a-man’s] own soul? 
 ¹²If you listen to the wrong voice you *have* lost sight of your soul. 
 ¹³You cannot lose it [your soul], but you can not know it [your soul]. 
-¹⁴It [your soul] is therefore ‘lost’ to you until you choose right.
+¹⁴It [your soul] is therefore “lost’ to you until you choose right.
 :::
 
 ::: details Substituted
@@ -280,7 +280,7 @@ The Voice of the Holy Spirit does not command, because the Voice of the Holy Spi
 ¹¹What profits it a man if a man gain the whole world and lose a-man’s own soul? 
 ¹²If you listen to the wrong voice you *have* lost sight of your soul. 
 ¹³You cannot lose your soul, but you can not know your soul. 
-¹⁴Your soul is therefore ‘lost’ to you until you choose right.
+¹⁴Your soul is therefore “lost’ to you until you choose right.
 :::
 
 ::: details Simplified
@@ -440,20 +440,20 @@ Your vocation is to help restore each part of the Sonship to the Kingdom.
 
 11. When you are tempted by the wrong voice, call on me to remind you how to heal by sharing my decision and making it stronger. 
 ²As we share this goal, we increase its power to attract the whole Sonship, and to bring it back into the oneness in which it was created. 
-³Remember that ‘yoke’ means ‘join together’, and ‘burden’ means ‘message’. 
+³Remember that “yoke’ means “join together’, and “burden’ means “message’. 
 ⁴Let us restate “My yoke is easy and my burden light” in this way: “Let us join together, for my message is light”.
 
 ::: details Expanded
 When you are tempted by the wrong voice, call on me to remind you how to heal by sharing my decision and making it [my decision] stronger. 
 ²As we share this goal [of making my decision stronger], we increase its [my-decision’s] power to attract the whole Sonship, and to bring it [the whole Sonship] back into the oneness in which it [the Sonship] was created. 
-³Remember that ‘yoke’ means ‘join together’, and ‘burden’ means ‘message’. 
+³Remember that “yoke’ means “join together’, and “burden’ means “message’. 
 ⁴Let us restate “My yoke is easy and my burden light” in this way: “Let us join together, for my message is light”.
 :::
 
 ::: details Substituted
 When you are tempted by the wrong voice, call on me to remind you how to heal by sharing my decision and making my decision stronger. 
 ²As we share the goal of making my decision stronger, we increase my-decision’s power to attract the whole Sonship, and to bring the whole Sonship back into the oneness in which the Sonship was created. 
-³Remember that ‘yoke’ means ‘join together’, and ‘burden’ means ‘message’. 
+³Remember that “yoke’ means “join together’, and “burden’ means “message’. 
 ⁴Let us restate “My yoke is easy and my burden light” in this way: “Let us join together, for my message is light”.
 :::
 

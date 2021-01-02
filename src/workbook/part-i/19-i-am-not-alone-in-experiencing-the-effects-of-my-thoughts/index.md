@@ -42,7 +42,7 @@ Thinking and perceiving are simultaneous.
 
 
 2. Today we are again emphasising the fact that minds are joined. 
-²This is rarely a wholly welcome idea at first, since it seems to carry with it an enormous sense of responsibility, and may even be regarded as an ‘invasion of privacy’. 
+²This is rarely a wholly welcome idea at first, since it seems to carry with it an enormous sense of responsibility, and may even be regarded as an “invasion of privacy’. 
 ³Yet it is a fact that there are no private thoughts. 
 ⁴Despite your initial resistance to this idea, you will yet understand that it must be true if salvation is possible at all. 
 ⁵And salvation must be possible because it is the Will of God.
@@ -52,7 +52,7 @@ Thinking and perceiving are simultaneous.
 #::: details Expanded
 
 Today we are again emphasising the fact that minds are joined. 
-²This [the fact that minds are joined] is rarely a wholly welcome idea at first, since it [the fact that minds are joined] seems to carry with it [the fact that minds are joined] an enormous sense of responsibility, and may even be regarded as an ‘invasion of privacy’. 
+²This [the fact that minds are joined] is rarely a wholly welcome idea at first, since it [the fact that minds are joined] seems to carry with it [the fact that minds are joined] an enormous sense of responsibility, and may even be regarded as an “invasion of privacy’. 
 ³Yet it is a fact that there are no private thoughts. 
 ⁴Despite your initial resistance to this idea [there are no private thoughts], you will yet understand that it [the idea there are no private thoughts] must be true if salvation is possible at all. 
 ⁵And salvation must be possible because it [salvation] is the Will of God.
@@ -60,7 +60,7 @@ Today we are again emphasising the fact that minds are joined.
 #::: details Substituted
 
 Today we are again emphasising the fact that minds are joined. 
-²The fact that minds are joined is rarely a wholly welcome idea at first, since the fact that minds are joined seems to carry with the fact that minds are joined an enormous sense of responsibility, and may even be regarded as an ‘invasion of privacy’. 
+²The fact that minds are joined is rarely a wholly welcome idea at first, since the fact that minds are joined seems to carry with the fact that minds are joined an enormous sense of responsibility, and may even be regarded as an “invasion of privacy’. 
 ³Yet it is a fact that there are no private thoughts. 
 ⁴Despite your initial resistance to the idea there are no private thoughts, you will yet understand that the idea there are no private thoughts must be true if salvation is possible at all. 
 ⁵And salvation must be possible because salvation is the Will of God.
@@ -84,7 +84,7 @@ Thoughts are not private.
 ³Lack of order in this connection will ultimately make the recognition of lack of order in miracles meaningful to you.
 
 
-5. Apart from the ‘as needed’ application of today’s idea, at least three practice periods are required, shortening the length of time involved, if necessary. 
+5. Apart from the “as needed’ application of today’s idea, at least three practice periods are required, shortening the length of time involved, if necessary. 
 ²Do not attempt more than four.
 
 ---

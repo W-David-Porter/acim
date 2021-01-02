@@ -104,7 +104,7 @@ A straightened mind respects cause and effect.
 ⁸The fearful *must* miscreate, because they misperceive creation. 
 ⁹When you miscreate you are in pain. 
 ¹⁰The cause and effect principle now becomes a real expediter, though only temporarily. 
-¹¹Actually, ‘Cause’ is a term properly belonging to God, and His ‘Effect’ is His Son. 
+¹¹Actually, “Cause’ is a term properly belonging to God, and His “Effect’ is His Son. 
 ¹²This entails a set of Cause and Effect relationships totally different from those you introduce into miscreation. 
 ¹³The fundamental conflict in this world, then, is between creation and miscreation. 
 ¹⁴All fear is implicit in the second, and all love in the first. 
@@ -121,7 +121,7 @@ Both miracles and fear come from thoughts.
 ⁸The fearful *must* miscreate, because they [the fearful] misperceive creation. 
 ⁹When you miscreate you are in pain. 
 ¹⁰The cause and effect principle now becomes a real expediter, though only temporarily. 
-¹¹Actually, ‘Cause’ is a term properly belonging to God, and His [God’s] ‘Effect’ is His [God’s] Son. 
+¹¹Actually, “Cause’ is a term properly belonging to God, and His [God’s] “Effect’ is His [God’s] Son. 
 ¹²This [God’s effect is God’s Son] entails a set of Cause and Effect relationships totally different from those [the cause and effect relationships] you introduce into miscreation. 
 ¹³The fundamental conflict in this world, then, is between creation and miscreation. 
 ¹⁴All fear is implicit in the second [miscreation], and all love in the first [creation]. 
@@ -139,7 +139,7 @@ Both miracles and fear come from thoughts.
 ⁸The fearful *must* miscreate, because the fearful misperceive creation. 
 ⁹When you miscreate you are in pain. 
 ¹⁰The cause and effect principle now becomes a real expediter, though only temporarily. 
-¹¹Actually, ‘Cause’ is a term properly belonging to God, and God’s ‘Effect’ is God’s Son. 
+¹¹Actually, “Cause’ is a term properly belonging to God, and God’s “Effect’ is God’s Son. 
 ¹²God’s effect is God’s Son entails a set of Cause and Effect relationships totally different from the cause and effect relationships you introduce into miscreation. 
 ¹³The fundamental conflict in this world, then, is between creation and miscreation. 
 ¹⁴All fear is implicit in miscreation, and all love in creation. 

@@ -76,7 +76,7 @@ Ideas increase when shared.
 
 <div id=2 class=zero-height></div>
 
-2. Let us start our process of reäwakening with just a few simple concepts:
+2. Let us start our process of reawakening with just a few simple concepts:
 >²Thoughts increase by being given away.  
 ³The more who believe in them the stronger they become.  
 ⁴Everything is an idea.  
@@ -84,7 +84,7 @@ Ideas increase when shared.
 
 
 ::: details Expanded
-Let us start our process of reäwakening with just a few simple concepts:
+Let us start our process of reawakening with just a few simple concepts:
 >²Thoughts increase by being given away.  
 ³The more who believe in them [thoughts] the stronger they [thoughts] become.  
 ⁴Everything is an idea.  
@@ -92,7 +92,7 @@ Let us start our process of reäwakening with just a few simple concepts:
 :::
 
 ::: details Substituted
-Let us start our process of reäwakening with just a few simple concepts:
+Let us start our process of reawakening with just a few simple concepts:
 >²Thoughts increase by being given away.  
 ³The more who believe in thoughts the stronger thoughts become.  
 ⁴Everything is an idea.  
@@ -150,26 +150,26 @@ Ur-text/HLC/Original edition, for sentence 3, has “The Holy Spirit is nothing 
 
 4. The Holy Spirit is the only part of the Holy Trinity that has a symbolic function. 
 ²He is referred to as the Healer, the Comforter and the Guide. 
-³He is also described as something ‘separate’, apart from the Father and from the Son. 
+³He is also described as something “separate’, apart from the Father and from the Son. 
 ⁴I myself said, “If I go I will send you another Comforter and he will abide with you”. 
 ⁵His symbolic function makes the Holy Spirit difficult to understand, because symbolism is open to different interpretations. 
 ⁶As a man and also one of God’s creations, my right thinking, which came from the Holy Spirit or the Universal Inspiration, taught me first and foremost that this Inspiration is for all. 
 ⁷I could not have It myself without knowing this. 
-⁸The word ‘know’ is proper in this context, because the Holy Spirit is so close to knowledge that He calls it forth; or better, allows it to come. 
-⁹I have spoken before of the higher or ‘true’ perception, which is so near to truth that God Himself can flow across the little gap. 
+⁸The word “know’ is proper in this context, because the Holy Spirit is so close to knowledge that He calls it forth; or better, allows it to come. 
+⁹I have spoken before of the higher or “true’ perception, which is so near to truth that God Himself can flow across the little gap. 
 ¹⁰Knowledge is always ready to flow everywhere, but it cannot oppose. 
 ¹¹Therefore you can obstruct it, although you can never lose it.
 
 ::: details Expanded
 The Holy Spirit is the only part of the Holy Trinity that has a symbolic function. 
 ²He [the Holy Spirit] is referred to as the Healer, the Comforter and the Guide. 
-³He [the Holy Spirit] is also described as something ‘separate’, apart from the Father and from the Son. 
+³He [the Holy Spirit] is also described as something “separate’, apart from the Father and from the Son. 
 ⁴I myself said, “If I go I will send you another Comforter and he [the other Comforter] will abide with you”. 
 ⁵His [the-Holy-Spirit’s] symbolic function makes the Holy Spirit difficult to understand, because symbolism is open to different interpretations. 
 ⁶As a man and also one of God’s creations, my right thinking, which came from the Holy Spirit or the Universal Inspiration, taught me first and foremost that this [the Universal] Inspiration is for all. 
 ⁷I could not have It [the Universal Inspiration] myself without knowing this [the Universal Inspiration is for all]. 
-⁸The word ‘know’ is proper in this context, because the Holy Spirit is so close to knowledge that He [the Holy Spirit] calls it [knowledge] forth; or better, allows it [knowledge] to come. 
-⁹I have spoken before of the higher or ‘true’ perception, which [perception] is so near to truth that God Himself [God’s-self] can flow across the little gap. 
+⁸The word “know’ is proper in this context, because the Holy Spirit is so close to knowledge that He [the Holy Spirit] calls it [knowledge] forth; or better, allows it [knowledge] to come. 
+⁹I have spoken before of the higher or “true’ perception, which [perception] is so near to truth that God Himself [God’s-self] can flow across the little gap. 
 ¹⁰Knowledge is always ready to flow everywhere, but it [knowledge] cannot oppose. 
 ¹¹Therefore you can obstruct it [knowledge], although you can never lose it [knowledge].
 :::
@@ -177,13 +177,13 @@ The Holy Spirit is the only part of the Holy Trinity that has a symbolic functio
 ::: details Substituted
 The Holy Spirit is the only part of the Holy Trinity that has a symbolic function. 
 ²The Holy Spirit is referred to as the Healer, the Comforter and the Guide. 
-³Tthe Holy Spirit] is also described as something ‘separate’, apart from the Father and from the Son. 
+³Tthe Holy Spirit] is also described as something “separate’, apart from the Father and from the Son. 
 ⁴I myself said, “If I go I will send you another Comforter and the other Comforter will abide with you”. 
 ⁵The-Holy-Spirit’s symbolic function makes the Holy Spirit difficult to understand, because symbolism is open to different interpretations. 
 ⁶As a man and also one of God’s creations, my right thinking, which came from the Holy Spirit or the Universal Inspiration, taught me first and foremost that the Universal Inspiration is for all. 
 ⁷I could not have the Universal Inspiration myself without knowing the Universal Inspiration is for all. 
-⁸The word ‘know’ is proper in this context, because the Holy Spirit is so close to knowledge that the Holy Spirit calls knowledge forth; or better, allows it knowledge to come. 
-⁹I have spoken before of the higher or ‘true’ perception, true perception is so near to truth that God God’s-self can flow across the little gap. 
+⁸The word “know’ is proper in this context, because the Holy Spirit is so close to knowledge that the Holy Spirit calls knowledge forth; or better, allows it knowledge to come. 
+⁹I have spoken before of the higher or “true’ perception, true perception is so near to truth that God God’s-self can flow across the little gap. 
 ¹⁰Knowledge is always ready to flow everywhere, but knowledge cannot oppose. 
 ¹¹Therefore you can obstruct knowledge, although you can never lose knowledge.
 :::
@@ -239,7 +239,7 @@ The Holy Spirit brings comfort and healing, and inspires the Atonement.
 ³The Holy Spirit is the Mind of the Atonement. 
 ⁴He represents a state of mind close enough to One-mindedness that transfer to it is at last possible. 
 ⁵Perception is not knowledge, but it can be transferred to knowledge, or cross over into it. 
-⁶It might even be more helpful here to use the literal meaning of transferred or ‘carried over’, since the last step is taken by God.
+⁶It might even be more helpful here to use the literal meaning of transferred or “carried over’, since the last step is taken by God.
 
 ::: details Expanded
 God honoured even the miscreations of His [God’s] children because they [God’s-children] had made them [miscreations]. 
@@ -247,7 +247,7 @@ God honoured even the miscreations of His [God’s] children because they [God�
 ³The Holy Spirit is the Mind of the Atonement. 
 ⁴He [the Holy Spirit] represents a state of mind close enough to One-mindedness that transfer to it [One-mindedness] is at last possible. 
 ⁵Perception is not knowledge, but it [perception] can be transferred to knowledge, or cross over into it [knowledge]. 
-⁶It might even be more helpful here to use the literal meaning of transferred or ‘carried over’, since the last step is taken by God.
+⁶It might even be more helpful here to use the literal meaning of transferred or “carried over’, since the last step is taken by God.
 :::
 
 ::: details Substituted
@@ -256,7 +256,7 @@ God honoured even the miscreations of God’s children because God’s-children 
 ³The Holy Spirit is the Mind of the Atonement. 
 ⁴The Holy Spirit represents a state of mind close enough to One-mindedness that transfer to One-mindedness is at last possible. 
 ⁵Perception is not knowledge, but perception can be transferred to knowledge, or cross over into knowledge. 
-⁶It might even be more helpful here to use the literal meaning of transferred or ‘carried over’, since the last step is taken by God.
+⁶It might even be more helpful here to use the literal meaning of transferred or “carried over’, since the last step is taken by God.
 :::
 
 ::: details Simplified

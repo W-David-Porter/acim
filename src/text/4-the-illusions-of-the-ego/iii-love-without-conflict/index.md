@@ -14,7 +14,7 @@ next: T-4.IV
 
 1. It is hard to understand what “The Kingdom of Heaven is within you” really means. 
 ²This is because it is not understandable to the ego, which interprets it as if something outside is inside, and this does not mean anything. 
-³The word ‘within’ is unnecessary. 
+³The word “within’ is unnecessary. 
 ⁴The Kingdom of Heaven *is* you. 
 ⁵What else *but* you did the Creator create, and what else *but* you is His Kingdom? 
 ⁶This is the whole message of the Atonement; a message which in its totality transcends the sum of its parts. 
@@ -30,7 +30,7 @@ next: T-4.IV
 ::: details Expanded
 It is hard to understand what “The Kingdom of Heaven is within you” really means. 
 ²This [“the Kingdom of Heaven is within you” is hard to understand] is because it [“The Kingdom of God is within you”] is not understandable to the ego, which interprets it [“The Kingdom of God is within you”] as if something outside is inside, and this [something outside being inside] does not mean anything. 
-³The word ‘within’ is unnecessary. 
+³The word “within’ is unnecessary. 
 ⁴The Kingdom of Heaven *is* you. 
 ⁵What else *but* you did the Creator create, and what else *but* you is His [the-Creator’s] Kingdom? 
 ⁶This [The Kingdom of Heaven is you] is the whole message of the Atonement; a message which in its [message’s] totality transcends the sum of its [the message’s] parts. 
@@ -47,7 +47,7 @@ It is hard to understand what “The Kingdom of Heaven is within you” really m
 ::: details Substituted
 It is hard to understand what “The Kingdom of Heaven is within you” really means. 
 ²“The Kingdom of Heaven is within you” is hard to understand because “The Kingdom of God is within you” is not understandable to the ego, which interprets “The Kingdom of God is within you” as if something outside is inside, and something outside being inside does not mean anything. 
-³The word ‘within’ is unnecessary. 
+³The word “within’ is unnecessary. 
 ⁴The Kingdom of Heaven *is* you. 
 ⁵What else *but* you did the Creator create, and what else *but* you is the Creator’s Kingdom? 
 ⁶The Kingdom of Heaven is you, is the whole message of the Atonement; a message which in message’s totality transcends the sum of the message’s parts. 
@@ -110,7 +110,7 @@ I will separate the true from the false.
 :::
 
 
-3. It is surely apparent by now why the ego regards spirit as its ‘enemy’. 
+3. It is surely apparent by now why the ego regards spirit as its “enemy’. 
 ²The ego arose from the separation, and its continued existence depends on your continuing belief in the separation. 
 ³The ego must offer you some sort of reward for maintaining this belief. 
 ⁴All it can offer is a sense of temporary existence, which begins with its own beginning and ends with its own ending. 
@@ -120,7 +120,7 @@ I will separate the true from the false.
 ⁸How can its meagre offering to you prevail against the glorious gift of God?
 
 ::: details Expanded
-It is surely apparent by now why the ego regards spirit as its [the-ego’s] ‘enemy’. 
+It is surely apparent by now why the ego regards spirit as its [the-ego’s] “enemy’. 
 ²The ego arose from the separation, and its [the-ego’s] continued existence depends on your continuing belief in the separation. 
 ³The ego must offer you some sort of reward for maintaining this belief [in the separation]. 
 ⁴All it [the ego] can offer is a sense of temporary existence, which begins with its [the-ego’s] own beginning and ends with its [the-ego’s] own ending. 
@@ -131,7 +131,7 @@ It is surely apparent by now why the ego regards spirit as its [the-ego’s] ‘
 :::
 
 ::: details Substituted
-It is surely apparent by now why the ego regards spirit as the-ego’s ‘enemy’. 
+It is surely apparent by now why the ego regards spirit as the-ego’s “enemy’. 
 ²The ego arose from the separation, and the-ego’s continued existence depends on your continuing belief in the separation. 
 ³The ego must offer you some sort of reward for maintaining belief in the separation. 
 ⁴All the ego can offer is a sense of temporary existence, which (existence) begins with the-ego’s own beginning and ends with the-ego’s own ending. 
@@ -157,7 +157,7 @@ The ego’s offering can’t prevail over the glorious gift of God.
 ⁵You project onto the ego the decision to separate, and this conflicts with the love you feel for the ego because you made it. 
 ⁶No love in this world is without this ambivalence, and since no ego has experienced love without ambivalence the concept is beyond its understanding. 
 ⁷Love will enter immediately into any mind that truly wants it, but it must want it truly. 
-⁸This means that it wants it without ambivalence, and this kind of wanting is wholly without the ego’s ‘drive to get’.
+⁸This means that it wants it without ambivalence, and this kind of wanting is wholly without the ego’s “drive to get’.
 
 ::: details Expanded
 You who identify with your ego cannot believe God loves you. 
@@ -167,7 +167,7 @@ You who identify with your ego cannot believe God loves you.
 ⁵You project onto the ego the decision to separate, and this [projecting the decision to separate] conflicts with the love you feel for the ego because you made it [the ego]. 
 ⁶No love in this world is without this ambivalence [between loving and hating], and since no ego has experienced love without ambivalence the concept [of love] is beyond its [the-ego’s] understanding. 
 ⁷Love will enter immediately into any mind that truly wants it [love], but it [the mind] must want it [love] truly. 
-⁸This [wanting love truly] means that it [the mind] wants it [love] without ambivalence, and this kind of wanting [without ambivalence] is wholly without the ego’s ‘drive to get’.
+⁸This [wanting love truly] means that it [the mind] wants it [love] without ambivalence, and this kind of wanting [without ambivalence] is wholly without the ego’s “drive to get’.
 :::
 
 ::: details Substituted
@@ -178,7 +178,7 @@ You who identify with your ego cannot believe God loves you.
 ⁵You project onto the ego the decision to separate, and projecting the decision to separate conflicts with the love you feel for the ego, because you made the ego. 
 ⁶No love in this world is without ambivalence between loving and hating, and since no ego has experienced love without ambivalence, the concept of love is beyond the-ego’s understanding. 
 ⁷Love will enter immediately into any mind that truly wants love, but the mind must want love truly. 
-⁸Wanting love truly means that the mind wants love without ambivalence, and wanting without ambivalence, is wholly without the ego’s ‘drive to get’.
+⁸Wanting love truly means that the mind wants love without ambivalence, and wanting without ambivalence, is wholly without the ego’s “drive to get’.
 :::
 
 ::: details Simplified
@@ -339,13 +339,13 @@ Then we can both help make other minds ready for God.
 ::: details Commentary
 (1–2) …specifically address how Jesus sees his (or the Holy Spirit’s) role of looking with us at the ego’s darkness… Passages like these make no real sense, and  cannot truly be understood by students *unless* they first recognize the total unreality of all they perceive and experience. c/f [T-11.V.1:1–2:3,8–9](/text/11-god-or-the-ego/v-the-dynamics-of-the-ego/#1), [T-4.IV.2:4–6](/text/4-the-illusions-of-the-ego/iv-this-need-not-be/#2) (Wapnick, FCTL, p.130–131)
 
-(1–2) Honesty with oneself regarding the investment in specialness is essential to the process of forgiveness, for it undoes denial and projection, the ego’s ‘double shield’ that protecs its guilt and therefore its own existence. (Wapnick, FCTL, p.181)
+(1–2) Honesty with oneself regarding the investment in specialness is essential to the process of forgiveness, for it undoes denial and projection, the ego’s “double shield’ that protecs its guilt and therefore its own existence. (Wapnick, FCTL, p.181)
 
 (1–3) …Jesus’ role in the Holy Spirit’s plan for our salvation is to help us draw away the ego’s veil that kept *its* plan of individuality, guilt, and mindlessness hidden from our awareness. Calling on his help reflects our little willngness finally to see within our minds the seeming terror we once believed was there, and which became protected by the world and the body. Reaching for Jesus’ hand means choosing to look at what our ego is up to, and has always been up to. Our choice for Jesus is born of the honesty to bring to him all our darkest thoughts and wishes. This would have to include, acknowledging the ego’s goal, the desire to kill even him, not to mention everyone else, in order to satisfy our craving for specialness and to ensure the continuation of our individuality. 
 
 Our looking with Jesus therefore entails allowing ourselves finally to be aware — without judgment, fear or guilt — of the ugly murderousness that results from our need to protect and preserve our individual existence. This inherent selfishness of the separated self is not concerned with the cost of upholding individuality. As long as its craving for survival is satsified, moreover, it does not care who must pay the price, as long as it is not itself, and even if it means the seeming life of another. c/f [T-4.IV.2:4–6](/text/4-the-illusions-of-the-ego/iv-this-need-not-be/#2) (Wapnick, AAC, p. 191)
 
-(2) …the ego … is able to distort the Course’s teachings sufficiently to allow its truth to be clouded over, protecting the ego’s belief system from ever being looked at openly and honestly. … we must openly look at these errors and bring them to his love *after* which they can be released. Without such honest examiniation, the truth will continue to be obstructed, and its light ‘forbidden’ entry into the hidden portals of the ego’s darkened mind, where it would surely heal our mistaken thoughts. (Wapnick, LDNC, p.588) 
+(2) …the ego … is able to distort the Course’s teachings sufficiently to allow its truth to be clouded over, protecting the ego’s belief system from ever being looked at openly and honestly. … we must openly look at these errors and bring them to his love *after* which they can be released. Without such honest examiniation, the truth will continue to be obstructed, and its light “forbidden’ entry into the hidden portals of the ego’s darkened mind, where it would surely heal our mistaken thoughts. (Wapnick, LDNC, p.588) 
 
 (True enough, but be wary of the idea that if you don’t agree with Wapnick it’s because the ego is distorting the Course’s teachings –Ed.)
 ::: 
@@ -354,18 +354,18 @@ Our looking with Jesus therefore entails allowing ourselves finally to be aware 
 9. In your own mind, though denied by the ego, is the declaration of your release. 
 ²*God has given you everything*. 
 ³This one fact means the ego does not exist, and this makes it profoundly afraid. 
-⁴In the ego’s language, ‘to have’ and ‘to be’ are different, but they are identical to the Holy Spirit. 
+⁴In the ego’s language, “to have’ and “to be’ are different, but they are identical to the Holy Spirit. 
 ⁵The Holy Spirit knows that you both *have* everything and *are* everything. 
-⁶Any distinction in this respect is meaningful only when the idea of ‘getting’, which implies a lack, has already been accepted. 
+⁶Any distinction in this respect is meaningful only when the idea of “getting’, which implies a lack, has already been accepted. 
 ⁷That is why we make no distinction between *having* the Kingdom of God and *being* the Kingdom of God.
 
 ::: details Expanded
 In your own mind, though denied by the ego, is the declaration of your release. 
 ²*God has given you everything*. 
 ³This one fact [that God has given you everything] means the ego does not exist, and this [the ego not existing] makes it [the ego] profoundly afraid. 
-⁴In the ego’s language, ‘to have’ and ‘to be’ are different, but they [to have and to be] are identical to the Holy Spirit. 
+⁴In the ego’s language, “to have’ and “to be’ are different, but they [to have and to be] are identical to the Holy Spirit. 
 ⁵The Holy Spirit knows that you both *have* everything and *are* everything. 
-⁶Any distinction in this respect [having and being everything] is meaningful only when the idea of ‘getting’, which [idea] implies a lack, has already been accepted. 
+⁶Any distinction in this respect [having and being everything] is meaningful only when the idea of “getting’, which [idea] implies a lack, has already been accepted. 
 ⁷That is why we make no distinction between *having* the Kingdom of God and *being* the Kingdom of God.
 :::
 
@@ -373,9 +373,9 @@ In your own mind, though denied by the ego, is the declaration of your release.
 In your own mind, though denied by the ego, is the declaration of your release. 
 ²*God has given you everything*. 
 ³The one fact that God has given you everything, means the ego does not exist, and the ego not existing, makes the ego profoundly afraid. 
-⁴In the ego’s language, ‘to have’ and ‘to be’ are different, but to have and to be are identical to the Holy Spirit. 
+⁴In the ego’s language, “to have’ and “to be’ are different, but to have and to be are identical to the Holy Spirit. 
 ⁵The Holy Spirit knows that you both *have* everything and *are* everything. 
-⁶Any distinction in the respect of having and being everything, is meaningful only when the idea of ‘getting’, the idea of getting implies a lack, the idea of getting has already been accepted. 
+⁶Any distinction in the respect of having and being everything, is meaningful only when the idea of “getting’, the idea of getting implies a lack, the idea of getting has already been accepted. 
 ⁷That is why we make no distinction between *having* the Kingdom of God and *being* the Kingdom of God.
 :::
 

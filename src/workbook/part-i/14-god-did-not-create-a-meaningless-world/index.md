@@ -67,7 +67,7 @@ What God made does exist.
 ⁷God did not create that disaster [specify], and so it is not real.
 
 5. Suitable subjects for the application of today's idea also include anything you are afraid might happen to you, or to anyone about whom you are concerned. 
-²In each case, name the ‘disaster’ quite specifically. 
+²In each case, name the “disaster’ quite specifically. 
 ³Do not use general terms. 
 ⁴For example, do not say, “God did not create illness”, but, “God did not create cancer”, or heart attacks, or whatever may arouse fear in you.
 

@@ -279,7 +279,7 @@ If you use the ideas, you will see the the ideas are true.
 9. Remember only this: you need not believe the ideas, you need not accept them, and you need not even welcome them. 
 ²Some of them you may actively resist. 
 ³None of this will matter, or decrease their efficacy. 
-⁴But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reäctions to the ideas may be, use them. 
+⁴But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reactions to the ideas may be, use them. 
 ⁵Nothing more than that is required.
 
 ::: details Expanded
@@ -287,7 +287,7 @@ If you use the ideas, you will see the the ideas are true.
 Remember only this: you need not believe the ideas, you need not accept them [the ideas], and you need not even welcome them [the ideas]. 
 ²Some of them [the ideas] you may actively resist. 
 ³None of this [neither believing, accepting noR welcoming] will matter, or decrease their [the ideas’] efficacy. 
-⁴But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reäctions to the ideas may be, use them [the ideas]. 
+⁴But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reactions to the ideas may be, use them [the ideas]. 
 ⁵Nothing more than that [using the ideas] is required.
 
 :::
@@ -297,7 +297,7 @@ Remember only this: you need not believe the ideas, you need not accept them [th
 Remember only this: you need not believe the ideas, you need not accept the ideas, and you need not even welcome the ideas. 
 ²Some of the ideas you may actively resist. 
 ³Neither believing, accepting nor welcoming will matter, or decrease the ideas’ efficacy. 
-⁴But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reäctions to the ideas may be, use the ideas. 
+⁴But do not allow yourself to make exceptions in applying the ideas the workbook contains, and whatever your reactions to the ideas may be, use the ideas. 
 ⁵Nothing more than using the ideas is required.
 
 :::

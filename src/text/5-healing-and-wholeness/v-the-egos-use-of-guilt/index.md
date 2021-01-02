@@ -39,12 +39,12 @@ Your mind can elect to side with the Holy Spirit and Heaven.
 :::
 
 ::: details Note
-(5) Not sure if ‘both’ refers to Heaven and earth, or the Holy Spirit and the ego. (—Ed.)
+(5) Not sure if “both’ refers to Heaven and earth, or the Holy Spirit and the ego. (—Ed.)
 :::
 
 
 2. In Heaven there is no guilt, because the Kingdom is attained through the Atonement, which releases you to create. 
-²The word ‘create’ is appropriate here because, once what you have made is undone by the Holy Spirit, the blessed residue is restored and therefore continues in creation. 
+²The word “create’ is appropriate here because, once what you have made is undone by the Holy Spirit, the blessed residue is restored and therefore continues in creation. 
 ³What is truly blessed is incapable of giving rise to guilt, and must give rise to joy. 
 ⁴This makes it invulnerable to the ego because its peace is unassailable. 
 ⁵It is invulnerable to disruption because it is whole. 
@@ -58,7 +58,7 @@ Your mind can elect to side with the Holy Spirit and Heaven.
 
 ::: details Expanded
 In Heaven there is no guilt, because the Kingdom is attained through the Atonement, which [the Atonement] releases you to create. 
-²The word ‘create’ is appropriate here because, once what you have made is undone by the Holy Spirit, the blessed residue is restored and therefore continues in creation. 
+²The word “create’ is appropriate here because, once what you have made is undone by the Holy Spirit, the blessed residue is restored and therefore continues in creation. 
 ³What is truly blessed is incapable of giving rise to guilt, and must give rise to joy. 
 ⁴This makes it [the truly blessed] invulnerable to the ego because [the-truly-blessed’s] peace is unassailable. 
 ⁵It [the truly blessed] is invulnerable to disruption because it [the truly blessed] is whole. 
@@ -73,7 +73,7 @@ In Heaven there is no guilt, because the Kingdom is attained through the Atoneme
 
 ::: details Substituted
 In Heaven there is no guilt, because the Kingdom is attained through the Atonement; the Atonement releases you to create. 
-²The word ‘create’ is appropriate here because, once what you have made is undone by the Holy Spirit, the blessed residue is restored and therefore continues in creation. 
+²The word “create’ is appropriate here because, once what you have made is undone by the Holy Spirit, the blessed residue is restored and therefore continues in creation. 
 ³What is truly blessed is incapable of giving rise to guilt, and must give rise to joy. 
 ⁴This makes the truly blessed invulnerable to the ego because the-truly-blessed’s peace is unassailable. 
 ⁵The truly blessed is invulnerable to disruption because the truly blessed is whole. 
@@ -304,7 +304,7 @@ If you choose the ego, you are choosing to believe in delusional thoughts.
 ⁴They also show that you believe you can think apart from God, and want to. 
 ⁵Every disordered thought is attended by guilt at its inception, and maintained by guilt in its continuance. 
 ⁶Guilt is inescapable by those who believe they order their own thoughts, and must therefore obey their dictates. 
-⁷This makes them feel responsible for their errors without recognising that, by accepting this responsibility, they are reäcting irresponsibly. 
+⁷This makes them feel responsible for their errors without recognising that, by accepting this responsibility, they are reacting irresponsibly. 
 ⁸If the sole responsibility of the miracle worker is to accept the Atonement for himself, and I assure you that it is, then the responsibility for *what* is atoned for cannot be yours. 
 ⁹The dilemma cannot be resolved except by accepting the solution of undoing. 
 ¹⁰You *would* be responsible for the effects of all your wrong thinking if it could not be undone. 
@@ -318,7 +318,7 @@ Irrational thought is disordered thought.
 ⁴They [guilt feelings] also show that you believe you can think apart from God, and want to [think apart from God]. 
 ⁵Every disordered thought is attended by guilt at its [the-disordered-thought’s] inception, and maintained by guilt in its [the-disordered-thought’s] continuance. 
 ⁶Guilt is inescapable by those who believe they order their own thoughts, and must therefore obey their [own-thoughts’] dictates. 
-⁷This [obeying-thought’s-dictates] makes them [believers-in-ordering-their-own-thoughts] feel responsible for their [believers-in-ordering-their-own-thoughts’] errors without recognising that, by accepting this responsibility [responsibility for errors], they [believers-in-ordering-their-own-thoughts] are reäcting irresponsibly. 
+⁷This [obeying-thought’s-dictates] makes them [believers-in-ordering-their-own-thoughts] feel responsible for their [believers-in-ordering-their-own-thoughts’] errors without recognising that, by accepting this responsibility [responsibility for errors], they [believers-in-ordering-their-own-thoughts] are reacting irresponsibly. 
 ⁸If the sole responsibility of the miracle worker is to accept the Atonement for himself [miracle-worker’s-self], and I assure you that it [accepting the Atonement] is [miracle-worker’s-sole-responsibility], then the responsibility for *what* is atoned for cannot be yours [your responsibility]. 
 ⁹The dilemma [of whether or not you are responsible for thoughts effects] cannot be resolved except by accepting the solution of undoing. 
 ¹⁰You *would* be responsible for the effects of all your wrong thinking if it [your wrong thinking] could not be undone. 
@@ -333,7 +333,7 @@ Irrational thought is disordered thought.
 ⁴Guilt feelings also show that you believe you can think apart from God, and want to think apart from God. 
 ⁵Every disordered thought is attended by guilt at the-disordered-thought’s inception, and maintained by guilt in the-disordered-thought’s continuance. 
 ⁶Guilt is inescapable by those who believe they order their own thoughts, and must therefore obey own-thoughts’ dictates. 
-⁷Obeying-thought’s-dictates makes believers-in-ordering-their-own-thoughts feel responsible for their believers-in-ordering-their-own-thoughts’ errors without recognising that, by accepting this responsibility for errors, they believers-in-ordering-their-own-thoughts are reäcting irresponsibly. 
+⁷Obeying-thought’s-dictates makes believers-in-ordering-their-own-thoughts feel responsible for their believers-in-ordering-their-own-thoughts’ errors without recognising that, by accepting this responsibility for errors, they believers-in-ordering-their-own-thoughts are reacting irresponsibly. 
 ⁸If the sole responsibility of the miracle worker is to accept the Atonement for miracle-worker’s-self, and I assure you that accepting the Atonement is miracle-worker’s-sole-responsibility, then the responsibility for *what* is atoned for cannot be your responsibility. 
 ⁹The dilemma, of whether or not you are responsible for thoughts effects, cannot be resolved except by accepting the solution of undoing. 
 ¹⁰You *would* be responsible for the effects of all your wrong thinking if your wrong thinking could not be undone. 

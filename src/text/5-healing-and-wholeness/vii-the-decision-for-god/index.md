@@ -123,14 +123,14 @@ Be willing to be healed.
 ²You have not been asked to work out the plan of salvation yourself because, as I told you before, the remedy could not be of your making. 
 ³God Himself gave you the perfect Correction for everything you made that is not in accord with His holy Will. 
 ⁴I am making His plan perfectly explicit to you, and will also tell you of your part in it, and how urgent it is to fulfill it. 
-⁵God weeps at the ‘sacrifice’ of His children who believe they are lost to Him.
+⁵God weeps at the “sacrifice’ of His children who believe they are lost to Him.
 
 ::: details Expanded
 But the time is now. 
 ²You have not been asked to work out the plan of salvation yourself because, as I told you before, the remedy could not be of your making. 
 ³God Himself [God’s-Self] gave you the perfect Correction for everything you made that is not in accord with His [God’s] holy Will. 
 ⁴I am making His [God’s] plan perfectly explicit to you, and will also tell you of your part in it [God’s-plan], and how urgent it is to fulfill it [God’s-plan]. 
-⁵God weeps at the ‘sacrifice’ of His [God’s] children who believe they [God’s-children] are lost to Him [God].
+⁵God weeps at the “sacrifice’ of His [God’s] children who believe they [God’s-children] are lost to Him [God].
 :::
 
 ::: details Substituted
@@ -138,7 +138,7 @@ But the time is now.
 ²You have not been asked to work out the plan of salvation yourself because, as I told you before, the remedy could not be of your making. 
 ³God’s-Self gave you the perfect Correction for everything you made that is not in accord with God’s holy Will. 
 ⁴I am making God’s plan perfectly explicit to you, and will also tell you of your part in God’s-plan, and how urgent it is to fulfill God’s-plan. 
-⁵God weeps at the ‘sacrifice’ of [God’s] children who believe God’s-children are lost to God.
+⁵God weeps at the “sacrifice’ of [God’s] children who believe God’s-children are lost to God.
 :::
 
 ::: details Simplified
@@ -147,30 +147,30 @@ God wants everyone to be saved.
 :::
 
 
-5. Whenever you are not wholly joyous, it is because you have reäcted with a lack of love to one of God’s creations. 
-²Perceiving this as ‘sin’ you become defensive because you expect attack. 
-³The decision to reäct in this way is yours, and can therefore be undone. 
+5. Whenever you are not wholly joyous, it is because you have reacted with a lack of love to one of God’s creations. 
+²Perceiving this as “sin’ you become defensive because you expect attack. 
+³The decision to react in this way is yours, and can therefore be undone. 
 ⁴It cannot be undone by repentance in the usual sense, because this implies guilt. 
 ⁵If you allow yourself to feel guilty, you will reïnforce the error rather than allow it to be undone for you.
 
 ::: details Expanded
-Whenever you are not wholly joyous, it [not being wholly joyous] is because you have reäcted with a lack of love to one of God’s creations. 
-²Perceiving this [reäcting with a lack of love] as ‘sin’ you become defensive because you expect attack. 
-³The decision to reäct in this way [becoming defensive] is yours [decision], and can therefore be undone. 
+Whenever you are not wholly joyous, it [not being wholly joyous] is because you have reacted with a lack of love to one of God’s creations. 
+²Perceiving this [reacting with a lack of love] as “sin’ you become defensive because you expect attack. 
+³The decision to react in this way [becoming defensive] is yours [decision], and can therefore be undone. 
 ⁴It [the decision to become defensive] cannot be undone by repentance in the usual sense, because this [repentance] implies guilt. 
 ⁵If you allow yourself to feel guilty, you will reïnforce the error rather than allow it [the error] to be undone for you.
 :::
 
 ::: details Substituted
-Whenever you are not wholly joyous, not being wholly joyous is because you have reäcted with a lack of love to one of God’s creations. 
-²Perceiving [reäcting with a lack of love] as ‘sin’ you become defensive because you expect attack. 
-³The decision to reäct by becoming defensive is your [decision], and can therefore be undone. 
+Whenever you are not wholly joyous, not being wholly joyous is because you have reacted with a lack of love to one of God’s creations. 
+²Perceiving [reacting with a lack of love] as “sin’ you become defensive because you expect attack. 
+³The decision to react by becoming defensive is your [decision], and can therefore be undone. 
 ⁴The decision to become defensive cannot be undone by repentance in the usual sense, because repentance implies guilt. 
 ⁵If you allow yourself to feel guilty, you will reïnforce the error rather than allow the error to be undone for you.
 :::
 
 ::: details Simplified
-Reäcting with a lack of love creates defensiveness. 
+Reacting with a lack of love creates defensiveness. 
 Expecting attack and becoming defensive is an error.
 Don’t feel bad about errors. 
 Allow errors to be undone. 

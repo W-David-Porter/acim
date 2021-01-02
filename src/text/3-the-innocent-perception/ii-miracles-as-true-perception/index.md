@@ -123,7 +123,7 @@ Right-minded seeing can only see God’s perfect reality.
 
 4. You are afraid of God’s Will because you have used your own mind, which He created in the likeness of His Own, to miscreate. 
 ²The mind can miscreate only when it believes it is not free. 
-³An ‘imprisoned’ mind is not free because it is possessed, or held back, by itself. 
+³An “imprisoned’ mind is not free because it is possessed, or held back, by itself. 
 ⁴It is therefore limited, and the will is not free to assert itself. 
 ⁵To be one is to be of one mind or will. 
 ⁶When the Will of the Sonship and the Father are One, their perfect accord is Heaven.
@@ -131,7 +131,7 @@ Right-minded seeing can only see God’s perfect reality.
 ::: details Expanded
 You are afraid of God’s Will because you have used your own mind, which He [God] created in the likeness of His [God’s] Own [Mind], to miscreate. 
 ²The mind can miscreate only when it [the mind] believes it [the mind] is not free. 
-³An ‘imprisoned’ mind is not free because it [an imprisoned mind] is possessed, or held back, by itself [imprisoned-mind’s-self]. 
+³An “imprisoned’ mind is not free because it [an imprisoned mind] is possessed, or held back, by itself [imprisoned-mind’s-self]. 
 ⁴It [imprisoned mind] is therefore limited, and the will is not free to assert itself [will’s self]. 
 ⁵To be one is to be of one mind or will. 
 ⁶When the Will of the Sonship and the Father are One, their [Sonship and the Father’s] perfect accord is Heaven.
@@ -140,7 +140,7 @@ You are afraid of God’s Will because you have used your own mind, which He [Go
 ::: details Substituted
 You are afraid of God’s Will because you have used your own mind, which God created in the likeness of God’s Own Mind, to miscreate. 
 ²The mind can miscreate only when the mind believes the mind is not free. 
-³An ‘imprisoned’ mind is not free because an imprisoned mind is possessed, or held back, by imprisoned-mind’s-self. 
+³An “imprisoned’ mind is not free because an imprisoned mind is possessed, or held back, by imprisoned-mind’s-self. 
 ⁴Imprisoned mind is therefore limited, and the will is not free to assert will’s self. 
 ⁵To be one is to be of one mind or will. 
 ⁶When the Will of the Sonship and the Father are One, Sonship-and-the-Father’s perfect accord is Heaven.

@@ -81,7 +81,7 @@ By this we know ego is not a fact.
 :::
 
 ::: details Note
-(6) The ‘real’ is that which never changes, or that which has ‘necessary’ as opposed to ‘contingent’ existence. (—Ed.) 
+(6) The “real’ is that which never changes, or that which has “necessary’ as opposed to “contingent’ existence. (—Ed.) 
 :::
 
 
@@ -119,9 +119,9 @@ You threw knowledge away in the past and are still throwing knowledge away now.
 4. Think of the love of animals for their offspring, and the need they feel to protect them. 
 ²That is because they regard them as part of themselves. 
 ³No one dismisses something he considers part of himself. 
-⁴You reäct to your ego much as God does to His creations: with love, protection and charity. 
-⁵Your reäctions to the self you made are not surprising. 
-⁶In fact, they resemble in many ways how you will one day reäct to your real creations, which are as timeless as you are. 
+⁴You react to your ego much as God does to His creations: with love, protection and charity. 
+⁵Your reactions to the self you made are not surprising. 
+⁶In fact, they resemble in many ways how you will one day react to your real creations, which are as timeless as you are. 
 ⁷The question is not how you respond to the ego, but what you believe you are. 
 ⁸Belief is an ego function, and as long as your origin is open to belief you are regarding it from an ego viewpoint. 
 ⁹When teaching is no longer necessary you will merely know God. 
@@ -132,9 +132,9 @@ You threw knowledge away in the past and are still throwing knowledge away now.
 Think of the love of animals for their [animals’] offspring, and the need they [animals] feel to protect them [animals’ offspring]. 
 ²That [animals feel a need to protect animals’ offspring] is because they [animals] regard them [animals’ offspring] as part of themselves [animals’-selves]. 
 ³No one dismisses something he [one] considers part of himself [one’s-self]. 
-⁴You reäct to your ego much as God does to His [God’s] creations: with love, protection and charity. 
-⁵Your reäctions to the self you made are not surprising. 
-⁶In fact, they [your reäctions to the self you made] resemble in many ways how you will one day reäct to your real creations, which [your real creations] are as timeless as you are [timeless]. 
+⁴You react to your ego much as God does to His [God’s] creations: with love, protection and charity. 
+⁵Your reactions to the self you made are not surprising. 
+⁶In fact, they [your reactions to the self you made] resemble in many ways how you will one day react to your real creations, which [your real creations] are as timeless as you are [timeless]. 
 ⁷The question is not how you respond to the ego, but [the question is] what you believe you are. 
 ⁸Belief is an ego function, and as long as your origin is open to belief you are regarding it [your origin] from an ego viewpoint. 
 ⁹When teaching is no longer necessary you will merely know God. 
@@ -146,9 +146,9 @@ Think of the love of animals for their [animals’] offspring, and the need they
 Think of the love of animals for animals’ offspring, and the need animals feel to protect animals’ offspring. 
 ²Animals feel a need to protect animals’ offspring because animals regard animals’ offspring as part of animals’-selves. 
 ³No one dismisses something one considers part of one’s-self. 
-⁴You reäct to your ego much as God does to God’s creations: with love, protection and charity. 
-⁵Your reäctions to the self you made are not surprising. 
-⁶In fact, your reäctions to the self you made resemble in many ways how you will one day reäct to your real creations; your real creations are as timeless as you are timeless. 
+⁴You react to your ego much as God does to God’s creations: with love, protection and charity. 
+⁵Your reactions to the self you made are not surprising. 
+⁶In fact, your reactions to the self you made resemble in many ways how you will one day react to your real creations; your real creations are as timeless as you are timeless. 
 ⁷The question is not how you respond to the ego, but the question is what you believe you are. 
 ⁸Belief is an ego function, and as long as your origin is open to belief you are regarding your origin from an ego viewpoint. 
 ⁹When teaching is no longer necessary you will merely know God. 
@@ -218,22 +218,22 @@ God assures the outcome.
 ²This is obvious when you consider what is involved. 
 ³To the ego, to give anything implies that you will have to do without it. 
 ⁴When you associate giving with sacrifice, you give only because you believe that you are somehow getting something better, and can therefore do without the thing you give. 
-⁵‘Giving to get’ is an inescapable law of the ego, which always evaluates itself in relation to other egos. 
+⁵“Giving to get’ is an inescapable law of the ego, which always evaluates itself in relation to other egos. 
 ⁶It is therefore continually preoccupied with the belief in scarcity that gave rise to it. 
 ⁷Its whole perception of other egos as real is only an attempt to convince itself that *it* is real. 
-⁸‘Self-esteem’ in ego terms means nothing more than that the ego has deluded itself into accepting its reality, and is therefore temporarily less predatory. 
-⁹This ‘self-esteem’ is always vulnerable to stress, a term which refers to any perceived threat to the ego’s existence.
+⁸“Self-esteem’ in ego terms means nothing more than that the ego has deluded itself into accepting its reality, and is therefore temporarily less predatory. 
+⁹This “self-esteem’ is always vulnerable to stress, a term which refers to any perceived threat to the ego’s existence.
 
 ::: details Expanded
 Only those who have a real and lasting sense of abundance can be truly charitable. 
 ²This [only those who have abundance are charitable] is obvious when you consider what is involved. 
 ³To the ego, to give anything implies that you will have to do without it [whatever you give]. 
 ⁴When you associate giving with sacrifice, you give only because you believe that you are somehow getting something better, and can therefore do without the thing you give. 
-⁵‘Giving to get’ is an inescapable law of the ego, which always evaluates itself [ego’s-self] in relation to other egos. 
+⁵“Giving to get’ is an inescapable law of the ego, which always evaluates itself [ego’s-self] in relation to other egos. 
 ⁶It [the ego] is therefore continually preoccupied with the belief in scarcity that gave rise to it [the ego]. 
 ⁷Its [the-ego’s] whole perception of other egos as real is only an attempt to convince itself [the-ego’s-self] that *it [the ego]* is real. 
-⁸‘Self-esteem’ in ego terms means nothing more than that the ego has deluded itself [the-ego’s-self] into accepting its [the-ego’s] reality, and is therefore temporarily less predatory. 
-⁹This ‘self-esteem’ is always vulnerable to stress, a term which [term] refers to any perceived threat to the ego’s existence.
+⁸“Self-esteem’ in ego terms means nothing more than that the ego has deluded itself [the-ego’s-self] into accepting its [the-ego’s] reality, and is therefore temporarily less predatory. 
+⁹This “self-esteem’ is always vulnerable to stress, a term which [term] refers to any perceived threat to the ego’s existence.
 :::
 
 ::: details Substituted
@@ -241,11 +241,11 @@ Only those who have a real and lasting sense of abundance can be truly charitabl
 ²Only those who have abundance are charitable, is obvious when you consider what is involved. 
 ³To the ego, to give anything implies that you will have to do without whatever you give. 
 ⁴When you associate giving with sacrifice, you give only because you believe that you are somehow getting something better, and can therefore do without the thing you give. 
-⁵‘Giving to get’ is an inescapable law of the ego, which always evaluates ego’s-self in relation to other egos. 
+⁵“Giving to get’ is an inescapable law of the ego, which always evaluates ego’s-self in relation to other egos. 
 ⁶The ego is therefore continually preoccupied with the belief in scarcity that gave rise to the ego. 
 ⁷The-ego’s whole perception of other egos as real is only an attempt to convince the-ego’s-self that *the ego* is real. 
-⁸‘Self-esteem’ in ego terms means nothing more than that the ego has deluded the-ego’s-self into accepting the-ego’s reality, and is therefore temporarily less predatory. 
-⁹This ‘self-esteem’ is always vulnerable to stress; the term stress refers to any perceived threat to the ego’s existence.
+⁸“Self-esteem’ in ego terms means nothing more than that the ego has deluded the-ego’s-self into accepting the-ego’s reality, and is therefore temporarily less predatory. 
+⁹This “self-esteem’ is always vulnerable to stress; the term stress refers to any perceived threat to the ego’s existence.
 :::
 
 ::: details Simplified
@@ -265,9 +265,9 @@ Self-esteem is always vulnerable to stress, because self-esteem can be threatene
 7. The ego literally lives by comparisons. 
 ²Equality is beyond its grasp, and charity becomes impossible. 
 ³The ego never gives out of abundance, because it was made as a substitute for it. 
-⁴That is why the concept of ‘getting’ arose in the ego’s thought system. 
-⁵Appetites are ‘getting’ mechanisms, representing the ego’s need to confirm itself. 
-⁶This is as true of body appetites as it is of the so-called ‘higher ego needs’. 
+⁴That is why the concept of “getting’ arose in the ego’s thought system. 
+⁵Appetites are “getting’ mechanisms, representing the ego’s need to confirm itself. 
+⁶This is as true of body appetites as it is of the so-called “higher ego needs’. 
 ⁷Body appetites are not physical in origin. 
 ⁸The ego regards the body as its home, and tries to satisfy itself through the body. 
 ⁹But the idea that this is possible is a decision of the mind, which has become completely confused about what is really possible.
@@ -276,9 +276,9 @@ Self-esteem is always vulnerable to stress, because self-esteem can be threatene
 The ego literally lives by comparisons. 
 ²Equality is beyond its [the-ego’s] grasp, and charity becomes impossible. 
 ³The ego never gives out of abundance, because it [the ego] was made as a substitute for it [abundance]. 
-⁴That is why the concept of ‘getting’ arose in the ego’s thought system. 
-⁵Appetites are ‘getting’ mechanisms, representing the ego’s need to confirm itself [the-ego’s-self]. 
-⁶This [appetites are getting mechanisms] is as true of body appetites as it [appetites are getting mechanisms] is [true] of the so-called ‘higher ego needs’. 
+⁴That is why the concept of “getting’ arose in the ego’s thought system. 
+⁵Appetites are “getting’ mechanisms, representing the ego’s need to confirm itself [the-ego’s-self]. 
+⁶This [appetites are getting mechanisms] is as true of body appetites as it [appetites are getting mechanisms] is [true] of the so-called “higher ego needs’. 
 ⁷Body appetites are not physical in origin. 
 ⁸The ego regards the body as its [the-ego’s] home, and tries to satisfy itself [the-ego’s-self] through the body. 
 ⁹But the idea that this [satisfying the ego through the body] is possible is a decision of the mind, which [mind] has become completely confused about what is really possible.
@@ -288,9 +288,9 @@ The ego literally lives by comparisons.
 The ego literally lives by comparisons. 
 ²Equality is beyond the-ego’s grasp, and charity becomes impossible. 
 ³The ego never gives out of abundance, because the ego was made as a substitute for abundance. 
-⁴That is why the concept of ‘getting’ arose in the ego’s thought system. 
-⁵Appetites are ‘getting’ mechanisms, representing the ego’s need to confirm the-ego’s-self. 
-⁶Appetites are getting mechanisms is as true of body appetites, as appetites are getting mechanisms is true of the so-called ‘higher ego needs’. 
+⁴That is why the concept of “getting’ arose in the ego’s thought system. 
+⁵Appetites are “getting’ mechanisms, representing the ego’s need to confirm the-ego’s-self. 
+⁶Appetites are getting mechanisms is as true of body appetites, as appetites are getting mechanisms is true of the so-called “higher ego needs’. 
 ⁷Body appetites are not physical in origin. 
 ⁸The ego regards the body as the-ego’s home, and tries to satisfy the-ego’s-self through the body. 
 ⁹But the idea that satisfying the ego through the body is possible, is a decision of the mind; mind has become completely confused about what is really possible.
@@ -366,29 +366,29 @@ The ego can’t be recognized by spirit, so the ego has a sense of being rejecte
 
 
 9. Myths and magic are closely associated, since myths are usually related to ego origins, and magic to the powers the ego ascribes to itself. 
-²Mythological systems generally include some account of ‘the creation’, and associate this with its particular form of magic. 
-³The so-called ‘battle for survival’ is only the ego’s struggle to preserve itself, and its interpretation of its own beginning. 
+²Mythological systems generally include some account of “the creation’, and associate this with its particular form of magic. 
+³The so-called “battle for survival’ is only the ego’s struggle to preserve itself, and its interpretation of its own beginning. 
 ⁴This beginning is usually associated with physical birth, because it is hard to maintain that the ego existed before that point in time. 
-⁵The more ‘religiously’ ego-oriented may believe that the soul existed before, and will continue to exist after a temporary lapse into ego life. 
+⁵The more “religiously’ ego-oriented may believe that the soul existed before, and will continue to exist after a temporary lapse into ego life. 
 ⁶Some even believe that the soul will be punished for this lapse. 
 ⁷However, salvation does not apply to spirit, which is not in danger and does not need to be salvaged.
 
 ::: details Expanded
 Myths and magic are closely associated, since myths are usually related to ego origins, and magic to the powers the ego ascribes to itself [the-ego’s-self]. 
-²Mythological systems generally include some account of ‘the creation,’ and associate this [an account of the creation] with its [the-mythological-system’s] particular form of magic. 
-³The so-called ‘battle for survival’ is only the ego’s struggle to preserve itself [the-ego’s-self], and its [the-ego’s] interpretation of its [the-ego’s] own beginning. 
+²Mythological systems generally include some account of “the creation,’ and associate this [an account of the creation] with its [the-mythological-system’s] particular form of magic. 
+³The so-called “battle for survival’ is only the ego’s struggle to preserve itself [the-ego’s-self], and its [the-ego’s] interpretation of its [the-ego’s] own beginning. 
 ⁴This [the ego’s] beginning is usually associated with physical birth, because it is hard to maintain that the ego existed before that [physical birth] point in time. 
-⁵The more ‘religiously’ ego-oriented may believe that the soul existed before [physical birth], and will continue to exist after a temporary lapse into ego life. 
+⁵The more “religiously’ ego-oriented may believe that the soul existed before [physical birth], and will continue to exist after a temporary lapse into ego life. 
 ⁶Some even believe that the soul will be punished for this lapse [into ego life]. 
 ⁷However, salvation does not apply to spirit, which [spirit] is not in danger and does not need to be salvaged.
 :::
 
 ::: details Substituted
 Myths and magic are closely associated, since myths are usually related to ego origins, and magic to the powers the ego ascribes to the-ego’s-self. 
-²Mythological systems generally include some account of ‘the creation,’ and associate an account of the creation with the-mythological-system’s particular form of magic. 
-³The so-called ‘battle for survival’ is only the ego’s struggle to preserve the-ego’s-self, and the-ego’s interpretation of the-ego’s own beginning. 
+²Mythological systems generally include some account of “the creation,’ and associate an account of the creation with the-mythological-system’s particular form of magic. 
+³The so-called “battle for survival’ is only the ego’s struggle to preserve the-ego’s-self, and the-ego’s interpretation of the-ego’s own beginning. 
 ⁴The ego’s beginning is usually associated with physical birth, because it is hard to maintain that the ego existed before the point in time of physical birth. 
-⁵The more ‘religiously’ ego-oriented may believe that the soul existed before physical birth, and will continue to exist after a temporary lapse into ego life. 
+⁵The more “religiously’ ego-oriented may believe that the soul existed before physical birth, and will continue to exist after a temporary lapse into ego life. 
 ⁶Some even believe that the soul will be punished for this lapse into ego life. 
 ⁷However, salvation does not apply to spirit; spirit is not in danger and does not need to be salvaged.
 :::
@@ -398,14 +398,14 @@ Spirit does not need salvation for any reason.
 :::
 
 
-10. Salvation is nothing more than ‘right-mindedness’, which is not the One-mindedness of the Holy Spirit, but which must be achieved before One-mindedness is restored. 
+10. Salvation is nothing more than “right-mindedness’, which is not the One-mindedness of the Holy Spirit, but which must be achieved before One-mindedness is restored. 
 ²Right-mindedness leads to the next step automatically, because right perception is uniformly without attack, and therefore wrong-mindedness is obliterated. 
 ³The ego cannot survive without judgment, and is laid aside accordingly. 
 ⁴The mind then has only one direction in which it can move. 
 ⁵Its direction is always automatic, because it cannot but be dictated by the thought system to which it adheres.
 
 ::: details Expanded
-Salvation is nothing more than ‘right-mindedness’, which [right-mindedness] is not the One-mindedness of the Holy Spirit, but which [right-mindedness] must be achieved before One-mindedness is restored. 
+Salvation is nothing more than “right-mindedness’, which [right-mindedness] is not the One-mindedness of the Holy Spirit, but which [right-mindedness] must be achieved before One-mindedness is restored. 
 ²Right-mindedness leads to the next step automatically, because right perception is uniformly without attack, and therefore wrong-mindedness is obliterated. 
 ³The ego cannot survive without judgment, and is laid aside accordingly. 
 ⁴The mind then has only one direction in which it [the mind] can move. 
@@ -413,7 +413,7 @@ Salvation is nothing more than ‘right-mindedness’, which [right-mindedness] 
 :::
 
 ::: details Substituted
-Salvation is nothing more than ‘right-mindedness’; right-mindedness is not the One-mindedness of the Holy Spirit; but right-mindedness must be achieved before One-mindedness is restored. 
+Salvation is nothing more than “right-mindedness’; right-mindedness is not the One-mindedness of the Holy Spirit; but right-mindedness must be achieved before One-mindedness is restored. 
 ²Right-mindedness leads to the next step automatically, because right perception is uniformly without attack, and therefore wrong-mindedness is obliterated. 
 ³The ego cannot survive without judgment, and is laid aside accordingly. 
 ⁴The mind then has only one direction in which the mind can move. 
@@ -438,7 +438,7 @@ The mind is directed automatically to One-mindedness.
 ⁵You may ask how this is possible as long as you appear to be living in this world. 
 ⁶That is a reasonable question. 
 ⁷You must be careful, however, that you really understand it. 
-⁸Who is the ‘you’ who are living in this world? 
+⁸Who is the “you’ who are living in this world? 
 ⁹Spirit is immortal, and immortality is a constant state. 
 ¹⁰It is as true now as it ever was or ever will be, because it implies no change at all. 
 ¹¹It is not a continuum, nor is it understood by being compared to an opposite. 
@@ -453,7 +453,7 @@ It cannot be emphasized too often that correcting perception is merely a tempora
 ⁵You may ask how this [realising all perception is unnecessary] is possible as long as you appear to be living in this world. 
 ⁶That [how is realising all perception is unnecessary] is a reasonable question. 
 ⁷You must be careful, however, that you really understand it [the question]. 
-⁸Who is the ‘you’ who are living in this world? 
+⁸Who is the “you’ who are living in this world? 
 ⁹Spirit is immortal, and immortality is a constant state. 
 ¹⁰It [immortality being a constant state] is as true now as it [immortality being a constant state] ever was or ever will be, because it [a constant state] implies no change at all. 
 ¹¹It [immortality] is not a continuum, nor is it [immortality] understood by being compared to an opposite. 
@@ -469,7 +469,7 @@ It cannot be emphasized too often that correcting perception is merely a tempora
 ⁵You may ask how realising all perception is unnecessary, is possible as long as you appear to be living in this world. 
 ⁶How is realising all perception is unnecessary? is a reasonable question. 
 ⁷You must be careful, however, that you really understand the question. 
-⁸Who is the ‘you’ who are living in this world? 
+⁸Who is the “you’ who are living in this world? 
 ⁹Spirit is immortal, and immortality is a constant state. 
 ¹⁰Immortality being a constant state is as true now as immortality being a constant state ever was or ever will be, because a constant state implies no change at all. 
 ¹¹Immortality is not a continuum, nor is immortality understood by being compared to an opposite. 
@@ -487,9 +487,9 @@ Knowledge does not compare because there is no opposite to immortality.
 
 {% if showCommentary %} 
 ::: details Commentary
-(8) The ‘you’ who are the observer is outside of time and space, and therefore is outside of Crompond, New York, 1985. In other words, the ‘you’ who are the observer in the mind is not identical with the ‘you’ who are sitting here at this table. (Wapnick, AVI, p.37)
+(8) The “you’ who are the observer is outside of time and space, and therefore is outside of Crompond, New York, 1985. In other words, the “you’ who are the observer in the mind is not identical with the “you’ who are sitting here at this table. (Wapnick, AVI, p.37)
 
-(8) He is teaching us that this ‘you’ is not our real Self at all, and that we have to be vigilant in recognising how the ego masks our true Identity that is held for us by the Holy Spirit. (Wapnick, AVI, p.205)
+(8) He is teaching us that this “you’ is not our real Self at all, and that we have to be vigilant in recognising how the ego masks our true Identity that is held for us by the Holy Spirit. (Wapnick, AVI, p.205)
 ::: 
 {% endif %}
 

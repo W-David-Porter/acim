@@ -63,11 +63,11 @@ Miracles are for Atonement.
 ::: details Commentary
 (1) Atonement corrects the error of separation, which holds that God was the victim of the Son’s attack, who then became the victim of his Father’s justified vengeance. (Wapnick, F.A.J., p.189.)
 
-(1) The life of Jesus was [an] ‘act of love’, for he was the ‘thought’ within the separated mind that first remembered his relationship with God and Identity as Christ (along with the rest of the Sonship). He has been ‘placed’ by the Holy Spirit as head of the overall plan, in charge of the Sonship and the Atonement. (Wapnick, L.D.N.C., p.514.) c/f [T-1.III.4:1](#4), [T-2.II.4:2–5](/text/2-the-separation-and-the-atonement/ii-the-atonement-as-defence#4).
+(1) The life of Jesus was [an] “act of love’, for he was the “thought’ within the separated mind that first remembered his relationship with God and Identity as Christ (along with the rest of the Sonship). He has been “placed’ by the Holy Spirit as head of the overall plan, in charge of the Sonship and the Atonement. (Wapnick, L.D.N.C., p.514.) c/f [T-1.III.4:1](#4), [T-2.II.4:2–5](/text/2-the-separation-and-the-atonement/ii-the-atonement-as-defence#4).
 
 (1) When the Atonement is complete and the Sonship awakens from the dream, the Second Coming of Christ dawns. And Jesus is asking us to join in that process with him, which he “undertook to begin”. (Wapnick, A.V.I., p.228)
 
-(1) This ‘appointment’ of Jesus occurred on quite a different level since there is no time, and all of what we know as time is happening in this one instant, *now*, which we merely reëxperience within our minds. (Wapnick, A.A.C., p.206.)
+(1) This “appointment’ of Jesus occurred on quite a different level since there is no time, and all of what we know as time is happening in this one instant, *now*, which we merely reëxperience within our minds. (Wapnick, A.A.C., p.206.)
 
 (1, 4) It is precisely his function of being in charge of the process of Atonement that we need (Wapnick, F.A.J., p.293.)
 ::: 
@@ -178,7 +178,7 @@ Follow my guidance.
 ⁶Therefore you are in a state of grace forever.
 
 ⁷Atonement undoes all errors in this respect, and thus uproots the source of fear. 
-⁸Whenever you experience God’s reässurances as threat, it is always because you are defending misplaced or misdirected loyalty. 
+⁸Whenever you experience God’s reassurances as threat, it is always because you are defending misplaced or misdirected loyalty. 
 ⁹When you project this to others you imprison them, but only to the extent to which you reïnforce errors they have already made. 
 ¹⁰This makes them vulnerable to the distortions of others, since their own perception of themselves is distorted. 
 ¹¹The miracle worker can only bless them, and this undoes their distortions and frees them from prison.
@@ -193,7 +193,7 @@ Error cannot really threaten truth, which [truth] can always withstand it [error
 ⁶Therefore you are in a state of grace forever.
 
 ⁷Atonement undoes all errors in this respect [as being in a state of grace], and thus uproots the source of fear. 
-⁸Whenever you experience God’s reässurances as threat, it [experiencing God’s reässurances as threat] is always because you are defending misplaced or misdirected loyalty. 
+⁸Whenever you experience God’s reassurances as threat, it [experiencing God’s reassurances as threat] is always because you are defending misplaced or misdirected loyalty. 
 ⁹When you project this [defence of misplaced or misdirected loyalty] to others you imprison them [the other], but only to the extent to which you reïnforce errors they [the other] have already made. 
 ¹⁰This [imprisoning the other] makes them [the other] vulnerable to the distortions of others, since their [the other’s] own perception of themselves [the other’s own self] is distorted. 
 ¹¹The miracle worker can only bless them [the other], and this [blessing the other] undoes their [the other’s] distortions and frees them [the other] from prison.
@@ -209,7 +209,7 @@ Error cannot really threaten truth; truth can always withstand error.
 ⁶Therefore you are in a state of grace forever.
 
 ⁷Atonement undoes all errors as being in a state of grace, and thus uproots the source of fear. 
-⁸Whenever you experience God’s reässurances as threat, experiencing God’s reässurances as threat is always because you are defending misplaced or misdirected loyalty. 
+⁸Whenever you experience God’s reassurances as threat, experiencing God’s reassurances as threat is always because you are defending misplaced or misdirected loyalty. 
 ⁹When you project this defence of misplaced or misdirected loyalty to others you imprison the other, but only to the extent to which you reïnforce errors the other has already made. 
 ¹⁰Imprisoning the other makes the other vulnerable to the distortions of others, since the other’s own perception of the other’s own self is distorted. 
 ¹¹The miracle worker can only bless the other, and blessing the other undoes the other’s distortions and frees the other from prison.

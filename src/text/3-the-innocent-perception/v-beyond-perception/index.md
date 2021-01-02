@@ -39,7 +39,7 @@ Resurrection was accomplished by my will being united with the Father’s will.
 :::
 
 
-2. Since the separation, the words ‘create’ and ‘make’ have become confused. 
+2. Since the separation, the words “create’ and “make’ have become confused. 
 ²When you make something, you do so out of a specific sense of lack or need. 
 ³Anything made for a specific purpose has no true generalisability. 
 ⁴When you make something to fill a perceived lack, you are tacitly implying that you believe in separation. 
@@ -49,7 +49,7 @@ Resurrection was accomplished by my will being united with the Father’s will.
 ⁸The highly specific nature of invention is not worthy of the abstract creativity of God’s creations. 
 
 ::: details Expanded
-Since the separation, the words ‘create’ and ‘make’ have become confused. 
+Since the separation, the words “create’ and “make’ have become confused. 
 ²When you make something, you do so [make something] out of a specific sense of lack or need. 
 ³Anything made for a specific purpose has no true generalisability. 
 ⁴When you make something to fill a perceived lack, you are tacitly implying that you believe in separation. 
@@ -60,7 +60,7 @@ Since the separation, the words ‘create’ and ‘make’ have become confused
 :::
 
 ::: details Substituted
-Since the separation, the words ‘create’ and ‘make’ have become confused. 
+Since the separation, the words “create’ and “make’ have become confused. 
 ²When you make something, you make something out of a specific sense of lack or need. 
 ³Anything made for a specific purpose has no true generalisability. 
 ⁴When you make something to fill a perceived lack, you are tacitly implying that you believe in separation. 
@@ -71,7 +71,7 @@ Since the separation, the words ‘create’ and ‘make’ have become confused
 :::
 
 ::: details Simplified
-‘Make’ means something made out of a specific sense of lack or need. 
+“Make’ means something made out of a specific sense of lack or need. 
 Making things is believing in separation. 
 The ego makes thought systems. 
 God’s creations have abstract creativity.
@@ -119,9 +119,9 @@ Your are confused between what you are trying to make of yourself, and God’s i
 ³This implies that the answer is not only one you know, but is also one that is up to you to supply. 
 ⁴Yet you cannot perceive yourself correctly. 
 ⁵You have no image to be perceived. 
-⁶The word ‘image’ is always perception-related, and not a part of knowledge. 
+⁶The word “image’ is always perception-related, and not a part of knowledge. 
 ⁷Images are symbolic and stand for something else. 
-⁸The idea of ‘changing your image’ recognizes the power of perception, but also implies that there is nothing stable to know.
+⁸The idea of “changing your image’ recognizes the power of perception, but also implies that there is nothing stable to know.
 
 ::: details Expanded
 The fundamental question you continually ask yourself cannot properly be directed to yourself at all. 
@@ -129,9 +129,9 @@ The fundamental question you continually ask yourself cannot properly be directe
 ³This [asking what it is you are] implies that the answer is not only one [an answer] you know, but is also one [an answer] that is up to you to supply. 
 ⁴Yet you cannot perceive yourself correctly. 
 ⁵You have no image to be perceived. 
-⁶The word ‘image’ is always perception-related, and not a part of knowledge. 
+⁶The word “image’ is always perception-related, and not a part of knowledge. 
 ⁷Images are symbolic and stand for something else. 
-⁸The idea of ‘changing your image’ recognizes the power of perception, but also implies that there is nothing stable to know.
+⁸The idea of “changing your image’ recognizes the power of perception, but also implies that there is nothing stable to know.
 :::
 
 ::: details Substituted
@@ -140,9 +140,9 @@ The fundamental question you continually ask yourself cannot properly be directe
 ³Asking what it is you are implies that the answer is not only an answer you know, but is also an answer that is up to you to supply. 
 ⁴Yet you cannot perceive yourself correctly. 
 ⁵You have no image to be perceived. 
-⁶The word ‘image’ is always perception-related, and not a part of knowledge. 
+⁶The word “image’ is always perception-related, and not a part of knowledge. 
 ⁷Images are symbolic and stand for something else. 
-⁸The idea of ‘changing your image’ recognizes the power of perception, but also implies that there is nothing stable to know.
+⁸The idea of “changing your image’ recognizes the power of perception, but also implies that there is nothing stable to know.
 :::
 
 ::: details Simplified
@@ -153,7 +153,7 @@ You cannot perceive yourself correctly.
 
 
 5. Knowing is not open to interpretation. 
-²You may try to ‘interpret’ meaning, but this is always open to error because it refers to the *perception* of meaning. 
+²You may try to “interpret’ meaning, but this is always open to error because it refers to the *perception* of meaning. 
 ³Such incongruities are the result of attempts to regard yourself as separated and unseparated at the same time. 
 ⁴It is impossible to make so fundamental a confusion without increasing your overall confusion still further. 
 ⁵Your mind may have become very ingenious, but as always happens when method and content are separated, it is utilised in a futile attempt to escape from an inescapable impasse. 
@@ -162,7 +162,7 @@ You cannot perceive yourself correctly.
 
 ::: details Expanded
 Knowing is not open to interpretation. 
-²You may try to ‘interpret’ meaning, but this [trying to interpret meaning] is always open to error because it [trying to intrepret meaning] refers to the *perception* of meaning. 
+²You may try to “interpret’ meaning, but this [trying to interpret meaning] is always open to error because it [trying to intrepret meaning] refers to the *perception* of meaning. 
 ³Such incongruities [between meaning and perception of meaning] are the result of attempts to regard yourself as separated and unseparated at the same time. 
 ⁴It is impossible to make so fundamental a confusion without increasing your overall confusion still further. 
 ⁵Your mind may have become very ingenious, but as always happens when method and content are separated, it [your mind’s ingeniousness] is utilised in a futile attempt to escape from an inescapable impasse. 
@@ -172,7 +172,7 @@ Knowing is not open to interpretation.
 
 ::: details Substituted
 Knowing is not open to interpretation. 
-²You may try to ‘interpret’ meaning, but trying to interpret meaning is always open to error because trying to intrepret meaning refers to the *perception* of meaning. 
+²You may try to “interpret’ meaning, but trying to interpret meaning is always open to error because trying to intrepret meaning refers to the *perception* of meaning. 
 ³Incongruities between meaning and perception of meaning, are the result of attempts to regard yourself as separated and unseparated at the same time. 
 ⁴It is impossible to make so fundamental a confusion without increasing your overall confusion still further. 
 ⁵Your mind may have become very ingenious, but as always happens when method and content are separated, your mind’s ingeniousness is utilised in a futile attempt to escape from an inescapable impasse. 
@@ -244,20 +244,20 @@ Creation is your source and your function.
 <div id=7 class=zero-height></div>
 
 7. The statement “God created man in his own image and likeness” needs reïnterpretation. 
-²‘Image’ can be understood as ‘thought’, and ‘likeness’ as ‘of a like quality’. 
+²“Image’ can be understood as “thought’, and “likeness’ as “of a like quality’. 
 ³God did create spirit in His Own Thought and of a quality like to His Own. 
 ⁴There is nothing else. 
-⁵Perception, on the other hand, is impossible without a belief in ‘more’ and ‘less’. 
+⁵Perception, on the other hand, is impossible without a belief in “more’ and “less’. 
 ⁶At every level it involves selectivity. 
 ⁷Perception is a continual process of accepting and rejecting, organising and reorganising, shifting and changing. 
 ⁸Evaluation is an essential part of perception, because judgments are necessary in order to select.
 
 ::: details Expanded
 The statement “God created man in his own image and likeness” needs reïnterpretation. 
-²“Image” can be understood as ‘thought’, and “likeness” [can be understood] as ‘of a like quality’. 
+²“Image” can be understood as “thought’, and “likeness” [can be understood] as “of a like quality’. 
 ³God did create spirit in His [God’s] Own Thought and of a quality like to His [God’s] Own. 
 ⁴There is nothing else. 
-⁵Perception, on the other hand, is impossible without a belief in ‘more’ and ‘less’. 
+⁵Perception, on the other hand, is impossible without a belief in “more’ and “less’. 
 ⁶At every level it [perception] involves selectivity. 
 ⁷Perception is a continual process of accepting and rejecting, organising and reorganising, shifting and changing. 
 ⁸Evaluation is an essential part of perception, because judgments are necessary in order to select.
@@ -265,10 +265,10 @@ The statement “God created man in his own image and likeness” needs reïnter
 
 ::: details Substituted
 The statement “God created man in his own image and likeness” needs reïnterpretation. 
-²“Image” can be understood as ‘thought’, and “likeness” can be understood as ‘of a like quality’. 
+²“Image” can be understood as “thought’, and “likeness” can be understood as “of a like quality’. 
 ³God did create spirit in God’s Own Thought and of a quality like to God’s Own. 
 ⁴There is nothing else. 
-⁵Perception, on the other hand, is impossible without a belief in ‘more’ and ‘less’. 
+⁵Perception, on the other hand, is impossible without a belief in “more’ and “less’. 
 ⁶At every level perception involves selectivity. 
 ⁷Perception is a continual process of accepting and rejecting, organising and reorganising, shifting and changing. 
 ⁸Evaluation is an essential part of perception, because judgments are necessary in order to select.
@@ -277,7 +277,7 @@ The statement “God created man in his own image and likeness” needs reïnter
 ::: details Simplified
 There is only spirit. 
 Spirit is created in God’s Thought, and in like quality to God. 
-Perception requires belief in ‘more’ and ‘less’. 
+Perception requires belief in “more’ and “less’. 
 Perception involves: accepting/rejecting, organising/reorganising, shifting and changing, evaluation, selectivity, and judgment.
 :::
 

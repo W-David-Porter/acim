@@ -64,26 +64,26 @@ God did not permit his Son to suffer for being good.
 2. The best defence, as always, is not to attack another’s position, but rather to protect the truth. 
 ²It is unwise to accept any concept if you have to invert a whole frame of reference in order to justify it. 
 ³This procedure is painful in its minor applications and genuinely tragic on a wider scale. 
-⁴Persecution frequently results in an attempt to ‘justify’ the terrible misperception that God Himself persecuted His Own Son on behalf of salvation. 
+⁴Persecution frequently results in an attempt to “justify’ the terrible misperception that God Himself persecuted His Own Son on behalf of salvation. 
 ⁵The very words are meaningless. 
 ⁶It has been particularly difficult to overcome this because, although the error itself is no harder to correct than any other, many have been unwilling to give it up in view of its prominent value as a defence. 
 ⁷In milder forms a parent says, “This hurts me more than it hurts you”, and feels exonerated in beating a child. 
 ⁸Can you believe our Father really thinks this way? 
 ⁹It is so essential that all such thinking be dispelled that we must be sure that nothing of this kind remains in your mind. 
-¹⁰I was not ‘punished’ because *you* were bad. 
+¹⁰I was not “punished’ because *you* were bad. 
 ¹¹The wholly benign lesson the Atonement teaches is lost if it is tainted with this kind of distortion in any form.
 
 ::: details Expanded
 The best defence, as always, is not to attack another’s position, but rather to protect the truth. 
 ²It is unwise to accept any concept if you have to invert a whole frame of reference in order to justify it [the concept]. 
 ³This procedure [of inverting a whole frame of reference] is painful in its [procedure’s] minor applications and genuinely tragic on a wider scale. 
-⁴Persecution frequently results in an attempt to ‘justify’ the terrible misperception that God Himself [God’s Self] persecuted His [God’s] Own Son on behalf of salvation. 
+⁴Persecution frequently results in an attempt to “justify’ the terrible misperception that God Himself [God’s Self] persecuted His [God’s] Own Son on behalf of salvation. 
 ⁵The very words are meaningless. 
 ⁶It has been particularly difficult to overcome this [the terrible misperception] because, although the error itself is no harder to correct than any other [error], many have been unwilling to give it [the error] up in view of its [error’s] prominent value as a defence. 
 ⁷In milder forms a parent says, “This [beating a child] hurts me more than it hurts you”, and feels exonerated in beating a child. 
 ⁸Can you believe our Father really thinks this way [attack can be justified]? 
 ⁹It is so essential that all such thinking [that attack can be justified] be dispelled that we must be sure that nothing of this kind [of thinking] remains in your mind. 
-¹⁰I was not ‘punished’ because *you* were bad. 
+¹⁰I was not “punished’ because *you* were bad. 
 ¹¹The wholly benign lesson the Atonement teaches is lost if it [the wholly benign lesson of the Atonement] is tainted with this kind of distortion [that attack can be justified] in any form.
 :::
 
@@ -91,13 +91,13 @@ The best defence, as always, is not to attack another’s position, but rather t
 The best defence, as always, is not to attack another’s position, but rather to protect the truth. 
 ²It is unwise to accept any concept if you have to invert a whole frame of reference in order to justify the concept. 
 ³The procedure of inverting a whole frame of reference is painful in the procedure’s minor applications and genuinely tragic on a wider scale. 
-⁴Persecution frequently results in an attempt to ‘justify’ the terrible misperception that God God’s Self persecuted God’s Own Son on behalf of salvation. 
+⁴Persecution frequently results in an attempt to “justify’ the terrible misperception that God God’s Self persecuted God’s Own Son on behalf of salvation. 
 ⁵The very words are meaningless. 
 ⁶It has been particularly difficult to overcome the terrible misperception because, although the error itself is no harder to correct than any other error, many have been unwilling to give it the error up in view of its [error’s] prominent value as a defence. 
 ⁷In milder forms a parent says, “Beating a child hurts me more than it hurts you”, and feels exonerated in beating a child. 
 ⁸Can you believe our Father really thinks attack can be justified? 
 ⁹It is so essential that all thinking that attack can be justified be dispelled, that we must be sure that nothing of this kind of thinking remains in your mind. 
-¹⁰I was not ‘punished’ because *you* were bad. 
+¹⁰I was not “punished’ because *you* were bad. 
 ¹¹The wholly benign lesson the Atonement teaches is lost if the wholly benign lesson of the Atonement is tainted with the kind of distortion attack can be justified in any form.
 :::
 
@@ -119,12 +119,12 @@ God could not think this way.
 
 <div id=3 class=zero-height></div>
 
-3. The statement “Vengeance is mine, says the Lord” is a misperception by which one assigns his own ‘evil’ past to God. 
-²The ‘evil’ past has nothing to do with God. 
+3. The statement “Vengeance is mine, says the Lord” is a misperception by which one assigns his own “evil’ past to God. 
+²The “evil’ past has nothing to do with God. 
 ³He did not create it and He does not maintain it. 
 ⁴God does not believe in retribution. 
 ⁵His Mind does not create that way. 
-⁶He does not hold your ‘evil’ deeds against you. 
+⁶He does not hold your “evil’ deeds against you. 
 ⁷Is it likely that He would hold them against me? 
 ⁸Be very sure that you recognize how utterly impossible this assumption is, and how entirely it arises from projection. 
 ⁹This kind of error is responsible for a host of related errors, including the belief that God rejected Adam and forced him out of the Garden of Eden. 
@@ -132,29 +132,29 @@ God could not think this way.
 ¹¹I have made every effort to use words that are almost impossible to distort, but it is always possible to twist symbols around if you wish.
 
 ::: details Expanded
-The statement “Vengeance is mine, says the Lord” is a misperception by which [misperception] one assigns his [one’s] own ‘evil’ past to God. 
-²The ‘evil’ past has nothing to do with God. 
-³He [God] did not create it [the ‘evil’ past] and He [God] does not maintain it [the ‘evil’ past]. 
+The statement “Vengeance is mine, says the Lord” is a misperception by which [misperception] one assigns his [one’s] own “evil’ past to God. 
+²The “evil’ past has nothing to do with God. 
+³He [God] did not create it [the “evil’ past] and He [God] does not maintain it [the “evil’ past]. 
 ⁴God does not believe in retribution. 
 ⁵His [God’s] Mind does not create that way [with retribution]. 
-⁶He [God] does not hold your ‘evil’ deeds against you. 
-⁷Is it likely that He [God] would hold them [your ‘evil’ deeds] against me? 
-⁸Be very sure that you recognize how utterly impossible this assumption [that God would hold your ‘evil’ deeds against you] is, and how entirely it [the assumption that God would hold your ‘evil’ deeds against you] arises from projection. 
-⁹This kind of error [that God would hold your ‘evil’ deeds against you] is responsible for a host of related errors, including the belief that God rejected Adam and forced him [Adam] out of the Garden of Eden. 
+⁶He [God] does not hold your “evil’ deeds against you. 
+⁷Is it likely that He [God] would hold them [your “evil’ deeds] against me? 
+⁸Be very sure that you recognize how utterly impossible this assumption [that God would hold your “evil’ deeds against you] is, and how entirely it [the assumption that God would hold your “evil’ deeds against you] arises from projection. 
+⁹This kind of error [that God would hold your “evil’ deeds against you] is responsible for a host of related errors, including the belief that God rejected Adam and forced him [Adam] out of the Garden of Eden. 
 ¹⁰It is also why you may believe from time to time that I am misdirecting you. 
 ¹¹I have made every effort to use words that are almost impossible to distort, but it is always possible to twist symbols around if you wish.
 :::
 
 ::: details Substituted
-The statement “Vengeance is mine, says the Lord” is a misperception; by misperception one assigns one’s own ‘evil’ past to God. 
-²The ‘evil’ past has nothing to do with God. 
-³God did not create the ‘evil’ past and God does not maintain the ‘evil’ past. 
+The statement “Vengeance is mine, says the Lord” is a misperception; by misperception one assigns one’s own “evil’ past to God. 
+²The “evil’ past has nothing to do with God. 
+³God did not create the “evil’ past and God does not maintain the “evil’ past. 
 ⁴God does not believe in retribution. 
 ⁵God’s Mind does not create with retribution. 
-⁶God does not hold your ‘evil’ deeds against you. 
-⁷Is it likely that God would hold your ‘evil’ deeds against me? 
-⁸Be very sure that you recognize how utterly impossible the assumption that God would hold your ‘evil’ deeds against you is, and how entirely the assumption that God would hold your ‘evil’ deeds against you arises from projection. 
-⁹The kind of error that God would hold your ‘evil’ deeds against you, is responsible for a host of related errors, including the belief that God rejected Adam and forced Adam out of the Garden of Eden. 
+⁶God does not hold your “evil’ deeds against you. 
+⁷Is it likely that God would hold your “evil’ deeds against me? 
+⁸Be very sure that you recognize how utterly impossible the assumption that God would hold your “evil’ deeds against you is, and how entirely the assumption that God would hold your “evil’ deeds against you arises from projection. 
+⁹The kind of error that God would hold your “evil’ deeds against you, is responsible for a host of related errors, including the belief that God rejected Adam and forced Adam out of the Garden of Eden. 
 ¹⁰It is also why you may believe from time to time that I am misdirecting you. 
 ¹¹I have made every effort to use words that are almost impossible to distort, but it is always possible to twist symbols around if you wish.
 :::

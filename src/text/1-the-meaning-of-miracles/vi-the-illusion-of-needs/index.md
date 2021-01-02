@@ -16,7 +16,7 @@ next: T-1.VII
 ³While lack does not exist in the creation of God, it is very apparent in what you have made. 
 ⁴It is, in fact, the essential difference between them. 
 ⁵Lack implies that you would be better off in a state somehow different from the one you are in. 
-⁶Until the ‘separation’, which is the meaning of the ‘fall’, nothing was lacking. 
+⁶Until the “separation’, which is the meaning of the “fall’, nothing was lacking. 
 ⁷There were no needs at all. 
 ⁸Needs arise only when you deprive yourself. 
 ⁹You act according to the particular order of needs you establish. 
@@ -28,7 +28,7 @@ You who want peace can find it [peace] only by complete forgiveness.
 ³While lack does not exist in the creation of God, it [lack] is very apparent in what you have made. 
 ⁴It [lack] is, in fact, the essential difference between them [the creation of God and what you have made]. 
 ⁵Lack implies that you would be better off in a state somehow different from the one [state] you are in. 
-⁶Until the ‘separation’, which is the meaning of the ‘fall’, nothing was lacking. 
+⁶Until the “separation’, which is the meaning of the “fall’, nothing was lacking. 
 ⁷There were no needs at all. 
 ⁸Needs arise only when you deprive yourself. 
 ⁹You act according to the particular order of needs you establish. 
@@ -41,7 +41,7 @@ You who want peace can find peace only by complete forgiveness.
 ³While lack does not exist in the creation of God, lack is very apparent in what you have made. 
 ⁴Lack is, in fact, the essential difference between the creation of God and what you have made. 
 ⁵Lack implies that you would be better off in a state somehow different from the state you are in. 
-⁶Until the ‘separation’, which is the meaning of the ‘fall’, nothing was lacking. 
+⁶Until the “separation’, which is the meaning of the “fall’, nothing was lacking. 
 ⁷There were no needs at all. 
 ⁸Needs arise only when you deprive yourself. 
 ⁹You act according to the particular order of needs you establish. 
@@ -96,7 +96,7 @@ Act only to restore oneness with God. God is all you need.
 3. The idea of orders of need, which follows from the original error that one can be separated from God, requires correction at its own level before the error of perceiving levels at all can be corrected. 
 ²You cannot behave effectively while you function on different levels. 
 ³However, while you do, correction must be introduced vertically from the bottom up. 
-⁴This is because you think you live in space, where concepts such as ‘up’ and ‘down’ are meaningful. 
+⁴This is because you think you live in space, where concepts such as “up’ and “down’ are meaningful. 
 ⁵Ultimately, space is as meaningless as time. 
 ⁶Both are merely beliefs.
 
@@ -104,7 +104,7 @@ Act only to restore oneness with God. God is all you need.
 The idea of orders of need, which follows from the original error that one can be separated from God, requires correction at its [the idea-of-orders-of-need’s] own level before the error of perceiving levels at all can be corrected. 
 ²You cannot behave effectively while you function on different levels. 
 ³However, while you do [function on different levels], correction must be introduced vertically from the bottom up. 
-⁴This [correction from the bottom up] is because you think you live in space, where concepts such as ‘up’ and ‘down’ are meaningful. 
+⁴This [correction from the bottom up] is because you think you live in space, where concepts such as “up’ and “down’ are meaningful. 
 ⁵Ultimately, space is as meaningless as time. 
 ⁶Both [space and time] are merely beliefs.
 :::
@@ -113,7 +113,7 @@ The idea of orders of need, which follows from the original error that one can b
 The idea of orders of need, which follows from the original error that one can be separated from God, requires correction at the idea-of-orders-of-need’s own level before the error of perceiving levels at all can be corrected. 
 ²You cannot behave effectively while you function on different levels. 
 ³However, while you do function on different levels, correction must be introduced vertically from the bottom up. 
-⁴Correction from the bottom up is because you think you live in space, where concepts such as ‘up’ and ‘down’ are meaningful. 
+⁴Correction from the bottom up is because you think you live in space, where concepts such as “up’ and “down’ are meaningful. 
 ⁵Ultimately, space is as meaningless as time. ⁶Both space and time are merely beliefs.
 :::
 
