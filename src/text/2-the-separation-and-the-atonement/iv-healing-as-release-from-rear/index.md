@@ -53,7 +53,7 @@ The Atonement makes miracles possible.
 
 {% if showCommentary %}
 ::: details Commentary
-(3–4) And yet Chapter 27 speaks of “a miracle of healing” ([T-27.II.5:2](/text/27-the-healing-of-the-dream/ii-the-fear-of-healing#5)). The apparent inconsistency is resloved by recognising that in the first reference [i.e. this paragraph] Jesus is emphasising that the miracle is a means, while healing is the result. This teaching purpose was not present later in the text, and so the more poetic expression, “a miracle of healing” could be used. (Wapnick, L.D.N.C., p.609.)
+(3–4) And yet Chapter 27 speaks of “a miracle of healing” ([T-27.II.5:2](/text/27-the-healing-of-the-dream/ii-the-fear-of-healing#5)). The apparent inconsistency is resloved by recognizing that in the first reference [i.e. this paragraph] Jesus is emphasising that the miracle is a means, while healing is the result. This teaching purpose was not present later in the text, and so the more poetic expression, “a miracle of healing” could be used. (Wapnick, L.D.N.C., p.609.)
 :::
 {% endif %}
 

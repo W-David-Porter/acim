@@ -16,7 +16,7 @@ next: T-5.II
 ³Only the healed mind can experience revelation with lasting effect, because revelation is an experience of pure joy. 
 ⁴If you do not choose to be wholly joyous, your mind cannot have what it does not choose to be. 
 ⁵Remember that spirit knows no difference between *having* and *being*. 
-⁶The higher mind thinks according to the laws spirit obeys, and therefore honours only the laws of God. 
+⁶The higher mind thinks according to the laws spirit obeys, and therefore honors only the laws of God. 
 ⁷To spirit getting is meaningless and giving is all. 
 ⁸Having everything, spirit holds everything by giving it, and thus creates as the Father created. 
 ⁹While this kind of thinking is totally alien to having things, even to the lower mind it is quite comprehensible in connection with ideas. 
@@ -33,7 +33,7 @@ Healing is a thought by which [thought] two minds perceive their [two-mind’s] 
 ³Only the healed mind can experience revelation with lasting effect, because revelation is an experience of pure joy. 
 ⁴If you do not choose to be wholly joyous, your mind cannot have what it [your mind] does not choose to be. 
 ⁵Remember that spirit knows no difference between *having* and *being*. 
-⁶The higher mind thinks according to the laws spirit obeys, and therefore honours only the laws of God. 
+⁶The higher mind thinks according to the laws spirit obeys, and therefore honors only the laws of God. 
 ⁷To spirit getting is meaningless and giving is all. 
 ⁸Having everything, spirit holds everything by giving it [everything], and thus creates as the Father created. 
 ⁹While this kind of thinking [holding by giving] is totally alien to having things, even to the lower mind it [thinking holding is giving] is quite comprehensible in connection with ideas. 
@@ -50,7 +50,7 @@ Healing is a thought, by thought two minds perceive two-mind’s oneness and bec
 ³Only the healed mind can experience revelation with lasting effect, because revelation is an experience of pure joy. 
 ⁴If you do not choose to be wholly joyous, your mind cannot have what your mind does not choose to be. 
 ⁵Remember that spirit knows no difference between *having* and *being*. 
-⁶The higher mind thinks according to the laws spirit obeys, and therefore honours only the laws of God. 
+⁶The higher mind thinks according to the laws spirit obeys, and therefore honors only the laws of God. 
 ⁷To spirit getting is meaningless and giving is all. 
 ⁸Having everything, spirit holds everything by giving everything, and thus creates as the Father created. 
 ⁹While the kind of thinking that holding is giving, is totally alien to having things, even to the lower mind, the thinking that holding is giving, is quite comprehensible in connection with ideas. 
@@ -234,7 +234,7 @@ The Holy Spirit brings comfort and healing, and inspires the Atonement.
 :::
 
 
-6. God honoured even the miscreations of His children because they had made them. 
+6. God honored even the miscreations of His children because they had made them. 
 ²But He also blessed His children with a way of thinking that could raise their perceptions so high they could reach almost back to Him. 
 ³The Holy Spirit is the Mind of the Atonement. 
 ⁴He represents a state of mind close enough to One-mindedness that transfer to it is at last possible. 
@@ -242,7 +242,7 @@ The Holy Spirit brings comfort and healing, and inspires the Atonement.
 ⁶It might even be more helpful here to use the literal meaning of transferred or “carried over’, since the last step is taken by God.
 
 ::: details Expanded
-God honoured even the miscreations of His [God’s] children because they [God’s-children] had made them [miscreations]. 
+God honored even the miscreations of His [God’s] children because they [God’s-children] had made them [miscreations]. 
 ²But He [God] also blessed His [God’s] children with a way of thinking that could raise their [God’s-children’s] perceptions so high they [God’s-children] could reach almost back to Him [God]. 
 ³The Holy Spirit is the Mind of the Atonement. 
 ⁴He [the Holy Spirit] represents a state of mind close enough to One-mindedness that transfer to it [One-mindedness] is at last possible. 
@@ -251,7 +251,7 @@ God honoured even the miscreations of His [God’s] children because they [God�
 :::
 
 ::: details Substituted
-God honoured even the miscreations of God’s children because God’s-children had made miscreations. 
+God honored even the miscreations of God’s children because God’s-children had made miscreations. 
 ²But God also blessed God’s children with a way of thinking that could raise their God’s-children’s perceptions so high God’s-children could reach almost back to God. 
 ³The Holy Spirit is the Mind of the Atonement. 
 ⁴The Holy Spirit represents a state of mind close enough to One-mindedness that transfer to One-mindedness is at last possible. 
@@ -260,7 +260,7 @@ God honoured even the miscreations of God’s children because God’s-children 
 :::
 
 ::: details Simplified
-God honours his children’s miscreations by sending the Holy Spirit amongst them. 
+God honors his children’s miscreations by sending the Holy Spirit amongst them. 
 Right-mindedness is the Holy Spirit’s way of thinking and perceiving. 
 The Holy Spirit is a blessing from God so that God’s children can reach back to God. 
 Right-mindedness makes transfer to One-mindedness. 

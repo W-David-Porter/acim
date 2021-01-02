@@ -258,7 +258,7 @@ There are no other gods.
 ⁴No one can see through a wall, but I can step around it. 
 ⁵Watch your mind for the scraps of fear, or you will be unable to ask me to do so. 
 ⁶I can help you only as our Father created us. 
-⁷I will love you and honour you and maintain complete respect for what you have made, but I will not uphold it unless it is true. 
+⁷I will love you and honor you and maintain complete respect for what you have made, but I will not uphold it unless it is true. 
 ⁸I will never forsake you any more than God will, but I must wait as long as you choose to forsake yourself. 
 ⁹Because I wait in love and not in impatience, you will surely ask me truly. 
 ¹⁰I will come in response to a single unequivocal call.
@@ -270,7 +270,7 @@ It has never really entered your mind to give up every idea you ever had that op
 ⁴No one can see through a wall, but I can step around it [a wall]. 
 ⁵Watch your mind for the scraps of fear, or you will be unable to ask me to do so [step around a wall]. 
 ⁶I can help you only as our Father created us. 
-⁷I will love you and honour you and maintain complete respect for what you have made, but I will not uphold it [what you have made] unless it [what you have made] is true. 
+⁷I will love you and honor you and maintain complete respect for what you have made, but I will not uphold it [what you have made] unless it [what you have made] is true. 
 ⁸I will never forsake you any more than God will [forsake you], but I must wait as long as you choose to forsake yourself. 
 ⁹Because I wait in love and not [wait] in impatience, you will surely ask me truly. 
 ¹⁰I will come in response to a single unequivocal call.
@@ -282,7 +282,7 @@ It has never really entered your mind to give up every idea you ever had that op
 ⁴No one can see through a wall, but I can step around a wall. 
 ⁵Watch your mind for the scraps of fear, or you will be unable to ask me to step around a wall. 
 ⁶I can help you only as our Father created us. 
-⁷I will love you and honour you and maintain complete respect for what you have made, but I will not uphold what you have made unless what you have made is true. 
+⁷I will love you and honor you and maintain complete respect for what you have made, but I will not uphold what you have made unless what you have made is true. 
 ⁸I will never forsake you any more than God will [forsake you], but I must wait as long as you choose to forsake yourself. 
 ⁹Because I wait in love and not wait in impatience, you will surely ask me truly. 
 ¹⁰I will come in response to a single unequivocal call.

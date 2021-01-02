@@ -15,9 +15,9 @@ next: ""
 
 ## From the Ur-Text
 
-I would like to pray that my will be united with yours, recognising that your perfect love will suffice (or correct) for my imperfect love. 
+I would like to pray that my will be united with yours, recognizing that your perfect love will suffice (or correct) for my imperfect love. 
 
-I pray that I may accept the Atonement with conviction, recognising its inevitable worth, and my own divine worth as part of this identification with you. 
+I pray that I may accept the Atonement with conviction, recognizing its inevitable worth, and my own divine worth as part of this identification with you. 
 
 I pray that my fear be replaced by an active sense of your love, and your continual willingness to help me overcome the split, or divided will, which is responsible for my difficulty with this. 
 

@@ -88,7 +88,7 @@ The light by which you see is always with you.
 ⁶Yet perceived through the ego’s eyes, it is loss of identity and a descent into hell.
 
 
-6. If you can stand aside from the ego by ever so little, you will have no difficulty in recognising that its opposition and its fears are meaningless. 
+6. If you can stand aside from the ego by ever so little, you will have no difficulty in recognizing that its opposition and its fears are meaningless. 
 ²You might find it helpful to remind yourself, from time to time, that to reach light is to escape from darkness, whatever you may believe to the contrary. 
 ³God is the light in which you see. 
 ⁴You are attempting to reach Him.

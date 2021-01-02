@@ -12,14 +12,14 @@ next: T-5.IV
 ---
 
 
-1. The way to recognize your brother is by recognising the Holy Spirit in him. 
+1. The way to recognize your brother is by recognizing the Holy Spirit in him. 
 ²I have already said that the Holy Spirit is the Bridge for the transfer of perception to knowledge, so we can use the terms as if they were related, because in His Mind they are. 
 ³This relationship must be in His Mind because, unless it were, the separation between the two ways of thinking would not be open to healing. 
 ⁴He is part of the Holy Trinity, because His Mind is partly yours and also partly God’s. 
 ⁵This needs clarification, not in statement but in experience.
 
 ::: details Expanded
-The way to recognize your brother is by recognising the Holy Spirit in him [your brother]. 
+The way to recognize your brother is by recognizing the Holy Spirit in him [your brother]. 
 ²I have already said that the Holy Spirit is the Bridge for the transfer of perception to knowledge, so we can use the terms [perception and knowledge] as if they [perception and knowledge] were related, because in His [the Holy Spirit’s] Mind they [perception and knowldege] are [related]. 
 ³This relationship [of perception and knowledge] must be in His [the Holy Spirit’s] Mind because, unless it [the relationship of perception and knowledge] were [in the Holy Spirit’s Mind], the separation between the two ways of thinking would not be open to healing. 
 ⁴He [the Holy Spirit] is part of the Holy Trinity, because His [the Holy Spirit’s] Mind is partly yours [mind] and also partly God’s [Mind]. 
@@ -27,7 +27,7 @@ The way to recognize your brother is by recognising the Holy Spirit in him [your
 :::
 
 ::: details Substituted
-The way to recognize your brother is by recognising the Holy Spirit in your brother. 
+The way to recognize your brother is by recognizing the Holy Spirit in your brother. 
 ²I have already said that the Holy Spirit is the Bridge for the transfer of perception to knowledge, so we can use perception and knowledge as if perception and knowledge were related, because in the-Holy-Spirit’s Mind perception and knowldege are related. 
 ³The relationship of perception and knowledge must be in the-Holy-Spirit’s Mind because, unless the relationship of perception and knowledge were in the-Holy-Spirit’s Mind, the separation between the two ways of thinking would not be open to healing. 
 ⁴The Holy Spirit is part of the Holy Trinity, because the-Holy-Spirit’s Mind is partly your mind and also partly God’s Mind. 
@@ -35,7 +35,7 @@ The way to recognize your brother is by recognising the Holy Spirit in your brot
 :::
 
 ::: details Simplified
-You recognize your brother by recognising the Holy Spirit in him. 
+You recognize your brother by recognizing the Holy Spirit in him. 
 The Holy Spirit is the Bridge from Perception to Knowledge. 
 :::
 

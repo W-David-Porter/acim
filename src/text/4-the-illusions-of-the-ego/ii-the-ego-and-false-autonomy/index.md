@@ -489,7 +489,7 @@ Knowledge does not compare because there is no opposite to immortality.
 ::: details Commentary
 (8) The “you’ who are the observer is outside of time and space, and therefore is outside of Crompond, New York, 1985. In other words, the “you’ who are the observer in the mind is not identical with the “you’ who are sitting here at this table. (Wapnick, AVI, p.37)
 
-(8) He is teaching us that this “you’ is not our real Self at all, and that we have to be vigilant in recognising how the ego masks our true Identity that is held for us by the Holy Spirit. (Wapnick, AVI, p.205)
+(8) He is teaching us that this “you’ is not our real Self at all, and that we have to be vigilant in recognizing how the ego masks our true Identity that is held for us by the Holy Spirit. (Wapnick, AVI, p.205)
 ::: 
 {% endif %}
 

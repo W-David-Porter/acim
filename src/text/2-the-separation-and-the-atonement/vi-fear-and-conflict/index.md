@@ -50,7 +50,7 @@ Let me guide your mind.
 
 {% if showCommentary %}
 ::: details Commentary 
-(1) One cannot undo fear by reducing or underestimating the power of the mind. If the power of our mind which chose mistakenly is not honoured and respected, then we are denying that very mind the power to correct itself through the Holy Spirit. We would have successfully denied the only means for our salvation — our power of decision — its efficacy to save us. (Wapnick, F.A.J., p.238.) see [T-2.VI.4:1–4](#4), [T-2.VII.1:4–5](/text/2-the-separation-and-the-atonement/vii-the-meaning-of-the-last-judgment).
+(1) One cannot undo fear by reducing or underestimating the power of the mind. If the power of our mind which chose mistakenly is not honored and respected, then we are denying that very mind the power to correct itself through the Holy Spirit. We would have successfully denied the only means for our salvation — our power of decision — its efficacy to save us. (Wapnick, F.A.J., p.238.) see [T-2.VI.4:1–4](#4), [T-2.VII.1:4–5](/text/2-the-separation-and-the-atonement/vii-the-meaning-of-the-last-judgment).
  
 (3) The gap between our separated selves — the ego and our true self — is too great, remaining forever before our firghtened eyes as the constant reminder of our sin. Jesus becomes this bridge, and in making a distinction between control and guidance, he states in the Course that we should allow him to take *control* over everything that does not matter in our lives, turning our fears, anxieties and concerns over to him so that they may be removed from us. (Wapnick, F.A.J., p. 298.) 
 
@@ -199,7 +199,7 @@ Correct the error by making choices in accord with my choices.
 
 {% if showCommentary %}
 ::: details Commentary 
-(1–4) One cannot undo fear by reducing or underestimating the power of the mind. If the power of our mind which chose mistakenly is not honoured and respected, then we are denying that very mind the power to correct itself through the Holy Spirit. We would have successfully denied the only means for our salvation — our power of decision — its efficacy to save us. (Wapnick, F.A.J., p.238.) see [para. 1:4](#), [T-2.VII.1:4–5](/text/2-the-separation-and-the-atonement/vii-the-meaning-of-the-last-judgment).
+(1–4) One cannot undo fear by reducing or underestimating the power of the mind. If the power of our mind which chose mistakenly is not honored and respected, then we are denying that very mind the power to correct itself through the Holy Spirit. We would have successfully denied the only means for our salvation — our power of decision — its efficacy to save us. (Wapnick, F.A.J., p.238.) see [para. 1:4](#), [T-2.VII.1:4–5](/text/2-the-separation-and-the-atonement/vii-the-meaning-of-the-last-judgment).
 
 (1–4) Jesus is not offering to help us solve our external problems, nor to remove the fears we experience in our everyday lives, but rather he is teaching us how to join with him in undoing the *causes* of our fear, which lie in the mind’s decision to be separate from him and therefore from God. (Wapnick, FCTL, p.5.)
  

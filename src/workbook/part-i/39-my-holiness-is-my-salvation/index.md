@@ -80,7 +80,7 @@ To understand the text, believe that guilt is hell.
 ³You cannot give what you do not have. 
 ⁴A saviour must be saved. 
 ⁵How else can he teach salvation? 
-⁶Today’s exercises will apply to you, recognising that your salvation is crucial to the salvation of the world. 
+⁶Today’s exercises will apply to you, recognizing that your salvation is crucial to the salvation of the world. 
 ⁷As you apply the exercises to your world, the whole world stands to benefit.
 
 
@@ -93,7 +93,7 @@ We have already said that your holiness is the salvation of the world.
 ³You cannot give what you do not have. 
 ⁴A saviour must be saved. 
 ⁵How else can he [a saviour] teach salvation? 
-⁶Today’s exercises will apply to you, recognising that your salvation is crucial to the salvation of the world. 
+⁶Today’s exercises will apply to you, recognizing that your salvation is crucial to the salvation of the world. 
 ⁷As you apply the exercises to your world, the whole world stands to benefit.
 
 #::: details Substituted
@@ -103,7 +103,7 @@ We have already said that your holiness is the salvation of the world.
 ³You cannot give what you do not have. 
 ⁴A saviour must be saved. 
 ⁵How else can a saviour teach salvation? 
-⁶Today’s exercises will apply to you, recognising that your salvation is crucial to the salvation of the world. 
+⁶Today’s exercises will apply to you, recognizing that your salvation is crucial to the salvation of the world. 
 ⁷As you apply the exercises to your world, the whole world stands to benefit.
 
 #::: details Simplified

@@ -114,7 +114,7 @@ The Atonement is the defence against separation thoughts.
 ⁵Tolerance for pain may be high, but it [tolerance for pain] is not without limit. 
 ⁶Eventually everyone begins to recognize, however dimly, that there *must* be a better way. 
 ⁷As this recognition [that there must be a better way] becomes more firmly established, it [recognition that there must be a better way] becomes a turning point. 
-⁸This [recognising there must be a better way] ultimately reawakens spiritual vision, simultaneously weakening the investment in physical sight. 
+⁸This [recognizing there must be a better way] ultimately reawakens spiritual vision, simultaneously weakening the investment in physical sight. 
 ⁹The alternating investment in the two levels of perception is usually experienced as conflict, which [experience of conflict] can become very acute. 
 ¹⁰But the outcome is as certain as God.
 :::
@@ -127,7 +127,7 @@ The Atonement is the defence against separation thoughts.
 ⁵Tolerance for pain may be high, but tolerance for pain is not without limit. 
 ⁶Eventually everyone begins to recognize, however dimly, that there *must* be a better way. 
 ⁷As the recognition that there must be a better way becomes more firmly established, the recognition that there must be a better way becomes a turning point. 
-⁸Recognising there must be a better way ultimately reawakens spiritual vision, simultaneously weakening the investment in physical sight. 
+⁸recognizing there must be a better way ultimately reawakens spiritual vision, simultaneously weakening the investment in physical sight. 
 ⁹The alternating investment in the two levels of perception is usually experienced as conflict; experience of conflict can become very acute. 
 ¹⁰But the outcome is as certain as God.
 :::

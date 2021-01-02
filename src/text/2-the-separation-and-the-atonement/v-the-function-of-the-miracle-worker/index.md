@@ -29,7 +29,7 @@ Before miracle workers are ready to undertake their [miracle workers’] functio
 ³This misperception [release is imprisonment] arises in turn from the belief that harm can be limited to the body. 
 ⁴That [believing harm can be limited to the body] is because of the underlying fear that the mind can hurt itself. 
 ⁵None of these errors [mind can hurt itself, harm can be limited to the body, release is imprisonment] is meaningful, because the miscreations of the mind do not really exist. 
-⁶This recognition [miscreations of the mind do not exist] is a far better protective device than any form of level confusion, because it [recognising miscreations of the mind do not exist] introduces correction at the level of the error. 
+⁶This recognition [miscreations of the mind do not exist] is a far better protective device than any form of level confusion, because it [recognizing miscreations of the mind do not exist] introduces correction at the level of the error. 
 ⁷It is essential to remember that only the mind can create, and that correction belongs at the thought level. 
 ⁸To amplify an earlier statement, spirit is already perfect and therefore does not require correction. 
 ⁹The body does not exist except as a learning device for the mind. 
@@ -43,7 +43,7 @@ Before miracle workers are ready to undertake miracle workers’ function in thi
 ³The misperception that release is imprisonment arises in turn from the belief that harm can be limited to the body. 
 ⁴Believing harm can be limited to the body is because of the underlying fear that the mind can hurt itself. 
 ⁵None of the errors — mind can hurt itself, harm can be limited to the body or release is imprisonment — is meaningful, because the miscreations of the mind do not really exist. 
-⁶The recognition that miscreations of the mind do not exist is a far better protective device than any form of level confusion, because recognising miscreations of the mind do not exist introduces correction at the level of the error. 
+⁶The recognition that miscreations of the mind do not exist is a far better protective device than any form of level confusion, because recognizing miscreations of the mind do not exist introduces correction at the level of the error. 
 ⁷It is essential to remember that only the mind can create, and that correction belongs at the thought level. 
 ⁸To amplify an earlier statement, spirit is already perfect and therefore does not require correction. 
 ⁹The body does not exist except as a learning device for the mind. 
@@ -223,7 +223,7 @@ Healing your mind will heal other minds.
 ²As a learning device it merely follows the learner, but if it is falsely endowed with self-initiative, it becomes a serious obstruction to the very learning it should facilitate. 
 ³Only the mind is capable of illumination. 
 ⁴Spirit is already illuminated and the body in itself is too dense. 
-⁵The mind, however, can bring its illumination to the body by recognising that it is not the learner, and is therefore unamenable to learning. 
+⁵The mind, however, can bring its illumination to the body by recognizing that it is not the learner, and is therefore unamenable to learning. 
 ⁶The body is, however, easily brought into alignment with a mind that has learned to look beyond it toward the light.
 
 ::: details Expanded
@@ -231,7 +231,7 @@ It should be emphasized again that the body does not learn any more than it [the
 ²As a learning device it [the body] merely follows the learner, but if it [the body] is falsely endowed with self-initiative, it [the body] becomes a serious obstruction to the very learning it [the body] should facilitate. 
 ³Only the mind is capable of illumination. 
 ⁴Spirit is already illuminated and the body in itself [the body’s self] is too dense. 
-⁵The mind, however, can bring its [the mind’s] illumination to the body by recognising that it [the body] is not the learner, and is therefore unamenable to learning. 
+⁵The mind, however, can bring its [the mind’s] illumination to the body by recognizing that it [the body] is not the learner, and is therefore unamenable to learning. 
 ⁶The body is, however, easily brought into alignment with a mind that has learned to look beyond it [the body] toward the light.
 :::
 
@@ -240,7 +240,7 @@ It should be emphasized again that the body does not learn any more than the bod
 ²As a learning device the body merely follows the learner, but if the body is falsely endowed with self-initiative, the body becomes a serious obstruction to the very learning the body should facilitate. 
 ³Only the mind is capable of illumination. 
 ⁴Spirit is already illuminated and the body in the body’s self is too dense. 
-⁵The mind, however, can bring the mind’s illumination to the body by recognising that it the body is not the learner, and is therefore unamenable to learning. 
+⁵The mind, however, can bring the mind’s illumination to the body by recognizing that it the body is not the learner, and is therefore unamenable to learning. 
 ⁶The body is, however, easily brought into alignment with a mind that has learned to look beyond it the body toward the light.
 :::
 

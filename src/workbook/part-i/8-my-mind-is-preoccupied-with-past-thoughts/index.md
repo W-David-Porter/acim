@@ -76,20 +76,20 @@ Your mind is blank when you think about past and/or future.
 
 3. The purpose of the exercises for today is to begin to train your mind to recognize when it is not really thinking at all. 
 ²While thoughtless ideas preoccupy your mind, the truth is blocked. 
-³Recognising that your mind has been merely blank, rather than believing that it is filled with real ideas, is the first step to opening the way to vision.
+³recognizing that your mind has been merely blank, rather than believing that it is filled with real ideas, is the first step to opening the way to vision.
 
 ::: details Annotations 
 
 #::: details Expanded
 The purpose of the exercises for today is to begin to train your mind to recognize when it [your mind] is not really thinking at all. 
 ²While thoughtless ideas preoccupy your mind, the truth is blocked. 
-³Recognising that your mind has been merely blank, rather than believing that it [your mind] is filled with real ideas, is the first step to opening the way to vision.
+³recognizing that your mind has been merely blank, rather than believing that it [your mind] is filled with real ideas, is the first step to opening the way to vision.
 
 #::: details Substituted
 
 3. The purpose of the exercises for today is to begin to train your mind to recognize when your mind is not really thinking at all. 
 ²While thoughtless ideas preoccupy your mind, the truth is blocked. 
-³Recognising that your mind has been merely blank, rather than believing that your mind is filled with real ideas, is the first step to opening the way to vision.
+³recognizing that your mind has been merely blank, rather than believing that your mind is filled with real ideas, is the first step to opening the way to vision.
 
 #::: details Simplified
 

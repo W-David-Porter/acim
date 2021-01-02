@@ -58,7 +58,7 @@ The purpose of A Course in Miracles is to train you to think in a miracle-minded
 ::: details Commentary 
 (1–6) What Jesus and the Holy Spirit *do* do, however, is teach us that we have made a mistake in our thinking, which has resulted in the problem of fear that we have now externalised. They have come to us to represent another way of thinking, that we may choose again. (Wapnick, F.A.J., p.123.)
 
-(4–5) One cannot undo fear by reducing or underestimating the power of the mind. If the power of our mind which chose mistakenly is not honoured and respected, then we are denying that very mind the power to correct itself through the Holy Spirit. We would have successfully denied the only means for our salvation — our power of decision — its efficacy to save us. (Wapnick, F.A.J., p.2³8.) see [T-2.VI.1:4](/text/2-the-separation-and-the-atonement/vi-fear-and-conflict), [T-2.VI.4:1–4](/text/2-the-separation-and-the-atonement/vi-fear-and-conflict#4).
+(4–5) One cannot undo fear by reducing or underestimating the power of the mind. If the power of our mind which chose mistakenly is not honored and respected, then we are denying that very mind the power to correct itself through the Holy Spirit. We would have successfully denied the only means for our salvation — our power of decision — its efficacy to save us. (Wapnick, F.A.J., p.2³8.) see [T-2.VI.1:4](/text/2-the-separation-and-the-atonement/vi-fear-and-conflict), [T-2.VI.4:1–4](/text/2-the-separation-and-the-atonement/vi-fear-and-conflict#4).
 
 (4–6) Jesus is exhorting his students to pay careful attention to their mind’s decision to be unhappy, and to correct that *cause*, rather than continually seeking his help in remedying the *effect*, which ultimately makes no sense at all. (Wapnick, FCTL, p. 6.)  
 :::
@@ -241,7 +241,7 @@ Nothing and everything cannot coëxist.
 There is no fear. 
 There is only love. 
 You must first recognize that you believe in separation. 
-Recognising the belief in separation is temporary. 
+recognizing the belief in separation is temporary. 
 Then the belief in separation can be corrected. 
 Separation is corrected by accepting the Atonement. 
 Time is a learning device. 

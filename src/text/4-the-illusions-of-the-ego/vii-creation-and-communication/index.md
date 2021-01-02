@@ -139,7 +139,7 @@ The mind can refuse to communicate at times.
 ²Existence, however, is specific in how, what and with whom communication is judged to be worth undertaking. 
 ³Being is completely without these distinctions. 
 ⁴It is a state in which the mind is in communication with everything that is real. 
-⁵To whatever extent you permit this state to be curtailed you are limiting your sense of your own reality, which becomes total only by recognising all reality in the glorious context of its real relationship to you. 
+⁵To whatever extent you permit this state to be curtailed you are limiting your sense of your own reality, which becomes total only by recognizing all reality in the glorious context of its real relationship to you. 
 ⁶This is your reality. 
 ⁷Do not desecrate it or recoil from it. 
 ⁸It is your real home, your real temple and your real Self.
@@ -150,7 +150,7 @@ Existence as well as being rests on communication.
 ²Existence, however, is specific in how, what and with whom communication is judged to be worth undertaking. 
 ³Being is completely without these distinctions. 
 ⁴It [being] is a state in which [state] the mind is in communication with everything that is real. 
-⁵To whatever extent you permit this state [where the mind is in communication with everything that is real] to be curtailed you are limiting your sense of your own reality, which [sense of reality] becomes total only by recognising all reality in the glorious context of its [all-reality’s] real relationship to you. 
+⁵To whatever extent you permit this state [where the mind is in communication with everything that is real] to be curtailed you are limiting your sense of your own reality, which [sense of reality] becomes total only by recognizing all reality in the glorious context of its [all-reality’s] real relationship to you. 
 ⁶This [that all reality is related to you] is your reality. 
 ⁷Do not desecrate it [your reality] or recoil from it [your reality]. 
 ⁸It [your reality] is your real home, your real temple and your real Self.
@@ -161,7 +161,7 @@ Existence as well as being rests on communication.
 ²Existence, however, is specific in how, what and with whom communication is judged to be worth undertaking. 
 ³Being is completely without these distinctions. 
 ⁴Being is a state, in state the mind is in communication with everything that is real. 
-⁵To whatever extent you permit the state — the state where the mind is in communication with everything that is real — to be curtailed, you are limiting your sense of your own reality; your sense of your own reality becomes total only by recognising all reality in the glorious context of all-reality’s real relationship to you. 
+⁵To whatever extent you permit the state — the state where the mind is in communication with everything that is real — to be curtailed, you are limiting your sense of your own reality; your sense of your own reality becomes total only by recognizing all reality in the glorious context of all-reality’s real relationship to you. 
 ⁶That all reality is related to you, is your reality. 
 ⁷Do not desecrate it [your reality] or recoil from it [your reality]. 
 ⁸Your reality is your real home, your real temple and your real Self.

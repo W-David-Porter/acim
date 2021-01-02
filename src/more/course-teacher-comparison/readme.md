@@ -15,7 +15,7 @@ One more point: the purpose of this article is not to present reasoning and evid
 
 ## Similarities
 
-The similarities between Wapnick’s teaching and the Circle's seem to be the result of our both holding a common value: fidelity to the Course. Both of us strongly believe in honouring the Course as it is, sticking to what it says, not mixing it with other teachings, and not compromising its views just because they seem too radical or extreme. Both of us believe in trying to represent the Course purely, without distortion or dilution. The following are the main similarities we have identified:
+The similarities between Wapnick’s teaching and the Circle's seem to be the result of our both holding a common value: fidelity to the Course. Both of us strongly believe in honoring the Course as it is, sticking to what it says, not mixing it with other teachings, and not compromising its views just because they seem too radical or extreme. Both of us believe in trying to represent the Course purely, without distortion or dilution. The following are the main similarities we have identified:
 
 - There is only one reality, the oneness of Heaven. There is nothing outside of that.
 - The world, including the entire universe of space and time, is illusory.
@@ -29,7 +29,7 @@ The similarities between Wapnick’s teaching and the Circle's seem to be the re
 - The Text is the theoretical foundation of *A Course in Miracles*. Intellectual study of the Text is crucial for Course students.
 - The Workbook is for the purpose of practically applying the thought system we studied in the text, to train our minds “along the lines the text sets forth” [W-In.1:4](/workbook/introduction#p1).
 - The Course is written symphonically. It introduces themes, sets them aside, then re-introduces and develops them.
-- The Course is a unique, sufficient and complete spiritual path. Mixing the Course with other teachings and methods generally clouds it and waters it down. It asks its students to practice its methods, rather than the methods of other paths. Yet it also asks them to honour those paths as other forms of the universal course.
+- The Course is a unique, sufficient and complete spiritual path. Mixing the Course with other teachings and methods generally clouds it and waters it down. It asks its students to practice its methods, rather than the methods of other paths. Yet it also asks them to honor those paths as other forms of the universal course.
 
 ## Differences
 

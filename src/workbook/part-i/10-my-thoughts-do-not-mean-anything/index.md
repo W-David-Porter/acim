@@ -62,7 +62,7 @@ This aspect of the correction process began with the idea that the thoughts of w
 ²Now we are emphasising that the presence of these “thoughts’ [past thoughts] means that you are not thinking. 
 ³This [thinking past thoughts means you are not thinking] is merely another way of repeating our earlier statement that your mind is really a blank. 
 ⁴To recognize this [your mind is really a blank] is to recognize nothingness when you think you see it [nothingness?]. 
-⁵As such, it [recognising nothingness] is the prerequisite for vision.
+⁵As such, it [recognizing nothingness] is the prerequisite for vision.
 
 #::: details Substituted
 
@@ -70,7 +70,7 @@ This aspect of the correction process began with the idea that the thoughts of w
 ²Now we are emphasising that the presence of past “thoughts’ of which you are aware means that you are not thinking. 
 ³Thinking past thoughts means you are not thinking, is merely another way of repeating our earlier statement that your mind is really a blank. 
 ⁴To recognize your mind is really a blank is to recognize nothingness when you think you see nothingness. 
-⁵As such, recognising nothingness is the prerequisite for vision.
+⁵As such, recognizing nothingness is the prerequisite for vision.
 
 #::: details Simplified
 

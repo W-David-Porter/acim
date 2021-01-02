@@ -261,7 +261,7 @@ c/f [lesson 92](/workbook/92-miracles-are-seen-in-light) –Ed.
 
 6. Innocence is incapable of sacrificing anything, because the innocent mind has everything and strives only to protect its wholeness. 
 ²It cannot project. 
-³It can only honour other minds, because honour is the natural greeting of the truly loved to others who are like them. 
+³It can only honor other minds, because honor is the natural greeting of the truly loved to others who are like them. 
 ⁴The lamb “takes away the sins of the world” in the sense that the state of innocence, or grace, is one in which the meaning of the Atonement is perfectly apparent. 
 ⁵The Atonement is entirely unambiguous. 
 ⁶It is perfectly clear because it exists in light. 
@@ -270,7 +270,7 @@ c/f [lesson 92](/workbook/92-miracles-are-seen-in-light) –Ed.
 ::: details Expanded
 Innocence is incapable of sacrificing anything, because the innocent mind has everything and strives only to protect its [the-innocent-mind’s] wholeness. 
 ²It [the innocent mind] cannot project. 
-³It [the innocent mind] can only honour other minds, because honour is the natural greeting of the truly loved to others who are like them [the truly loved]. 
+³It [the innocent mind] can only honor other minds, because honor is the natural greeting of the truly loved to others who are like them [the truly loved]. 
 ⁴The lamb “takes away the sins of the world” in the sense that the state of innocence, or grace, is one in which [state] the meaning of the Atonement is perfectly apparent. 
 ⁵The Atonement is entirely unambiguous. 
 ⁶It [the Atonement] is perfectly clear because it [the Atonement] exists in light. 
@@ -280,7 +280,7 @@ Innocence is incapable of sacrificing anything, because the innocent mind has ev
 ::: details Substituted
 Innocence is incapable of sacrificing anything, because the innocent mind has everything and strives only to protect the innocent mind’s wholeness. 
 ²The innocent mind cannot project. 
-³The innocent mind can only honour other minds, because honour is the natural greeting of the truly loved to others who are like the truly loved. 
+³The innocent mind can only honor other minds, because honor is the natural greeting of the truly loved to others who are like the truly loved. 
 ⁴The lamb “takes away the sins of the world” in the sense that the state of innocence, or grace, is a state; in state the meaning of the Atonement is perfectly apparent. 
 ⁵The Atonement is entirely unambiguous. 
 ⁶The Atonement is perfectly clear because the Atonement exists in light. 
@@ -290,7 +290,7 @@ Innocence is incapable of sacrificing anything, because the innocent mind has ev
 ::: details Simplified
 The innocent mind protects its wholeness. 
 The innocent mind does not project. 
-The innocent mind honours all other minds. 
+The innocent mind honors all other minds. 
 The Atonement is apparent to the innocent. 
 Innocence is accessible to all.
 :::

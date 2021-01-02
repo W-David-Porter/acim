@@ -104,7 +104,7 @@ Perceiving anything or judging anything affects your mind.
 ²When you recognize what you are and what your brothers are, you will realize that judging them in any way is without meaning. 
 ³In fact, their meaning is lost to you precisely *because* you are judging them. 
 ⁴All uncertainty comes from the belief that you are under the coercion of judgment. 
-⁵You do not need judgment to organise your life, and you certainly do not need it to organise yourself. 
+⁵You do not need judgment to organize your life, and you certainly do not need it to organize yourself. 
 ⁶In the presence of knowledge all judgment is automatically suspended, and this is the process that enables recognition to replace perception.
 
 ::: details Expanded
@@ -112,7 +112,7 @@ You have no idea of the tremendous release and deep peace that comes from meetin
 ²When you recognize what you are and [recognize] what your brothers are, you will realize that judging them [your brothers] in any way is without meaning. 
 ³In fact, their [your brothers’] meaning is lost to you precisely *because* you are judging them [your brothers]. 
 ⁴All uncertainty comes from the belief that you are under the coercion of judgment. 
-⁵You do not need judgment to organise your life, and you certainly do not need it [judgment] to organise yourself. 
+⁵You do not need judgment to organize your life, and you certainly do not need it [judgment] to organize yourself. 
 ⁶In the presence of knowledge all judgment is automatically suspended, and this [judgment being suspended in the presence of knowledge] is the process that enables recognition to replace perception.
 :::
 
@@ -121,7 +121,7 @@ You have no idea of the tremendous release and deep peace that comes from meetin
 ²When you recognize what you are and recognize what your brothers are, you will realize that judging your brothers in any way is without meaning. 
 ³In fact, your brothers’ meaning is lost to you precisely *because* you are judging your brothers. 
 ⁴All uncertainty comes from the belief that you are under the coercion of judgment. 
-⁵You do not need judgment to organise your life, and you certainly do not need judgment to organise yourself. 
+⁵You do not need judgment to organize your life, and you certainly do not need judgment to organize yourself. 
 ⁶In the presence of knowledge all judgment is automatically suspended, and judgment being suspended in the presence of knowledge is the process that enables recognition to replace perception.
 :::
 

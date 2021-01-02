@@ -113,6 +113,6 @@ If you are fearful, you will use illusions to feel safe.
 ³You are not expected to believe the statement at this point, and will probably dismiss it as preposterous. 
 ⁴Note carefully, however, any signs of overt or covert fear which it may arouse.
 
-6. This is our first attempt at stating an explicit cause and effect relationship of a kind which you are very inexperienced in recognising. 
+6. This is our first attempt at stating an explicit cause and effect relationship of a kind which you are very inexperienced in recognizing. 
 ²Do not dwell on the concluding statement, and try not even to think of it except during the practice periods. 
 ³That will suffice at present.

@@ -21,17 +21,17 @@ next: T-1.V
 
 ::: details Expanded
 The escape from darkness involves two stages: First [stage], the recognition that darkness cannot hide. 
-²This step [recognising that darkness cannot hide] usually entails fear. 
+²This step [recognizing that darkness cannot hide] usually entails fear. 
 ³Second [stage], the recognition that there is nothing you want to hide even if you could [hide something]. 
-⁴This step [recognising there is nothing you want to hide] brings escape from fear. 
+⁴This step [recognizing there is nothing you want to hide] brings escape from fear. 
 ⁵When you have become willing to hide nothing, you will not only be willing to enter into communion but will also understand peace and joy.
 :::
 
 ::: details Substituted
 The escape from darkness involves two stages: First stage, the recognition that darkness cannot hide. 
-²Recognising that darkness cannot hide usually entails fear. 
+²recognizing that darkness cannot hide usually entails fear. 
 ³Second stage, the recognition that there is nothing you want to hide even if you could hide something. 
-⁴Recognising there is nothing you want to hide brings escape from fear. 
+⁴recognizing there is nothing you want to hide brings escape from fear. 
 ⁵When you have become willing to hide nothing, you will not only be willing to enter into communion but will also understand peace and joy.
 :::
 

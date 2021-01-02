@@ -164,7 +164,7 @@ The ego pushes the uneasiness of feeling unprotected out of awareness.
 
 5. This is the question that *must* be asked: “Where can I go for protection?”. 
 ²“Seek and ye shall find” does not mean that you should seek blindly and desperately for something you would not recognize. 
-³Meaningful seeking is consciously undertaken, consciously organised and consciously directed. 
+³Meaningful seeking is consciously undertaken, consciously organized and consciously directed. 
 ⁴The goal must be formulated clearly and kept in mind. 
 ⁵Learning and wanting to learn are inseparable. 
 ⁶You learn best when you believe what you are trying to learn is of value to you. 
@@ -174,7 +174,7 @@ The ego pushes the uneasiness of feeling unprotected out of awareness.
 ::: details Expanded
 This is the question that *must* be asked: “Where can I go for protection?”. 
 ²“Seek and ye shall find” does not mean that you should seek blindly and desperately for something you would not recognize. 
-³Meaningful seeking is consciously undertaken, consciously organised and consciously directed. 
+³Meaningful seeking is consciously undertaken, consciously organized and consciously directed. 
 ⁴The goal must be formulated clearly and kept in mind. 
 ⁵Learning and wanting to learn are inseparable. 
 ⁶You learn best when you believe what you are trying to learn is of value to you. 
@@ -185,7 +185,7 @@ This is the question that *must* be asked: “Where can I go for protection?”.
 ::: details Substituted
 This is the question that *must* be asked: “Where can I go for protection?”. 
 ²“Seek and ye shall find” does not mean that you should seek blindly and desperately for something you would not recognize. 
-³Meaningful seeking is consciously undertaken, consciously organised and consciously directed. 
+³Meaningful seeking is consciously undertaken, consciously organized and consciously directed. 
 ⁴The goal must be formulated clearly and kept in mind. 
 ⁵Learning and wanting to learn are inseparable. 
 ⁶You learn best when you believe what you are trying to learn is of value to you. 

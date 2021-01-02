@@ -78,7 +78,7 @@ The world can be a world of truth or a world of illusions.
 
 :::
 
-3. Besides your recognising that thoughts are never idle, salvation requires that you also recognize that every thought you have brings either peace or war; either love or fear. 
+3. Besides your recognizing that thoughts are never idle, salvation requires that you also recognize that every thought you have brings either peace or war; either love or fear. 
 ²A neutral result is impossible because a neutral thought is impossible. 
 ³There is such a temptation to dismiss fear thoughts as unimportant, trivial and not worth bothering about that it is essential you recognize them all as equally destructive, but equally unreal. 
 ⁴We will practice this idea in many forms before you really understand it.
@@ -87,14 +87,14 @@ The world can be a world of truth or a world of illusions.
 
 #::: details Expanded
 
-Besides your recognising that thoughts are never idle, salvation requires that you also recognize that every thought you have brings either peace or war; either love or fear. 
+Besides your recognizing that thoughts are never idle, salvation requires that you also recognize that every thought you have brings either peace or war; either love or fear. 
 ²A neutral result is impossible because a neutral thought is impossible. 
 ³There is such a temptation to dismiss fear thoughts as unimportant, trivial and not worth bothering about that it is essential you recognize them all [fear thoughts] as equally destructive, but equally unreal. 
 ⁴We will practice this idea [all fear thoughts are equally destructive and equally unreal] in many forms before you really understand it [this idea that all fear thoughts are equally destructive and equally unreal].
 
 #::: details Substituted
 
-Besides your recognising that thoughts are never idle, salvation requires that you also recognize that every thought you have brings either peace or war; either love or fear. 
+Besides your recognizing that thoughts are never idle, salvation requires that you also recognize that every thought you have brings either peace or war; either love or fear. 
 ²A neutral result is impossible because a neutral thought is impossible. 
 ³There is such a temptation to dismiss fear thoughts as unimportant, trivial and not worth bothering about that it is essential you recognize all fear thoughts as equally destructive, but equally unreal. 
 ⁴We will practice the idea, that all fear thoughts are equally destructive and equally unreal, in many forms before you really understand the idea that all fear thoughts are equally destructive and equally unreal.

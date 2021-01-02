@@ -304,7 +304,7 @@ If you choose the ego, you are choosing to believe in delusional thoughts.
 ⁴They also show that you believe you can think apart from God, and want to. 
 ⁵Every disordered thought is attended by guilt at its inception, and maintained by guilt in its continuance. 
 ⁶Guilt is inescapable by those who believe they order their own thoughts, and must therefore obey their dictates. 
-⁷This makes them feel responsible for their errors without recognising that, by accepting this responsibility, they are reacting irresponsibly. 
+⁷This makes them feel responsible for their errors without recognizing that, by accepting this responsibility, they are reacting irresponsibly. 
 ⁸If the sole responsibility of the miracle worker is to accept the Atonement for himself, and I assure you that it is, then the responsibility for *what* is atoned for cannot be yours. 
 ⁹The dilemma cannot be resolved except by accepting the solution of undoing. 
 ¹⁰You *would* be responsible for the effects of all your wrong thinking if it could not be undone. 
@@ -318,7 +318,7 @@ Irrational thought is disordered thought.
 ⁴They [guilt feelings] also show that you believe you can think apart from God, and want to [think apart from God]. 
 ⁵Every disordered thought is attended by guilt at its [the-disordered-thought’s] inception, and maintained by guilt in its [the-disordered-thought’s] continuance. 
 ⁶Guilt is inescapable by those who believe they order their own thoughts, and must therefore obey their [own-thoughts’] dictates. 
-⁷This [obeying-thought’s-dictates] makes them [believers-in-ordering-their-own-thoughts] feel responsible for their [believers-in-ordering-their-own-thoughts’] errors without recognising that, by accepting this responsibility [responsibility for errors], they [believers-in-ordering-their-own-thoughts] are reacting irresponsibly. 
+⁷This [obeying-thought’s-dictates] makes them [believers-in-ordering-their-own-thoughts] feel responsible for their [believers-in-ordering-their-own-thoughts’] errors without recognizing that, by accepting this responsibility [responsibility for errors], they [believers-in-ordering-their-own-thoughts] are reacting irresponsibly. 
 ⁸If the sole responsibility of the miracle worker is to accept the Atonement for himself [miracle-worker’s-self], and I assure you that it [accepting the Atonement] is [miracle-worker’s-sole-responsibility], then the responsibility for *what* is atoned for cannot be yours [your responsibility]. 
 ⁹The dilemma [of whether or not you are responsible for thoughts effects] cannot be resolved except by accepting the solution of undoing. 
 ¹⁰You *would* be responsible for the effects of all your wrong thinking if it [your wrong thinking] could not be undone. 
@@ -333,7 +333,7 @@ Irrational thought is disordered thought.
 ⁴Guilt feelings also show that you believe you can think apart from God, and want to think apart from God. 
 ⁵Every disordered thought is attended by guilt at the-disordered-thought’s inception, and maintained by guilt in the-disordered-thought’s continuance. 
 ⁶Guilt is inescapable by those who believe they order their own thoughts, and must therefore obey own-thoughts’ dictates. 
-⁷Obeying-thought’s-dictates makes believers-in-ordering-their-own-thoughts feel responsible for their believers-in-ordering-their-own-thoughts’ errors without recognising that, by accepting this responsibility for errors, they believers-in-ordering-their-own-thoughts are reacting irresponsibly. 
+⁷Obeying-thought’s-dictates makes believers-in-ordering-their-own-thoughts feel responsible for their believers-in-ordering-their-own-thoughts’ errors without recognizing that, by accepting this responsibility for errors, they believers-in-ordering-their-own-thoughts are reacting irresponsibly. 
 ⁸If the sole responsibility of the miracle worker is to accept the Atonement for miracle-worker’s-self, and I assure you that accepting the Atonement is miracle-worker’s-sole-responsibility, then the responsibility for *what* is atoned for cannot be your responsibility. 
 ⁹The dilemma, of whether or not you are responsible for thoughts effects, cannot be resolved except by accepting the solution of undoing. 
 ¹⁰You *would* be responsible for the effects of all your wrong thinking if your wrong thinking could not be undone. 

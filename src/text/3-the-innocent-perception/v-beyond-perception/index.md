@@ -249,7 +249,7 @@ Creation is your source and your function.
 ⁴There is nothing else. 
 ⁵Perception, on the other hand, is impossible without a belief in “more’ and “less’. 
 ⁶At every level it involves selectivity. 
-⁷Perception is a continual process of accepting and rejecting, organising and reorganising, shifting and changing. 
+⁷Perception is a continual process of accepting and rejecting, organizing and reorganizing, shifting and changing. 
 ⁸Evaluation is an essential part of perception, because judgments are necessary in order to select.
 
 ::: details Expanded
@@ -259,7 +259,7 @@ The statement “God created man in his own image and likeness” needs reïnter
 ⁴There is nothing else. 
 ⁵Perception, on the other hand, is impossible without a belief in “more’ and “less’. 
 ⁶At every level it [perception] involves selectivity. 
-⁷Perception is a continual process of accepting and rejecting, organising and reorganising, shifting and changing. 
+⁷Perception is a continual process of accepting and rejecting, organizing and reorganizing, shifting and changing. 
 ⁸Evaluation is an essential part of perception, because judgments are necessary in order to select.
 :::
 
@@ -270,7 +270,7 @@ The statement “God created man in his own image and likeness” needs reïnter
 ⁴There is nothing else. 
 ⁵Perception, on the other hand, is impossible without a belief in “more’ and “less’. 
 ⁶At every level perception involves selectivity. 
-⁷Perception is a continual process of accepting and rejecting, organising and reorganising, shifting and changing. 
+⁷Perception is a continual process of accepting and rejecting, organizing and reorganizing, shifting and changing. 
 ⁸Evaluation is an essential part of perception, because judgments are necessary in order to select.
 :::
 
@@ -278,7 +278,7 @@ The statement “God created man in his own image and likeness” needs reïnter
 There is only spirit. 
 Spirit is created in God’s Thought, and in like quality to God. 
 Perception requires belief in “more’ and “less’. 
-Perception involves: accepting/rejecting, organising/reorganising, shifting and changing, evaluation, selectivity, and judgment.
+Perception involves: accepting/rejecting, organizing/reorganizing, shifting and changing, evaluation, selectivity, and judgment.
 :::
 
 {% if showCommentary %}

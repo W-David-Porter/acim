@@ -75,7 +75,7 @@ The basic decision of the miracle-minded is not to wait on time any longer than 
 :::
 
 ::: details Simplified
-Collapse time by recognising you have everything. 
+Collapse time by recognizing you have everything. 
 Every collapse brings everyone closer to knowledge of oneness.
 :::
 
@@ -129,7 +129,7 @@ Distorted perceptions create distorted relationships.
 
 {% if showCommentary %}
 ::: details Commentary
-(4) Since guilt makes God into an ememy, recognising our dependency on Him, which we have denied, can only occur when our inherent guiltlessness as God’s children is accepted. At this point, we are able to identify with our invulnerability as spirit, the prerequisite for forgiveness. This quotation of Jesus does not refer to the so-called innocence of children. As we have seen, children are born into the world with the same fullly developed egos we experience as adults. The perceived “innocence” is nothing more than the projection of the innocence that we feel has been lost in the infancy of the ego’s exsitence, when the separation occurred. (Wapnick, F.A.J., p. 171.)
+(4) Since guilt makes God into an ememy, recognizing our dependency on Him, which we have denied, can only occur when our inherent guiltlessness as God’s children is accepted. At this point, we are able to identify with our invulnerability as spirit, the prerequisite for forgiveness. This quotation of Jesus does not refer to the so-called innocence of children. As we have seen, children are born into the world with the same fullly developed egos we experience as adults. The perceived “innocence” is nothing more than the projection of the innocence that we feel has been lost in the infancy of the ego’s exsitence, when the separation occurred. (Wapnick, F.A.J., p. 171.)
 
 (6) Without guilt’s demand to see others as separate from us, we are free to affirm our inherent unity in the Sonship of God …  Jesus’ lack of ego enabled him to have no special relationships. In his perception, none of his brothers or sisters was special. (Wapnick, F.A.J., p.184.)
 
@@ -143,7 +143,7 @@ Distorted perceptions create distorted relationships.
 
 
 4. Ultimately, every member of the family of God must return. 
-²The miracle calls him to return because it blesses and honours him, even though he may be absent in spirit. 
+²The miracle calls him to return because it blesses and honors him, even though he may be absent in spirit. 
 ³“God is not mocked” is not a warning but a reassurance. 
 ⁴God *would* be mocked if any of His creations lacked holiness. 
 ⁵The creation is whole, and the mark of wholeness is holiness. 
@@ -151,7 +151,7 @@ Distorted perceptions create distorted relationships.
 
 ::: details Expanded
 Ultimately, every member of the family of God must return. 
-²The miracle calls him [a member of the family of God] to return because it [the miracle] blesses and honours him [a member of the family of God], even though he [a member of the family of God] may be absent in spirit. 
+²The miracle calls him [a member of the family of God] to return because it [the miracle] blesses and honors him [a member of the family of God], even though he [a member of the family of God] may be absent in spirit. 
 ³“God is not mocked” is not a warning but a reassurance. 
 ⁴God *would* be mocked if any of His [God’s] creations lacked holiness. 
 ⁵The creation is whole, and the mark of wholeness is holiness. 
@@ -160,7 +160,7 @@ Ultimately, every member of the family of God must return.
 
 ::: details Substituted
 Ultimately, every member of the family of God must return. 
-²The miracle calls a member of the family of God to return because the miracle blesses and honours a member of the family of God, even though a member of the family of God may be absent in spirit. 
+²The miracle calls a member of the family of God to return because the miracle blesses and honors a member of the family of God, even though a member of the family of God may be absent in spirit. 
 ³“God is not mocked” is not a warning but a reassurance. 
 ⁴God *would* be mocked if any of God’s creations lacked holiness. 
 ⁵The creation is whole, and the mark of wholeness is holiness. 
