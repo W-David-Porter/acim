@@ -1,11 +1,11 @@
 ---
 layout: lesson.njk
-title: My mind is preöccupied with past thoughts
+title: My mind is preoccupied with past thoughts
 lessonNumber: 8
 reference: W-pI.8
 eleventyNavigation:
   key: W-pI.8
-  title: W-pI.8 My mind is preöccupied with past thoughts
+  title: W-pI.8 My mind is preoccupied with past thoughts
   parent: W-pI
   order: 8
 prev: W-pI.7
@@ -15,7 +15,7 @@ next: W-pI.9
 1. This idea is, of course, the reason why you see only the past. 
 ²No one really sees anything. 
 ³ He sees only his thoughts projected outward. 
-⁴The mind’s preöccupation with the past is the cause of the misconception about time from which your seeing suffers. 
+⁴The mind’s preoccupation with the past is the cause of the misconception about time from which your seeing suffers. 
 ⁵Your mind cannot grasp the present, which is the only time there is. 
 ⁶It therefore cannot understand time, and cannot, in fact, understand anything.
 
@@ -26,7 +26,7 @@ next: W-pI.9
 This idea is, of course, the reason why you see only the past. 
 ²No one really sees anything. 
 ³ He [one] sees only his [one’s] thoughts projected outward. 
-⁴The mind’s preöccupation with the past is the cause of the misconception about time from which [misconception about time] your seeing suffers. 
+⁴The mind’s preoccupation with the past is the cause of the misconception about time from which [misconception about time] your seeing suffers. 
 ⁵Your mind cannot grasp the present, which [present] is the only time there is. 
 ⁶It [your mind] therefore cannot understand time, and cannot, in fact, understand anything.
 
@@ -35,7 +35,7 @@ This idea is, of course, the reason why you see only the past.
 This idea is, of course, the reason why you see only the past. 
 ²No one really sees anything. 
 ³ One sees only one’s thoughts projected outward. 
-⁴The mind’s preöccupation with the past is the cause of the misconception about time; from misconception about time your seeing suffers. 
+⁴The mind’s preoccupation with the past is the cause of the misconception about time; from misconception about time your seeing suffers. 
 ⁵Your mind cannot grasp the present; present is the only time there is. 
 ⁶Your mind therefore cannot understand time, and cannot, in fact, understand anything.
 
@@ -75,20 +75,20 @@ Your mind is blank when you think about past and/or future.
 :::
 
 3. The purpose of the exercises for today is to begin to train your mind to recognize when it is not really thinking at all. 
-²While thoughtless ideas preöccupy your mind, the truth is blocked. 
+²While thoughtless ideas preoccupy your mind, the truth is blocked. 
 ³Recognising that your mind has been merely blank, rather than believing that it is filled with real ideas, is the first step to opening the way to vision.
 
 ::: details Annotations 
 
 #::: details Expanded
 The purpose of the exercises for today is to begin to train your mind to recognize when it [your mind] is not really thinking at all. 
-²While thoughtless ideas preöccupy your mind, the truth is blocked. 
+²While thoughtless ideas preoccupy your mind, the truth is blocked. 
 ³Recognising that your mind has been merely blank, rather than believing that it [your mind] is filled with real ideas, is the first step to opening the way to vision.
 
 #::: details Substituted
 
 3. The purpose of the exercises for today is to begin to train your mind to recognize when your mind is not really thinking at all. 
-²While thoughtless ideas preöccupy your mind, the truth is blocked. 
+²While thoughtless ideas preoccupy your mind, the truth is blocked. 
 ³Recognising that your mind has been merely blank, rather than believing that your mind is filled with real ideas, is the first step to opening the way to vision.
 
 #::: details Simplified
@@ -111,7 +111,7 @@ Thinking about past and future blocks the truth.
 
 and so on, concluding at the end of the mind-searching period with:
 
->³But my mind is preöccupied with past thoughts.
+>³But my mind is preoccupied with past thoughts.
 
 6. This can be done four or five times during the day, unless you find it irritates you. 
 ²If you find it trying, three or four times is sufficient. 

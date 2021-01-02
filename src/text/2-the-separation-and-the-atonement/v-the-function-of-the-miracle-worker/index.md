@@ -542,7 +542,7 @@ Miracles mindedness forgives regardless of consequences.
 
 
 17. (7) The injunction “Be of one mind” is the statement for revelation-readiness. 
-²My request “Do this in remembrance of me” is the appeal for coöperation from miracle workers. 
+²My request “Do this in remembrance of me” is the appeal for cooperation from miracle workers. 
 ³The two statements are not in the same order of reality. 
 ⁴Only the latter involves an awareness of time, since to remember is to recall the past in the present. 
 ⁵Time is under my direction, but timelessness belongs to God. 
@@ -551,7 +551,7 @@ Miracles mindedness forgives regardless of consequences.
 
 ::: details Expanded
 (7) The injunction “Be of one mind” is the statement for revelation-readiness. 
-²My request “Do this in remembrance of me” is the appeal for coöperation from miracle workers. 
+²My request “Do this in remembrance of me” is the appeal for cooperation from miracle workers. 
 ³The two statements [“be of one mind” and “do this in remembrance of me”] are not in the same order of reality. 
 ⁴Only the latter [“do this in remembrance of me”] involves an awareness of time, since to remember is to recall the past in the present. 
 ⁵Time is under my direction, but timelessness belongs to God. 
@@ -561,7 +561,7 @@ Miracles mindedness forgives regardless of consequences.
 
 ::: details Substituted
 (7) The injunction “Be of one mind” is the statement for revelation-readiness. 
-²My request “Do this in remembrance of me” is the appeal for coöperation from miracle workers. 
+²My request “Do this in remembrance of me” is the appeal for cooperation from miracle workers. 
 ³“Be of one mind” and “do this in remembrance of me” are not in the same order of reality. 
 ⁴Only “do this in remembrance of me” involves an awareness of time, since to remember is to recall the past in the present. 
 ⁵Time is under my direction, but timelessness belongs to God. 

@@ -140,7 +140,7 @@ Everything you see is seen with God.
 ⁹The thoughts need not bear any obvious relationship to the idea, but they should not be in opposition to it.
 
 6. If you find your mind wandering; if you begin to be aware of thoughts which are clearly out of accord with today’s idea, or if you seem to be unable to think of anything, open your eyes, repeat the first phase of the exercise period, and then attempt the second phase again. 
-²Do not allow any protracted period to occur in which you become preöccupied with irrelevant thoughts. 
+²Do not allow any protracted period to occur in which you become preoccupied with irrelevant thoughts. 
 ³Return to the first phase of the exercises as often as necessary to prevent this.
 
 7. In applying today’s idea in the shorter practice periods, the form may vary according to the circumstances and situations in which you find yourself during the day. 

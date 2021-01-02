@@ -170,7 +170,7 @@ Believing there is another way of perceiving is a recognition the ego is not the
 ²Babies scream in rage if you take away a knife or scissors, although they may well harm themselves if you do not. 
 ³In this sense you are still a baby. 
 ⁴You have no sense of real self-preservation, and are likely to decide that you need precisely what would hurt you most. 
-⁵Yet whether or not you recognize it now, you have agreed to coöperate in the effort to become both harmless and helpful, attributes that must go together. 
+⁵Yet whether or not you recognize it now, you have agreed to cooperate in the effort to become both harmless and helpful, attributes that must go together. 
 ⁶Your attitudes even toward this are necessarily conflicted, because all attitudes are ego-based. 
 ⁷This will not last. 
 ⁸Be patient a while and remember that the outcome is as certain as God.
@@ -180,7 +180,7 @@ Undermining the ego’s thought system must be perceived as painful, even though
 ²Babies scream in rage if you take away a knife or scissors, although they [babies] may well harm themselves [babies’-selves] if you do not [take away a knife or scissors]. 
 ³In this sense [that you scream in rage when something harmful is taken from you] you are still a baby. 
 ⁴You have no sense of real self-preservation, and are likely to decide that you need precisely what would hurt you most. 
-⁵Yet whether or not you recognize it now, you have agreed to coöperate in the effort to become both harmless and helpful, attributes that must go together. 
+⁵Yet whether or not you recognize it now, you have agreed to cooperate in the effort to become both harmless and helpful, attributes that must go together. 
 ⁶Your attitudes even toward this [becoming harmless and helpful] are necessarily conflicted, because all attitudes are ego-based. 
 ⁷This [conflicted attitudes] will not last. 
 ⁸Be patient a while and remember that the outcome is as certain as God.
@@ -191,7 +191,7 @@ Undermining the ego’s thought system must be perceived as painful, even though
 ²Babies scream in rage if you take away a knife or scissors, although babies may well harm babies’-selves if you do not take away a knife or scissors. 
 ³In the sense that you scream in rage when something harmful is taken from you, you are still a baby. 
 ⁴You have no sense of real self-preservation, and are likely to decide that you need precisely what would hurt you most. 
-⁵Yet whether or not you recognize it now, you have agreed to coöperate in the effort to become both harmless and helpful, attributes that must go together. 
+⁵Yet whether or not you recognize it now, you have agreed to cooperate in the effort to become both harmless and helpful, attributes that must go together. 
 ⁶Your attitudes even toward this [becoming harmless and helpful] are necessarily conflicted, because all attitudes are ego-based. 
 ⁷Conflicted attitudes will not last. 
 ⁸Be patient a while and remember that the outcome is as certain as God.
@@ -200,7 +200,7 @@ Undermining the ego’s thought system must be perceived as painful, even though
 ::: details Simplified
 It is not painful to undermine the ego’s thought system. 
 You might scream at having the ego’s thought system taken from you, but it’s so that you don’t hurt yourself. 
-Your are coöperating in an effort to become harmless and helpful. 
+Your are cooperating in an effort to become harmless and helpful. 
 You have conflicted outcuomes. 
 God assures the outcome.
 :::
@@ -219,7 +219,7 @@ God assures the outcome.
 ³To the ego, to give anything implies that you will have to do without it. 
 ⁴When you associate giving with sacrifice, you give only because you believe that you are somehow getting something better, and can therefore do without the thing you give. 
 ⁵‘Giving to get’ is an inescapable law of the ego, which always evaluates itself in relation to other egos. 
-⁶It is therefore continually preöccupied with the belief in scarcity that gave rise to it. 
+⁶It is therefore continually preoccupied with the belief in scarcity that gave rise to it. 
 ⁷Its whole perception of other egos as real is only an attempt to convince itself that *it* is real. 
 ⁸‘Self-esteem’ in ego terms means nothing more than that the ego has deluded itself into accepting its reality, and is therefore temporarily less predatory. 
 ⁹This ‘self-esteem’ is always vulnerable to stress, a term which refers to any perceived threat to the ego’s existence.
@@ -230,7 +230,7 @@ Only those who have a real and lasting sense of abundance can be truly charitabl
 ³To the ego, to give anything implies that you will have to do without it [whatever you give]. 
 ⁴When you associate giving with sacrifice, you give only because you believe that you are somehow getting something better, and can therefore do without the thing you give. 
 ⁵‘Giving to get’ is an inescapable law of the ego, which always evaluates itself [ego’s-self] in relation to other egos. 
-⁶It [the ego] is therefore continually preöccupied with the belief in scarcity that gave rise to it [the ego]. 
+⁶It [the ego] is therefore continually preoccupied with the belief in scarcity that gave rise to it [the ego]. 
 ⁷Its [the-ego’s] whole perception of other egos as real is only an attempt to convince itself [the-ego’s-self] that *it [the ego]* is real. 
 ⁸‘Self-esteem’ in ego terms means nothing more than that the ego has deluded itself [the-ego’s-self] into accepting its [the-ego’s] reality, and is therefore temporarily less predatory. 
 ⁹This ‘self-esteem’ is always vulnerable to stress, a term which [term] refers to any perceived threat to the ego’s existence.
@@ -242,7 +242,7 @@ Only those who have a real and lasting sense of abundance can be truly charitabl
 ³To the ego, to give anything implies that you will have to do without whatever you give. 
 ⁴When you associate giving with sacrifice, you give only because you believe that you are somehow getting something better, and can therefore do without the thing you give. 
 ⁵‘Giving to get’ is an inescapable law of the ego, which always evaluates ego’s-self in relation to other egos. 
-⁶The ego is therefore continually preöccupied with the belief in scarcity that gave rise to the ego. 
+⁶The ego is therefore continually preoccupied with the belief in scarcity that gave rise to the ego. 
 ⁷The-ego’s whole perception of other egos as real is only an attempt to convince the-ego’s-self that *the ego* is real. 
 ⁸‘Self-esteem’ in ego terms means nothing more than that the ego has deluded the-ego’s-self into accepting the-ego’s reality, and is therefore temporarily less predatory. 
 ⁹This ‘self-esteem’ is always vulnerable to stress; the term stress refers to any perceived threat to the ego’s existence.

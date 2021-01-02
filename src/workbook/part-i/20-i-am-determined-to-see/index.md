@@ -13,7 +13,7 @@ next: W-pI.21
 ---
 
 1. We have been quite casual about our practice periods thus far. 
-²There has been virtually no attempt to direct the time for undertaking them, minimal effort has been required, and not even active coöperation and interest have been asked. 
+²There has been virtually no attempt to direct the time for undertaking them, minimal effort has been required, and not even active cooperation and interest have been asked. 
 ³This approach has been intentional, and very carefully planned. 
 ⁴We have not lost sight of the crucial importance of the reversal of your thinking. 
 ⁵The salvation of the world depends on it. 
@@ -24,7 +24,7 @@ next: W-pI.21
 #::: details Expanded
 
 We have been quite casual about our practice periods thus far. 
-²There has been virtually no attempt to direct the time for undertaking them [our practice periods], minimal effort has been required, and not even active coöperation and interest have been asked. 
+²There has been virtually no attempt to direct the time for undertaking them [our practice periods], minimal effort has been required, and not even active cooperation and interest have been asked. 
 ³This [casual] approach has been intentional, and very carefully planned. 
 ⁴We have not lost sight of the crucial importance of the reversal of your thinking. 
 ⁵The salvation of the world depends on it [the reversal of your thinking]. 
@@ -33,7 +33,7 @@ We have been quite casual about our practice periods thus far.
 #::: details Substituted
 
 We have been quite casual about our practice periods thus far. 
-²There has been virtually no attempt to direct the time for undertaking our practice periods, minimal effort has been required, and not even active coöperation and interest have been asked. 
+²There has been virtually no attempt to direct the time for undertaking our practice periods, minimal effort has been required, and not even active cooperation and interest have been asked. 
 ³This casual approach has been intentional, and very carefully planned. 
 ⁴We have not lost sight of the crucial importance of the reversal of your thinking. 
 ⁵The salvation of the world depends on the reversal of your thinking. 
