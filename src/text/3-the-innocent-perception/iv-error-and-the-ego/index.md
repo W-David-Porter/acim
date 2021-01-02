@@ -98,7 +98,7 @@ When the “tiny mad idea” seemed to occur and the dream of separation began, 
 ⁶It has to be in conflict because it is out of accord with itself. 
 ⁷This makes its aspects strangers to each other, and this is the essence of the fear-prone condition, in which attack is always possible. 
 ⁸You have every reason to feel afraid as you perceive yourself. 
-⁹This is why you cannot escape from fear until you realise that you did not and could not create yourself. 
+⁹This is why you cannot escape from fear until you realize that you did not and could not create yourself. 
 ¹⁰You can never make your misperceptions true, and your creation is beyond your own error. 
 ¹¹That is why you must eventually choose to heal the separation.
 
@@ -111,7 +111,7 @@ The ego is the questioning aspect of the post-separation self, which [post-separ
 ⁶It [a separated mind] has to be in conflict because it [a separated mind] is out of accord with itself [separated-mind’s-self]. 
 ⁷This [conflict in a separated mind] makes its [separated-mind’s] aspects strangers to each other, and this [mind’s aspects being strangers to each other] is the essence of the fear-prone condition, in which [fear-prone condition] attack is always possible. 
 ⁸You have every reason to feel afraid as you perceive yourself. 
-⁹This [you perceiving yourself] is why you cannot escape from fear until you realise that you did not and could not create yourself. 
+⁹This [you perceiving yourself] is why you cannot escape from fear until you realize that you did not and could not create yourself. 
 ¹⁰You can never make your misperceptions true, and your creation is beyond your own error. 
 ¹¹That [you can never make your misperceptions true] is why you must eventually choose to heal the separation.
 :::
@@ -125,7 +125,7 @@ The ego is the questioning aspect of the post-separation self; post-separation s
 ⁶A separated mind has to be in conflict because a separated mind is out of accord with separated-mind’s-self. 
 ⁷Conflict in a separated mind makes separated-mind’s aspects strangers to each other, and mind’s aspects being strangers to each other is the essence of the fear-prone condition; in fear-prone condition attack is always possible. 
 ⁸You have every reason to feel afraid as you perceive yourself. 
-⁹You perceiving yourself is why you cannot escape from fear until you realise that you did not and could not create yourself. 
+⁹You perceiving yourself is why you cannot escape from fear until you realize that you did not and could not create yourself. 
 ¹⁰You can never make your misperceptions true, and your creation is beyond your own error. 
 ¹¹You can never make your misperceptions true is why you must eventually choose to heal the separation.
 :::
@@ -238,7 +238,7 @@ The separated mind miscreates, which is an attempt to create.
 ⁵This makes spirit almost inaccessible to the mind and entirely inaccessible to the body. 
 ⁶Thereäfter, spirit is perceived as a threat, because light abolishes darkness merely by showing you it is not there. 
 ⁷Truth will always overcome error in this way. 
-⁸This cannot be an active process of correction because, as I have already emphasised, knowledge does not do anything. 
+⁸This cannot be an active process of correction because, as I have already emphasized, knowledge does not do anything. 
 ⁹It can be perceived as an attacker, but it cannot attack. 
 ¹⁰What you perceive as its attack is your own vague recognition that knowledge can always be remembered, never having been destroyed.
 
@@ -250,7 +250,7 @@ The ability to perceive made the body possible, because you must perceive *somet
 ⁵This [being incapable of darkness] makes spirit almost inaccessible to the mind and entirely inaccessible to the body. 
 ⁶Thereäfter, spirit is perceived as a threat, because light abolishes darkness merely by showing you it [darkness] is not there. 
 ⁷Truth will always overcome error in this way [showing you error is not there]. 
-⁸This [truth overcoming error] cannot be an active process of correction because, as I have already emphasised, knowledge does not do anything. 
+⁸This [truth overcoming error] cannot be an active process of correction because, as I have already emphasized, knowledge does not do anything. 
 ⁹It [knowledge] can be perceived as an attacker, but it [knowledge] cannot attack. 
 ¹⁰What you perceive as its [knowledge’s] attack is your own vague recognition that knowledge can always be remembered, never having been destroyed.
 :::
@@ -263,7 +263,7 @@ The ability to perceive made the body possible, because you must perceive *somet
 ⁵Being incapable of darkness makes spirit almost inaccessible to the mind and entirely inaccessible to the body. 
 ⁶Thereäfter, spirit is perceived as a threat, because light abolishes darkness merely by showing you darkness is not there. 
 ⁷Truth will always overcome error by showing you error is not there. 
-⁸Truth overcoming error cannot be an active process of correction because, as I have already emphasised, knowledge does not do anything. 
+⁸Truth overcoming error cannot be an active process of correction because, as I have already emphasized, knowledge does not do anything. 
 ⁹Knowledge can be perceived as an attacker, but knowledge cannot attack. 
 ¹⁰What you perceive as knowledge’s attack is your own vague recognition that knowledge can always be remembered, never having been destroyed.
 :::

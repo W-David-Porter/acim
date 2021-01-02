@@ -50,7 +50,7 @@ Let me guide your mind.
 
 {% if showCommentary %}
 ::: details Commentary 
-(1) One cannot undo fear by reducing or underestimating the power of the mind. If the power of our mind which chose mistakenly is not honoured and respected, then we are denying that very mind the power to correct itself through the Holy Spirit. We would have successfully denied the only means for our salvation — our power of decision — its efficacy to save us. (Wapnick, F.A.J., p.238.) see [T-2.VI.4:1–4](#4), [T-2.VII.1:4–5](/text/2-the-separation-and-the-atonement/vii-the-meaning-of-the-last-judgement).
+(1) One cannot undo fear by reducing or underestimating the power of the mind. If the power of our mind which chose mistakenly is not honoured and respected, then we are denying that very mind the power to correct itself through the Holy Spirit. We would have successfully denied the only means for our salvation — our power of decision — its efficacy to save us. (Wapnick, F.A.J., p.238.) see [T-2.VI.4:1–4](#4), [T-2.VII.1:4–5](/text/2-the-separation-and-the-atonement/vii-the-meaning-of-the-last-judgment).
  
 (3) The gap between our separated selves — the ego and our true self — is too great, remaining forever before our firghtened eyes as the constant reminder of our sin. Jesus becomes this bridge, and in making a distinction between control and guidance, he states in the Course that we should allow him to take *control* over everything that does not matter in our lives, turning our fears, anxieties and concerns over to him so that they may be removed from us. (Wapnick, F.A.J., p. 298.) 
 
@@ -199,7 +199,7 @@ Correct the error by making choices in accord with my choices.
 
 {% if showCommentary %}
 ::: details Commentary 
-(1–4) One cannot undo fear by reducing or underestimating the power of the mind. If the power of our mind which chose mistakenly is not honoured and respected, then we are denying that very mind the power to correct itself through the Holy Spirit. We would have successfully denied the only means for our salvation — our power of decision — its efficacy to save us. (Wapnick, F.A.J., p.238.) see [para. 1:4](#), [T-2.VII.1:4–5](/text/2-the-separation-and-the-atonement/vii-the-meaning-of-the-last-judgement).
+(1–4) One cannot undo fear by reducing or underestimating the power of the mind. If the power of our mind which chose mistakenly is not honoured and respected, then we are denying that very mind the power to correct itself through the Holy Spirit. We would have successfully denied the only means for our salvation — our power of decision — its efficacy to save us. (Wapnick, F.A.J., p.238.) see [para. 1:4](#), [T-2.VII.1:4–5](/text/2-the-separation-and-the-atonement/vii-the-meaning-of-the-last-judgment).
 
 (1–4) Jesus is not offering to help us solve our external problems, nor to remove the fears we experience in our everyday lives, but rather he is teaching us how to join with him in undoing the *causes* of our fear, which lie in the mind’s decision to be separate from him and therefore from God. (Wapnick, FCTL, p.5.)
  
@@ -258,7 +258,7 @@ Correcting behaviour cannot obliterate fear.
 6. It is possible to reach a state in which you bring your mind under my guidance without conscious effort, but this implies a willingness that you have not developed as yet. 
 ²The Holy Spirit cannot ask more than you are willing to do. 
 ³The strength to do comes from your undivided decision. 
-⁴There is no strain in doing God’s Will as soon as you recognise that it is also your own. 
+⁴There is no strain in doing God’s Will as soon as you recognize that it is also your own. 
 ⁵The lesson here is quite simple, but particularly apt to be overlooked. 
 ⁶I will therefore repeat it, urging you to listen. 
 ⁷Only your mind can produce fear. 
@@ -269,7 +269,7 @@ Correcting behaviour cannot obliterate fear.
 It is possible to reach a state in which you bring your mind under my guidance without conscious effort, but this [bringing your mind under my guidance without conscious effort] implies a willingness that you have not developed as yet. 
 ²The Holy Spirit cannot ask more than you are willing to do. 
 ³The strength to do comes from your undivided decision. 
-⁴There is no strain in doing God’s Will as soon as you recognise that it [God’s Will] is also your own [will]. 
+⁴There is no strain in doing God’s Will as soon as you recognize that it [God’s Will] is also your own [will]. 
 ⁵The lesson here is quite simple, but particularly apt to be overlooked. 
 ⁶I will therefore repeat it [the lesson], urging you to listen. 
 ⁷Only your mind can produce fear. 
@@ -281,7 +281,7 @@ It is possible to reach a state in which you bring your mind under my guidance w
 It is possible to reach a state in which you bring your mind under my guidance without conscious effort, but bringing your mind under my guidance without conscious effort implies a willingness that you have not developed as yet. 
 ²The Holy Spirit cannot ask more than you are willing to do. 
 ³The strength to do comes from your undivided decision. 
-⁴There is no strain in doing God’s Will as soon as you recognise that God’s Will is also your own will. 
+⁴There is no strain in doing God’s Will as soon as you recognize that God’s Will is also your own will. 
 ⁵The lesson here is quite simple, but particularly apt to be overlooked. 
 ⁶I will therefore repeat the lesson, urging you to listen. 
 ⁷Only your mind can produce fear. 
@@ -335,42 +335,42 @@ Perfect love is the Atonement.
 :::
 
 
-8. I have emphasised that the miracle, or the expression of Atonement, is always a sign of respect *from* the worthy *to* the worthy. 
+8. I have emphasized that the miracle, or the expression of Atonement, is always a sign of respect *from* the worthy *to* the worthy. 
 ²The recognition of this worth is reëstablished by the Atonement. 
 ³It is obvious, then, that when you are afraid, you have placed yourself in a position where you need Atonement. 
 ⁴You have done something loveless, having chosen without love. 
 ⁵This is precisely the situation for which the Atonement was offered. 
 ⁶The need for the remedy inspired its establishment. 
-⁷As long as you recognise only the need for the remedy, you will remain fearful. 
+⁷As long as you recognize only the need for the remedy, you will remain fearful. 
 ⁸However, as soon as you accept the remedy, you have abolished the fear. 
 ⁹This is how true healing occurs.
 
 ::: details Expanded
-I have emphasised that the miracle, or the expression of Atonement, is always a sign of respect *from* the worthy *to* the worthy. 
+I have emphasized that the miracle, or the expression of Atonement, is always a sign of respect *from* the worthy *to* the worthy. 
 ²The recognition of this worth is reëstablished by the Atonement. 
 ³It is obvious, then, that when you are afraid, you have placed yourself in a position where you need Atonement. 
 ⁴You have done something loveless, having chosen without love. 
 ⁵This [choosing without love and doing loveless things] is precisely the situation for which [situation] the Atonement was offered. 
 ⁶The need for the remedy inspired its [the remedy’s] establishment. 
-⁷As long as you recognise only the need for the remedy, you will remain fearful. 
+⁷As long as you recognize only the need for the remedy, you will remain fearful. 
 ⁸However, as soon as you accept the remedy, you have abolished the fear. 
 ⁹This [accepting the remedy] is how true healing occurs.
 :::
 
 ::: details Substituted
-I have emphasised that the miracle, or the expression of Atonement, is always a sign of respect *from* the worthy *to* the worthy. 
+I have emphasized that the miracle, or the expression of Atonement, is always a sign of respect *from* the worthy *to* the worthy. 
 ²The recognition of this worth is reëstablished by the Atonement. 
 ³It is obvious, then, that when you are afraid, you have placed yourself in a position where you need Atonement. 
 ⁴You have done something loveless, having chosen without love. 
 ⁵Choosing without love and doing loveless things is precisely the situation; the Atonement was offered for the situation. 
 ⁶The need for the remedy inspired the remedy’s establishment. 
-⁷As long as you recognise only the need for the remedy, you will remain fearful. 
+⁷As long as you recognize only the need for the remedy, you will remain fearful. 
 ⁸However, as soon as you accept the remedy, you have abolished the fear. 
 ⁹Accepting the remedy is how true healing occurs.
 :::
 
 ::: details Simplified
-A miracle recognises your true worth. 
+A miracle recognizes your true worth. 
 Fear results when you choose without love and do loveless things. 
 The Atonement is the remedy for fear. 
 The Atonement reëstablishes your true worth. 
@@ -379,13 +379,13 @@ True healing occurs by accepting the remedy.
 
 
 9. Everyone experiences fear. 
-²Yet it would take very little right thinking to realise why fear occurs. 
+²Yet it would take very little right thinking to realize why fear occurs. 
 ³Few appreciate the real power of the mind, and no one remains fully aware of it all the time. 
-⁴However, if you hope to spare yourself from fear there are some things you must realise, and realise fully. 
+⁴However, if you hope to spare yourself from fear there are some things you must realize, and realize fully. 
 ⁵The mind is very powerful, and never loses its creative force. 
 ⁶It never sleeps. 
 ⁷Every instant it is creating. 
-⁸It is hard to recognise that thought and belief combine into a power surge that can literally move mountains. 
+⁸It is hard to recognize that thought and belief combine into a power surge that can literally move mountains. 
 ⁹It appears at first glance that to believe such power about yourself is arrogant, but that is not the real reason you do not believe it. 
 ¹⁰You prefer to believe that your thoughts cannot exert real influence because you are actually afraid of them. 
 ¹¹This may allay awareness of the guilt, but at the cost of perceiving the mind as impotent. 
@@ -395,13 +395,13 @@ True healing occurs by accepting the remedy.
 
 ::: details Expanded
 Everyone experiences fear. 
-²Yet it would take very little right thinking to realise why fear occurs. 
+²Yet it would take very little right thinking to realize why fear occurs. 
 ³Few appreciate the real power of the mind, and no one remains fully aware of it [the real power of the mind] all the time. 
-⁴However, if you hope to spare yourself from fear there are some things you must realise, and realise fully. 
+⁴However, if you hope to spare yourself from fear there are some things you must realize, and realize fully. 
 ⁵The mind is very powerful, and never loses its [the mind’s] creative force. 
 ⁶It [the mind] never sleeps. 
 ⁷Every instant it [the mind] is creating. 
-⁸It is hard to recognise that thought and belief combine into a power surge that can literally move mountains. 
+⁸It is hard to recognize that thought and belief combine into a power surge that can literally move mountains. 
 ⁹It appears at first glance that to believe such power about yourself is arrogant, but that [believing such power about yourself is arrogance] is not the real reason you do not believe it [you have power to move mountains]. 
 ¹⁰You prefer to believe that your thoughts cannot exert real influence because you are actually afraid of them [your thoughts]. 
 ¹¹This [believing that your thoughts cannot exert real influence] may allay awareness of the guilt, but at the cost of perceiving the mind as impotent. 
@@ -412,13 +412,13 @@ Everyone experiences fear.
 
 ::: details Substituted
 Everyone experiences fear. 
-²Yet it would take very little right thinking to realise why fear occurs. 
+²Yet it would take very little right thinking to realize why fear occurs. 
 ³Few appreciate the real power of the mind, and no one remains fully aware of the real power of the mind all the time. 
-⁴However, if you hope to spare yourself from fear there are some things you must realise, and realise fully. 
+⁴However, if you hope to spare yourself from fear there are some things you must realize, and realize fully. 
 ⁵The mind is very powerful, and never loses the mind’s creative force. 
 ⁶The mind never sleeps. 
 ⁷Every instant the mind is creating. 
-⁸It is hard to recognise that thought and belief combine into a power surge that can literally move mountains. 
+⁸It is hard to recognize that thought and belief combine into a power surge that can literally move mountains. 
 ⁹It appears at first glance that to believe such power about yourself is arrogant, but believing such power about yourself is arrogance is not the real reason you do not believe you have power to move mountains. 
 ¹⁰You prefer to believe that your thoughts cannot exert real influence because you are actually afraid of your thoughts. 
 ¹¹Believing that your thoughts cannot exert real influence may allay awareness of the guilt, but at the cost of perceiving the mind as impotent. 

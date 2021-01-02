@@ -101,7 +101,7 @@ Your holiness is the salvation of the world.
 
 #::: details Simplified
 
-Quietly recognise that your are holy and blessed and so are all things.
+Quietly recognize that your are holy and blessed and so are all things.
 
 :::
 

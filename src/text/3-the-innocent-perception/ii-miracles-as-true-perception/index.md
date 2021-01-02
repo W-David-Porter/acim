@@ -15,7 +15,7 @@ next: T-3.III
 ²Certain fundamental concepts cannot be understood in terms of opposites. 
 ³It is impossible to conceive of light and darkness or everything and nothing as joint possibilities. 
 ⁴They are all true or all false. 
-⁵It is essential that you realise your thinking will be erratic until a firm commitment to one or the other is made. 
+⁵It is essential that you realize your thinking will be erratic until a firm commitment to one or the other is made. 
 ⁶A firm commitment to darkness or nothingness, however, is impossible. 
 ⁷No one has ever lived who has not experienced *some* light and *some* thing. 
 ⁸No one, therefore, is able to deny truth totally, even if he thinks he can.
@@ -25,7 +25,7 @@ I have stated that the basic concepts referred to in this course are not matters
 ²Certain fundamental concepts cannot be understood in terms of opposites. 
 ³It is impossible to conceive of light and darkness or everything and nothing as joint possibilities. 
 ⁴They [fundamental concepts like light and dark, or everything and nothing] are all true or all false. 
-⁵It is essential that you realise your thinking will be erratic until a firm commitment to one or the other [light or darkness, everything or nothing] is made. 
+⁵It is essential that you realize your thinking will be erratic until a firm commitment to one or the other [light or darkness, everything or nothing] is made. 
 ⁶A firm commitment to darkness or nothingness, however, is impossible. 
 ⁷No one has ever lived who has not experienced *some* light and *some* thing. 
 ⁸No one, therefore, is able to deny truth totally, even if he [the truth-denier] thinks he [the truth-denier] can.
@@ -36,7 +36,7 @@ I have stated that the basic concepts referred to in this course are not matters
 ²Certain fundamental concepts cannot be understood in terms of opposites. 
 ³It is impossible to conceive of light and darkness or everything and nothing as joint possibilities. 
 ⁴Fundamental concepts like light and dark, or everything and nothing, are all true or all false. 
-⁵It is essential that you realise your thinking will be erratic until a firm commitment to light or darkness, or to everything or nothing, is made. 
+⁵It is essential that you realize your thinking will be erratic until a firm commitment to light or darkness, or to everything or nothing, is made. 
 ⁶A firm commitment to darkness or nothingness, however, is impossible. 
 ⁷No one has ever lived who has not experienced *some* light and *some* thing. 
 ⁸No one, therefore, is able to deny truth totally, even if the truth-denier thinks the truth-denier can.

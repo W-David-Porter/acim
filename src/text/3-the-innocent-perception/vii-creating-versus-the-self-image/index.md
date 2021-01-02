@@ -19,7 +19,7 @@ next: T-4.in
 ⁵Both are cornerstones for systems of belief by which one lives. 
 ⁶It is a mistake to believe that a thought system based on lies is weak. 
 ⁷Nothing made by a child of God is without power. 
-⁸It is essential to realise this, because otherwise you will be unable to escape from the prison you have made.
+⁸It is essential to realize this, because otherwise you will be unable to escape from the prison you have made.
 
 ::: details Expanded
 Every system of thought must have a starting point. 
@@ -29,7 +29,7 @@ Every system of thought must have a starting point.
 ⁵Both [making and creating] are cornerstones for systems of belief by which one lives. 
 ⁶It is a mistake to believe that a thought system based on lies is weak. 
 ⁷Nothing made by a child of God is without power. 
-⁸It is essential to realise this [what a child of God makes has power], because otherwise you will be unable to escape from the prison you have made.
+⁸It is essential to realize this [what a child of God makes has power], because otherwise you will be unable to escape from the prison you have made.
 :::
 
 ::: details Substituted
@@ -40,7 +40,7 @@ Every system of thought must have a starting point.
 ⁵Making and creating are cornerstones for systems of belief by which one lives. 
 ⁶It is a mistake to believe that a thought system based on lies is weak. 
 ⁷Nothing made by a child of God is without power. 
-⁸It is essential to realise what a child of God makes has power, because otherwise you will be unable to escape from the prison you have made.
+⁸It is essential to realize what a child of God makes has power, because otherwise you will be unable to escape from the prison you have made.
 :::
 
 ::: details Simplified
@@ -51,7 +51,7 @@ A thought system based on lies has power because it is made by you.
 
 2. You cannot resolve the authority problem by depreciating the power of your mind. 
 ²To do so is to deceive yourself, and this will hurt you because you really understand the strength of the mind. 
-³You also realise that you cannot weaken it, any more than you can weaken God. 
+³You also realize that you cannot weaken it, any more than you can weaken God. 
 ⁴The ‘devil’ is a frightening concept because he seems to be extremely powerful and extremely active. 
 ⁵He is perceived as a force in combat with God, battling Him for possession of His creations. 
 ⁶The devil deceives by lies, and builds kingdoms in which everything is in direct opposition to God. 
@@ -61,7 +61,7 @@ A thought system based on lies has power because it is made by you.
 ::: details Expanded
 You cannot resolve the authority problem by depreciating the power of your mind. 
 ²To do so [depreciate the power of your mind] is to deceive yourself, and this [deceiving yourself] will hurt you because you really understand the strength of the mind. 
-³You also realise that you cannot weaken it [your mind], any more than you can weaken God. 
+³You also realize that you cannot weaken it [your mind], any more than you can weaken God. 
 ⁴The ‘devil’ is a frightening concept because he [the devil] seems to be extremely powerful and extremely active. 
 ⁵He [the devil] is perceived as a force in combat with God, battling Him [God] for possession of His [God’s] creations. 
 ⁶The devil deceives by lies, and builds kingdoms in which everything is in direct opposition to God. 
@@ -72,7 +72,7 @@ You cannot resolve the authority problem by depreciating the power of your mind.
 ::: details Substituted
 You cannot resolve the authority problem by depreciating the power of your mind. 
 ²To depreciate the power of your mind is to deceive yourself, and deceiving yourself will hurt you because you really understand the strength of the mind. 
-³You also realise that you cannot weaken your mind, any more than you can weaken God. 
+³You also realize that you cannot weaken your mind, any more than you can weaken God. 
 ⁴The ‘devil’ is a frightening concept because the devil seems to be extremely powerful and extremely active. 
 ⁵The devil is perceived as a force in combat with God, battling God for possession of His God’s creations. 
 ⁶The devil deceives by lies, and builds kingdoms in which everything is in direct opposition to God. 
@@ -197,7 +197,7 @@ The Holy Spirit reminds you that you did not create yourself.
 5. The mind can make the belief in separation very real and very fearful, and this belief *is* the ‘devil’. 
 ²It is powerful, active, destructive and clearly in opposition to God, because it literally denies His Fatherhood. 
 ³Look at your life and see what the devil has made. 
-⁴But realise that this making will surely dissolve in the light of truth, because its foundation is a lie. 
+⁴But realize that this making will surely dissolve in the light of truth, because its foundation is a lie. 
 ⁵Your creation by God is the only Foundation that cannot be shaken, because the light is in it. 
 ⁶Your starting point is truth, and you must return to your Beginning. 
 ⁷Much has been seen since then, but nothing has really happened. 
@@ -210,7 +210,7 @@ The Holy Spirit reminds you that you did not create yourself.
 The mind can make the belief in separation very real and very fearful, and this belief [in separation] *is* the ‘devil’. 
 ²It [the devil] is powerful, active, destructive and clearly in opposition to God, because it [the devil] literally denies His [God’s] Fatherhood. 
 ³Look at your life and see what the devil has made. 
-⁴But realise that this [the devil’s] making will surely dissolve in the light of truth, because its [the-devil’s] foundation is a lie. 
+⁴But realize that this [the devil’s] making will surely dissolve in the light of truth, because its [the-devil’s] foundation is a lie. 
 ⁵Your creation by God is the only Foundation that cannot be shaken, because the light is in it [the Foundation of your creation by God]. 
 ⁶Your starting point is truth, and you must return to your Beginning. 
 ⁷Much has been seen since then [the beginning], but nothing has really happened. 
@@ -224,7 +224,7 @@ The mind can make the belief in separation very real and very fearful, and this 
 The mind can make the belief in separation very real and very fearful, and the belief in separation *is* the ‘devil’. 
 ²The devil is powerful, active, destructive and clearly in opposition to God, because the devil literally denies God’s Fatherhood. 
 ³Look at your life and see what the devil has made. 
-⁴But realise that the devil’s making will surely dissolve in the light of truth, because the-devil’s foundation is a lie. 
+⁴But realize that the devil’s making will surely dissolve in the light of truth, because the-devil’s foundation is a lie. 
 ⁵Your creation by God is the only Foundation that cannot be shaken, because the light is in the Foundation of your creation by God. 
 ⁶Your starting point is truth, and you must return to your Beginning. 
 ⁷Much has been seen since the beginning, but nothing has really happened. 
@@ -306,6 +306,6 @@ You leave the world of perception/separation by way of truth.
 
 {% if showCommentary %}
 ::: details Commentary
-(sections [VI](/text/3-the-innocent-perception/vi-judgement-and-the-authority-problem) and VII) Once we see through the filter of the past, we cannot see the light of Christ that shines in others. Rather, we shall see around them only a shoadow of the guilt which *we* have put there. We put it there because we have projected it from our minds as a magical atttempt to escape from the guilt of *our* past. An example of this is people who have unresolved problems with their fathers, and with authority figures in general, who then see any authority figure as if that person were their father. The ultimate origin of the authority problem of course is our belief in the separation from God, the only Authrority. (Wapnick, AVI, p. 170.)
+(sections [VI](/text/3-the-innocent-perception/vi-judgment-and-the-authority-problem) and VII) Once we see through the filter of the past, we cannot see the light of Christ that shines in others. Rather, we shall see around them only a shoadow of the guilt which *we* have put there. We put it there because we have projected it from our minds as a magical atttempt to escape from the guilt of *our* past. An example of this is people who have unresolved problems with their fathers, and with authority figures in general, who then see any authority figure as if that person were their father. The ultimate origin of the authority problem of course is our belief in the separation from God, the only Authrority. (Wapnick, AVI, p. 170.)
 :::
 {% endif %}

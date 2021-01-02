@@ -195,9 +195,9 @@ Fear is resolved by love.
 ⁵What you believe is true for you. 
 ⁶In this sense the separation *has* occurred, and to deny it is merely to use denial inappropriately. 
 ⁷However, to concentrate on error is only a further error. 
-⁸The initial corrective procedure is to recognise temporarily that there is a problem, but only as an indication that immediate correction is needed. 
+⁸The initial corrective procedure is to recognize temporarily that there is a problem, but only as an indication that immediate correction is needed. 
 ⁹This establishes a state of mind in which the Atonement can be accepted without delay. 
-¹⁰It should be emphasised, however, that ultimately no compromise is possible between everything and nothing. 
+¹⁰It should be emphasized, however, that ultimately no compromise is possible between everything and nothing. 
 ¹¹Time is essentially a device by which all compromise in this respect can be given up. 
 ¹²It only seems to be abolished by degrees, because time itself involves intervals that do not exist. 
 ¹³Miscreation made this necessary as a corrective device. 
@@ -211,9 +211,9 @@ Nothing and everything cannot coëxist.
 ⁵What you believe is true for you. 
 ⁶In this sense [what you believe is true] the separation *has* occurred, and to deny it [the separation] is merely to use denial inappropriately. 
 ⁷However, to concentrate on error is only a further error. 
-⁸The initial corrective procedure is to recognise temporarily that there is a problem, but only as an indication that immediate correction is needed. 
+⁸The initial corrective procedure is to recognize temporarily that there is a problem, but only as an indication that immediate correction is needed. 
 ⁹This [temporary recognition of a problem] establishes a state of mind in which [state of mind] the Atonement can be accepted without delay. 
-¹⁰It should be emphasised, however, that ultimately no compromise is possible between everything and nothing. 
+¹⁰It should be emphasized, however, that ultimately no compromise is possible between everything and nothing. 
 ¹¹Time is essentially a device by which [time] all compromise in this respect [between everything and nothing] can be given up. 
 ¹²It [time] only seems to be abolished by degrees, because time itself involves intervals that do not exist. 
 ¹³Miscreation made this [time] necessary as a corrective device. 
@@ -228,9 +228,9 @@ Nothing and everything cannot coëxist.
 ⁵What you believe is true for you. 
 ⁶What you believe is true, so the separation *has* occurred, and to deny the separation is merely to use denial inappropriately. 
 ⁷However, to concentrate on error is only a further error. 
-⁸The initial corrective procedure is to recognise temporarily that there is a problem, but only as an indication that immediate correction is needed. 
+⁸The initial corrective procedure is to recognize temporarily that there is a problem, but only as an indication that immediate correction is needed. 
 ⁹Temporary recognition of a problem establishes a state of mind where the Atonement can be accepted without delay. 
-¹⁰It should be emphasised, however, that ultimately no compromise is possible between everything and nothing. 
+¹⁰It should be emphasized, however, that ultimately no compromise is possible between everything and nothing. 
 ¹¹Time is essentially a device; by time all compromise between everything and nothing can be given up. 
 ¹²Time only seems to be abolished by degrees, because time itself involves intervals that do not exist. 
 ¹³Miscreation made time necessary as a corrective device. 
@@ -240,12 +240,12 @@ Nothing and everything cannot coëxist.
 ::: details Simplified
 There is no fear. 
 There is only love. 
-You must first recognise that you believe in separation. 
+You must first recognize that you believe in separation. 
 Recognising the belief in separation is temporary. 
 Then the belief in separation can be corrected. 
 Separation is corrected by accepting the Atonement. 
 Time is a learning device. 
-Time is the gap that enables you to recognise the belief in separation before you accept the Atonement. 
+Time is the gap that enables you to recognize the belief in separation before you accept the Atonement. 
 :::
 
 {% if showCommentary %}
@@ -321,7 +321,7 @@ The conflict is between there being only one Son while the Son has many parts. I
 ⁴As soon as a state of readiness occurs, there is usually some degree of desire to accomplish, but it is by no means necessarily undivided. 
 ⁵The state does not imply more than a potential for a change of mind. 
 ⁶Confidence cannot develop fully until mastery has been accomplished. 
-⁷We have already attempted to correct the fundamental error that fear can be mastered, and have emphasised that the only real mastery is through love. 
+⁷We have already attempted to correct the fundamental error that fear can be mastered, and have emphasized that the only real mastery is through love. 
 ⁸Readiness is only the beginning of confidence. 
 ⁹You may think this implies that an enormous amount of time is necessary between readiness and mastery, but let me remind you that time and space are under my control.
 
@@ -332,7 +332,7 @@ I have already briefly spoken about readiness, but some additional points might 
 ⁴As soon as a state of readiness occurs, there is usually some degree of desire to accomplish, but it [the desire to accomplish] is by no means necessarily undivided. 
 ⁵The state [of readiness] does not imply more than a potential for a change of mind. 
 ⁶Confidence cannot develop fully until mastery has been accomplished. 
-⁷We have already attempted to correct the fundamental error that fear can be mastered, and have emphasised that the only real mastery is through love. 
+⁷We have already attempted to correct the fundamental error that fear can be mastered, and have emphasized that the only real mastery is through love. 
 ⁸Readiness is only the beginning of confidence. 
 ⁹You may think this [readiness being the beginning of confidence] implies that an enormous amount of time is necessary between readiness and mastery, but let me remind you that time and space are under my control.
 :::
@@ -344,7 +344,7 @@ I have already briefly spoken about readiness, but some additional points might 
 ⁴As soon as a state of readiness occurs, there is usually some degree of desire to accomplish, but the desire to accomplish is by no means necessarily undivided. 
 ⁵The state of readiness does not imply more than a potential for a change of mind. 
 ⁶Confidence cannot develop fully until mastery has been accomplished. 
-⁷We have already attempted to correct the fundamental error that fear can be mastered, and have emphasised that the only real mastery is through love. 
+⁷We have already attempted to correct the fundamental error that fear can be mastered, and have emphasized that the only real mastery is through love. 
 ⁸Readiness is only the beginning of confidence. 
 ⁹You may think that readiness being the beginning of confidence implies that an enormous amount of time is necessary between readiness and mastery, but let me remind you that time and space are under my control.
 :::

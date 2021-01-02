@@ -72,7 +72,7 @@ This is the way out of fear and is the undoing of the ego.
 ⁵Everything that continues has already been born. 
 ⁶It will increase as you are willing to return the unhealed part of your mind to the higher part, returning it undivided to creation. 
 ⁷I have come to give you the foundation, so your own thoughts can make you really free. 
-⁸You have carried the burden of unshared ideas that are too weak to increase, but having made them you did not realise how to undo them. 
+⁸You have carried the burden of unshared ideas that are too weak to increase, but having made them you did not realize how to undo them. 
 ⁹You cannot cancel out your past errors alone. 
 ¹⁰They will not disappear from your mind without the Atonement, a remedy not of your making. 
 ¹¹The Atonement must be understood as a pure act of sharing. 
@@ -87,7 +87,7 @@ What the ego makes it [the ego] keeps to itself [the-ego’s-self], and so it [t
 ⁵Everything that continues has already been born. 
 ⁶It [everything that continues] will increase as you are willing to return the unhealed part of your mind to the higher part, returning it [your mind] undivided to creation. 
 ⁷I have come to give you the foundation, so your own thoughts can make you really free. 
-⁸You have carried the burden of unshared ideas that are too weak to increase, but having made them [unshared ideas] you did not realise how to undo them [unshared ideas]. 
+⁸You have carried the burden of unshared ideas that are too weak to increase, but having made them [unshared ideas] you did not realize how to undo them [unshared ideas]. 
 ⁹You cannot cancel out your past errors alone. 
 ¹⁰They [your past errors] will not disappear from your mind without the Atonement, a remedy not of your making. 
 ¹¹The Atonement must be understood as a pure act of sharing. 
@@ -103,7 +103,7 @@ What the ego makes the ego keeps to the-ego’s-self, and so the ego is without 
 ⁵Everything that continues has already been born. 
 ⁶Physical birth will increase as you are willing to return the unhealed part of your mind to the higher part, returning your mind undivided to creation. 
 ⁷I have come to give you the foundation, so your own thoughts can make you really free. 
-⁸You have carried the burden of unshared ideas that are too weak to increase, but having made unshared ideas you did not realise how to undo unshared ideas. 
+⁸You have carried the burden of unshared ideas that are too weak to increase, but having made unshared ideas you did not realize how to undo unshared ideas. 
 ⁹You cannot cancel out your past errors alone. 
 ¹⁰Your past errors will not disappear from your mind without the Atonement, a remedy not of your making. 
 ¹¹The Atonement must be understood as a pure act of sharing. 
@@ -328,7 +328,7 @@ Only when all minds are healed can the Sonship create fully like God.
 ¹⁰I place the peace of God in your heart and in your hands, to hold and share. 
 ¹¹The heart is pure to hold it, and the hands are strong to give it. 
 ¹²We cannot lose. 
-¹³My judgement is as strong as the wisdom of God, in Whose Heart and Hands we have our being. 
+¹³My judgment is as strong as the wisdom of God, in Whose Heart and Hands we have our being. 
 ¹⁴His quiet children are His blessed Sons. 
 ¹⁵The Thoughts of God are with you.
 
@@ -345,7 +345,7 @@ How can you who are so holy suffer?
 ¹⁰I place the peace of God in your heart and in your hands, to hold and share. 
 ¹¹The heart is pure to hold it [the peace of God], and the hands are strong to give it [the peace of God]. 
 ¹²We cannot lose. 
-¹³My judgement is as strong as the wisdom of God, in Whose [God’s] Heart and Hands we have our being. 
+¹³My judgment is as strong as the wisdom of God, in Whose [God’s] Heart and Hands we have our being. 
 ¹⁴His [God’s] quiet children are His [God’s] blessed Sons. 
 ¹⁵The Thoughts of God are with you.
 :::
@@ -363,7 +363,7 @@ How can you who are so holy suffer?
 ¹⁰I place the peace of God in your heart and in your hands, to hold and share. 
 ¹¹The heart is pure to hold the peace of God, and the hands are strong to give the peace of God. 
 ¹²We cannot lose. 
-¹³My judgement is as strong as the wisdom of God; in God’s Heart and Hands we have our being. 
+¹³My judgment is as strong as the wisdom of God; in God’s Heart and Hands we have our being. 
 ¹⁴God’s quiet children are God’s blessed Sons. 
 ¹⁵The Thoughts of God are with you.
 :::

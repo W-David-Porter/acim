@@ -98,7 +98,7 @@ See in yourself and in your brother that you are all glorious creations of God.
 ::: details Commentary
 (4–5) *A Course in Miracles* is simple, clear and direct in its teachings. It is the wrong mind that weaves the obscuring webs of complexity. c/f [T-4.III.8:1–2](/text/4-the-illusions-of-the-ego/iii-love-without-conflict/#1) (Wapnick, FCTL, p.181)
 
-(1–2) …specifically address how Jesus sees his (or the Holy Spirit’s) role of looking with us at the ego’s darkness… Passages like these make no real sense, and  cannot truly be understood by students *unless* they first recognise the total unreality of all they perceive and experience. c/f [T-11.V.1:1–2:3,8–9](/text/11-god-or-the-ego/v-the-dynamics-of-the-ego/#1), [T-4.III.8:1–2](/text/4-the-illusions-of-the-ego/iii-love-without-conflict/#2) (Wapnick, FCTL, p.130–131)
+(1–2) …specifically address how Jesus sees his (or the Holy Spirit’s) role of looking with us at the ego’s darkness… Passages like these make no real sense, and  cannot truly be understood by students *unless* they first recognize the total unreality of all they perceive and experience. c/f [T-11.V.1:1–2:3,8–9](/text/11-god-or-the-ego/v-the-dynamics-of-the-ego/#1), [T-4.III.8:1–2](/text/4-the-illusions-of-the-ego/iii-love-without-conflict/#2) (Wapnick, FCTL, p.130–131)
 :::
 {% endif %}
 
@@ -126,16 +126,16 @@ You can decide not to feel deprived.
 :::
 
 
-4. When you are anxious, realise that anxiety comes from the capriciousness of the ego, and *know this [anxiety] need not be*. 
+4. When you are anxious, realize that anxiety comes from the capriciousness of the ego, and *know this [anxiety] need not be*. 
 ²You can be as vigilant against the ego’s dictates as for them.
 
 ::: details Expanded
-When you are anxious, realise that anxiety comes from the capriciousness of the ego, and *know anxiety need not be*. 
+When you are anxious, realize that anxiety comes from the capriciousness of the ego, and *know anxiety need not be*. 
 ²You can be as vigilant against the ego’s dictates as for them [the-ego’s-dictates].
 :::
 
 ::: details Substituted
-When you are anxious, realise that anxiety comes from the capriciousness of the ego, and *know anxiety need not be*. 
+When you are anxious, realize that anxiety comes from the capriciousness of the ego, and *know anxiety need not be*. 
 ²You can be as vigilant against the ego’s dictates as for the-ego’s-dictates.
 :::
 
@@ -244,9 +244,9 @@ Do not be disheartened.
 ³Your mind and mine can unite in shining your ego away, releasing the strength of God into everything you think and do. 
 ⁴Do not settle for anything less than this, and refuse to accept anything but this as your goal. 
 ⁵Watch your mind carefully for any beliefs that hinder its accomplishment, and step away from them. 
-⁶Judge how well you have done this by your own feelings, for this is the one right use of judgement. 
-⁷Judgement, like any other defence, can be used to attack or protect; to hurt or to heal. 
-⁸The ego *should* be brought to judgement and found wanting there. 
+⁶Judge how well you have done this by your own feelings, for this is the one right use of judgment. 
+⁷judgment, like any other defence, can be used to attack or protect; to hurt or to heal. 
+⁸The ego *should* be brought to judgment and found wanting there. 
 ⁹Without your own allegiance, protection and love, the ego cannot exist. 
 ¹⁰Let it be judged truly and you must withdraw allegiance, protection and love from it.
 
@@ -256,9 +256,9 @@ Have you really considered how many opportunities you have had to gladden yourse
 ³Your mind and mine [my mind] can unite in shining your ego away, releasing the strength of God into everything you think and do. 
 ⁴Do not settle for anything less than this [the strength of God], and refuse to accept anything but this [the strength of God] as your goal. 
 ⁵Watch your mind carefully for any beliefs that hinder its [the-strength-of-God’s] accomplishment, and step away from them [hindering-beliefs]. 
-⁶Judge how well you have done this [stepped away from hindering beliefs] by your own feelings, for this [judging by your feelings] is the one right use of judgement. 
-⁷Judgement, like any other defence, can be used to attack or protect; to hurt or to heal. 
-⁸The ego *should* be brought to judgement and found wanting there [in judgement]. 
+⁶Judge how well you have done this [stepped away from hindering beliefs] by your own feelings, for this [judging by your feelings] is the one right use of judgment. 
+⁷judgment, like any other defence, can be used to attack or protect; to hurt or to heal. 
+⁸The ego *should* be brought to judgment and found wanting there [in judgment]. 
 ⁹Without your own allegiance, protection and love, the ego cannot exist. 
 ¹⁰Let it [the ego] be judged truly and you must withdraw allegiance, protection and love from it [the ego].
 :::
@@ -269,9 +269,9 @@ Have you really considered how many opportunities you have had to gladden yourse
 ³Your mind and my mind can unite in shining your ego away, releasing the strength of God into everything you think and do. 
 ⁴Do not settle for anything less than the strength of God, and refuse to accept anything but the strength of God as your goal. 
 ⁵Watch your mind carefully for any beliefs that hinder the-strength-of-God’s accomplishment, and step away from hindering-beliefs. 
-⁶Judge how well you have stepped away from hindering beliefs by your own feelings, for judging by your feelings is the one right use of judgement. 
-⁷Judgement, like any other defence, can be used to attack or protect; to hurt or to heal. 
-⁸The ego *should* be brought to judgement and found wanting in judgement. 
+⁶Judge how well you have stepped away from hindering beliefs by your own feelings, for judging by your feelings is the one right use of judgment. 
+⁷judgment, like any other defence, can be used to attack or protect; to hurt or to heal. 
+⁸The ego *should* be brought to judgment and found wanting in judgment. 
 ⁹Without your own allegiance, protection and love, the ego cannot exist. 
 ¹⁰Let the ego be judged truly and you must withdraw allegiance, protection and love from the ego.
 :::
@@ -334,7 +334,7 @@ The ego stops God shining through you.
 10. The First Coming of Christ is merely another name for the creation, for Christ is the Son of God. 
 ²The Second Coming of Christ means nothing more than the end of the ego’s rule and the healing of the mind. 
 ³I was created like you in the First, and I have called you to join with me in the Second. 
-⁴I am in charge of the Second Coming, and my judgement, which is used only for protection, cannot be wrong because it never attacks. 
+⁴I am in charge of the Second Coming, and my judgment, which is used only for protection, cannot be wrong because it never attacks. 
 ⁵Yours may be so distorted that you believe I was mistaken in choosing you. 
 ⁶I assure you this is a mistake of your ego. 
 ⁷Do not mistake it for humility. 
@@ -345,8 +345,8 @@ The ego stops God shining through you.
 The First Coming of Christ is merely another name for the creation, for Christ is the Son of God. 
 ²The Second Coming of Christ means nothing more than the end of the ego’s rule and the healing of the mind. 
 ³I was created like you in the First [Coming], and I have called you to join with me in the Second [Coming]. 
-⁴I am in charge of the Second Coming, and my judgement, which [judgement] is used only for protection, cannot be wrong because it [my judgement] never attacks. 
-⁵Yours [judgement] may be so distorted that you believe I was mistaken in choosing you. 
+⁴I am in charge of the Second Coming, and my judgment, which [judgment] is used only for protection, cannot be wrong because it [my judgment] never attacks. 
+⁵Yours [judgment] may be so distorted that you believe I was mistaken in choosing you. 
 ⁶I assure you this [believing I was mistaken in choosing you] is a mistake of your ego. 
 ⁷Do not mistake it [believing I was mistaken in choosing you] for humility. 
 ⁸Your ego is trying to convince you that it [the ego] is real and I am not [real], because if I am real, I am no more real than you are [real]. 
@@ -357,8 +357,8 @@ The First Coming of Christ is merely another name for the creation, for Christ i
 The First Coming of Christ is merely another name for the creation, for Christ is the Son of God. 
 ²The Second Coming of Christ means nothing more than the end of the ego’s rule and the healing of the mind. 
 ³I was created like you in the First Coming, and I have called you to join with me in the Second Coming. 
-⁴I am in charge of the Second Coming; my judgement is used only for protection; my judgement cannot be wrong because my judgement never attacks. 
-⁵Your judgement may be so distorted that you believe I was mistaken in choosing you. 
+⁴I am in charge of the Second Coming; my judgment is used only for protection; my judgment cannot be wrong because my judgment never attacks. 
+⁵Your judgment may be so distorted that you believe I was mistaken in choosing you. 
 ⁶I assure you believing I was mistaken in choosing you, is a mistake of your ego. 
 ⁷Do not mistake the belief I was mistaken in choosing you, for humility. 
 ⁸Your ego is trying to convince you that the ego is real and I am not real, because if I am real, I am no more real than you are real. 
@@ -377,14 +377,14 @@ The ego wants you to think I am not real.
 ::: details Commentary
 (1–3) These are very clear statements of the end of the ego, as well as Jesus’ statement that he is no different from us. The First Coming of Christ is not the birth of Jesus, but rather is the creation of the Sonship of which he is a part. It was then that the ego’s dream appeared to be born, necessitating the Atonement correction. When the Atonement is complete and the Sonship awakens from the dream, the Second Coming of Christ dawns. And Jesus is asking us to join in that process with him, which he “undertook to begin” ([T-1.III.1:1](/text/1-the-meaning-of-miracles/iii-atonement-and-miracles/#1)) (Wapnick, AVI, p.228)
 
-(4) Jesus says he is in charge of the Atonement [T-1.III.1:1](/text/1-the-meaning-of-miracles/iii-atonement-and-miracles/#1), and the teacher’s manual states that the Holy Spirit established Jesus as the leader of the plan of the Atonement ([C-6.2:2](/clarification/6-the-holy-spirit/#2)). The meaning here is the same. Moreover, again, his judgement clearly lacks the implication of punishment or attack that is central to the traditional view. Jesus’ judgement is simply that the separation never happened, and so our pain and suffering not only is not warranted, but is inherently nonexistent, its cause of sin having been undone. Thus we are ‘protected’ from the ego’s thought system by the truth of the Atonement. (Wapnick, AVI, p.228–229)
+(4) Jesus says he is in charge of the Atonement [T-1.III.1:1](/text/1-the-meaning-of-miracles/iii-atonement-and-miracles/#1), and the teacher’s manual states that the Holy Spirit established Jesus as the leader of the plan of the Atonement ([C-6.2:2](/clarification/6-the-holy-spirit/#2)). The meaning here is the same. Moreover, again, his judgment clearly lacks the implication of punishment or attack that is central to the traditional view. Jesus’ judgment is simply that the separation never happened, and so our pain and suffering not only is not warranted, but is inherently nonexistent, its cause of sin having been undone. Thus we are ‘protected’ from the ego’s thought system by the truth of the Atonement. (Wapnick, AVI, p.228–229)
 :::
 {% endif %}
 
 
 11. I do not attack your ego. 
 ²I do work with your higher mind, the home of the Holy Spirit, whether you are asleep or awake, just as your ego does with your lower mind, which is its home. 
-³I am your vigilance in this, because you are too confused to recognise your own hope. 
+³I am your vigilance in this, because you are too confused to recognize your own hope. 
 ⁴I am not mistaken. 
 ⁵Your mind will elect to join with mine, and together we are invincible. 
 ⁶You and your brother will yet come together in my name, and your sanity will be restored. 
@@ -398,7 +398,7 @@ The ego wants you to think I am not real.
 ::: details Expanded
 I do not attack your ego. 
 ²I do work with your higher mind, the home of the Holy Spirit, whether you are asleep or awake, just as your ego does [work] with your lower mind, which [mind] is its [your ego’s] home. 
-³I am your vigilance in this [working with your mind], because you are too confused to recognise your own hope. 
+³I am your vigilance in this [working with your mind], because you are too confused to recognize your own hope. 
 ⁴I am not mistaken. 
 ⁵Your mind will elect to join with mine [my mind], and together we are invincible. 
 ⁶You and your brother will yet come together in my name, and your sanity will be restored. 
@@ -413,7 +413,7 @@ I do not attack your ego.
 ::: details Substituted
 I do not attack your ego. 
 ²I do work with your higher mind, the home of the Holy Spirit, whether you are asleep or awake, just as your ego works with your lower mind, lower mind is your ego’s home. 
-³I am your vigilance in working with your mind, because you are too confused to recognise your own hope. 
+³I am your vigilance in working with your mind, because you are too confused to recognize your own hope. 
 ⁴I am not mistaken. 
 ⁵Your mind will elect to join with my mind, and together we are invincible. 
 ⁶You and your brother will yet come together in my name, and your sanity will be restored. 

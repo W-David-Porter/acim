@@ -156,7 +156,7 @@ Miracles happen naturally.
 ::: details Commentary 
 … the world of separation [is] made real, along with the seemingly infinite range of problems to be solved. Hence, the first principle of miracles — there is no order of difficulty among them — seems impossible and beyond our attainment. It is the purpose of *A Course in Miracles* to teach us that it is not only possible, but perfectly natural (Wapnick, A.V.I., p.51.)
 
-This statement reflects the very practical nature of the Course. It is not teaching us simply the intellectual concept that time is an illusion; it is teaching us to recognise that all of our problems are the same. (Wapnick, A.V.I., p.51.)
+This statement reflects the very practical nature of the Course. It is not teaching us simply the intellectual concept that time is an illusion; it is teaching us to recognize that all of our problems are the same. (Wapnick, A.V.I., p.51.)
 ::: 
 {% endif %}
 
@@ -428,26 +428,26 @@ c/f [principle 12](#12), Wapnick, A.A.C., p.230, 231
 18. A miracle is a service. 
 ²It is the maximal service you can render to another. 
 ³It is a way of loving your neighbour as yourself. 
-⁴You recognise your own and your neighbour’s worth simultaneously.
+⁴You recognize your own and your neighbour’s worth simultaneously.
 
 ::: details Expanded
 A miracle is a service. 
 ²It [a miracle] is the maximal service you can render to another. 
 ³It [a miracle] is a way of loving your neighbour as yourself. 
-⁴You recognise your own [worth] and your neighbour’s worth simultaneously.
+⁴You recognize your own [worth] and your neighbour’s worth simultaneously.
 :::
 
 ::: details Substituted
 A miracle is a service. 
 ²A miracle is the maximal service you can render to another. 
 ³A miracle is a way of loving your neighbour as yourself. 
-⁴You recognise your worth and your neighbour’s worth simultaneously.
+⁴You recognize your worth and your neighbour’s worth simultaneously.
 :::
 
 ::: details Simplified
 A miracle is the most service you can do for another. 
 Love your neighbour as yourself. 
-Recognise your worth and your neighbour’s worth.
+recognize your worth and your neighbour’s worth.
 :::
 
 
@@ -701,21 +701,21 @@ Miracles heal.
 <div id=30 class=zero-height></div>
 
 30. By recognising spirit, miracles adjust the levels of perception and show them in proper alignment. 
-²This places spirit at the centre, where it can communicate directly.
+²This places spirit at the center, where it can communicate directly.
 
 ::: details Expanded
 By recognising spirit, miracles adjust the levels of perception and show them [the levels of perception] in proper alignment. 
-²This [proper alignment of levels of perception] places spirit at the centre, where it [spirit] can communicate directly.
+²This [proper alignment of levels of perception] places spirit at the center, where it [spirit] can communicate directly.
 :::
 
 ::: details Substituted
 By recognising spirit, miracles adjust the levels of perception and show the levels of perception in proper alignment. 
-²Proper alignment of levels of perception places spirit at the centre, where spirit can communicate directly.
+²Proper alignment of levels of perception places spirit at the center, where spirit can communicate directly.
 :::
 
 ::: details Simplified
-Miracles place spirit at the centre of perception. 
-Spirit communicates directly from the centre.
+Miracles place spirit at the center of perception. 
+Spirit communicates directly from the center.
 :::
 
 {% if showCommentary %}
@@ -770,7 +770,7 @@ I inspire all miracles; miracles are really intercessions.
 ::: details Simplified
 I inspire miracles. 
 Miracles make your perceptions holy. 
-Miracles make you realise your holiness and your perfection.
+Miracles make you realize your holiness and your perfection.
 :::
  
 
@@ -879,18 +879,18 @@ A miracle allows you to to know the Divine Order.
 
 
 38. The Holy Spirit is the mechanism of miracles. 
-²He recognises both God’s creations and your illusions. 
+²He recognizes both God’s creations and your illusions. 
 ³He separates the true from the false by His ability to perceive totally rather than selectively.
 
 ::: details Expanded
 The Holy Spirit is the mechanism of miracles. 
-²He [Holy Spirit] recognises both God’s creations and your illusions. 
+²He [Holy Spirit] recognizes both God’s creations and your illusions. 
 ³He [Holy Spirit] separates the true from the false by His [the Holy Spirit’s] ability to perceive totally rather than selectively.
 :::
 
 ::: details Substituted
 The Holy Spirit is the mechanism of miracles. 
-²Holy Spirit recognises both God’s creations and your illusions. 
+²Holy Spirit recognizes both God’s creations and your illusions. 
 ³Holy Spirit separates the true from the false by the Holy Spirit’s ability to perceive totally rather than selectively.
 :::
 

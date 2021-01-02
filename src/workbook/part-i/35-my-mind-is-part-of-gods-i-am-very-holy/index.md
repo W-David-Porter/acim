@@ -106,9 +106,9 @@ You true identity is that your mind is part of God’s and that you are very hol
 ²Include all the ego-based attributes which you ascribe to yourself, positive or negative, desirable or undesirable, grandiose or debased. 
 ³All of them are equally unreal, because you do not look upon yourself through the eyes of holiness.
 
-5. In the earlier part of the mind-searching period, you will probably emphasise what you consider to be the more negative aspects of your perception of yourself. 
+5. In the earlier part of the mind-searching period, you will probably emphasize what you consider to be the more negative aspects of your perception of yourself. 
 ²Toward the latter part of the exercise period, however, more self-inflating descriptive terms may well cross your mind. 
-³Try to recognise that the direction of your fantasies about yourself does not matter. 
+³Try to recognize that the direction of your fantasies about yourself does not matter. 
 ⁴Illusions have no direction in reality. 
 ⁵They are merely not true.
 

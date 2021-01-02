@@ -12,28 +12,28 @@ next: T-4.VI
 ---
 
 1. All things work together for good. 
-²There are no exceptions except in the ego’s judgement. 
+²There are no exceptions except in the ego’s judgment. 
 ³The ego exerts maximal vigilance about what it permits into awareness, and this is not the way a balanced mind holds together. 
 ⁴The ego is thrown further off balance because it keeps its primary motivation from your awareness, and raises control rather than sanity to predominance. 
 ⁵The ego has every reason to do this, according to the thought system which gave rise to it and which it serves. 
-⁶Sane judgement would inevitably judge against the ego, and must be obliterated by the ego in the interest of its self-preservation.
+⁶Sane judgment would inevitably judge against the ego, and must be obliterated by the ego in the interest of its self-preservation.
 
 ::: details Expanded
 All things work together for good. 
-²There are no exceptions except in the ego’s judgement. 
+²There are no exceptions except in the ego’s judgment. 
 ³The ego exerts maximal vigilance about what it [the ego] permits into awareness, and this [exerting maximal vigilance] is not the way a balanced mind holds together. 
 ⁴The ego is thrown further off balance because it [the ego] keeps its [the-ego’s] primary motivation from your awareness, and raises control rather than sanity to predominance. 
 ⁵The ego has every reason to do this [raise control to predominance], according to the thought system which gave rise to it [the ego] and which [thought system] it [the ego] serves. 
-⁶Sane judgement would inevitably judge against the ego, and must be obliterated by the ego in the interest of its [the-ego’s] self-preservation.
+⁶Sane judgment would inevitably judge against the ego, and must be obliterated by the ego in the interest of its [the-ego’s] self-preservation.
 :::
 
 ::: details Substituted
 All things work together for good. 
-²There are no exceptions except in the ego’s judgement. 
+²There are no exceptions except in the ego’s judgment. 
 ³The ego exerts maximal vigilance about what the ego permits into awareness, and exerting maximal vigilance is not the way a balanced mind holds together. 
 ⁴The ego is thrown further off balance because the ego keeps the-ego’s primary motivation from your awareness, and raises control rather than sanity to predominance. 
 ⁵The ego has every reason to raise control to predominance, according to the thought system which gave rise to the ego; this thought system the ego serves. 
-⁶Sane judgement would inevitably judge against the ego, and must be obliterated by the ego in the interest of the-ego’s self-preservation.
+⁶Sane judgment would inevitably judge against the ego, and must be obliterated by the ego in the interest of the-ego’s self-preservation.
 :::
 
 ::: details Simplified
@@ -155,7 +155,7 @@ The ego pushes the uneasiness of feeling unprotected out of awareness.
 
 {% if showCommentary %} 
 ::: details Commentary
-(5–11) …this clever description of the final stage in the ego’s strategy of not having the Son remember what it is really up to. …[referring] to the body as a defence against fear  …[an] example of the ego’s ability to bring abou tthe Son’s amnesia …the ego attempts to convince the Son to trust it. And when the Son recognises the clearly paradoxical and contradictory advice the ego gives him, *and complains about it*, the ego responds by simply not responding. (Wapnick, AAC, p.50)
+(5–11) …this clever description of the final stage in the ego’s strategy of not having the Son remember what it is really up to. …[referring] to the body as a defence against fear  …[an] example of the ego’s ability to bring abou tthe Son’s amnesia …the ego attempts to convince the Son to trust it. And when the Son recognizes the clearly paradoxical and contradictory advice the ego gives him, *and complains about it*, the ego responds by simply not responding. (Wapnick, AAC, p.50)
 
 (9–11) Once the thought that God created this world is accorded truth, the ego can safely rest. Whatever inconsistencies may from time to time appear within the consciousness of individuals are quickly disposed of, either by the ego’s “appeal to ‘mysteries’, insisting that you must accept the meaningless to save yourself” ([T-9.IV.4:7](/text/9-the-acceptance-of-the-atonement/iv-the-holy-spirits-plan-of-forgiveness/#4)), or by repression. Once pushed out of awareness, these inconsistent thoughts are no longer accessible to question and revision. (Wapnick, LDNC, p.571–572)
 ::: 
@@ -163,7 +163,7 @@ The ego pushes the uneasiness of feeling unprotected out of awareness.
 
 
 5. This is the question that *must* be asked: “Where can I go for protection?”. 
-²“Seek and ye shall find” does not mean that you should seek blindly and desperately for something you would not recognise. 
+²“Seek and ye shall find” does not mean that you should seek blindly and desperately for something you would not recognize. 
 ³Meaningful seeking is consciously undertaken, consciously organised and consciously directed. 
 ⁴The goal must be formulated clearly and kept in mind. 
 ⁵Learning and wanting to learn are inseparable. 
@@ -173,7 +173,7 @@ The ego pushes the uneasiness of feeling unprotected out of awareness.
 
 ::: details Expanded
 This is the question that *must* be asked: “Where can I go for protection?”. 
-²“Seek and ye shall find” does not mean that you should seek blindly and desperately for something you would not recognise. 
+²“Seek and ye shall find” does not mean that you should seek blindly and desperately for something you would not recognize. 
 ³Meaningful seeking is consciously undertaken, consciously organised and consciously directed. 
 ⁴The goal must be formulated clearly and kept in mind. 
 ⁵Learning and wanting to learn are inseparable. 
@@ -184,7 +184,7 @@ This is the question that *must* be asked: “Where can I go for protection?”.
 
 ::: details Substituted
 This is the question that *must* be asked: “Where can I go for protection?”. 
-²“Seek and ye shall find” does not mean that you should seek blindly and desperately for something you would not recognise. 
+²“Seek and ye shall find” does not mean that you should seek blindly and desperately for something you would not recognize. 
 ³Meaningful seeking is consciously undertaken, consciously organised and consciously directed. 
 ⁴The goal must be formulated clearly and kept in mind. 
 ⁵Learning and wanting to learn are inseparable. 
@@ -194,7 +194,7 @@ This is the question that *must* be asked: “Where can I go for protection?”.
 :::
 
 ::: details Simplified
-Do not seek blindly for protection, because you might not recognise protection. 
+Do not seek blindly for protection, because you might not recognize protection. 
 Formulate a clear goal for your seeking. 
 Learning works best when you want to learn it. 
 Many things you want to learn have no lasting value.

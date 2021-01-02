@@ -203,7 +203,7 @@ The ego wants to keep you from seeing sin as a lack.
 ⁶The ego believes that by punishing itself it will mitigate the punishment of God. 
 ⁷Yet even in this it is arrogant. 
 ⁸It attributes to God a punishing intent, and then takes this intent as its own prerogative. 
-⁹It tries to usurp all the functions of God as it perceives them, because it recognises that only total allegiance can be trusted.
+⁹It tries to usurp all the functions of God as it perceives them, because it recognizes that only total allegiance can be trusted.
 
 ::: details Expanded
 The guiltless mind cannot suffer. 
@@ -214,7 +214,7 @@ The guiltless mind cannot suffer.
 ⁶The ego believes that by punishing itself [the-ego’s-self] it [the ego] will mitigate the punishment of God. 
 ⁷Yet even in this [punishing itself] it [the ego] is arrogant. 
 ⁸It [the ego] attributes to God a punishing intent, and then takes this [a punishing] intent as its [the-ego’s] own prerogative. 
-⁹It [the ego] tries to usurp all the functions of God as it [the ego] perceives them [the functions of God], because it [the ego] recognises that only total allegiance can be trusted.
+⁹It [the ego] tries to usurp all the functions of God as it [the ego] perceives them [the functions of God], because it [the ego] recognizes that only total allegiance can be trusted.
 :::
 
 ::: details Substituted
@@ -226,7 +226,7 @@ The guiltless mind cannot suffer.
 ⁶The ego believes that by punishing the-ego’s-self the ego will mitigate the punishment of God. 
 ⁷Yet even in punishing itself the ego is arrogant. 
 ⁸The ego attributes to God a punishing intent, and then takes a punishing intent as the-ego’s own prerogative. 
-⁹The ego tries to usurp all the functions of God as the ego perceives the functions of God, because the ego recognises that only total allegiance can be trusted.
+⁹The ego tries to usurp all the functions of God as the ego perceives the functions of God, because the ego recognizes that only total allegiance can be trusted.
 :::
 
 ::: details Simplified
@@ -238,7 +238,7 @@ Illness is the ego’s attempt at punishing itself.
 
 6. The ego cannot oppose the laws of God any more than you can, but it can interpret them according to what it wants, just as you can. 
 ²That is why the question, “What do you want?” must be answered. 
-³You are answering it every minute and every second, and each moment of decision is a judgement that is anything but ineffectual. 
+³You are answering it every minute and every second, and each moment of decision is a judgment that is anything but ineffectual. 
 ⁴Its effects will follow automatically until the decision is changed. 
 ⁵Remember, though, that the alternatives themselves are unalterable. 
 ⁶The Holy Spirit, like the ego, is a decision. 
@@ -256,8 +256,8 @@ Illness is the ego’s attempt at punishing itself.
 ::: details Expanded
 The ego cannot oppose the laws of God any more than you can [oppose the laws of God], but it [the ego] can interpret them [the laws of God] according to what it [the ego] wants, just as you can [interpret the laws of God according to what you want]. 
 ²That is why the question, “What do you want?” must be answered. 
-³You are answering it [the question] every minute and every second, and each moment of decision is a judgement that is anything but [never] ineffectual. 
-⁴Its [judgement’s] effects will follow automatically until the decision is changed. 
+³You are answering it [the question] every minute and every second, and each moment of decision is a judgment that is anything but [never] ineffectual. 
+⁴Its [judgment’s] effects will follow automatically until the decision is changed. 
 ⁵Remember, though, that the alternatives themselves are unalterable. 
 ⁶The Holy Spirit, like the ego, is a decision. 
 ⁷Together they [the Holy Spirit and the ego] constitute all the alternatives the mind can accept and obey. 
@@ -275,8 +275,8 @@ The ego cannot oppose the laws of God any more than you can [oppose the laws of 
 ::: details Substituted
 The ego cannot oppose the laws of God any more than you can oppose the laws of God, but the ego can interpret the laws of God according to what the ego wants, just as you can interpret the laws of God according to what you want. 
 ²That is why the question, “What do you want?” must be answered. 
-³You are answering the question every minute and every second, and each moment of decision is a judgement that is never ineffectual. 
-⁴Judgement’s effects will follow automatically until the decision is changed. 
+³You are answering the question every minute and every second, and each moment of decision is a judgment that is never ineffectual. 
+⁴judgment’s effects will follow automatically until the decision is changed. 
 ⁵Remember, though, that the alternatives themselves are unalterable. 
 ⁶The Holy Spirit, like the ego, is a decision. 
 ⁷Together the Holy Spirit and the ego constitute all the alternatives the mind can accept and obey. 
@@ -348,7 +348,7 @@ God offers the Atonement, which undoes the effects of your disorded thinking.
 
 
 8. The continuing decision to remain separated is the only possible reason for continuing guilt feelings. 
-²We have said this before, but did not emphasise the destructive results of the decision. 
+²We have said this before, but did not emphasize the destructive results of the decision. 
 ³Any decision of the mind will affect both behaviour and experience. 
 ⁴What you want you expect. 
 ⁵This is not delusional. 
@@ -358,7 +358,7 @@ God offers the Atonement, which undoes the effects of your disorded thinking.
 
 ::: details Expanded
 The continuing decision to remain separated is the only possible reason for continuing guilt feelings. 
-²We have said this [the continuing decision to remain separated is the only possible reason for continuing guilt feelings] before, but did not emphasise the destructive results of the decision [to remain separated]. 
+²We have said this [the continuing decision to remain separated is the only possible reason for continuing guilt feelings] before, but did not emphasize the destructive results of the decision [to remain separated]. 
 ³Any decision of the mind will affect both behaviour and experience. 
 ⁴What you want you expect. 
 ⁵This [expecting what you want] is not delusional. 
@@ -369,7 +369,7 @@ The continuing decision to remain separated is the only possible reason for cont
 
 ::: details Substituted
 The continuing decision to remain separated is the only possible reason for continuing guilt feelings. 
-²We have said the continuing decision to remain separated is the only possible reason for continuing guilt feelings before, but did not emphasise the destructive results of the decision to remain separated. 
+²We have said the continuing decision to remain separated is the only possible reason for continuing guilt feelings before, but did not emphasize the destructive results of the decision to remain separated. 
 ³Any decision of the mind will affect both behaviour and experience. 
 ⁴What you want you expect. 
 ⁵Expecting what you want is not delusional. 

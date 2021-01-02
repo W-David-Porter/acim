@@ -36,15 +36,15 @@ The escape from darkness involves two stages: First stage, the recognition that 
 :::
 
 ::: details Simplified
-First recognise darkness cannot hide. 
-Second recognise there is nothing you want to hide. 
+First recognize darkness cannot hide. 
+Second recognize there is nothing you want to hide. 
 This is escape from fear. 
 You will understand peace and joy.
 :::
 
 
 2. Holiness can never be really hidden in darkness, but you can deceive yourself about it. 
-²This deception makes you fearful because you realise in your heart it *is* a deception, and you exert enormous efforts to establish its reality. 
+²This deception makes you fearful because you realize in your heart it *is* a deception, and you exert enormous efforts to establish its reality. 
 ³The miracle sets reality where it belongs. 
 ⁴Reality belongs only to spirit, and the miracle acknowledges only truth. 
 ⁵It thus dispels illusions about yourself, and puts you in communion with yourself and God. 
@@ -57,7 +57,7 @@ You will understand peace and joy.
 
 ::: details Expanded
 Holiness can never be really hidden in darkness, but you can deceive yourself about it [that holiness can be hidden in darkness]. 
-²This deception [that holiness can be hidden in darkness] makes you fearful because you realise in your heart it [the deception that holiness can be hidden in darkness] *is* a deception, and you exert enormous efforts to establish its [holiness’s] reality. 
+²This deception [that holiness can be hidden in darkness] makes you fearful because you realize in your heart it [the deception that holiness can be hidden in darkness] *is* a deception, and you exert enormous efforts to establish its [holiness’s] reality. 
 ³The miracle sets reality where it [the reality] belongs. 
 ⁴Reality belongs only to spirit, and the miracle acknowledges only truth. 
 ⁵It [the miracle] thus dispels illusions about yourself, and puts you in communion with yourself and God. 
@@ -71,7 +71,7 @@ Holiness can never be really hidden in darkness, but you can deceive yourself ab
 
 ::: details Substituted
 Holiness can never be really hidden in darkness, but you can deceive yourself that holiness can be hidden in darkness. 
-²The deception that holiness can be hidden in darkness makes you fearful because you realise in your heart the deception that holiness can be hidden in darkness *is* a deception, and you exert enormous efforts to establish the deception-of-holiness-hidden-in-darkness’s reality. 
+²The deception that holiness can be hidden in darkness makes you fearful because you realize in your heart the deception that holiness can be hidden in darkness *is* a deception, and you exert enormous efforts to establish the deception-of-holiness-hidden-in-darkness’s reality. 
 ³The miracle sets reality where reality belongs. 
 ⁴Reality belongs only to spirit, and the miracle acknowledges only truth. 
 ⁵The miracle thus dispels illusions about yourself, and puts you in communion with yourself and God. 

@@ -289,7 +289,7 @@ You need lessons but lessons will be repeated until learned.
 
 8. The ego tries to exploit all situations into forms of praise for itself in order to overcome its doubts. 
 ²It will remain doubtful as long as you believe in its existence. 
-³You who made it cannot trust it, because in your right mind you realise it is not real. 
+³You who made it cannot trust it, because in your right mind you realize it is not real. 
 ⁴The only sane solution is not to try to change reality, which is indeed a fearful attempt, but to accept it as it is. 
 ⁵You are part of reality, which stands unchanged beyond the reach of your ego but within easy reach of spirit. 
 ⁶When you are afraid, be still and know that God is real, and you are His beloved Son in whom He is well pleased. 
@@ -298,7 +298,7 @@ You need lessons but lessons will be repeated until learned.
 ::: details Expanded
 The ego tries to exploit all situations into forms of praise for itself [the-ego’s-self] in order to overcome its [the-ego’s] doubts. 
 ²It [the ego] will remain doubtful as long as you believe in its [the-ego’s] existence. 
-³You who made it [the ego] cannot trust it [the ego], because in your right mind you realise it [the ego] is not real. 
+³You who made it [the ego] cannot trust it [the ego], because in your right mind you realize it [the ego] is not real. 
 ⁴The only sane solution is not to try to change reality, which [trying to change reality] is indeed a fearful attempt, but to accept it [reality] as it [reality] is. 
 ⁵You are part of reality, which [reality] stands unchanged beyond the reach of your ego but within easy reach of spirit. 
 ⁶When you are afraid, be still and know that God is real, and you are His [God’s] beloved Son in whom [God’s Son] He [God] is well pleased. 
@@ -308,7 +308,7 @@ The ego tries to exploit all situations into forms of praise for itself [the-ego
 ::: details Substituted
 The ego tries to exploit all situations into forms of praise for the-ego’s-self in order to overcome the-ego’s doubts. 
 ²The ego will remain doubtful as long as you believe in the-ego’s existence. 
-³You who made the ego cannot trust the ego, because in your right mind you realise the ego is not real. 
+³You who made the ego cannot trust the ego, because in your right mind you realize the ego is not real. 
 ⁴The only sane solution is not to try to change reality, trying to change reality is indeed a fearful attempt, but to accept reality as reality is. 
 ⁵You are part of reality, reality stands unchanged beyond the reach of your ego but within easy reach of spirit. 
 ⁶When you are afraid, be still and know that God is real, and you are God’s beloved Son, in God’s Son, God is well pleased. 
@@ -464,7 +464,7 @@ You can choose to enter God’s home any time.
 
 12.  Of your ego you can do nothing to save yourself or others, but of your spirit you can do everything for the salvation of both. 
 ²Humility is a lesson for the ego, not for the spirit. 
-³Spirit is beyond humility, because it recognises its radiance and gladly sheds its light everywhere. 
+³Spirit is beyond humility, because it recognizes its radiance and gladly sheds its light everywhere. 
 ⁴The meek shall inherit the earth because their egos are humble, and this gives them truer perception. 
 ⁵The Kingdom of Heaven is the spirit’s right, whose beauty and dignity are far beyond doubt, beyond perception, and stand forever as the mark of the Love of God for His creations, who are wholly worthy of Him and only of Him. 
 ⁶Nothing else is sufficiently worthy to be a gift for a creation of God Himself.
@@ -472,7 +472,7 @@ You can choose to enter God’s home any time.
 ::: details Expanded
 Of your ego you can do nothing to save yourself or others, but of your spirit you can do everything for the salvation of both [yourself and others]. 
 ²Humility is a lesson for the ego, not [a lesson] for the spirit. 
-³Spirit is beyond humility, because it [spirit] recognises its [spirit’s] radiance and gladly sheds its [spirit’s] light everywhere. 
+³Spirit is beyond humility, because it [spirit] recognizes its [spirit’s] radiance and gladly sheds its [spirit’s] light everywhere. 
 ⁴The meek shall inherit the earth because their [the meek’s] egos are humble, and this [having a humble ego] gives them [the meek] truer perception. 
 ⁵The Kingdom of Heaven is the spirit’s right, whose [the-Kingdom-of-Heaven’s] beauty and dignity are far beyond doubt, beyond perception, and stand forever as the mark of the Love of God for His [God’s] creations, who [God’s-creations] are wholly worthy of Him [God] and only of Him [God]. 
 ⁶Nothing else [than the Kingdom of Heaven] is sufficiently worthy to be a gift for a creation of God Himself.
@@ -481,7 +481,7 @@ Of your ego you can do nothing to save yourself or others, but of your spirit yo
 ::: details Substituted
 Of your ego you can do nothing to save yourself or others, but of your spirit you can do everything for the salvation of yourself and others. 
 ²Humility is a lesson for the ego, not a lesson for the spirit. 
-³Spirit is beyond humility, because spirit recognises spirit’s radiance and gladly sheds spirit’s light everywhere. 
+³Spirit is beyond humility, because spirit recognizes spirit’s radiance and gladly sheds spirit’s light everywhere. 
 ⁴The meek shall inherit the earth because the meek’s egos are humble, and having a humble ego gives the meek truer perception. 
 ⁵The Kingdom of Heaven is the spirit’s right, the-Kingdom-of-Heaven’s beauty and dignity are far beyond doubt, beyond perception, and stand forever as the mark of the Love of God for God’s creations, God’s-creations are wholly worthy of God and only of Him God. 
 ⁶Nothing other than the Kingdom of Heaven is sufficiently worthy to be a gift for a creation of God Himself.

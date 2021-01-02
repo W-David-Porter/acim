@@ -384,7 +384,7 @@ I have showed you that you can decide for God.
 
 {% if showCommentary %}
 ::: details Commentary
-(2–3, 6–7) At the same time the gospel emphasises the importance of our decision [to turn our minds back to God], it emphasises the power of our mind. The “power of Heaven and earth” that belongs to Jesus he offers us, once we choose to share our life with him (and [12:3](#12). (Wapnick, FAJ, p.237)
+(2–3, 6–7) At the same time the gospel emphasizes the importance of our decision [to turn our minds back to God], it emphasizes the power of our mind. The “power of Heaven and earth” that belongs to Jesus he offers us, once we choose to share our life with him (and [12:3](#12). (Wapnick, FAJ, p.237)
 
 (6–7) …we take him as our model for learning. This certainly does not mean that we need to be crucified as he was, but rather that we identify with the meaning of his death; namely, when we find ourselves tempted to feel that we are unfairly treated, the innocent victims of what the world has done to us, we should recall Jesus’ example and ask his help. (also [12:1–3](#12), [T-6.in.2:1](/text/6-the-lessons-of-love/in-introduction/#2), [T-6.I.7:2](/text/6-the-lessons-of-love/i-the-message-of-the-crucifixion/#7); [8:6–7(/text/6-the-lessons-of-love/i-the-message-of-the-crucifixion/#8)]) (Wapnick, ATG, p.127) 
 :::

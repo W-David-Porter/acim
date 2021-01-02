@@ -78,7 +78,7 @@ Do not allow anything not of God to affect you.
 ⁴Your right mind depends on it. 
 ⁵Denial of error is a strong defence of truth, but denial of truth results in miscreation, the projections of the ego. 
 ⁶In the service of the right mind the denial of error frees the mind, and reëstablishes the freedom of the will. 
-⁷When the will is really free it cannot miscreate, because it recognises only truth.
+⁷When the will is really free it cannot miscreate, because it recognizes only truth.
 
 ::: details Expanded
 True denial is a powerful protective device. 
@@ -87,7 +87,7 @@ True denial is a powerful protective device.
 ⁴Your right mind depends on it [denying error can hurt you]. 
 ⁵Denial of error is a strong defence of truth, but denial of truth results in miscreation, the projections of the ego. 
 ⁶In the service of the right mind the denial of error frees the mind, and reëstablishes the freedom of the will. 
-⁷When the will is really free it [the will] cannot miscreate, because it [the will] recognises only truth.
+⁷When the will is really free it [the will] cannot miscreate, because it [the will] recognizes only truth.
 :::
 
 ::: details Substituted
@@ -97,7 +97,7 @@ True denial is a powerful protective device.
 ⁴Your right mind depends on denying error can hurt you. 
 ⁵Denial of error is a strong defence of truth, but denial of truth results in miscreation, the projections of the ego. 
 ⁶In the service of the right mind the denial of error frees the mind, and reëstablishes the freedom of the will. 
-⁷When the will is really free the will cannot miscreate, because the will recognises only truth.
+⁷When the will is really free the will cannot miscreate, because the will recognizes only truth.
 :::
 
 ::: details Simplified

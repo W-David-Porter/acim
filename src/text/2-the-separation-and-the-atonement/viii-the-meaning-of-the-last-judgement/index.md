@@ -1,10 +1,10 @@
 ---
 layout: content.njk
-title: The Meaning of the Last Judgement
+title: The Meaning of the Last judgment
 reference: T-2.VIII
 eleventyNavigation:
   key: T-2.VIII
-  title: T-2.VIII The Meaning of the Last Judgement
+  title: T-2.VIII The Meaning of the Last judgment
   parent: T-2
   order: 8
 prev: T-2.VII
@@ -16,7 +16,7 @@ next: T-3.I
 ³Your will to create was given you by your Creator, Who was expressing the same Will in His creation. 
 ⁴Since creative ability rests in the mind, everything you create is necessarily a matter of will. 
 ⁵It also follows that whatever you alone make is real in your own sight, though not in the Mind of God. 
-⁶This basic distinction leads directly into the real meaning of the Last Judgement.
+⁶This basic distinction leads directly into the real meaning of the Last judgment.
 
 ::: details Expanded
 One of the ways in which you can correct the magic–miracle confusion is to remember that you did not create yourself. 
@@ -24,7 +24,7 @@ One of the ways in which you can correct the magic–miracle confusion is to rem
 ³Your will to create was given you by your Creator, Who [your Creator] was expressing the same Will in His [your-Creator’s] creation. 
 ⁴Since creative ability rests in the mind, everything you create is necessarily a matter of will. 
 ⁵It also follows that whatever you alone make is real in your own sight, though not in the Mind of God. 
-⁶This basic distinction [between real in your own sight and real in the Mind of God] leads directly into the real meaning of the Last Judgement.
+⁶This basic distinction [between real in your own sight and real in the Mind of God] leads directly into the real meaning of the Last judgment.
 :::
 
 ::: details Substituted
@@ -33,7 +33,7 @@ One of the ways in which you can correct the magic–miracle confusion is to rem
 ³Your will to create was given you by your Creator; your Creator was expressing the same Will in your-Creator’s creation. 
 ⁴Since creative ability rests in the mind, everything you create is necessarily a matter of will. 
 ⁵It also follows that whatever you alone make is real in your own sight, though not in the Mind of God. 
-⁶The basic distinction between real in your own sight and real in the Mind of God leads directly into the real meaning of the Last Judgement.
+⁶The basic distinction between real in your own sight and real in the Mind of God leads directly into the real meaning of the Last judgment.
 :::
 
 ::: details Simplified
@@ -49,54 +49,54 @@ Whatever you make alone is real to you but is not real to God.
 ::: details Commentary 
 (1–5) …making is of the separated mind, and creating [is] of the spirit. (Wapnick, A.V.I., p.239.)
 
-(6) …the true meaning of the Last Judgement is that God is not vengeful. His Final Judgement … is that He simply loves us as He always did. (Wapnick, A.V.I., p. 240.)
+(6) …the true meaning of the Last judgment is that God is not vengeful. His Final judgment … is that He simply loves us as He always did. (Wapnick, A.V.I., p. 240.)
 ::: 
 {% endif %}
 
 
-2. The Last Judgement is one of the most threatening ideas in your thinking. 
+2. The Last judgment is one of the most threatening ideas in your thinking. 
 ²This is because you do not understand it. 
-³Judgement is not an attribute of God. 
+³judgment is not an attribute of God. 
 ⁴It was brought into being only after the separation, when it became one of the many learning devices to be built into the overall plan. 
-⁵Just as the separation occurred over millions of years, the Last Judgement will extend over a similarly long period, and perhaps an even longer one. 
+⁵Just as the separation occurred over millions of years, the Last judgment will extend over a similarly long period, and perhaps an even longer one. 
 ⁶Its length can, however, be greatly shortened by miracles, the device for shortening but not abolishing time. 
 ⁷If a sufficient number become truly miracle-minded, this shortening process can be virtually immeasurable. 
 ⁸It is essential, however, that you free yourself from fear quickly, because you must emerge from the conflict if you are to bring peace to other minds.
 
 ::: details Expanded
-The Last Judgement is one of the most threatening ideas in your thinking. 
-²This [the Last Judgement is threatening] is because you do not understand it [the Last Judegement]. 
-³Judgement is not an attribute of God. 
-⁴It [judgement] was brought into being only after the separation, when it [judgement] became one of the many learning devices to be built into the overall plan. 
-⁵Just as the separation occurred over millions of years, the Last Judgement will extend over a similarly long period, and perhaps an even longer one. 
-⁶Its [the Last Judgement’s] length can, however, be greatly shortened by miracles, the device for shortening but not abolishing time. 
+The Last judgment is one of the most threatening ideas in your thinking. 
+²This [the Last judgment is threatening] is because you do not understand it [the Last Judegement]. 
+³judgment is not an attribute of God. 
+⁴It [judgment] was brought into being only after the separation, when it [judgment] became one of the many learning devices to be built into the overall plan. 
+⁵Just as the separation occurred over millions of years, the Last judgment will extend over a similarly long period, and perhaps an even longer one. 
+⁶Its [the Last judgment’s] length can, however, be greatly shortened by miracles, the device for shortening but not abolishing time. 
 ⁷If a sufficient number become truly miracle-minded, this shortening process [shortening time by miracles] can be virtually immeasurable. 
 ⁸It is essential, however, that you free yourself from fear quickly, because you must emerge from the conflict if you are to bring peace to other minds.
 :::
 
 ::: details Substituted
 
-The Last Judgement is one of the most threatening ideas in your thinking. 
-²The Last Judgement is threatening is because you do not understand the Last Judgement. 
-³Judgement is not an attribute of God. 
-⁴Judgement was brought into being only after the separation, when judgement became one of the many learning devices to be built into the overall plan. 
-⁵Just as the separation occurred over millions of years, the Last Judgement will extend over a similarly long period, and perhaps an even longer one. 
-⁶The Last Judgement’s length can, however, be greatly shortened by miracles, the device for shortening but not abolishing time. 
+The Last judgment is one of the most threatening ideas in your thinking. 
+²The Last judgment is threatening is because you do not understand the Last judgment. 
+³judgment is not an attribute of God. 
+⁴judgment was brought into being only after the separation, when judgment became one of the many learning devices to be built into the overall plan. 
+⁵Just as the separation occurred over millions of years, the Last judgment will extend over a similarly long period, and perhaps an even longer one. 
+⁶The Last judgment’s length can, however, be greatly shortened by miracles, the device for shortening but not abolishing time. 
 ⁷If a sufficient number become truly miracle-minded, the process of shortening time by miracles can be virtually immeasurable. 
 ⁸It is essential, however, that you free yourself from fear quickly, because you must emerge from the conflict if you are to bring peace to other minds.
 :::
 
 ::: details Simplified
 God does not judge. 
-Judgement is a learning device. 
-The Last Judgement extends over time. 
+judgment is a learning device. 
+The Last judgment extends over time. 
 You can shorten the process by miracles. 
 Free yourself from fear and conflict to bring peace to other minds.
 :::
 
 {% if showCommentary %}
 ::: details Commentary 
-(1–4) The One-mindedness of God or Christ cannot judge, and thus God’s only judgement is not a judgement at all. … God’s judgement is simply the fact of His total Love for His beloved Sons. … In His [Holy Spirit’s] judgement there is no need to punish, simply to correct. Thus, the Holy Spirit's form of judgement is simply a way to re-unify the seemingly separated Sobnship. This is the “learning device” that was built into the overall plan. (Wapnick, A.V.I., p.240.)
+(1–4) The One-mindedness of God or Christ cannot judge, and thus God’s only judgment is not a judgment at all. … God’s judgment is simply the fact of His total Love for His beloved Sons. … In His [Holy Spirit’s] judgment there is no need to punish, simply to correct. Thus, the Holy Spirit's form of judgment is simply a way to re-unify the seemingly separated Sobnship. This is the “learning device” that was built into the overall plan. (Wapnick, A.V.I., p.240.)
 
 (5) It is really not likely to happen overnight. If you just thiink about how our world is constituted, there is a tremendous amount of frear that underlies and motivates every single aspect of it. Every institution, every system of thought within this world is motivated by fear and guilt. You just cannot change that right now. I think the plan of the Atonement and the Course’s part in it is to change individuals’ minds much more quickly than would otherwise happen. (Wapnick, ATG, p.102–103.)
 
@@ -107,48 +107,48 @@ Free yourself from fear and conflict to bring peace to other minds.
 {% endif %}
 
 
-3. The Last Judgement is generally thought of as a procedure undertaken by God. 
+3. The Last judgment is generally thought of as a procedure undertaken by God. 
 ²Actually it will be undertaken by my brothers with my help. 
 ³It is a final healing rather than a meting out of punishment, however much you may think that punishment is deserved. 
-⁴Punishment is a concept totally opposed to right-mindedness, and the aim of the Last Judgement is to restore right-mindedness to you. 
-⁵The Last Judgement might be called a process of right evaluation. 
+⁴Punishment is a concept totally opposed to right-mindedness, and the aim of the Last judgment is to restore right-mindedness to you. 
+⁵The Last judgment might be called a process of right evaluation. 
 ⁶It simply means that everyone will finally come to understand what is worthy and what is not. 
 ⁷After this, the ability to choose can be directed rationally. 
 ⁸Until this distinction is made, however, the vacillations between free and imprisoned will cannot but continue.
 
 ::: details Expanded
-3. The Last Judgement is generally thought of as a procedure undertaken by God. 
-²Actually it [the Last Judgement] will be undertaken by my brothers with my help. 
-³It [the Last Judgement] is a final healing rather than a meting out of punishment, however much you may think that punishment is deserved. 
-⁴Punishment is a concept totally opposed to right-mindedness, and the aim of the Last Judgement is to restore right-mindedness to you. 
-⁵The Last Judgement might be called a process of right evaluation. 
-⁶It [the Last Judgement] simply means that everyone will finally come to understand what is worthy and what is not [worthy]. 
+3. The Last judgment is generally thought of as a procedure undertaken by God. 
+²Actually it [the Last judgment] will be undertaken by my brothers with my help. 
+³It [the Last judgment] is a final healing rather than a meting out of punishment, however much you may think that punishment is deserved. 
+⁴Punishment is a concept totally opposed to right-mindedness, and the aim of the Last judgment is to restore right-mindedness to you. 
+⁵The Last judgment might be called a process of right evaluation. 
+⁶It [the Last judgment] simply means that everyone will finally come to understand what is worthy and what is not [worthy]. 
 ⁷After this [understanding what is worthy and what is not worthy], the ability to choose can be directed rationally. 
 ⁸Until this distinction [between what is worthy and what is not worthy] is made, however, the vacillations between free and imprisoned will cannot but [must] continue.
 :::
 
 ::: details Substituted
-The Last Judgement is generally thought of as a procedure undertaken by God. 
-²Actually the Last Judgement will be undertaken by my brothers with my help. 
-³The Last Judgement is a final healing rather than a meting out of punishment, however much you may think that punishment is deserved. 
-⁴Punishment is a concept totally opposed to right-mindedness, and the aim of the Last Judgement is to restore right-mindedness to you. 
-⁵The Last Judgement might be called a process of right evaluation. 
-⁶The Last Judgement simply means that everyone will finally come to understand what is worthy and what is not worthy. 
+The Last judgment is generally thought of as a procedure undertaken by God. 
+²Actually the Last judgment will be undertaken by my brothers with my help. 
+³The Last judgment is a final healing rather than a meting out of punishment, however much you may think that punishment is deserved. 
+⁴Punishment is a concept totally opposed to right-mindedness, and the aim of the Last judgment is to restore right-mindedness to you. 
+⁵The Last judgment might be called a process of right evaluation. 
+⁶The Last judgment simply means that everyone will finally come to understand what is worthy and what is not worthy. 
 ⁷After understanding what is worthy and what is not worthy, the ability to choose can be directed rationally. 
 ⁸Until the distinction between what is worthy and what is not worthy is made, however, the vacillations between free and imprisoned will must continue.
 :::
 
 ::: details Simplified
-The Last Judgement is the restoration of right-mindedness to all the Sonship. 
+The Last judgment is the restoration of right-mindedness to all the Sonship. 
 :::
 
 {% if showCommentary %}
 ::: details Commentary 
-(1–2) God cannot be involved in the Last Judgement because it is a correction for an error which He does not even know about. (Wapnick, A.V.I., p. 241.)
+(1–2) God cannot be involved in the Last judgment because it is a correction for an error which He does not even know about. (Wapnick, A.V.I., p. 241.)
 
-(3–6) At this final awakening we stand at the threshold of Heaven and look back at all the things we thought had been real, the entire span of time and space. We realise at last that everything we have made is false, and all that remains is the truth as God created it. (Wapnick, A.V.I., p.242.)
+(3–6) At this final awakening we stand at the threshold of Heaven and look back at all the things we thought had been real, the entire span of time and space. We realize at last that everything we have made is false, and all that remains is the truth as God created it. (Wapnick, A.V.I., p.242.)
 
-(7–8) The individual process of learning right-minded judgements is what is referred to here. As this is learned and we accept the Atonemnt for ourselves, the vacillations between the ego and the Holy Spirit cease, so that our judgements are only those of the Holy Spirit. (Wapnick, A.V.I., p.242.) 
+(7–8) The individual process of learning right-minded judgments is what is referred to here. As this is learned and we accept the Atonemnt for ourselves, the vacillations between the ego and the Holy Spirit cease, so that our judgments are only those of the Holy Spirit. (Wapnick, A.V.I., p.242.) 
 :::
 {% endif %}
 
@@ -192,54 +192,54 @@ Withdraw belief from your miscreations.
 {% endif %}
 
 
-5. The term ‘Last Judgement’ is frightening not only because it has been projected onto God, but also because of the association of ‘last’ with death. 
+5. The term ‘Last judgment’ is frightening not only because it has been projected onto God, but also because of the association of ‘last’ with death. 
 ²This is an outstanding example of upside-down perception. 
-³If the meaning of the Last Judgement is objectively examined, it is quite apparent that it is really the doorway to life. 
+³If the meaning of the Last judgment is objectively examined, it is quite apparent that it is really the doorway to life. 
 ⁴No one who lives in fear is really alive. 
-⁵Your own last judgement cannot be directed toward yourself, because you are not your own creation. 
+⁵Your own last judgment cannot be directed toward yourself, because you are not your own creation. 
 ⁶You can, however, apply it meaningfully and at any time to everything you have made, and retain in your memory only what is creative and good. 
 ⁷This is what your right-mindedness cannot but dictate. 
-⁸The purpose of time is solely to ‘give you time’ to achieve this judgement. 
-⁹It is your own perfect judgement of your own perfect creations. 
+⁸The purpose of time is solely to ‘give you time’ to achieve this judgment. 
+⁹It is your own perfect judgment of your own perfect creations. 
 ¹⁰When everything you retain is loveable, there is no reason for fear to remain with you. 
 ¹¹This is your part in the Atonement.
 
 ::: details Expanded
-The term ‘Last Judgement’ is frightening not only because it [the Last Judgement] has been projected onto God, but also because of the association of ‘last’ with death. 
+The term ‘Last judgment’ is frightening not only because it [the Last judgment] has been projected onto God, but also because of the association of ‘last’ with death. 
 ²This [associating last with death] is an outstanding example of upside-down perception. 
-³If the meaning of the Last Judgement is objectively examined, it is quite apparent that it [the Last Judgement] is really the doorway to life. 
+³If the meaning of the Last judgment is objectively examined, it is quite apparent that it [the Last judgment] is really the doorway to life. 
 ⁴No one who lives in fear is really alive. 
-⁵Your own last judgement cannot be directed toward yourself, because you are not your own creation. 
-⁶You can, however, apply it [your own last judgement] meaningfully and at any time to everything you have made, and retain in your memory only what is creative and good. 
+⁵Your own last judgment cannot be directed toward yourself, because you are not your own creation. 
+⁶You can, however, apply it [your own last judgment] meaningfully and at any time to everything you have made, and retain in your memory only what is creative and good. 
 ⁷This [retaining what is creative and good] is what your right-mindedness cannot but [i.e. must] dictate. 
-⁸The purpose of time is solely to ‘give you time’ to achieve this judgement [of what is creative and good]. 
-⁹It [judging what is perfect and good] is your own perfect judgement of your own perfect creations. 
+⁸The purpose of time is solely to ‘give you time’ to achieve this judgment [of what is creative and good]. 
+⁹It [judging what is perfect and good] is your own perfect judgment of your own perfect creations. 
 ¹⁰When everything you retain is loveable, there is no reason for fear to remain with you. 
 ¹¹This [to retain what is loveable] is your part in the Atonement.
 :::
 
 ::: details Substituted
-The term ‘Last Judgement’ is frightening not only because the Last Judgement has been projected onto God, but also because of the association of ‘last’ with death. 
+The term ‘Last judgment’ is frightening not only because the Last judgment has been projected onto God, but also because of the association of ‘last’ with death. 
 ²Associating last with death is an outstanding example of upside-down perception. 
-³If the meaning of the Last Judgement is objectively examined, it is quite apparent that the Last Judgement is really the doorway to life. 
+³If the meaning of the Last judgment is objectively examined, it is quite apparent that the Last judgment is really the doorway to life. 
 ⁴No one who lives in fear is really alive. 
-⁵Your own last judgement cannot be directed toward yourself, because you are not your own creation. 
-⁶You can, however, apply your own last judgement meaningfully and at any time to everything you have made, and retain in your memory only what is creative and good. 
+⁵Your own last judgment cannot be directed toward yourself, because you are not your own creation. 
+⁶You can, however, apply your own last judgment meaningfully and at any time to everything you have made, and retain in your memory only what is creative and good. 
 ⁷Retaining what is creative and good is what your right-mindedness must dictate. 
-⁸The purpose of time is solely to ‘give you time’ to achieve this judgement of what is creative and good. 
-⁹Judgeing what is perfect and good is your own perfect judgement of your own perfect creations. 
+⁸The purpose of time is solely to ‘give you time’ to achieve this judgment of what is creative and good. 
+⁹Judgeing what is perfect and good is your own perfect judgment of your own perfect creations. 
 ¹⁰When everything you retain is loveable, there is no reason for fear to remain with you. 
 ¹¹To retain what is loveable is your part in the Atonement.
 :::
 
 ::: details Simplified
-Your own last judgement is to retain only what is creative and good and perfect and loveable. 
-Judgement ends when the is no fear left over.
+Your own last judgment is to retain only what is creative and good and perfect and loveable. 
+judgment ends when the is no fear left over.
 :::
 
 {% if showCommentary %}
 ::: details Commentary 
-(3) The Course’s understanding of the Last Judgement is that it is the instant when we make that final judgement separating out the illusions of the ego from the truth of God, and there thus remains nothing left to hinder our return home. (Wapnick, A.V.I., p. 244.)
+(3) The Course’s understanding of the Last judgment is that it is the instant when we make that final judgment separating out the illusions of the ego from the truth of God, and there thus remains nothing left to hinder our return home. (Wapnick, A.V.I., p. 244.)
 
 (4) Living in fear is tantamount to identifying with the ego thought system which is, of course, the denial of life. (Wapnick, A.V.I., p.245.)
 

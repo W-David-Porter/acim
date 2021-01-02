@@ -25,7 +25,7 @@ next: T-3.IV
 
 ::: details Expanded
 We have been emphasising perception, and have said very little about knowledge as yet. 
-²This is [we have emphasised perception] because perception must be straightened out before you can know anything. 
+²This is [we have emphasized perception] because perception must be straightened out before you can know anything. 
 ³To know is to be certain. 
 ⁴Uncertainty means that you do not know. 
 ⁵Knowledge is power because it [knowledge] is certain, and certainty is strength. 
@@ -38,7 +38,7 @@ We have been emphasising perception, and have said very little about knowledge a
 
 ::: details Substituted
 We have been emphasising perception, and have said very little about knowledge as yet. 
-²We have emphasised perception is because perception must be straightened out before you can know anything. 
+²We have emphasized perception is because perception must be straightened out before you can know anything. 
 ³To know is to be certain. 
 ⁴Uncertainty means that you do not know. 
 ⁵Knowledge is power because knowledge is certain, and certainty is strength. 
@@ -59,8 +59,8 @@ Strength is power.
 :::
 
 
-2. All your difficulties stem from the fact that you do not recognise yourself, your brother or God. 
-²To recognise means to ‘know again’, implying that you knew before. 
+2. All your difficulties stem from the fact that you do not recognize yourself, your brother or God. 
+²To recognize means to ‘know again’, implying that you knew before. 
 ³You can see in many ways because perception involves interpretation, and this means that it is not whole or consistent. 
 ⁴The miracle, being a way of perceiving, is not knowledge. 
 ⁵It is the right answer to a question, but you do not question when you know. 
@@ -72,8 +72,8 @@ Strength is power.
 ¹¹You know when you have ceased to ask questions.
 
 ::: details Expanded
-All your difficulties stem from the fact that you do not recognise yourself, your brother or God. 
-²To recognise means to “know again”, implying that you knew before. 
+All your difficulties stem from the fact that you do not recognize yourself, your brother or God. 
+²To recognize means to “know again”, implying that you knew before. 
 ³You can see in many ways because perception involves interpretation, and this [perception involves interpretation] means that it [perception] is not whole or consistent. 
 ⁴The miracle, being a way of perceiving, is not knowledge. 
 ⁵It [the miracle] is the right answer to a question, but you do not question when you know. 
@@ -86,8 +86,8 @@ All your difficulties stem from the fact that you do not recognise yourself, you
 :::
 
 ::: details Substituted
-All your difficulties stem from the fact that you do not recognise yourself, your brother or God. 
-²To recognise means to “know again”, implying that you knew before. 
+All your difficulties stem from the fact that you do not recognize yourself, your brother or God. 
+²To recognize means to “know again”, implying that you knew before. 
 ³You can see in many ways because perception involves interpretation, and perception involves interpretation means that perception is not whole or consistent. 
 ⁴The miracle, being a way of perceiving, is not knowledge. 
 ⁵The miracle is the right answer to a question, but you do not question when you know. 
@@ -286,8 +286,8 @@ Right perception is necessary before knowledge of God can replace perception and
 ⁸To create as He created you can create only what you know, and therefore accept as yours. 
 ⁹God knows His children with perfect certainty. 
 ¹⁰He created them by knowing them. 
-¹¹He recognises them perfectly. 
-¹²When they do not recognise each other, they do not recognise Him.
+¹¹He recognizes them perfectly. 
+¹²When they do not recognize each other, they do not recognize Him.
 
 ::: details Expanded
 If you attack error in another, you will hurt yourself. 
@@ -300,8 +300,8 @@ If you attack error in another, you will hurt yourself.
 ⁸To create as He [God] created you can create only what you know, and therefore accept as yours. 
 ⁹God knows His [God’s] children with perfect certainty. 
 ¹⁰He [God] created them [God’s-children] by knowing them [God’s-children]. 
-¹¹He [God] recognises them [God’s-children] perfectly. 
-¹²When they [God’s-children] do not recognise each other, they [God’s-children] do not recognise Him [God].
+¹¹He [God] recognizes them [God’s-children] perfectly. 
+¹²When they [God’s-children] do not recognize each other, they [God’s-children] do not recognize Him [God].
 :::
 
 ::: details Substituted
@@ -315,8 +315,8 @@ If you attack error in another, you will hurt yourself.
 ⁸To create as God created you can create only what you know, and therefore accept as yours. 
 ⁹God knows God’s children with perfect certainty. 
 ¹⁰God created God’s-children by knowing God’s-children. 
-¹¹God recognises God’s-children perfectly. 
-¹²When God’s-children do not recognise each other, God’s-children do not recognise God.
+¹¹God recognizes God’s-children perfectly. 
+¹²When God’s-children do not recognize each other, God’s-children do not recognize God.
 :::
 
 ::: details Simplified

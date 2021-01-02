@@ -122,7 +122,7 @@ Thoughts cannot leave their source. Your real thoughts are somewhere in your min
 ³We will deny the world in favour of truth. 
 ⁴We will not let the thoughts of the world hold us back. 
 ⁵We will not let the beliefs of the world tell us that what God would have us do is impossible. 
-⁶Instead, we will try to recognise that only what God would have us do is possible.
+⁶Instead, we will try to recognize that only what God would have us do is possible.
 
 
 5. We will also try to understand that only what God would have us do is what we want to do. 
@@ -151,7 +151,7 @@ Thoughts cannot leave their source. Your real thoughts are somewhere in your min
 ³Here are your thoughts one with His. 
 ⁴For this kind of practice only one thing is necessary; approach it as you would an altar dedicated in Heaven to God the Father and to God the Son. 
 ⁵For such is the place you are trying to reach. 
-⁶You will probably be unable as yet to realise how high you are trying to go. 
+⁶You will probably be unable as yet to realize how high you are trying to go. 
 ⁷Yet even with the little understanding you have already gained, you should be able to remind yourself that this is no idle game, but an exercise in holiness and an attempt to reach the Kingdom of Heaven.
 
 

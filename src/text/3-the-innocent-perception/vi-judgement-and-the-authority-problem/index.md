@@ -1,89 +1,89 @@
 ---
 layout: content.njk
-title: Judgement and the Authority Problem
+title: judgment and the Authority Problem
 reference: T-3.VI
 eleventyNavigation:
   key: T-3.VI
-  title: T-3.VI Judgement and the Authority Problem
+  title: T-3.VI judgment and the Authority Problem
   parent: T-3
   order: 6
 prev: T-3.V
 next: T-3.VII
 ---
 
-1. We have already discussed the Last Judgement, but in insufficient detail. 
-²After the Last Judgement there will be no more. 
-³Judgement is symbolic because beyond perception there is no judgement. 
+1. We have already discussed the Last judgment, but in insufficient detail. 
+²After the Last judgment there will be no more. 
+³judgment is symbolic because beyond perception there is no judgment. 
 ⁴When the Bible says “Judge not that ye be not judged”, it means that if you judge the reality of others you will be unable to avoid judging your own.
 
 ::: details Expanded
-We have already discussed the Last Judgement, but in insufficient detail. 
-²After the Last Judgement there will be no more [judgement]. 
-³Judgement is symbolic because beyond perception there is no judgement. 
+We have already discussed the Last judgment, but in insufficient detail. 
+²After the Last judgment there will be no more [judgment]. 
+³judgment is symbolic because beyond perception there is no judgment. 
 ⁴When the Bible says “Judge not that ye be not judged”, it [the Bible] means that if you judge the reality of others you will be unable to avoid judging your own [reality].
 :::
 
 ::: details Substituted
-We have already discussed the Last Judgement, but in insufficient detail. 
-²After the Last Judgement there will be no more judgement. 
-³Judgement is symbolic because beyond perception there is no judgement. 
+We have already discussed the Last judgment, but in insufficient detail. 
+²After the Last judgment there will be no more judgment. 
+³judgment is symbolic because beyond perception there is no judgment. 
 ⁴When the Bible says “Judge not that ye be not judged”, the Bible means that if you judge the reality of others you will be unable to avoid judging your own reality.
 :::
 
 ::: details Simplified
 In perception we judge others and judge ourselves. 
-After the Last Judgement there will be no more judgement.
+After the Last judgment there will be no more judgment.
 :::
 
 
 {% if showCommentary %} 
 ::: details Commentary
-(4) The decision to attack another is really the decision to hold onto our guilt through the dynamic of projection. Thus, it is not so much the judgement we shall receive from the outside that is the warning here, but the judgement we would make against ourselves by attacking another, reïnforcing our own guilt. This is always the ego’s hidden motive: to retain our guilt by projecting it onto others. Jesus’ words, as elsewhere, should not be taken as a threat of God’s punishment or vengeance, but rather as a caution on the threat of punishment and vengeance we incur upon ourselves, which reïnforces the belief in our own sinfulness. Of such is *not* the Kingdom of Heaven. (Wapnick, FAJ, p. 175. c/f [T-25.VIII.13:3](/text/25-the-justice-of-god/viii-justice-returned-to-love#13))
+(4) The decision to attack another is really the decision to hold onto our guilt through the dynamic of projection. Thus, it is not so much the judgment we shall receive from the outside that is the warning here, but the judgment we would make against ourselves by attacking another, reïnforcing our own guilt. This is always the ego’s hidden motive: to retain our guilt by projecting it onto others. Jesus’ words, as elsewhere, should not be taken as a threat of God’s punishment or vengeance, but rather as a caution on the threat of punishment and vengeance we incur upon ourselves, which reïnforces the belief in our own sinfulness. Of such is *not* the Kingdom of Heaven. (Wapnick, FAJ, p. 175. c/f [T-25.VIII.13:3](/text/25-the-justice-of-god/viii-justice-returned-to-love#13))
 :::
 {% endif %}
 
 
 2. The choice to judge rather than to know is the cause of the loss of peace. 
-²Judgement is the process on which perception but not knowledge rests. 
+²judgment is the process on which perception but not knowledge rests. 
 ³I have discussed this before in terms of the selectivity of perception, pointing out that evaluation is its obvious prerequisite. 
 ⁴Judegment always involves rejection. 
-⁵It never emphasises only the positive aspects of what is judged, whether in you or in others. 
+⁵It never emphasizes only the positive aspects of what is judged, whether in you or in others. 
 ⁶What has been perceived and rejected, or judged and found wanting, remains in your mind because it has been perceived. 
 ⁷One of the illusions from which you suffer is the belief that what you judged against has no effect. 
 ⁸This cannot be true unless you also believe that what you judged against does not exist. 
 ⁹You evidently do not believe this, or you would not have judged against it. 
-¹⁰In the end it does not matter whether your judgement is right or wrong. 
+¹⁰In the end it does not matter whether your judgment is right or wrong. 
 ¹¹Either way you are placing your belief in the unreal. 
-¹²This cannot be avoided in any type of judgement, because it implies the belief that reality is yours to select *from*.
+¹²This cannot be avoided in any type of judgment, because it implies the belief that reality is yours to select *from*.
 
 ::: details Expanded
 The choice to judge rather than to know is the cause of the loss of peace. 
-²Judgement is the process on which perception but not knowledge rests. 
-³I have discussed this [perception resting on judgement] before in terms of the selectivity of perception, pointing out that evaluation is its [perception’s] obvious prerequisite. 
+²judgment is the process on which perception but not knowledge rests. 
+³I have discussed this [perception resting on judgment] before in terms of the selectivity of perception, pointing out that evaluation is its [perception’s] obvious prerequisite. 
 ⁴Judegment always involves rejection. 
-⁵It [judgement] never emphasises only the positive aspects of what is judged, whether in you or in others. 
+⁵It [judgment] never emphasizes only the positive aspects of what is judged, whether in you or in others. 
 ⁶What has been perceived and rejected, or judged and found wanting, remains in your mind because it [what has been perceived and rejected] has been perceived. 
 ⁷One of the illusions from which you suffer is the belief that what you judged against has no effect. 
 ⁸This [the belief that what you judged against has no effect] cannot be true unless you also believe that what you judged against does not exist. 
 ⁹You evidently do not believe this [what you judged against does not exist], or you would not have judged against it [what you judged against]. 
-¹⁰In the end it does not matter whether your judgement is right or wrong. 
+¹⁰In the end it does not matter whether your judgment is right or wrong. 
 ¹¹Either way [right or wrong] you are placing your belief in the unreal. 
-¹²This [placing your belief in the unreal] cannot be avoided in any type of judgement, because it [placing your belief in the unreal] implies the belief that reality is yours to select *from*.
+¹²This [placing your belief in the unreal] cannot be avoided in any type of judgment, because it [placing your belief in the unreal] implies the belief that reality is yours to select *from*.
 :::
 
 ::: details Substituted
 The choice to judge rather than to know is the cause of the loss of peace. 
-²Judgement is the process on which perception but not knowledge rests. 
-³I have discussed perception resting on judgement before in terms of the selectivity of perception, pointing out that evaluation is perception’s obvious prerequisite. 
+²judgment is the process on which perception but not knowledge rests. 
+³I have discussed perception resting on judgment before in terms of the selectivity of perception, pointing out that evaluation is perception’s obvious prerequisite. 
 ⁴Judegment always involves rejection. 
-⁵Judgement never emphasises only the positive aspects of what is judged, whether in you or in others. 
+⁵judgment never emphasizes only the positive aspects of what is judged, whether in you or in others. 
 ⁶What has been perceived and rejected, or judged and found wanting, remains in your mind because what has been perceived and rejected, has been perceived. 
 ⁷One of the illusions from which you suffer is the belief that what you judged against has no effect. 
 ⁸The belief that what you judged against has no effect cannot be true unless you also believe that what you judged against does not exist. 
 ⁹You evidently do not believe what you judged against does not exist, or you would not have judged against what you judged against. 
-¹⁰In the end it does not matter whether your judgement is right or wrong. 
+¹⁰In the end it does not matter whether your judgment is right or wrong. 
 ¹¹Right way or wrong way, you are placing your belief in the unreal. 
-¹²Placing your belief in the unreal cannot be avoided in any type of judgement, because placing your belief in the unreal implies the belief that reality is yours to select *from*.
+¹²Placing your belief in the unreal cannot be avoided in any type of judgment, because placing your belief in the unreal implies the belief that reality is yours to select *from*.
 :::
 
 ::: details Simplified
@@ -100,40 +100,40 @@ Perceiving anything or judging anything affects your mind.
 {% endif %}
 
 
-3. You have no idea of the tremendous release and deep peace that comes from meeting yourself and your brothers totally without judgement. 
-²When you recognise what you are and what your brothers are, you will realise that judging them in any way is without meaning. 
+3. You have no idea of the tremendous release and deep peace that comes from meeting yourself and your brothers totally without judgment. 
+²When you recognize what you are and what your brothers are, you will realize that judging them in any way is without meaning. 
 ³In fact, their meaning is lost to you precisely *because* you are judging them. 
-⁴All uncertainty comes from the belief that you are under the coercion of judgement. 
-⁵You do not need judgement to organise your life, and you certainly do not need it to organise yourself. 
-⁶In the presence of knowledge all judgement is automatically suspended, and this is the process that enables recognition to replace perception.
+⁴All uncertainty comes from the belief that you are under the coercion of judgment. 
+⁵You do not need judgment to organise your life, and you certainly do not need it to organise yourself. 
+⁶In the presence of knowledge all judgment is automatically suspended, and this is the process that enables recognition to replace perception.
 
 ::: details Expanded
-You have no idea of the tremendous release and deep peace that comes from meeting yourself and [meeting] your brothers totally without judgement. 
-²When you recognise what you are and [recognise] what your brothers are, you will realise that judging them [your brothers] in any way is without meaning. 
+You have no idea of the tremendous release and deep peace that comes from meeting yourself and [meeting] your brothers totally without judgment. 
+²When you recognize what you are and [recognize] what your brothers are, you will realize that judging them [your brothers] in any way is without meaning. 
 ³In fact, their [your brothers’] meaning is lost to you precisely *because* you are judging them [your brothers]. 
-⁴All uncertainty comes from the belief that you are under the coercion of judgement. 
-⁵You do not need judgement to organise your life, and you certainly do not need it [judgement] to organise yourself. 
-⁶In the presence of knowledge all judgement is automatically suspended, and this [judgement being suspended in the presence of knowledge] is the process that enables recognition to replace perception.
+⁴All uncertainty comes from the belief that you are under the coercion of judgment. 
+⁵You do not need judgment to organise your life, and you certainly do not need it [judgment] to organise yourself. 
+⁶In the presence of knowledge all judgment is automatically suspended, and this [judgment being suspended in the presence of knowledge] is the process that enables recognition to replace perception.
 :::
 
 ::: details Substituted
-You have no idea of the tremendous release and deep peace that comes from meeting yourself and meeting your brothers totally without judgement. 
-²When you recognise what you are and recognise what your brothers are, you will realise that judging your brothers in any way is without meaning. 
+You have no idea of the tremendous release and deep peace that comes from meeting yourself and meeting your brothers totally without judgment. 
+²When you recognize what you are and recognize what your brothers are, you will realize that judging your brothers in any way is without meaning. 
 ³In fact, your brothers’ meaning is lost to you precisely *because* you are judging your brothers. 
-⁴All uncertainty comes from the belief that you are under the coercion of judgement. 
-⁵You do not need judgement to organise your life, and you certainly do not need judgement to organise yourself. 
-⁶In the presence of knowledge all judgement is automatically suspended, and judgement being suspended in the presence of knowledge is the process that enables recognition to replace perception.
+⁴All uncertainty comes from the belief that you are under the coercion of judgment. 
+⁵You do not need judgment to organise your life, and you certainly do not need judgment to organise yourself. 
+⁶In the presence of knowledge all judgment is automatically suspended, and judgment being suspended in the presence of knowledge is the process that enables recognition to replace perception.
 :::
 
 ::: details Simplified
 Not judging brings peace. 
 You do not need to judge. 
-Giving up judgement enables perception to be given up.
+Giving up judgment enables perception to be given up.
 :::
 
 {% if showCommentary %}
 ::: details Commentary
-(1–3) …guiltlessness is in the Mind of the Father, it must be in our minds, too, beecause the Holy Spirit’s Love is the bridge that joins all our minds in one. Judging another or ourselves erases that innocence from our awareness, for judgement obviously means separation. Thus, our ego’s fear of the joining, marking the end of the thought of separation, leads us to choose judgement as the means of ‘protecting’ ourselves from the unifying Love of the Holy Spirit, reflected in this world by forgiveness. The great importance of giving up judgement as the prerequisite to peace is a major theme in the Course (Wapnick, AVI, p. 143.)
+(1–3) …guiltlessness is in the Mind of the Father, it must be in our minds, too, beecause the Holy Spirit’s Love is the bridge that joins all our minds in one. Judging another or ourselves erases that innocence from our awareness, for judgment obviously means separation. Thus, our ego’s fear of the joining, marking the end of the thought of separation, leads us to choose judgment as the means of ‘protecting’ ourselves from the unifying Love of the Holy Spirit, reflected in this world by forgiveness. The great importance of giving up judgment as the prerequisite to peace is a major theme in the Course (Wapnick, AVI, p. 143.)
 
 (1) …the benefits of the Holy Spirit, meaning the benefits of letting go of our guilt and experiencing the peace that comes from truly trusting in each other. (Wapnick, AVI, p. 159.)
 :::
@@ -173,11 +173,11 @@ Losing control makes it seem dangerous.
 ³When you laugh at yourself you must laugh at others, if only because you cannot tolerate the idea of being more unworthy than they are. 
 ⁴All this makes you feel tired because it is essentially disheartening. 
 ⁵You are not really capable of being tired, but you are very capable of wearying yourself. 
-⁶The strain of constant judgement is virtually intolerable. 
+⁶The strain of constant judgment is virtually intolerable. 
 ⁷It is curious that an ability so debilitating would be so deeply cherished. 
-⁸Yet if you wish to be the author of reality, you will insist on holding on to judgement. 
-⁹You will also regard judgement with fear, believing that it will someday be used against you. 
-¹⁰This belief can exist only to the extent that you believe in the efficacy of judgement as a weapon of defence for your own authority.
+⁸Yet if you wish to be the author of reality, you will insist on holding on to judgment. 
+⁹You will also regard judgment with fear, believing that it will someday be used against you. 
+¹⁰This belief can exist only to the extent that you believe in the efficacy of judgment as a weapon of defence for your own authority.
 
 ::: details Expanded
 When you feel tired, it [feeling tired] is because you have judged yourself as capable of being tired. 
@@ -185,11 +185,11 @@ When you feel tired, it [feeling tired] is because you have judged yourself as c
 ³When you laugh at yourself you must laugh at others, if only because you cannot tolerate the idea of being more unworthy than they [others] are. 
 ⁴All this [judging] makes you feel tired because it [judging] is essentially disheartening. 
 ⁵You are not really capable of being tired, but you are very capable of wearying yourself. 
-⁶The strain of constant judgement is virtually intolerable. 
+⁶The strain of constant judgment is virtually intolerable. 
 ⁷It is curious that an ability so debilitating would be so deeply cherished. 
-⁸Yet if you wish to be the author of reality, you will insist on holding on to judgement. 
-⁹You will also regard judgement with fear, believing that it [judgement] will someday be used against you. 
-¹⁰This belief [judgement will be used against you] can exist only to the extent that you believe in the efficacy of judgement as a weapon of defence for your own authority.
+⁸Yet if you wish to be the author of reality, you will insist on holding on to judgment. 
+⁹You will also regard judgment with fear, believing that it [judgment] will someday be used against you. 
+¹⁰This belief [judgment will be used against you] can exist only to the extent that you believe in the efficacy of judgment as a weapon of defence for your own authority.
 :::
 
 ::: details Substituted
@@ -198,11 +198,11 @@ When you feel tired, feeling tired is because you have judged yourself as capabl
 ³When you laugh at yourself you must laugh at others, if only because you cannot tolerate the idea of being more unworthy than others are. 
 ⁴All this judging makes you feel tired because judging is essentially disheartening. 
 ⁵You are not really capable of being tired, but you are very capable of wearying yourself. 
-⁶The strain of constant judgement is virtually intolerable. 
+⁶The strain of constant judgment is virtually intolerable. 
 ⁷It is curious that an ability so debilitating would be so deeply cherished. 
-⁸Yet if you wish to be the author of reality, you will insist on holding on to judgement. 
-⁹You will also regard judgement with fear, believing that judgement will someday be used against you. 
-¹⁰The belief that judgement will be used against you can exist only to the extent that you believe in the efficacy of judgement as a weapon of defence for your own authority.
+⁸Yet if you wish to be the author of reality, you will insist on holding on to judgment. 
+⁹You will also regard judgment with fear, believing that judgment will someday be used against you. 
+¹⁰The belief that judgment will be used against you can exist only to the extent that you believe in the efficacy of judgment as a weapon of defence for your own authority.
 :::
 
 ::: details Simplified
@@ -215,20 +215,20 @@ But judging is tiring.
 6. God offers only mercy. 
 ²Your words should reflect only mercy, because that is what you have received and that is what you should give. 
 ³Justice is a temporary expedient, or an attempt to teach you the meaning of mercy. 
-⁴It is judgemental only because you are capable of injustice.
+⁴It is judgmental only because you are capable of injustice.
 
 ::: details Expanded
 God offers only mercy. 
 ²Your words should reflect only mercy, because that [mercy] is what you have received and that [mercy] is what you should give. 
 ³Justice is a temporary expedient, or an attempt to teach you the meaning of mercy. 
-⁴It [justice] is judgemental only because you are capable of injustice.
+⁴It [justice] is judgmental only because you are capable of injustice.
 :::
 
 ::: details Substituted
 God offers only mercy. 
 ²Your words should reflect only mercy, because mercy is what you have received and mercy is what you should give. 
 ³Justice is a temporary expedient, or an attempt to teach you the meaning of mercy. 
-⁴Justice is judgemental only because you are capable of injustice.
+⁴Justice is judgmental only because you are capable of injustice.
 :::
 
 ::: details Simplified
@@ -327,7 +327,7 @@ God wants to undo this belief.
 ³Fortunately, to lose something does not mean that it has gone. 
 ⁴It merely means that you do not remember where it is. 
 ⁵Its existence does not depend on your ability to identify it, or even to place it. 
-⁶It is possible to look on reality without judgement and merely know that it is there.
+⁶It is possible to look on reality without judgment and merely know that it is there.
 
 ::: details Expanded
 Only those who give over all desire to reject can know that their [non-rejecters’] own rejection is impossible. 
@@ -335,7 +335,7 @@ Only those who give over all desire to reject can know that their [non-rejecters
 ³Fortunately, to lose something does not mean that it [the lost thing] has gone. 
 ⁴It [losing something] merely means that you do not remember where it [the lost thing] is. 
 ⁵Its [the-lost-thing’s] existence does not depend on your ability to identify it [the lost thing], or even to place it [the lost thing]. 
-⁶It is possible to look on reality without judgement and merely know that it [reality] is there.
+⁶It is possible to look on reality without judgment and merely know that it [reality] is there.
 :::
 
 ::: details Substituted
@@ -344,12 +344,12 @@ Only those who give over all desire to reject can know that non-rejecters’ own
 ³Fortunately, to lose something does not mean that the lost thing has gone. 
 ⁴Losing something merely means that you do not remember where the lost thing is. 
 ⁵The-lost-thing’s existence does not depend on your ability to identify the lost thing, or even to place the lost thing. 
-⁶It is possible to look on reality without judgement and merely know that reality is there.
+⁶It is possible to look on reality without judgment and merely know that reality is there.
 :::
 
 ::: details Simplified
 Give over the desire to reject, and then you will know you can’t be rejected. 
-Look on reality without judgement.
+Look on reality without judgment.
 :::
 
 
@@ -398,7 +398,7 @@ Your inheritance from God is peace.
 11. There is no one who does not feel that he is imprisoned in some way. 
 ²If this is the result of his own free will he must regard his will as not free, or the circular reasoning in this position would be quite apparent. 
 ³Free will must lead to freedom. 
-⁴Judgement always imprisons because it separates segments of reality by the unstable scales of desire. 
+⁴judgment always imprisons because it separates segments of reality by the unstable scales of desire. 
 ⁵Wishes are not facts. 
 ⁶To wish is to imply that willing is not sufficient. 
 ⁷Yet no one in his right mind believes that what is wished is as real as what is willed. 
@@ -408,7 +408,7 @@ Your inheritance from God is peace.
 There is no one who does not feel that he [one] is imprisoned in some way. 
 ²If this [feeling imprisoned] is the result of his [one’s] own free will he [one] must regard his [one’s] will as not free, or the circular reasoning in this position [free-will] would be quite apparent. 
 ³Free will must lead to freedom. 
-⁴Judgement always imprisons because it [judgement] separates segments of reality by the unstable scales of desire. 
+⁴judgment always imprisons because it [judgment] separates segments of reality by the unstable scales of desire. 
 ⁵Wishes are not facts. 
 ⁶To wish is to imply that willing is not sufficient. 
 ⁷Yet no one in his [one’s] right mind believes that what is wished is as real as what is willed. 
@@ -419,7 +419,7 @@ There is no one who does not feel that he [one] is imprisoned in some way.
 There is no one who does not feel that one is imprisoned in some way. 
 ²If feeling imprisoned is the result of one’s own free will one must regard his one’s will as not free, or the circular reasoning in the free-will position would be quite apparent. 
 ³Free will must lead to freedom. 
-⁴Judgement always imprisons because judgement separates segments of reality by the unstable scales of desire. 
+⁴judgment always imprisons because judgment separates segments of reality by the unstable scales of desire. 
 ⁵Wishes are not facts. 
 ⁶To wish is to imply that willing is not sufficient. 
 ⁷Yet no one in one’s right mind believes that what is wished is as real as what is willed. 

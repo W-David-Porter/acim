@@ -91,7 +91,7 @@ The ego is threatened in specific situations.
 ⁶Creation and communication are synonymous. 
 ⁷God created every mind by communicating His Mind to it, thus establishing it forever as a channel for the reception of His Mind and Will. 
 ⁸Since only beings of a like order can truly communicate, His creations naturally communicate with Him and like Him. 
-⁹This communication is perfectly abstract, since its quality is universal in application and not subject to any judgement, any exception or any alteration. 
+⁹This communication is perfectly abstract, since its quality is universal in application and not subject to any judgment, any exception or any alteration. 
 ¹⁰God created you by this and for this. 
 ¹¹The mind can distort its function, but it cannot endow itself with functions it was not given. 
 ¹²That is why the mind cannot totally lose the ability to communicate, even though it may refuse to utilise it on behalf of being.
@@ -105,7 +105,7 @@ In contrast, spirit reäcts in the same way to everything it [spirit] knows is t
 ⁶Creation and communication are synonymous. 
 ⁷God created every mind by communicating His [God’s] Mind to it [every mind], thus establishing it [every mind] forever as a channel for the reception of His [God’s] Mind and Will. 
 ⁸Since only beings of a like order can truly communicate, His [God’s] creations naturally communicate with Him [God] and like Him [God]. 
-⁹This communication [of God’s-creations with God] is perfectly abstract, since its [communication’s] quality is universal in application and not subject to any judgement, any exception or any alteration. 
+⁹This communication [of God’s-creations with God] is perfectly abstract, since its [communication’s] quality is universal in application and not subject to any judgment, any exception or any alteration. 
 ¹⁰God created you by this [communication] and for this [communication]. 
 ¹¹The mind can distort its [the-mind’s] function, but it [the mind] cannot endow itself [the-mind’s-self] with functions it [the mind] was not given. 
 ¹²That is why the mind cannot totally lose the ability to communicate, even though it [the mind] may refuse to utilise it [the ability to communicate] on behalf of being.
@@ -120,7 +120,7 @@ In contrast, spirit reäcts in the same way to everything spirit knows is true, 
 ⁶Creation and communication are synonymous. 
 ⁷God created every mind by communicating God’s Mind to every mind, thus establishing every mind forever as a channel for the reception of God’s Mind and Will. 
 ⁸Since only beings of a like order can truly communicate, God’s creations naturally communicate with God and like God. 
-⁹The communication of God’s-creations with God is perfectly abstract, since communication’s quality is universal in application and not subject to any judgement, any exception or any alteration. 
+⁹The communication of God’s-creations with God is perfectly abstract, since communication’s quality is universal in application and not subject to any judgment, any exception or any alteration. 
 ¹⁰God created you by communication and for communication. 
 ¹¹The mind can distort the-mind’s function, but the mind cannot endow the-mind’s-self with functions the mind was not given. 
 ¹²That is why the mind cannot totally lose the ability to communicate, even though the mind may refuse to utilise the ability to communicate on behalf of being.

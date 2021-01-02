@@ -12,7 +12,7 @@ prev: W-pI.14
 next: W-pI.16
 ---
 
-1. It is because the thoughts you think you think appear as images that you do not recognise them as nothing. 
+1. It is because the thoughts you think you think appear as images that you do not recognize them as nothing. 
 ²You think you think them, and so you think you see them. 
 ³This is how your ‘seeing’ was made. 
 ⁴This is the function you have given your body’s eyes. 
@@ -24,7 +24,7 @@ next: W-pI.16
 
 #::: details Expanded
 
-It is because the thoughts you think you think appear as images that you do not recognise them [thoughts] as nothing. 
+It is because the thoughts you think you think appear as images that you do not recognize them [thoughts] as nothing. 
 ²You think you think them [thoughts], and so you think you see them [thoughts]. 
 ³This [thinking] is how your ‘seeing’ was made. 
 ⁴This [seeing thoughts] is the function you have given your body’s eyes. 
@@ -34,7 +34,7 @@ It is because the thoughts you think you think appear as images that you do not 
 
 #::: details Substituted
 
-It is because the thoughts you think you think appear as images that you do not recognise thoughts as nothing. 
+It is because the thoughts you think you think appear as images that you do not recognize thoughts as nothing. 
 ²You think you think thoughts, and so you think you see thoughts. 
 ³Thinking is how your ‘seeing’ was made. 
 ⁴Seeing thoughts is the function you have given your body’s eyes. 

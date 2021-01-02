@@ -86,7 +86,7 @@ Everyone benefits whenever anyone is healed.
 ³You need not know them individually, or they you. 
 ⁴The light is so strong that it radiates throughout the Sonship and returns thanks to the Father for radiating His joy upon it. 
 ⁵Only God’s holy children are worthy channels of His beautiful joy, because only they are beautiful enough to hold it by sharing it. 
-⁶It is impossible for a child of God to love his neighbor except as himself. 
+⁶It is impossible for a child of God to love his neighbour except as himself. 
 ⁷That is why the healer’s prayer is:
 >⁸Let me know this brother as I know myself.
 

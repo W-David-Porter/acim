@@ -51,7 +51,7 @@ You are not aware of your real thoughts yet.
 3. This aspect of the correction process began with the idea that the thoughts of which you are aware are meaningless, outside rather than within; and then stressed their past rather than their present status. 
 ²Now we are emphasising that the presence of these ‘thoughts’ means that you are not thinking. 
 ³This is merely another way of repeating our earlier statement that your mind is really a blank. 
-⁴To recognise this is to recognise nothingness when you think you see it. 
+⁴To recognize this is to recognize nothingness when you think you see it. 
 ⁵As such, it is the prerequisite for vision.
 
 ::: details Annotations
@@ -61,7 +61,7 @@ You are not aware of your real thoughts yet.
 This aspect of the correction process began with the idea that the thoughts of which you are aware are meaningless, outside rather than within; and then stressed their [the-thoughts-of-which-you-are-aware’s] past rather than their [the-thoughts-of-which-you-are-aware’s] present status. 
 ²Now we are emphasising that the presence of these ‘thoughts’ [past thoughts] means that you are not thinking. 
 ³This [thinking past thoughts means you are not thinking] is merely another way of repeating our earlier statement that your mind is really a blank. 
-⁴To recognise this [your mind is really a blank] is to recognise nothingness when you think you see it [nothingness?]. 
+⁴To recognize this [your mind is really a blank] is to recognize nothingness when you think you see it [nothingness?]. 
 ⁵As such, it [recognising nothingness] is the prerequisite for vision.
 
 #::: details Substituted
@@ -69,7 +69,7 @@ This aspect of the correction process began with the idea that the thoughts of w
 This aspect of the correction process began with the idea that the thoughts of which you are aware are meaningless, outside rather than within; and then stressed the-thoughts-of-which-you-are-aware’s past rather than the-thoughts-of-which-you-are-aware’s present status. 
 ²Now we are emphasising that the presence of past ‘thoughts’ of which you are aware means that you are not thinking. 
 ³Thinking past thoughts means you are not thinking, is merely another way of repeating our earlier statement that your mind is really a blank. 
-⁴To recognise your mind is really a blank is to recognise nothingness when you think you see nothingness. 
+⁴To recognize your mind is really a blank is to recognize nothingness when you think you see nothingness. 
 ⁵As such, recognising nothingness is the prerequisite for vision.
 
 #::: details Simplified
@@ -85,7 +85,7 @@ Seeing a blank mind for what it is is the prerequisite for seeing what really is
 
 >³This idea will help to release me from all that I now believe.
 
-⁴The exercises consist, as before, in searching your mind for all the thoughts that are available to you, without selection or judgement. 
+⁴The exercises consist, as before, in searching your mind for all the thoughts that are available to you, without selection or judgment. 
 ⁵Try to avoid classification of any kind. 
 ⁶In fact, if you find it helpful to do so, you might imagine that you are watching an oddly assorted procession going by, which has little if any personal meaning to you. 
 ⁷As each one crosses your mind, say:

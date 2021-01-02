@@ -180,8 +180,8 @@ Allow errors to be undone.
 <div id=6 class=zero-height></div>
 
 6. Decision cannot be difficult. 
-²This is obvious, if you realise that you must already have decided not to be wholly joyous if that is how you feel. 
-³Therefore, the first step in the undoing is to recognise that you actively decided wrongly, but can as actively decide otherwise. 
+²This is obvious, if you realize that you must already have decided not to be wholly joyous if that is how you feel. 
+³Therefore, the first step in the undoing is to recognize that you actively decided wrongly, but can as actively decide otherwise. 
 ⁴Be very firm with yourself in this, and keep yourself fully aware that the undoing process, which does not come from you, is nevertheless within you because God placed it there. 
 ⁵Your part is merely to return your thinking to the point at which the error was made, and give it over to the Atonement in peace. 
 ⁶Say this to yourself as sincerely as you can, remembering that the Holy Spirit will respond fully to your slightest invitation: 
@@ -193,8 +193,8 @@ Allow errors to be undone.
 
 ::: details Expanded
 Decision cannot be difficult. 
-²This [decision cannot be difficult] is obvious, if you realise that you must already have decided not to be wholly joyous if that [not wholly joyous] is how you feel. 
-³Therefore, the first step in the undoing is to recognise that you actively decided wrongly, but can as actively decide otherwise. 
+²This [decision cannot be difficult] is obvious, if you realize that you must already have decided not to be wholly joyous if that [not wholly joyous] is how you feel. 
+³Therefore, the first step in the undoing is to recognize that you actively decided wrongly, but can as actively decide otherwise. 
 ⁴Be very firm with yourself in this, and keep yourself fully aware that the undoing process, which [undoing process] does not come from you, is nevertheless within you because God placed it [the undoing process] there [within you]. 
 ⁵Your part is merely to return your thinking to the point at which [point] the error was made, and give it [the error] over to the Atonement in peace. 
 ⁶Say this to yourself as sincerely as you can, remembering that the Holy Spirit will respond fully to your slightest invitation: 
@@ -207,8 +207,8 @@ Decision cannot be difficult.
 
 ::: details Substituted
 Decision cannot be difficult. 
-²Decision cannot be difficult is obvious, if you realise that you must already have decided not to be wholly joyous if not wholly joyous is how you feel. 
-³Therefore, the first step in the undoing is to recognise that you actively decided wrongly, but can as actively decide otherwise. 
+²Decision cannot be difficult is obvious, if you realize that you must already have decided not to be wholly joyous if not wholly joyous is how you feel. 
+³Therefore, the first step in the undoing is to recognize that you actively decided wrongly, but can as actively decide otherwise. 
 ⁴Be very firm with yourself in this, and keep yourself fully aware that the undoing process; undoing process does not come from you, is nevertheless within you because God placed the undoing process within you. 
 ⁵Your part is merely to return your thinking to the point the error was made, and give the error over to the Atonement in peace. 
 ⁶Say this to yourself as sincerely as you can, remembering that the Holy Spirit will respond fully to your slightest invitation: 

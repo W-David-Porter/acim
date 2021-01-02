@@ -110,9 +110,9 @@ God could not think this way.
 ::: details Commentary 
 (2–3) Christian theologians were unconsciously impelled to justify their need to punish others (the inevitable result of projected guilt) by turning a God of Love into one of fear and retribution (“inverting a whole frame of reference”), thereby having Him act out their own repressed need to attack others to preserve their indiuvidual self. (Wapnick, AAC, p.255.)
 
-(2–4) The ego’s unconscious demand to project its guilt — shared by all of us — did not allow these otherwise reasonable men and women to recognise the illogic, not to mention insanity, of their position. We should never underestimate the power of denial with its need to keep the truth away from us. … The persecuting Christian institutions during their two-thousand year history merely reflected the same need to persecute that is found in each of us… (Wapnick, FAJ, p. 208–209.) 
+(2–4) The ego’s unconscious demand to project its guilt — shared by all of us — did not allow these otherwise reasonable men and women to recognize the illogic, not to mention insanity, of their position. We should never underestimate the power of denial with its need to keep the truth away from us. … The persecuting Christian institutions during their two-thousand year history merely reflected the same need to persecute that is found in each of us… (Wapnick, FAJ, p. 208–209.) 
 
-(3) …we can also recognise love’s distortions in the contradictions foun din teh Bible itself, not to mention in the centuries of bloodshed committed in the name of God, venerated through His “Holy Word” which had to be affirmed lest He or His self-appointed (sic) leaders would wreak punishment on all non-believers. …these tragic errors (Wapnick, AAC, p. 250–251.)
+(3) …we can also recognize love’s distortions in the contradictions foun din teh Bible itself, not to mention in the centuries of bloodshed committed in the name of God, venerated through His “Holy Word” which had to be affirmed lest He or His self-appointed (sic) leaders would wreak punishment on all non-believers. …these tragic errors (Wapnick, AAC, p. 250–251.)
 :::
 {% endif %}
 
@@ -126,7 +126,7 @@ God could not think this way.
 ⁵His Mind does not create that way. 
 ⁶He does not hold your ‘evil’ deeds against you. 
 ⁷Is it likely that He would hold them against me? 
-⁸Be very sure that you recognise how utterly impossible this assumption is, and how entirely it arises from projection. 
+⁸Be very sure that you recognize how utterly impossible this assumption is, and how entirely it arises from projection. 
 ⁹This kind of error is responsible for a host of related errors, including the belief that God rejected Adam and forced him out of the Garden of Eden. 
 ¹⁰It is also why you may believe from time to time that I am misdirecting you. 
 ¹¹I have made every effort to use words that are almost impossible to distort, but it is always possible to twist symbols around if you wish.
@@ -139,7 +139,7 @@ The statement “Vengeance is mine, says the Lord” is a misperception by which
 ⁵His [God’s] Mind does not create that way [with retribution]. 
 ⁶He [God] does not hold your ‘evil’ deeds against you. 
 ⁷Is it likely that He [God] would hold them [your ‘evil’ deeds] against me? 
-⁸Be very sure that you recognise how utterly impossible this assumption [that God would hold your ‘evil’ deeds against you] is, and how entirely it [the assumption that God would hold your ‘evil’ deeds against you] arises from projection. 
+⁸Be very sure that you recognize how utterly impossible this assumption [that God would hold your ‘evil’ deeds against you] is, and how entirely it [the assumption that God would hold your ‘evil’ deeds against you] arises from projection. 
 ⁹This kind of error [that God would hold your ‘evil’ deeds against you] is responsible for a host of related errors, including the belief that God rejected Adam and forced him [Adam] out of the Garden of Eden. 
 ¹⁰It is also why you may believe from time to time that I am misdirecting you. 
 ¹¹I have made every effort to use words that are almost impossible to distort, but it is always possible to twist symbols around if you wish.
@@ -153,7 +153,7 @@ The statement “Vengeance is mine, says the Lord” is a misperception; by misp
 ⁵God’s Mind does not create with retribution. 
 ⁶God does not hold your ‘evil’ deeds against you. 
 ⁷Is it likely that God would hold your ‘evil’ deeds against me? 
-⁸Be very sure that you recognise how utterly impossible the assumption that God would hold your ‘evil’ deeds against you is, and how entirely the assumption that God would hold your ‘evil’ deeds against you arises from projection. 
+⁸Be very sure that you recognize how utterly impossible the assumption that God would hold your ‘evil’ deeds against you is, and how entirely the assumption that God would hold your ‘evil’ deeds against you arises from projection. 
 ⁹The kind of error that God would hold your ‘evil’ deeds against you, is responsible for a host of related errors, including the belief that God rejected Adam and forced Adam out of the Garden of Eden. 
 ¹⁰It is also why you may believe from time to time that I am misdirecting you. 
 ¹¹I have made every effort to use words that are almost impossible to distort, but it is always possible to twist symbols around if you wish.
@@ -176,7 +176,7 @@ God does not hold evil deeds against anyone.
 4. Sacrifice is a notion totally unknown to God. 
 ²It arises solely from fear, and frightened people can be vicious. 
 ³Sacrificing in any way is a violation of my injunction that you should be merciful even as your Father in Heaven is merciful. 
-⁴It has been hard for many Christians to realise that this applies to themselves. 
+⁴It has been hard for many Christians to realize that this applies to themselves. 
 ⁵Good teachers never terrorise their students. 
 ⁶To terrorise is to attack, and this results in rejection of what the teacher offers. 
 ⁷The result is learning failure.
@@ -185,7 +185,7 @@ God does not hold evil deeds against anyone.
 Sacrifice is a notion totally unknown to God. 
 ²It [sacrifice] arises solely from fear, and frightened people can be vicious. 
 ³Sacrificing in any way is a violation of my injunction that you should be merciful even as your Father in Heaven is merciful. 
-⁴It has been hard for many Christians to realise that this [being merciful] applies to themselves [Christians’-selves]. 
+⁴It has been hard for many Christians to realize that this [being merciful] applies to themselves [Christians’-selves]. 
 ⁵Good teachers never terrorise their [teachers’] students. 
 ⁶To terrorise is to attack, and this [terrorising] results in rejection of what the teacher offers. 
 ⁷The result is learning failure.
@@ -195,7 +195,7 @@ Sacrifice is a notion totally unknown to God.
 Sacrifice is a notion totally unknown to God. 
 ²Sacrifice arises solely from fear, and frightened people can be vicious. 
 ³Sacrificing in any way is a violation of my injunction that you should be merciful even as your Father in Heaven is merciful. 
-⁴It has been hard for many Christians to realise that being merciful applies to Christians’-selves. 
+⁴It has been hard for many Christians to realize that being merciful applies to Christians’-selves. 
 ⁵Good teachers never terrorise teachers’ students. 
 ⁶To terrorise is to attack, and terrorising results in rejection of what the teacher offers. 
 ⁷The result is learning failure.
@@ -209,13 +209,13 @@ Attack does not teach.
 
 {% if showCommentary %}
 ::: details Commentary 
-If we believe that Jesus suffered *because* of our sins — that he, an innocent man, was punished by God and died *because* we were bad — it would be impossible for us not to be even guiltier. We then would (always) project this guilt onto others, seeing them as responsible for the death we unconsciously believe we brought about. Nor could we help projecting onto Jesus, and even onto God, a judgement that would punish us for our sins. Thus, we are unable to learn that our sins are forgiven — the lesson Jesus came to teach us — and have learned instead that salvation is sacrifice. (Wapnick, FAJ, p. 206.) 
+If we believe that Jesus suffered *because* of our sins — that he, an innocent man, was punished by God and died *because* we were bad — it would be impossible for us not to be even guiltier. We then would (always) project this guilt onto others, seeing them as responsible for the death we unconsciously believe we brought about. Nor could we help projecting onto Jesus, and even onto God, a judgment that would punish us for our sins. Thus, we are unable to learn that our sins are forgiven — the lesson Jesus came to teach us — and have learned instead that salvation is sacrifice. (Wapnick, FAJ, p. 206.) 
 
 (2) …does not mean we should trust our brother’s ego; “frightened peple can be vicious”, Jesus reminds us, and we are certainly not asked to deny the sometimes vicious forms of people’s calls for help. However, we are asked, when in the presence of such expressions of fear, to look beyond them to the love of God that is truly being called for. (Wapnick, LDNC. p. 549, AAC, p.272.) 
 
 …to have faith that even in the midst of the ego’s dark camouflage, the light of Christ remains undimmed. (Wapnick, LDNC. p.549.) 
 
-(2) Following the Course’s principle that fear must lead to viciousness, the ego must quickly and viciously conterattack to ensure that the Son does not realise he made a mistake, change his mind, and choose the Holy Spirit. (Wapnick, AAC, p.34.) 
+(2) Following the Course’s principle that fear must lead to viciousness, the ego must quickly and viciously conterattack to ensure that the Son does not realize he made a mistake, change his mind, and choose the Holy Spirit. (Wapnick, AAC, p.34.) 
 ::: 
 {% endif %}
 
@@ -347,14 +347,14 @@ Nothing can destroy truth.
 
 8. The innocence of God is the true state of the mind of His Son. 
 ²In this state your mind knows God, for God is not symbolic; He is Fact. 
-³Knowing His Son as he is, you realise that the Atonement, not sacrifice, is the only appropriate gift for God’s altar, where nothing except perfection belongs. 
+³Knowing His Son as he is, you realize that the Atonement, not sacrifice, is the only appropriate gift for God’s altar, where nothing except perfection belongs. 
 ⁴The understanding of the innocent is truth. 
 ⁵That is why their altars are truly radiant.
 
 ::: details Expanded
 The innocence of God is the true state of the mind of His [God’s] Son. 
 ²In this state [of innocence] your mind knows God, for God is not symbolic; He [God] is Fact. 
-³Knowing His [God’s] Son as he [God’s son] is, you realise that the Atonement, not sacrifice, is the only appropriate gift for God’s altar, where nothing except perfection belongs. 
+³Knowing His [God’s] Son as he [God’s son] is, you realize that the Atonement, not sacrifice, is the only appropriate gift for God’s altar, where nothing except perfection belongs. 
 ⁴The understanding of the innocent is truth. 
 ⁵That is why their [the innocent’s] altars are truly radiant.
 :::
@@ -362,7 +362,7 @@ The innocence of God is the true state of the mind of His [God’s] Son.
 ::: details Substituted
 The innocence of God is the true state of the mind of God’s Son. 
 ²In the state of innocence your mind knows God, for God is not symbolic; God is Fact. 
-³Knowing God’s Son as God’s son is, you realise that the Atonement, not sacrifice, is the only appropriate gift for God’s altar, where nothing except perfection belongs. 
+³Knowing God’s Son as God’s son is, you realize that the Atonement, not sacrifice, is the only appropriate gift for God’s altar, where nothing except perfection belongs. 
 ⁴The understanding of the innocent is truth. 
 ⁵That is why the innocent’s altars are truly radiant.
 :::

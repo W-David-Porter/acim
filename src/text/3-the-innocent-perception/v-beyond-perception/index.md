@@ -11,20 +11,20 @@ prev: T-3.IV
 next: T-3.VI
 ---
 
-1. I have said that the abilities you possess are only shadows of your real strength, and that perception, which is inherently judgemental, was introduced only after the separation. 
+1. I have said that the abilities you possess are only shadows of your real strength, and that perception, which is inherently judgmental, was introduced only after the separation. 
 ²No one has been sure of anything since. 
 ³I have also made it clear that the resurrection was the means for the return to knowledge, which was accomplished by the union of my will with the Father’s. 
 ⁴We can now establish a distinction that will clarify some of our subsequent statements.
 
 ::: details Expanded
-I have said that the abilities you possess are only shadows of your real strength, and that perception, which [perception] is inherently judgemental, was introduced only after the separation. 
+I have said that the abilities you possess are only shadows of your real strength, and that perception, which [perception] is inherently judgmental, was introduced only after the separation. 
 ²No one has been sure of anything since. 
 ³I have also made it clear that the resurrection was the means for the return to knowledge, which [resurrection] was accomplished by the union of my will with the Father’s [will]. 
 ⁴We can now establish a distinction that will clarify some of our subsequent statements.
 :::
 
 ::: details Substituted
-I have said that the abilities you possess are only shadows of your real strength; and that perception — perception is inherently judgemental — was introduced only after the separation. 
+I have said that the abilities you possess are only shadows of your real strength; and that perception — perception is inherently judgmental — was introduced only after the separation. 
 ²No one has been sure of anything since. 
 ³I have also made it clear that the resurrection was the means for the return to knowledge; resurrection was accomplished by the union of my will with the Father’s will. 
 ⁴We can now establish a distinction that will clarify some of our subsequent statements.
@@ -32,7 +32,7 @@ I have said that the abilities you possess are only shadows of your real strengt
 
 ::: details Simplified
 Your abilities are shadows of your real strength. 
-Perception is judgemental. 
+Perception is judgmental. 
 Perception was introduced after the separation. 
 Resurrection is the means for return to knowledge. 
 Resurrection was accomplished by my will being united with the Father’s will.
@@ -79,7 +79,7 @@ God’s creations have abstract creativity.
 
 {% if showCommentary %}
 ::: details Commentary 
-In *A Course in Miracles*, “make” is reserved for the world of separation or its correction, while “create” refers only to the activity of spirit in Heaven (see, for example, [T-2.VIII.1](/text/2-the-separation-and-the-atonement/viii-the-meaning-of-the-last-judgement#1); [T-4.I.9:3](/text/4-the-illusions-of-the-ego/i-right-teaching-and-right-learning#9)). (Wapnick, AVI, p.229.)
+In *A Course in Miracles*, “make” is reserved for the world of separation or its correction, while “create” refers only to the activity of spirit in Heaven (see, for example, [T-2.VIII.1](/text/2-the-separation-and-the-atonement/viii-the-meaning-of-the-last-judgment#1); [T-4.I.9:3](/text/4-the-illusions-of-the-ego/i-right-teaching-and-right-learning#9)). (Wapnick, AVI, p.229.)
 :::
 {% endif %}
 
@@ -121,7 +121,7 @@ Your are confused between what you are trying to make of yourself, and God’s i
 ⁵You have no image to be perceived. 
 ⁶The word ‘image’ is always perception-related, and not a part of knowledge. 
 ⁷Images are symbolic and stand for something else. 
-⁸The idea of ‘changing your image’ recognises the power of perception, but also implies that there is nothing stable to know.
+⁸The idea of ‘changing your image’ recognizes the power of perception, but also implies that there is nothing stable to know.
 
 ::: details Expanded
 The fundamental question you continually ask yourself cannot properly be directed to yourself at all. 
@@ -131,7 +131,7 @@ The fundamental question you continually ask yourself cannot properly be directe
 ⁵You have no image to be perceived. 
 ⁶The word ‘image’ is always perception-related, and not a part of knowledge. 
 ⁷Images are symbolic and stand for something else. 
-⁸The idea of ‘changing your image’ recognises the power of perception, but also implies that there is nothing stable to know.
+⁸The idea of ‘changing your image’ recognizes the power of perception, but also implies that there is nothing stable to know.
 :::
 
 ::: details Substituted
@@ -142,7 +142,7 @@ The fundamental question you continually ask yourself cannot properly be directe
 ⁵You have no image to be perceived. 
 ⁶The word ‘image’ is always perception-related, and not a part of knowledge. 
 ⁷Images are symbolic and stand for something else. 
-⁸The idea of ‘changing your image’ recognises the power of perception, but also implies that there is nothing stable to know.
+⁸The idea of ‘changing your image’ recognizes the power of perception, but also implies that there is nothing stable to know.
 :::
 
 ::: details Simplified
@@ -192,7 +192,7 @@ Knowledge requires no interpretation.
 ²It is the medium of miracles. 
 ³But the only meaningful prayer is for forgiveness, because those who have been forgiven have everything. 
 ⁴Once forgiveness has been accepted, prayer in the usual sense becomes utterly meaningless. 
-⁵The prayer for forgiveness is nothing more than a request that you may be able to recognise what you already have. 
+⁵The prayer for forgiveness is nothing more than a request that you may be able to recognize what you already have. 
 ⁶In electing perception instead of knowledge, you placed yourself in a position where you could resemble your Father only by perceiving miraculously. 
 ⁷You have lost the knowledge that you yourself are a miracle of God. 
 ⁸Creation is your Source and your only real function.
@@ -202,7 +202,7 @@ Prayer is a way of asking for something.
 ²It [prayer] is the medium of miracles. 
 ³But the only meaningful prayer is for forgiveness, because those who have been forgiven have everything. 
 ⁴Once forgiveness has been accepted, prayer in the usual sense becomes utterly meaningless. 
-⁵The prayer for forgiveness is nothing more than a request that you may be able to recognise what you already have. 
+⁵The prayer for forgiveness is nothing more than a request that you may be able to recognize what you already have. 
 ⁶In electing perception instead of knowledge, you placed yourself in a position where you could resemble your Father only by perceiving miraculously. 
 ⁷You have lost the knowledge that you yourself are a miracle of God. 
 ⁸Creation is your Source and your only real function.
@@ -213,7 +213,7 @@ Prayer is a way of asking for something.
 ²Prayer is the medium of miracles. 
 ³But the only meaningful prayer is for forgiveness, because those who have been forgiven have everything. 
 ⁴Once forgiveness has been accepted, prayer in the usual sense becomes utterly meaningless. 
-⁵The prayer for forgiveness is nothing more than a request that you may be able to recognise what you already have. 
+⁵The prayer for forgiveness is nothing more than a request that you may be able to recognize what you already have. 
 ⁶In electing perception instead of knowledge, you placed yourself in a position where you could resemble your Father only by perceiving miraculously. 
 ⁷You have lost the knowledge that you yourself are a miracle of God. 
 ⁸Creation is your Source and your only real function.
@@ -221,7 +221,7 @@ Prayer is a way of asking for something.
 
 ::: details Simplified
 Your only meaningful prayer is forgiveness. 
-Praying for forgiveness is asking to recognise what you already have. 
+Praying for forgiveness is asking to recognize what you already have. 
 You chose perception. 
 In perception you lose knowledge of who you really are. 
 You need a miracle to get out of perception. 
@@ -232,7 +232,7 @@ Creation is your source and your function.
 ::: details Commentary 
 (1–5) In other words, one cannot pray for something that is not there. One can only legitimately pray to remmeber or to accept the truth that is already within… We pray for help to forgive (undo) the illusion that there was ever anything but the perfect unity of God and Christ. (Wapnick, LDNC, p. 547.)
 
-(3, 5) If I believe I have a need, then ovbiously I have to do something about it; the idea behind the miracle (or healing) is that nothing has to be done. This of course does not mean that our bodies do not do things in this world, but simply that we recognise that it is the Holy Spirit’s Love that is “doing” it through us. Our only need, therefore, is to remember that we have no needs. …the miracle simply undoes our faulty belief system, which then inevitably leads to the memory of our one need — the Love of God. (Wapnick, AVI, p.81.) 
+(3, 5) If I believe I have a need, then ovbiously I have to do something about it; the idea behind the miracle (or healing) is that nothing has to be done. This of course does not mean that our bodies do not do things in this world, but simply that we recognize that it is the Holy Spirit’s Love that is “doing” it through us. Our only need, therefore, is to remember that we have no needs. …the miracle simply undoes our faulty belief system, which then inevitably leads to the memory of our one need — the Love of God. (Wapnick, AVI, p.81.) 
 
 (5) What we “already have” reflects the principle of abundance: God has given us everything in our creation. This abundance has no referent to anything in the material world. Abundance is only of God, and cannot be expressed in what is not in Him. Thus, there can be no connection between the worlds of spirit and materiality, as they reflect mutually exclusive levels: one real, the other illusory. (Wapnick, FAJ, p.122.) 
 
@@ -250,7 +250,7 @@ Creation is your source and your function.
 ⁵Perception, on the other hand, is impossible without a belief in ‘more’ and ‘less’. 
 ⁶At every level it involves selectivity. 
 ⁷Perception is a continual process of accepting and rejecting, organising and reörganising, shifting and changing. 
-⁸Evaluation is an essential part of perception, because judgements are necessary in order to select.
+⁸Evaluation is an essential part of perception, because judgments are necessary in order to select.
 
 ::: details Expanded
 The statement “God created man in his own image and likeness” needs reïnterpretation. 
@@ -260,7 +260,7 @@ The statement “God created man in his own image and likeness” needs reïnter
 ⁵Perception, on the other hand, is impossible without a belief in ‘more’ and ‘less’. 
 ⁶At every level it [perception] involves selectivity. 
 ⁷Perception is a continual process of accepting and rejecting, organising and reörganising, shifting and changing. 
-⁸Evaluation is an essential part of perception, because judgements are necessary in order to select.
+⁸Evaluation is an essential part of perception, because judgments are necessary in order to select.
 :::
 
 ::: details Substituted
@@ -271,14 +271,14 @@ The statement “God created man in his own image and likeness” needs reïnter
 ⁵Perception, on the other hand, is impossible without a belief in ‘more’ and ‘less’. 
 ⁶At every level perception involves selectivity. 
 ⁷Perception is a continual process of accepting and rejecting, organising and reörganising, shifting and changing. 
-⁸Evaluation is an essential part of perception, because judgements are necessary in order to select.
+⁸Evaluation is an essential part of perception, because judgments are necessary in order to select.
 :::
 
 ::: details Simplified
 There is only spirit. 
 Spirit is created in God’s Thought, and in like quality to God. 
 Perception requires belief in ‘more’ and ‘less’. 
-Perception involves: accepting/rejecting, organising/reörganising, shifting and changing, evaluation, selectivity, and judgement.
+Perception involves: accepting/rejecting, organising/reörganising, shifting and changing, evaluation, selectivity, and judgment.
 :::
 
 {% if showCommentary %}
@@ -292,7 +292,7 @@ Perception is an interpretation, not a fact. (Wapnick, LDNC, p.499; AAC, p.152.)
 {% endif %} 
 
 
-8. What happens to perceptions if there are no judgements and nothing but perfect equality? 
+8. What happens to perceptions if there are no judgments and nothing but perfect equality? 
 ²Perception becomes impossible. 
 ³Truth can only be known. 
 ⁴All of it is equally true, and knowing any part of it is to know all of it. 
@@ -303,7 +303,7 @@ Perception is an interpretation, not a fact. (Wapnick, LDNC, p.499; AAC, p.152.)
 ⁹To know God’s miracle is to know Him.
 
 ::: details Expanded
-What happens to perceptions if there are no judgements and nothing but perfect equality? 
+What happens to perceptions if there are no judgments and nothing but perfect equality? 
 ²Perception becomes impossible. 
 ³Truth can only be known. 
 ⁴All of it [truth] is equally true, and knowing any part of it [truth] is to know all of it [truth]. 
@@ -315,7 +315,7 @@ What happens to perceptions if there are no judgements and nothing but perfect e
 :::
 
 ::: details Substituted
-What happens to perceptions if there are no judgements and nothing but perfect equality? 
+What happens to perceptions if there are no judgments and nothing but perfect equality? 
 ²Perception becomes impossible. 
 ³Truth can only be known. 
 ⁴All of truth is equally true, and knowing any part of truth is to know all of truth. 
@@ -327,7 +327,7 @@ What happens to perceptions if there are no judgements and nothing but perfect e
 :::
 
 ::: details Simplified
-In Knowledge there is perfect equality and no judgement. 
+In Knowledge there is perfect equality and no judgment. 
 Perception becomes impossible. 
 Knowledge of part is knowledge of the whole. 
 You are one with Knowledge. 
@@ -373,7 +373,7 @@ You and every mind can know God completely.
 
 {% if showCommentary %}
 ::: details 
-(1) …the Course repeatedly emphasises: as we teach so shall we learn. Jesus is there to teach his lesson to us in all the opportunities that our egos have provided. Joining us in them, he teaches us how to look at all things as instruments of forgiveness. (Wapnick, FAJ, p.301.) 
+(1) …the Course repeatedly emphasizes: as we teach so shall we learn. Jesus is there to teach his lesson to us in all the opportunities that our egos have provided. Joining us in them, he teaches us how to look at all things as instruments of forgiveness. (Wapnick, FAJ, p.301.) 
 :::
 {% endif %}
 

@@ -11,29 +11,29 @@ prev: T-4.V
 next: T-4.VII
 ---
 
-1. The ego does not recognise the real source of ‘threat’, and if you associate yourself with the ego, you do not understand the situation as it is. 
+1. The ego does not recognize the real source of ‘threat’, and if you associate yourself with the ego, you do not understand the situation as it is. 
 ²Only your allegiance to it gives the ego any power over you. 
 ³I have spoken of the ego as if it were a separate thing, acting on its own. 
-⁴This was necessary to persuade you that you cannot dismiss it lightly, and must realise how much of your thinking is ego-directed. 
+⁴This was necessary to persuade you that you cannot dismiss it lightly, and must realize how much of your thinking is ego-directed. 
 ⁵We cannot safely let it go at that, however, or you will regard yourself as necessarily conflicted as long as you are here, or as long as you believe that you are here. 
 ⁶The ego is nothing more than a part of your belief about yourself. 
 ⁷Your other life has continued without interruption, and has been and always will be totally unaffected by your attempts to dissociate it.
 
 ::: details Expanded
-The ego does not recognise the real source of ‘threat’, and if you associate yourself with the ego, you do not understand the situation as it [the situation] is. 
+The ego does not recognize the real source of ‘threat’, and if you associate yourself with the ego, you do not understand the situation as it [the situation] is. 
 ²Only your allegiance to it [the ego] gives the ego any power over you. 
 ³I have spoken of the ego as if it [the ego] were a separate thing, acting on its [the-ego’s] own. 
-⁴This [speaking of the ego as if the ego were a separate thing] was necessary to persuade you that you cannot dismiss it [the ego] lightly, and must realise how much of your thinking is ego-directed. 
+⁴This [speaking of the ego as if the ego were a separate thing] was necessary to persuade you that you cannot dismiss it [the ego] lightly, and must realize how much of your thinking is ego-directed. 
 ⁵We cannot safely let it go at that, however, or you will regard yourself as necessarily conflicted as long as you are here, or as long as you believe that you are here. 
 ⁶The ego is nothing more than a part of your belief about yourself. 
 ⁷Your other life has continued without interruption, and has been and always will be totally unaffected by your attempts to dissociate it [your other life].
 :::
 
 ::: details Substituted
-The ego does not recognise the real source of ‘threat’, and if you associate yourself with the ego, you do not understand the situation as the situation is. 
+The ego does not recognize the real source of ‘threat’, and if you associate yourself with the ego, you do not understand the situation as the situation is. 
 ²Only your allegiance to the ego gives the ego any power over you. 
 ³I have spoken of the ego as if the ego were a separate thing, acting on the-ego’s own. 
-⁴Sspeaking of the ego as if the ego were a separate thing, was necessary to persuade you that you cannot dismiss the ego lightly, and must realise how much of your thinking is ego-directed. 
+⁴Sspeaking of the ego as if the ego were a separate thing, was necessary to persuade you that you cannot dismiss the ego lightly, and must realize how much of your thinking is ego-directed. 
 ⁵We cannot safely let it go at that, however, or you will regard yourself as necessarily conflicted as long as you are here, or as long as you believe that you are here. 
 ⁶The ego is nothing more than a part of your belief about yourself. 
 ⁷Your other life has continued without interruption, and has been and always will be totally unaffected by your attempts to dissociate your other life.
@@ -87,7 +87,7 @@ When you understand your indebtedness, you come close to knowledge.
 ²The results will convince you increasingly that this choice is the only sane one you can make. 
 ³No one who learns from experience that one choice brings peace and joy while another brings chaos and disaster needs additional convincing. 
 ⁴Learning through rewards is more effective than learning through pain, because pain is an ego illusion, and can never induce more than a temporary effect. 
-⁵The rewards of God, however, are immediately recognised as eternal. 
+⁵The rewards of God, however, are immediately recognized as eternal. 
 ⁶Since this recognition is made by you and not the ego, the recognition itself establishes that you and your ego cannot be identical. 
 ⁷You may believe that you have already accepted this difference, but you are by no means convinced as yet. 
 ⁸The fact that you believe you must escape from the ego shows this; but you cannot escape from the ego by humbling it or controlling it or punishing it.
@@ -97,7 +97,7 @@ You have very little trust in me as yet, but it [trust in me] will increase as y
 ²The results [of trusting in me] will convince you increasingly that this choice [to trust in me] is the only sane one [choice] you can make. 
 ³No one who learns from experience that one choice brings peace and joy while another [choice] brings chaos and disaster needs additional convincing. 
 ⁴Learning through rewards is more effective than learning through pain, because pain is an ego illusion, and [pain] can never induce more than a temporary effect. 
-⁵The rewards of God, however, are immediately recognised as eternal. 
+⁵The rewards of God, however, are immediately recognized as eternal. 
 ⁶Since this recognition [that the rewards of God are eternal] is made by you and not the ego, the recognition itself [recognition’s-self] establishes that you and your ego cannot be identical. 
 ⁷You may believe that you have already accepted this difference [between you and the ego], but you are by no means convinced as yet. 
 ⁸The fact that you believe you must escape from the ego shows this [that you are not convinced of the difference between you and the ego]; but you cannot escape from the ego by humbling it [the ego] or [by] controlling it [the ego] or [by] punishing it [the ego].
@@ -108,7 +108,7 @@ You have very little trust in me as yet, but trust in me will increase as you tu
 ²The results of trusting in me will convince you increasingly that the choice to trust in me is the only sane choice you can make. 
 ³No one who learns from experience that one choice brings peace and joy, while another choice brings chaos and disaster, needs additional convincing. 
 ⁴Learning through rewards is more effective than learning through pain, because pain is an ego illusion, and pain can never induce more than a temporary effect. 
-⁵The rewards of God, however, are immediately recognised as eternal. 
+⁵The rewards of God, however, are immediately recognized as eternal. 
 ⁶Since the recognition, that the rewards of God are eternal, is made by you and not the ego, the recognition’s-self establishes that you and your ego cannot be identical. 
 ⁷You may believe that you have already accepted the difference between you and the ego, but you are by no means convinced as yet. 
 ⁸The fact that you believe you must escape from the ego shows that you are not convinced of the difference between you and the ego; but you cannot escape from the ego by humbling the ego or by controlling the ego or by punishing the ego.
@@ -118,7 +118,7 @@ You have very little trust in me as yet, but trust in me will increase as you tu
 The more you trust in me, the more you learn it is insane not to trust me. 
 Trusting in me brings peace and joy. 
 Trusting anywhere else brings chaos and disaster. 
-The rewards of God are recognised by your true self. 
+The rewards of God are recognized by your true self. 
 You do not escape from the ego by controlling the ego.
 :::
 
@@ -242,7 +242,7 @@ I will lend you strength if you are not strong enough.
 ⁵Through your gratitude you come to know your brother, and one moment of real recognition makes everyone your brother because each of them is of your Father. 
 ⁶Love does not conquer all things, but it does set all things right. 
 ⁷Because you are the Kingdom of God I can lead you back to your own creations. 
-⁸You do not recognise them now, but what has been dissociated is still there.
+⁸You do not recognize them now, but what has been dissociated is still there.
 
 ::: details Expanded
 I will go with you to the Holy One, and through my perception He [the Holy One] can bridge the little gap. 
@@ -252,7 +252,7 @@ I will go with you to the Holy One, and through my perception He [the Holy One] 
 ⁵Through your gratitude you come to know your brother, and one moment of real recognition makes everyone your brother because each of them [your brother’s] is of your Father. 
 ⁶Love does not conquer all things, but it [love] does set all things right. 
 ⁷Because you are the Kingdom of God I can lead you back to your own creations. 
-⁸You do not recognise them [your own creations] now, but what has been dissociated is still there.
+⁸You do not recognize them [your own creations] now, but what has been dissociated is still there.
 :::
 
 ::: details Substituted
@@ -263,7 +263,7 @@ I will go with you to the Holy One, and through my perception the Holy One can b
 ⁵Through your gratitude you come to know your brother, and one moment of real recognition makes everyone your brother because each of your brother’s is of your Father. 
 ⁶Love does not conquer all things, but love does set all things right. 
 ⁷Because you are the Kingdom of God I can lead you back to your own creations. 
-⁸You do not recognise your own creations now, but what has been dissociated is still there.
+⁸You do not recognize your own creations now, but what has been dissociated is still there.
 :::
 
 ::: details Simplified

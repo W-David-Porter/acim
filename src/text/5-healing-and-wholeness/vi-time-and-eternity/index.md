@@ -54,7 +54,7 @@ All of Heaven is waiting for you to decide to be in eternity.
 ⁷When you choose to make this exchange, you will simultaneously exchange guilt for joy, viciousness for love, and pain for peace. 
 ⁸My role is only to unchain your will and set it free. 
 ⁹Your ego cannot accept this freedom, and will oppose it at every possible moment and in every possible way. 
-¹⁰And as its maker, you recognise what it can do because you gave it the power to do it.
+¹⁰And as its maker, you recognize what it can do because you gave it the power to do it.
 
 ::: details Expanded
 Guilt feelings are the preservers of time. 
@@ -66,7 +66,7 @@ Guilt feelings are the preservers of time.
 ⁷When you choose to make this exchange [the exchange of the continuity of the past for the continuity of eternity], you will simultaneously exchange guilt for joy, viciousness for love, and pain for peace. 
 ⁸My role is only to unchain your will and set it [your will] free. 
 ⁹Your ego cannot accept this freedom [of will], and will oppose it [freedom of will] at every possible moment and in every possible way. 
-¹⁰And as its [the-ego’s] maker, you recognise what it [the ego] can do because you gave it [the ego] the power to do it [what the ego can do].
+¹⁰And as its [the-ego’s] maker, you recognize what it [the ego] can do because you gave it [the ego] the power to do it [what the ego can do].
 :::
 
 ::: details Substituted
@@ -79,7 +79,7 @@ Guilt feelings are the preservers of time.
 ⁷When you choose to make the exchange of the continuity of the past for the continuity of eternity, you will simultaneously exchange guilt for joy, viciousness for love, and pain for peace. 
 ⁸My role is only to unchain your will and set your will free. 
 ⁹Your ego cannot accept freedom of will, and will oppose freedom of will at every possible moment and in every possible way. 
-¹⁰And as the-ego’s maker, you recognise what the ego can do because you gave the ego the power to do what the ego can do.
+¹⁰And as the-ego’s maker, you recognize what the ego can do because you gave the ego the power to do what the ego can do.
 :::
 
 ::: details Simplified
@@ -125,32 +125,32 @@ This is the mind that is in you and in me.
 (5) the two voices — i.e. the Voice for God (the Holy Spirit); and the ego.
 :::
 
-4. The ego speaks in judgement, and the Holy Spirit reverses its decision, much as a higher court has the power to reverse a lower court’s decisions in this world. 
+4. The ego speaks in judgment, and the Holy Spirit reverses its decision, much as a higher court has the power to reverse a lower court’s decisions in this world. 
 ²The ego’s decisions are always wrong, because they are based on the error they were made to uphold. 
 ³Nothing the ego perceives is interpreted correctly. 
 ⁴Not only does the ego cite Scripture for its purpose, but it even interprets Scripture as a witness for itself. 
-⁵The Bible is a fearful thing in the ego’s judgement. 
+⁵The Bible is a fearful thing in the ego’s judgment. 
 ⁶Perceiving it as frightening, it interprets it fearfully. 
-⁷Being afraid, you do not appeal to the Higher Court because you believe its judgement would also be against you.
+⁷Being afraid, you do not appeal to the Higher Court because you believe its judgment would also be against you.
 
 ::: details Expanded
-The ego speaks in judgement, and the Holy Spirit reverses its [the-ego’s] decision, much as a higher court has the power to reverse a lower court’s decisions in this world. 
+The ego speaks in judgment, and the Holy Spirit reverses its [the-ego’s] decision, much as a higher court has the power to reverse a lower court’s decisions in this world. 
 ²The ego’s decisions are always wrong, because they [the-ego’s-decisions] are based on the error they [the-ego’s-decisions] were made to uphold. 
 ³Nothing the ego perceives is interpreted correctly. 
 ⁴Not only does the ego cite Scripture for its [the-ego’s] purpose, but it [the ego] even interprets Scripture as a witness for itself [the-ego’s-self]. 
-⁵The Bible is a fearful thing in the ego’s judgement. 
+⁵The Bible is a fearful thing in the ego’s judgment. 
 ⁶Perceiving it [the Bible] as frightening, it [the ego] interprets it [the Bible] fearfully. 
-⁷Being afraid, you do not appeal to the Higher Court because you believe its [the-Higher-Court’s] judgement would also be against you.
+⁷Being afraid, you do not appeal to the Higher Court because you believe its [the-Higher-Court’s] judgment would also be against you.
 :::
 
 ::: details Substituted
-The ego speaks in judgement, and the Holy Spirit reverses the-ego’s decision, much as a higher court has the power to reverse a lower court’s decisions in this world. 
+The ego speaks in judgment, and the Holy Spirit reverses the-ego’s decision, much as a higher court has the power to reverse a lower court’s decisions in this world. 
 ²The ego’s decisions are always wrong, because the-ego’s-decisions are based on the error the-ego’s-decisions were made to uphold. 
 ³Nothing the ego perceives is interpreted correctly. 
 ⁴Not only does the ego cite Scripture for the-ego’s purpose, but the ego even interprets Scripture as a witness for the-ego’s-self. 
-⁵The Bible is a fearful thing in the ego’s judgement. 
+⁵The Bible is a fearful thing in the ego’s judgment. 
 ⁶Perceiving the Bible as frightening, the ego interprets the Bible fearfully. 
-⁷Being afraid, you do not appeal to the Higher Court because you believe the-Higher-Court’s judgement would also be against you.
+⁷Being afraid, you do not appeal to the Higher Court because you believe the-Higher-Court’s judgment would also be against you.
 :::
 
 ::: details Simplified
@@ -176,16 +176,16 @@ The Holy Spirit can reïnterpret the ego’s misleading interpretations.
 
 
 6. “As ye sow, so shall ye reap” He interprets to mean what you consider worth cultivating you will cultivate in yourself. 
-²Your judgement of what is worthy makes it worthy for you.
+²Your judgment of what is worthy makes it worthy for you.
 
 ::: details Expanded
 “As ye sow, so shall ye reap” He [the Holy Spirit] interprets to mean what you consider worth cultivating you will cultivate in yourself. 
-²Your judgement of what is worthy makes it [what you consider worth cultivating] worthy for you.
+²Your judgment of what is worthy makes it [what you consider worth cultivating] worthy for you.
 :::
 
 ::: details Substituted
 “As ye sow, so shall ye reap” the Holy Spirit interprets to mean what you consider worth cultivating you will cultivate in yourself. 
-²Your judgement of what is worthy makes what you consider worth cultivating worthy for you.
+²Your judgment of what is worthy makes what you consider worth cultivating worthy for you.
 :::
 
 ::: details Simplified
@@ -194,18 +194,18 @@ You will cultivate in yourself whatever you consider worthy of cultivating.
 
 
 7. “Vengeance is mine, says the Lord” is easily reïnterpreted if you remember that ideas increase only by being shared. 
-²The statement emphasises that vengeance cannot be shared. 
+²The statement emphasizes that vengeance cannot be shared. 
 ³Give it therefore to the Holy Spirit, Who will undo it in you because it does not belong in your mind, which is part of God.
 
 ::: details Expanded
 “Vengeance is mine, says the Lord” is easily reïnterpreted if you remember that ideas increase only by being shared. 
-²The statement emphasises that vengeance cannot be shared. 
+²The statement emphasizes that vengeance cannot be shared. 
 ³Give it [vengeance] therefore to the Holy Spirit, Who will undo it [vengeance] in you because it [vengeance] does not belong in your mind, which is part of God.
 :::
 
 ::: details Substituted
 “Vengeance is mine, says the Lord” is easily reïnterpreted if you remember that ideas increase only by being shared. 
-²The statement emphasises that vengeance cannot be shared. 
+²The statement emphasizes that vengeance cannot be shared. 
 ³Give vengeance therefore to the Holy Spirit, Who will undo vengeance in you because vengeance does not belong in your mind, which is part of God.
 :::
 

@@ -52,26 +52,26 @@ You did not create yourself.
 2. The basic decision of the miracle-minded is not to wait on time any longer than is necessary. 
 ²Time can waste as well as be wasted. 
 ³The miracle worker, therefore, accepts the time-control factor gladly. 
-⁴He recognises that every collapse of time brings everyone closer to the ultimate release from time, in which the Son and the Father are One. 
+⁴He recognizes that every collapse of time brings everyone closer to the ultimate release from time, in which the Son and the Father are One. 
 ⁵Equality does not imply equality *now*. 
-⁶When everyone recognises that he has everything, individual contributions to the Sonship will no longer be necessary.
+⁶When everyone recognizes that he has everything, individual contributions to the Sonship will no longer be necessary.
 
 ::: details Expanded
 The basic decision of the miracle-minded is not to wait on time any longer than is necessary. 
 ²Time can waste as well as be wasted. 
 ³The miracle worker, therefore, accepts the time-control factor gladly. 
-⁴He [the miracle worker] recognises that every collapse of time brings everyone closer to the ultimate release from time, in which [release from time] the Son and the Father are One. 
+⁴He [the miracle worker] recognizes that every collapse of time brings everyone closer to the ultimate release from time, in which [release from time] the Son and the Father are One. 
 ⁵Equality does not imply equality *now*. 
-⁶When everyone recognises that he [one] has everything, individual contributions to the Sonship will no longer be necessary.
+⁶When everyone recognizes that he [one] has everything, individual contributions to the Sonship will no longer be necessary.
 :::
 
 ::: details Substituted
 The basic decision of the miracle-minded is not to wait on time any longer than is necessary. 
 ²Time can waste as well as be wasted. 
 ³The miracle worker, therefore, accepts the time-control factor gladly. 
-⁴The miracle worker recognises that every collapse of time brings everyone closer to the ultimate release from time; in release from time the Son and the Father are One. 
+⁴The miracle worker recognizes that every collapse of time brings everyone closer to the ultimate release from time; in release from time the Son and the Father are One. 
 ⁵Equality does not imply equality *now*. 
-⁶When everyone recognises that one has everything, individual contributions to the Sonship will no longer be necessary.
+⁶When everyone recognizes that one has everything, individual contributions to the Sonship will no longer be necessary.
 :::
 
 ::: details Simplified
@@ -89,7 +89,7 @@ Every collapse brings everyone closer to knowledge of oneness.
 3. When the Atonement has been completed, all talents will be shared by all the Sons of God. 
 ²God is not partial. 
 ³All His children have His total Love, and all His gifts are freely given to everyone alike. 
-⁴“Except ye become as little children” means that unless you fully recognise your complete dependence on God, you cannot know the real power of the Son in his true relationship with the Father. 
+⁴“Except ye become as little children” means that unless you fully recognize your complete dependence on God, you cannot know the real power of the Son in his true relationship with the Father. 
 ⁵The specialness of God’s Sons does not stem from exclusion but from inclusion. 
 ⁶All my brothers are special. 
 ⁷If they believe they are deprived of anything, their perception becomes distorted. 
@@ -99,7 +99,7 @@ Every collapse brings everyone closer to knowledge of oneness.
 When the Atonement has been completed, all talents will be shared by all the Sons of God. 
 ²God is not partial. 
 ³All His [God’s] children have His [God’s] total Love, and all His [God’s] gifts are freely given to everyone alike. 
-⁴“Except ye become as little children” means that unless you fully recognise your complete dependence on God, you cannot know the real power of the Son in his [the Son’s] true relationship with the Father. 
+⁴“Except ye become as little children” means that unless you fully recognize your complete dependence on God, you cannot know the real power of the Son in his [the Son’s] true relationship with the Father. 
 ⁵The specialness of God’s Sons does not stem from exclusion but from inclusion. 
 ⁶All my brothers are special. 
 ⁷If they [my brothers] believe they [my brothers] are deprived of anything, their [my brothers’] perception becomes distorted. 
@@ -110,7 +110,7 @@ When the Atonement has been completed, all talents will be shared by all the Son
 When the Atonement has been completed, all talents will be shared by all the Sons of God. 
 ²God is not partial. 
 ³All God’s children have God’s total Love, and all God’s gifts are freely given to everyone alike. 
-⁴“Except ye become as little children” means that unless you fully recognise your complete dependence on God, you cannot know the real power of the Son in the Son’s true relationship with the Father. 
+⁴“Except ye become as little children” means that unless you fully recognize your complete dependence on God, you cannot know the real power of the Son in the Son’s true relationship with the Father. 
 ⁵The specialness of God’s Sons does not stem from exclusion but from inclusion. 
 ⁶All my brothers are special. 
 ⁷If my brothers believe my brothers are deprived of anything, my brothers’ perception becomes distorted. 

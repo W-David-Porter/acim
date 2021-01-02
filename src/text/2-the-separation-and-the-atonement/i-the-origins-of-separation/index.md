@@ -163,7 +163,7 @@ You can extend the truth.
 4. All fear is ultimately reducible to the basic misperception that you have the ability to usurp the power of God. 
 ²Of course, you neither can nor have been able to do this. 
 ³Here is the real basis for your escape from fear. 
-⁴The escape is brought about by your acceptance of the Atonement, which enables you to realise that your errors never really occurred. 
+⁴The escape is brought about by your acceptance of the Atonement, which enables you to realize that your errors never really occurred. 
 ⁵Only after the deep sleep fell upon Adam could he experience nightmares. 
 ⁶If a light is suddenly turned on while someone is dreaming a fearful dream, he may initially interpret the light itself as part of his dream and be afraid of it. 
 ⁷However, when he awakens, the light is correctly perceived as the release from the dream, which is then no longer accorded reality. 
@@ -174,7 +174,7 @@ You can extend the truth.
 All fear is ultimately reducible to the basic misperception that you have the ability to usurp the power of God. 
 ²Of course, you neither can nor have been able to do this [usurp the power of God]. 
 ³Here is the real basis for your escape from fear. 
-⁴The escape [from fear] is brought about by your acceptance of the Atonement, which [acceptance of the Atonement] enables you to realise that your errors never really occurred. 
+⁴The escape [from fear] is brought about by your acceptance of the Atonement, which [acceptance of the Atonement] enables you to realize that your errors never really occurred. 
 ⁵Only after the deep sleep fell upon Adam could he [Adam] experience nightmares. 
 ⁶If a light is suddenly turned on while someone is dreaming a fearful dream, he [the dreamer] may initially interpret the light itself as part of his [the dreamer’s] dream and be afraid of it [the dream]. 
 ⁷However, when he [the dreamer] awakens, the light is correctly perceived as the release from the dream, which [dream] is then no longer accorded reality. 
@@ -186,7 +186,7 @@ All fear is ultimately reducible to the basic misperception that you have the ab
 All fear is ultimately reducible to the basic misperception that you have the ability to usurp the power of God. 
 ²Of course, you neither can nor have been able to usurp the power of God. 
 ³Here is the real basis for your escape from fear. 
-⁴Escape from fear is brought about by your acceptance of the Atonement; acceptance of the Atonement enables you to realise that your errors never really occurred. 
+⁴Escape from fear is brought about by your acceptance of the Atonement; acceptance of the Atonement enables you to realize that your errors never really occurred. 
 ⁵Only after the deep sleep fell upon Adam could Adam experience nightmares. 
 ⁶If a light is suddenly turned on while someone is dreaming a fearful dream, the dreamer may initially interpret the light itself as part of the dreamer’s dream and be afraid of the dream. 
 ⁷However, when the dreamer awakens, the light is correctly perceived as the release from the dream; dream is then no longer accorded reality. 

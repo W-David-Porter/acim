@@ -137,7 +137,7 @@ Release your brothers by forgiving them.
 ⁴This spares you needless effort, because you will be acting under direct communication. 
 ⁵The impersonal nature of the miracle is an essential ingredient, because it enables me to direct its application, and under my guidance miracles lead to the highly personal experience of revelation. 
 ⁶A guide does not control but he does direct, leaving it up to you to follow. 
-⁷“Lead us not into temptation” means “Recognise your errors and choose to abandon them by following my guidance”.
+⁷“Lead us not into temptation” means “recognize your errors and choose to abandon them by following my guidance”.
 
 ::: details Expanded
 I am the only one who can perform miracles indiscriminately, because I am the Atonement. 
@@ -146,7 +146,7 @@ I am the only one who can perform miracles indiscriminately, because I am the At
 ⁴This [asking which miracles you should perform] spares you needless effort, because you will be acting under direct communication. 
 ⁵The impersonal nature of the miracle is an essential ingredient, because it [the impersonal nature of the  miracle] enables me to direct its [the miracle’s] application, and under my guidance miracles lead to the highly personal experience of revelation. 
 ⁶A guide does not control but he [a guide] does direct, leaving it up to you to follow. 
-⁷“Lead us not into temptation” means “Recognise your errors and choose to abandon them [your errors] by following my guidance”.
+⁷“Lead us not into temptation” means “recognize your errors and choose to abandon them [your errors] by following my guidance”.
 :::
 
 ::: details Substituted
@@ -156,7 +156,7 @@ I am the only one who can perform miracles indiscriminately, because I am the At
 ⁴Asking which miracles your should perform perform spares you needless effort, because you will be acting under direct communication. 
 ⁵The impersonal nature of the miracle is an essential ingredient, because the impersonal nature of the miracle enables me to direct the miracle’s application, and under my guidance miracles lead to the highly personal experience of revelation. 
 ⁶A guide does not control but a guide does direct, leaving it up to you to follow. 
-⁷“Lead us not into temptation” means “Recognise your errors and choose to abandon your errors by following my guidance”.
+⁷“Lead us not into temptation” means “recognize your errors and choose to abandon your errors by following my guidance”.
 :::
 
 ::: details Simplified
@@ -299,14 +299,14 @@ A miracle-ready mind unites all minds with God.
 :::
 
 
-8. That the miracle may have effects on your brothers that you may not recognise is not your concern. 
+8. That the miracle may have effects on your brothers that you may not recognize is not your concern. 
 ²The miracle will always bless *you*. 
 ³Miracles you are not asked to perform have not lost their value. 
 ⁴They are still expressions of your own state of grace, but the action aspect of the miracle should be controlled by me because of my complete awareness of the whole plan. 
 ⁵The impersonal nature of miracle-mindedness ensures your grace, but only I am in a position to know where they can be bestowed.
 
 ::: details Expanded
-That the miracle may have effects on your brothers that you may not recognise is not your concern. 
+That the miracle may have effects on your brothers that you may not recognize is not your concern. 
 ²The miracle will always bless *you*. 
 ³Miracles you are not asked to perform have not lost their [miracles’] value. 
 ⁴They [miracles] are still expressions of your own state of grace, but the action aspect of the miracle should be controlled by me because of my complete awareness of the whole plan. 
@@ -314,7 +314,7 @@ That the miracle may have effects on your brothers that you may not recognise is
 :::
 
 ::: details Substituted
-That the miracle may have effects on your brothers that you may not recognise is not your concern. 
+That the miracle may have effects on your brothers that you may not recognize is not your concern. 
 ²The miracle will always bless *you*. 
 ³Miracles you are not asked to perform have not lost miracles’ value. 
 ⁴Miracles are still expressions of your own state of grace, but the action aspect of the miracle should be controlled by me because of my complete awareness of the whole plan. 
@@ -322,7 +322,7 @@ That the miracle may have effects on your brothers that you may not recognise is
 :::
 
 ::: details Simplified
-You do not always recognise the effect of a miracle. 
+You do not always recognize the effect of a miracle. 
 You are blessed by your own miracles. 
 I control how miracles are used.
 :::

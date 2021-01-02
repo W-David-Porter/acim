@@ -47,9 +47,9 @@ Peace can only be found in doing God’s Will.
 ::: details Commentary
 (4) By using the world as a substitute for the role God alone would have in our lives, our belief in the spearation from God is reïnforced, and it is this that gave rise to the world of suffering and pain in the first place. (Wapnick, F.A.J., p.17.)
 
-(4–5) If we truly looked at anything in this world, we would realise that what we thought had given us happiness and joy was really filled with pain. (Wapnick, A.V.I., p.265.)
+(4–5) If we truly looked at anything in this world, we would realize that what we thought had given us happiness and joy was really filled with pain. (Wapnick, A.V.I., p.265.)
 
-(4–5) This discussion is not meant to imply that one should feel guilt over sexual thoughts, feelings, or behaviour, any more than one should feel guilt for needing oxygen or food to survive. But it is helpful to recognise the dynamics of sexuality so as to understand better the dynamics of guilt, which *is* the problem. (c/f [T-19.IV-A.17:10–11](/text/19-the-attainment-of-peace/iv-a-the-first-obstacle-the-desire-to-get-rid-of-it#17), [T-19.IV-B.12](/text/19-the-attainment-of-peace/iv-b-the-second-obstacle-the-belief-the-body-is-valuable-for-what-it-offers#12). (Wapnick, A.A.C., p. 105.)
+(4–5) This discussion is not meant to imply that one should feel guilt over sexual thoughts, feelings, or behaviour, any more than one should feel guilt for needing oxygen or food to survive. But it is helpful to recognize the dynamics of sexuality so as to understand better the dynamics of guilt, which *is* the problem. (c/f [T-19.IV-A.17:10–11](/text/19-the-attainment-of-peace/iv-a-the-first-obstacle-the-desire-to-get-rid-of-it#17), [T-19.IV-B.12](/text/19-the-attainment-of-peace/iv-b-the-second-obstacle-the-belief-the-body-is-valuable-for-what-it-offers#12). (Wapnick, A.A.C., p. 105.)
 :::
 {% endif %}
 
@@ -184,14 +184,14 @@ Without preparation now you may be fearful later on.
 
 (4) Students of *A Course in Miracles* may … argue that understanding its theory is irrelevant, and that study of the text is a waste of time, clearly ignoring this warning. (Wapnick, L.D.N.C., p.610).
 
-(4) …many students emphasise the workbook at the expense of the text, rather than viewing each book as a companion to the other. The mistake here … reflects the unconscious error of believing that our ego identification is weak and can be easily discarded, leaving our minds open to recieve — instantaneously and joyously — the Word of God. (Wapnick, F.C.T.L., p.171.)
+(4) …many students emphasize the workbook at the expense of the text, rather than viewing each book as a companion to the other. The mistake here … reflects the unconscious error of believing that our ego identification is weak and can be easily discarded, leaving our minds open to recieve — instantaneously and joyously — the Word of God. (Wapnick, F.C.T.L., p.171.)
 :::
 {% endif %}
 
 
 5. A solid foundation is necessary because of the confusion between fear and awe to which I have already referred, and which is often made. 
 ²I have said that awe is inappropriate in connection with the Sons of God, because you should not experience awe in the presence of your equals. 
-³However, it was also emphasised that awe is proper in the Presence of your Creator. 
+³However, it was also emphasized that awe is proper in the Presence of your Creator. 
 ⁴I have been careful to clarify my role in the Atonement without either over- or understating it. 
 ⁵I am also trying to do the same with yours. 
 ⁶I have stressed that awe is not an appropriate reäction to me because of our inherent equality. 
@@ -204,7 +204,7 @@ Without preparation now you may be fearful later on.
 ::: details Expanded
 A solid foundation is necessary because of the confusion between fear and awe to which I have already referred, and which [confusion between fear and awe] is often made. 
 ²I have said that awe is inappropriate in connection with the Sons of God, because you should not experience awe in the presence of your equals. 
-³However, it was also emphasised that awe is proper in the Presence of your Creator. 
+³However, it was also emphasized that awe is proper in the Presence of your Creator. 
 ⁴I have been careful to clarify my role in the Atonement without either over- or understating it [my role in the Atonement]. 
 ⁵I am also trying to do the same with yours [role in the Atonement]. 
 ⁶I have stressed that awe is not an appropriate reäction to me because of our inherent equality. 
@@ -218,7 +218,7 @@ A solid foundation is necessary because of the confusion between fear and awe to
 ::: details Substituted
 A solid foundation is necessary because of the confusion between fear and awe to which I have already referred, and confusion between fear and awe is often made. 
 ²I have said that awe is inappropriate in connection with the Sons of God, because you should not experience awe in the presence of your equals. 
-³However, it was also emphasised that awe is proper in the Presence of your Creator. 
+³However, it was also emphasized that awe is proper in the Presence of your Creator. 
 ⁴I have been careful to clarify my role in the Atonement without either over- or understating my role in the Atonement. 
 ⁵I am also trying to do the same with your role in the Atonement. 
 ⁶I have stressed that awe is not an appropriate reäction to me because of our inherent equality. 

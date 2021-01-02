@@ -139,14 +139,14 @@ The miracle worker needs to be right-minded.
 ²You are perfectly safe as long as you are completely unconcerned about your readiness, but maintain a consistent trust in mine. 
 ³If your miracle working inclinations are not functioning properly, it is always because fear has intruded on your right-mindedness and has turned it upside down. 
 ⁴All forms of not-right-mindedness are the result of refusal to accept the Atonement for yourself. 
-⁵If you do accept it, you are in a position to recognise that those who need healing are simply those who have not realised that right-mindedness *is* healing.
+⁵If you do accept it, you are in a position to recognize that those who need healing are simply those who have not realized that right-mindedness *is* healing.
 
 ::: details Expanded
 The healer who relies on his [the healer’s] own readiness is endangering his [the healer’s] understanding. 
 ²You are perfectly safe as long as you are completely unconcerned about your readiness, but maintain a consistent trust in mine [readiness]. 
 ³If your miracle working inclinations are not functioning properly, it [miracle working inclinations not functioning properly] is always because fear has intruded on your right-mindedness and has turned it [your right-mindedness] upside down. 
 ⁴All forms of not-right-mindedness are the result of refusal to accept the Atonement for yourself. 
-⁵If you do accept it [the Atonement], you are in a position to recognise that those who need healing are simply those who have not realised that right-mindedness *is* healing.
+⁵If you do accept it [the Atonement], you are in a position to recognize that those who need healing are simply those who have not realized that right-mindedness *is* healing.
 :::
 
 ::: details Substituted
@@ -154,7 +154,7 @@ The healer who relies on the healer’s own readiness is endangering the healer�
 ²You are perfectly safe as long as you are completely unconcerned about your readiness, but maintain a consistent trust in my readiness. 
 ³If your miracle working inclinations are not functioning properly, miracle working inclinations not functioning properly is always because fear has intruded on your right-mindedness and has turned your right-mindedness upside down. 
 ⁴All forms of not-right-mindedness are the result of refusal to accept the Atonement for yourself. 
-⁵If you do accept the Atonement, you are in a position to recognise that those who need healing are simply those who have not realised that right-mindedness *is* healing.
+⁵If you do accept the Atonement, you are in a position to recognize that those who need healing are simply those who have not realized that right-mindedness *is* healing.
 :::
 
 ::: details Simplified
@@ -169,7 +169,7 @@ Healing restores right-mindedness.
 <div id=5 class=zero-height></div>
 
 5. *The sole responsibility of the miracle worker is to accept the Atonement for himself.*
-²This means you recognise that mind is the only creative level, and that its errors are healed by the Atonement. 
+²This means you recognize that mind is the only creative level, and that its errors are healed by the Atonement. 
 ³Once you accept this, your mind can only heal. 
 ⁴By denying your mind any destructive potential and reïnstating its purely constructive powers, you place yourself in a position to undo the level confusion of others. 
 ⁵The message you then give to them is the truth that their minds are similarly constructive, and their miscreations cannot hurt them. 
@@ -177,7 +177,7 @@ Healing restores right-mindedness.
 
 ::: details Expanded
 *The sole responsibility of the miracle worker is to accept the Atonement for himself [the miracle-worker’s self].* 
-²This means you recognise that mind is the only creative level, and that its [mind’s] errors are healed by the Atonement. 
+²This means you recognize that mind is the only creative level, and that its [mind’s] errors are healed by the Atonement. 
 ³Once you accept this [the Atonement], your mind can only heal. 
 ⁴By denying your mind any destructive potential and reïnstating its [your mind’s] purely constructive powers, you place yourself in a position to undo the level confusion of others. 
 ⁵The message you then give to them [others] is the truth that their [others’] minds are similarly constructive, and their [others’] miscreations cannot hurt them [others]. 
@@ -187,7 +187,7 @@ Healing restores right-mindedness.
 ::: details Substituted
 
 *The sole responsibility of the miracle worker is to accept the Atonement for the miracle-worker’s self.* 
-²This means you recognise that mind is the only creative level, and that mind’s errors are healed by the Atonement. 
+²This means you recognize that mind is the only creative level, and that mind’s errors are healed by the Atonement. 
 ³Once you accept the Atonement, your mind can only heal. 
 ⁴By denying your mind any destructive potential and reïnstating your mind’s purely constructive powers, you place yourself in a position to undo the level confusion of others. 
 ⁵The message you then give to others is the truth that others’ minds are similarly constructive, and others’ miscreations cannot hurt others. 
@@ -212,14 +212,14 @@ Healing your mind will heal other minds.
 
 (1) The Holy Spirit’s gentle Voice speaks only of the love of Heaven that could never be shattered by the sin that would render the Son homeless. Our one responsibility then is to accept the truth about who we are. (Wapnick, L.D.N.C., p. 514.)
 
-(1) He [Jesus] is telling us rather that we will no longer be concerned with things that are not truly problems, but rather will recognise what our true problems are. The Course’s purpose is to help us gradually to recognise that our only function is to heal our own minds, and only that is important. …Jesus is certainly not suggesting that we do this apart from the form and symbols of the world; his Course does not advocate removing ourselves from the world but rather that we shift how we perceive the world. (Wapnick, A.V.I., p.207–208.)
+(1) He [Jesus] is telling us rather that we will no longer be concerned with things that are not truly problems, but rather will recognize what our true problems are. The Course’s purpose is to help us gradually to recognize that our only function is to heal our own minds, and only that is important. …Jesus is certainly not suggesting that we do this apart from the form and symbols of the world; his Course does not advocate removing ourselves from the world but rather that we shift how we perceive the world. (Wapnick, A.V.I., p.207–208.)
  
 (1) Our one responsibility then is to change our minds and accept the truth about who we are: the sinless Son of God. It is this shift that Jesus refers to in *A Course in Miracles* when he re-iterates our “sole responsibility”… (Wapnick, A.A.C., p. 205.)
 :::
 {% endif %}
 
 
-6. It should be emphasised again that the body does not learn any more than it creates. 
+6. It should be emphasized again that the body does not learn any more than it creates. 
 ²As a learning device it merely follows the learner, but if it is falsely endowed with self-initiative, it becomes a serious obstruction to the very learning it should facilitate. 
 ³Only the mind is capable of illumination. 
 ⁴Spirit is already illuminated and the body in itself is too dense. 
@@ -227,7 +227,7 @@ Healing your mind will heal other minds.
 ⁶The body is, however, easily brought into alignment with a mind that has learned to look beyond it toward the light.
 
 ::: details Expanded
-It should be emphasised again that the body does not learn any more than it [the body] creates. 
+It should be emphasized again that the body does not learn any more than it [the body] creates. 
 ²As a learning device it [the body] merely follows the learner, but if it [the body] is falsely endowed with self-initiative, it [the body] becomes a serious obstruction to the very learning it [the body] should facilitate. 
 ³Only the mind is capable of illumination. 
 ⁴Spirit is already illuminated and the body in itself [the body’s self] is too dense. 
@@ -236,7 +236,7 @@ It should be emphasised again that the body does not learn any more than it [the
 :::
 
 ::: details Substituted
-It should be emphasised again that the body does not learn any more than the body creates. 
+It should be emphasized again that the body does not learn any more than the body creates. 
 ²As a learning device the body merely follows the learner, but if the body is falsely endowed with self-initiative, the body becomes a serious obstruction to the very learning the body should facilitate. 
 ³Only the mind is capable of illumination. 
 ⁴Spirit is already illuminated and the body in the body’s self is too dense. 
@@ -489,30 +489,30 @@ Wrong-mindedness causes projection.
 15. (5) The level-adjustment power of the miracle induces the right perception for healing. 
 ²Until this has occurred healing cannot be understood. 
 ³Forgiveness is an empty gesture unless it entails correction. 
-⁴Without this it is essentially judgemental, rather than healing.
+⁴Without this it is essentially judgmental, rather than healing.
 
 ::: details Expanded
 (5) The level-adjustment power of the miracle induces the right perception for healing. 
 ²Until this [level-adjustement] has occurred healing cannot be understood. 
 ³Forgiveness is an empty gesture unless it [forgiveness] entails correction. 
-⁴Without this [correction] it [forgiveness] is essentially judgemental, rather than healing.
+⁴Without this [correction] it [forgiveness] is essentially judgmental, rather than healing.
 :::
 
 ::: details Substituted
 (5) The level-adjustment power of the miracle induces the right perception for healing. 
 ²Until level-adjustement has occurred healing cannot be understood. 
 ³Forgiveness is an empty gesture unless forgiveness entails correction. 
-⁴Without correction forgiveness is essentially judgemental, rather than healing.
+⁴Without correction forgiveness is essentially judgmental, rather than healing.
 :::
 
 ::: details Simplified
 Right-mindedness forgives with correction and healing. 
-Forgiving without correction is judgemental.
+Forgiving without correction is judgmental.
 :::
 
 
 16. (6) Miracle-minded forgiveness is correction. 
-²It has no element of judgement at all. 
+²It has no element of judgment at all. 
 ³The statement “Father forgive them for they know not what they do” in no way evaluates what they do. 
 ⁴It is an appeal to God to heal their minds. 
 ⁵There is no reference to the outcome of the error. 
@@ -520,7 +520,7 @@ Forgiving without correction is judgemental.
 
 ::: details Expanded
 (6) Miracle-minded forgiveness is correction. 
-²It [miracle-minded forgiveness] has no element of judgement at all. 
+²It [miracle-minded forgiveness] has no element of judgment at all. 
 ³The statement “Father forgive them for they know not what they do” in no way evaluates what they [those who know not what they do] do. 
 ⁴It [the statement “Father forgive them for they know not what they do”] is an appeal to God to heal their [those-who-know-not-what-they-do’s] minds. 
 ⁵There is no reference to the outcome of the error. 
@@ -529,7 +529,7 @@ Forgiving without correction is judgemental.
 
 ::: details Substituted
 (6) Miracle-minded forgiveness is correction. 
-²Miracle-minded forgiveness has no element of judgement at all. 
+²Miracle-minded forgiveness has no element of judgment at all. 
 ³The statement “Father forgive them for they know not what they do” in no way evaluates what those who know not what they do, do. 
 ⁴The statement “Father forgive them for they know not what they do” is an appeal to God to heal those-who-know-not-what-they-do’s minds. 
 ⁵There is no reference to the outcome of the error. 

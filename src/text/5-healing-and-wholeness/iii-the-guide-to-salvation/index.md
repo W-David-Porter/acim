@@ -12,14 +12,14 @@ next: T-5.IV
 ---
 
 
-1. The way to recognise your brother is by recognising the Holy Spirit in him. 
+1. The way to recognize your brother is by recognising the Holy Spirit in him. 
 ²I have already said that the Holy Spirit is the Bridge for the transfer of perception to knowledge, so we can use the terms as if they were related, because in His Mind they are. 
 ³This relationship must be in His Mind because, unless it were, the separation between the two ways of thinking would not be open to healing. 
 ⁴He is part of the Holy Trinity, because His Mind is partly yours and also partly God’s. 
 ⁵This needs clarification, not in statement but in experience.
 
 ::: details Expanded
-The way to recognise your brother is by recognising the Holy Spirit in him [your brother]. 
+The way to recognize your brother is by recognising the Holy Spirit in him [your brother]. 
 ²I have already said that the Holy Spirit is the Bridge for the transfer of perception to knowledge, so we can use the terms [perception and knowledge] as if they [perception and knowledge] were related, because in His [the Holy Spirit’s] Mind they [perception and knowldege] are [related]. 
 ³This relationship [of perception and knowledge] must be in His [the Holy Spirit’s] Mind because, unless it [the relationship of perception and knowledge] were [in the Holy Spirit’s Mind], the separation between the two ways of thinking would not be open to healing. 
 ⁴He [the Holy Spirit] is part of the Holy Trinity, because His [the Holy Spirit’s] Mind is partly yours [mind] and also partly God’s [Mind]. 
@@ -27,7 +27,7 @@ The way to recognise your brother is by recognising the Holy Spirit in him [your
 :::
 
 ::: details Substituted
-The way to recognise your brother is by recognising the Holy Spirit in your brother. 
+The way to recognize your brother is by recognising the Holy Spirit in your brother. 
 ²I have already said that the Holy Spirit is the Bridge for the transfer of perception to knowledge, so we can use perception and knowledge as if perception and knowledge were related, because in the-Holy-Spirit’s Mind perception and knowldege are related. 
 ³The relationship of perception and knowledge must be in the-Holy-Spirit’s Mind because, unless the relationship of perception and knowledge were in the-Holy-Spirit’s Mind, the separation between the two ways of thinking would not be open to healing. 
 ⁴The Holy Spirit is part of the Holy Trinity, because the-Holy-Spirit’s Mind is partly your mind and also partly God’s Mind. 
@@ -35,7 +35,7 @@ The way to recognise your brother is by recognising the Holy Spirit in your brot
 :::
 
 ::: details Simplified
-You recognise your brother by recognising the Holy Spirit in him. 
+You recognize your brother by recognising the Holy Spirit in him. 
 The Holy Spirit is the Bridge from Perception to Knowledge. 
 :::
 
@@ -81,21 +81,21 @@ The Holy Spirit is the idea of healing.
 The Holy Spirit is the Call for God. 
 The Call for God is an idea. 
 Ideas gain when they are shared. 
-When you recognise the Call for God in your brother, you recognise the existence of the Call for God.
+When you recognize the Call for God in your brother, you recognize the existence of the Call for God.
 :::
 
 
 3. There are two diametrically opposed ways of seeing your brother. 
 ²They must both be in your mind, because you are the perceiver. 
 ³They must also be in his, because you are perceiving him. 
-⁴See him through the Holy Spirit in his mind, and you will recognise Him in yours. 
+⁴See him through the Holy Spirit in his mind, and you will recognize Him in yours. 
 ⁵What you acknowledge in your brother you are acknowledging in yourself, and what you share you strengthen.
 
 ::: details Expanded
 There are two diametrically opposed ways of seeing your brother. 
 ²They [the ways of seeing your brother] must both be in your mind, because you are the perceiver. 
 ³They [the ways of seeing your brother] must also be in his [your brother’s mind], because you are perceiving him [your brother]. 
-⁴See him [your brother] through the Holy Spirit in his [your brother’s] mind, and you will recognise Him [the Holy Spirit] in yours [mind]. 
+⁴See him [your brother] through the Holy Spirit in his [your brother’s] mind, and you will recognize Him [the Holy Spirit] in yours [mind]. 
 ⁵What you acknowledge in your brother you are acknowledging in yourself, and what you share you strengthen.
 :::
 
@@ -103,7 +103,7 @@ There are two diametrically opposed ways of seeing your brother.
 There are two diametrically opposed ways of seeing your brother. 
 ²The ways of seeing your brother must both be in your mind, because you are the perceiver. 
 ³The ways of seeing your brother must also be in your-brother’s mind, because you are perceiving him [your brother]. 
-⁴See your brother through the Holy Spirit in your brother’s mind, and you will recognise the Holy Spirit in your mind. 
+⁴See your brother through the Holy Spirit in your brother’s mind, and you will recognize the Holy Spirit in your mind. 
 ⁵What you acknowledge in your brother you are acknowledging in yourself, and what you share you strengthen.
 :::
 
@@ -174,14 +174,14 @@ Delay is of the ego, because time is the ego’s concept.
 
 <div id=6 class=zero-height></div>
 
-6. I have repeatedly emphasised that one level of the mind is not understandable to another. 
+6. I have repeatedly emphasized that one level of the mind is not understandable to another. 
 ²So it is with the ego and the Holy Spirit; with time and eternity. 
 ³Eternity is an idea of God, so the Holy Spirit understands it perfectly. 
 ⁴Time is a belief of the ego, so the lower mind, which is the ego’s domain, accepts it without question. 
 ⁵The only aspect of time that is eternal is *now*.
 
 ::: details Expanded
-I have repeatedly emphasised that one level of the mind is not understandable to another [level of the mind]. 
+I have repeatedly emphasized that one level of the mind is not understandable to another [level of the mind]. 
 ²So it [levels not being understandable to other levels] is with the ego and the Holy Spirit; [so it is] with time and eternity. 
 ³Eternity is an idea of God, so the Holy Spirit understands it [eternity] perfectly. 
 ⁴Time is a belief of the ego, so the lower mind, which [lower mind] is the ego’s domain, accepts it [time] without question. 
@@ -189,7 +189,7 @@ I have repeatedly emphasised that one level of the mind is not understandable to
 :::
 
 ::: details Substituted
-I have repeatedly emphasised that one level of the mind is not understandable to another level of the mind. 
+I have repeatedly emphasized that one level of the mind is not understandable to another level of the mind. 
 ²The ego and the Holy Spirit are not understandable to one another; time and eternity are not understandable to one another. 
 ³Eternity is an idea of God, so the Holy Spirit understands eternity perfectly. 
 ⁴Time is a belief of the ego, so the lower mind — lower mind is the ego’s domain — accepts time without question. 
@@ -328,8 +328,8 @@ The Holy Spirit lets you reïnterpret your relationships.
 10. The Holy Spirit is the perfect Teacher. 
 ²He uses only what your mind already understands to teach you that you do not understand it. 
 ³The Holy Spirit can deal with a reluctant learner without going counter to his mind, because part of it is still for God. 
-⁴Despite the ego’s attempts to conceal this part, it is still much stronger than the ego, although the ego does not recognise it. 
-⁵The Holy Spirit recognises it perfectly because it is His Own dwelling place; the place in the mind where He is at home. 
+⁴Despite the ego’s attempts to conceal this part, it is still much stronger than the ego, although the ego does not recognize it. 
+⁵The Holy Spirit recognizes it perfectly because it is His Own dwelling place; the place in the mind where He is at home. 
 ⁶You are at home there, too, because it is a place of peace, and peace is of God. 
 ⁷You who are part of God are not at home except in His peace. 
 ⁸If peace is eternal, you are at home only in eternity.
@@ -338,8 +338,8 @@ The Holy Spirit lets you reïnterpret your relationships.
 The Holy Spirit is the perfect Teacher. 
 ²He [the Holy Spirit] uses only what your mind already understands to teach you that you do not understand it [your mind]. 
 ³The Holy Spirit can deal with a reluctant learner without going counter to his [the-reluctant-learner’s] mind, because part of it [the-reluctant-learner’s-mind] is still for God. 
-⁴Despite the ego’s attempts to conceal this part [the part of the mind still for God], it [the part of the mind still for God] is still much stronger than the ego, although the ego does not recognise it [the part of the mind still for God]. 
-⁵The Holy Spirit recognises it [the part of the mind still for God] perfectly because it [the part of the mind still for God] is His [the-Holy-Spirit’s] Own dwelling place; the place in the mind where He [the Holy Spirit] is at home. 
+⁴Despite the ego’s attempts to conceal this part [the part of the mind still for God], it [the part of the mind still for God] is still much stronger than the ego, although the ego does not recognize it [the part of the mind still for God]. 
+⁵The Holy Spirit recognizes it [the part of the mind still for God] perfectly because it [the part of the mind still for God] is His [the-Holy-Spirit’s] Own dwelling place; the place in the mind where He [the Holy Spirit] is at home. 
 ⁶You are at home there [in the part of the mind still for God], too, because it [the part of the mind still for God] is a place of peace, and peace is of God. 
 ⁷You who are part of God are not at home except in His [God’s] peace. 
 ⁸If peace is eternal, you are at home only in eternity.
@@ -349,8 +349,8 @@ The Holy Spirit is the perfect Teacher.
 The Holy Spirit is the perfect Teacher. 
 ²The Holy Spirit uses only what your mind already understands to teach you that you do not understand your mind. 
 ³The Holy Spirit can deal with a reluctant learner without going counter to his the-reluctant-learner’s mind, because part of the-reluctant-learner’s-mind is still for God. 
-⁴Despite the ego’s attempts to conceal the part of the mind still for God, the part of the mind still for God is still much stronger than the ego, although the ego does not recognise the part of the mind still for God. 
-⁵The Holy Spirit recognises the part of the mind still for God perfectly, because the part of the mind still for God is the-Holy-Spirit’s Own dwelling place; the place in the mind where the Holy Spirit is at home. 
+⁴Despite the ego’s attempts to conceal the part of the mind still for God, the part of the mind still for God is still much stronger than the ego, although the ego does not recognize the part of the mind still for God. 
+⁵The Holy Spirit recognizes the part of the mind still for God perfectly, because the part of the mind still for God is the-Holy-Spirit’s Own dwelling place; the place in the mind where the Holy Spirit is at home. 
 ⁶You are at home in the part of the mind still for God, too, because the part of the mind still for God is a place of peace, and peace is of God. 
 ⁷You who are part of God are not at home except in God’s peace. 
 ⁸If peace is eternal, you are at home only in eternity.
@@ -358,7 +358,7 @@ The Holy Spirit is the perfect Teacher.
 
 ::: details Simplified
 There always remains a part of your mind that is for God. 
-The ego does not recognise that part of your mind. 
+The ego does not recognize that part of your mind. 
 The Holy Spirit knows that part of the mind and lives in that part of the mind.
 You are at home in that part of the mind.
 In that part of the mind you know peace.

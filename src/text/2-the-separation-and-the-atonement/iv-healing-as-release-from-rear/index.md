@@ -245,7 +245,7 @@ Believing that magic has healing properties falls nicely into the ego’s trap o
 
 (4) If a person’s fear level is too great to abandon the ego’s investment in guilt, seeking healing through the love of the Holy Spirit would merely re-inforece the underlying fear of this love. (Wapnick, F.A.J., p.78.)
 
-(6) As we all have experienced, magic *does* work at its own level. … Although it is not a mistake to use such agents [ie medicine or surgery], it *is* a mistake to ascribe healing properties to them, for they do not remove the causes that brought on the symptom. To believe that magic heals closes off the power of the miracle to undo the guilt that *is* the cause of sickness, “protecting” the guilt from healing by refusing to recognise its existence. (Wapnick, F.A.J., p.78–79.) see [T-2.V.2:2](/text/2-the-separation-and-the-atonement/v-the-function-of-the-miracle-worker#2). 
+(6) As we all have experienced, magic *does* work at its own level. … Although it is not a mistake to use such agents [ie medicine or surgery], it *is* a mistake to ascribe healing properties to them, for they do not remove the causes that brought on the symptom. To believe that magic heals closes off the power of the miracle to undo the guilt that *is* the cause of sickness, “protecting” the guilt from healing by refusing to recognize its existence. (Wapnick, F.A.J., p.78–79.) see [T-2.V.2:2](/text/2-the-separation-and-the-atonement/v-the-function-of-the-miracle-worker#2). 
 :::
 {% endif %}
 
@@ -286,7 +286,7 @@ Miracles express the Atonement in whatever way is most helpful to the receiver.
 (4–6) *A Course in Miracles* has been written at a level we can understand and use. (Wapnick, L.D.N.C., p.512.)
 
 
-The importance of the form of help lies in the *purpose* for which it is used. …the Course is coming to meet a specific need that we have now, but it is not the highest level of communication of which we are capable. … it is the highest level that we can accept at this point in human history, when we are still so pre-occupied with fundamental ego self-centredness, greed, attainment of pleasure and rampant specialness. Jesus very specifically meets us where we are, and provides us with his gentle coprrection of forgiveness to help us along our journey home. (Wapnick, A.V.I., p.124.)
+The importance of the form of help lies in the *purpose* for which it is used. …the Course is coming to meet a specific need that we have now, but it is not the highest level of communication of which we are capable. … it is the highest level that we can accept at this point in human history, when we are still so pre-occupied with fundamental ego self-centerdness, greed, attainment of pleasure and rampant specialness. Jesus very specifically meets us where we are, and provides us with his gentle coprrection of forgiveness to help us along our journey home. (Wapnick, A.V.I., p.124.)
 
 Jesus’ own Course [is] the perfect example of the principles he was teaching his students; his words not being “the highest level of communication” of which his students are capable of understanding, but certainly the highest level that they can tolerate in their fearful state. (Wapnick, FCTL, p. 94.) 
 :::

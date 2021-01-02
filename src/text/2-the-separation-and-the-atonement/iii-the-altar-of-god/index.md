@@ -16,8 +16,8 @@ next: T-2.IV
 ³This is generally seen as a need to protect the body. 
 ⁴The many body fantasies in which minds engage arise from the distorted belief that the body can be used as a means for attaining ‘atonement’. 
 ⁵Perceiving the body as a temple is only the first step in correcting this distortion, because it alters only part of it. 
-⁶It *does* recognise that Atonement in physical terms is impossible. 
-⁷The next step, however, is to realise that a temple is not a structure at all. 
+⁶It *does* recognize that Atonement in physical terms is impossible. 
+⁷The next step, however, is to realize that a temple is not a structure at all. 
 ⁸Its true holiness lies at the inner altar around which the structure is built. 
 ⁹The emphasis on beautiful structures is a sign of the fear of Atonement, and an unwillingness to reach the altar itself. 
 ¹⁰The real beauty of the temple cannot be seen with the physical eye. 
@@ -30,8 +30,8 @@ next: T-2.IV
 ³This [using defences against the Atonement] is generally seen as a need to protect the body. 
 ⁴The many body fantasies in which minds engage arise from the distorted belief that the body can be used as a means for attaining ‘atonement’. 
 ⁵Perceiving the body as a temple is only the first step in correcting this distortion [that the body can be used to attain atonement], because it [perceiving the body as a temple] alters only part of it [the distortion that the body can be used as a temple]. 
-⁶It [perceiving the body as a a temple] *does* recognise that Atonement in physical terms is impossible. 
-⁷The next step, however, is to realise that a temple is not a structure at all. 
+⁶It [perceiving the body as a a temple] *does* recognize that Atonement in physical terms is impossible. 
+⁷The next step, however, is to realize that a temple is not a structure at all. 
 ⁸Its [a temple’s] true holiness lies at the inner altar around which the structure is built. 
 ⁹The emphasis on beautiful structures is a sign of the fear of Atonement, and an unwillingness to reach the altar itself. 
 ¹⁰The real beauty of the temple cannot be seen with the physical eye. 
@@ -45,8 +45,8 @@ next: T-2.IV
 ³Using defences against the Atonement is generally seen as a need to protect the body. 
 ⁴The many body fantasies in which minds engage arise from the distorted belief that the body can be used as a means for attaining ‘atonement’. 
 ⁵Perceiving the body as a temple is only the first step in correcting the distortion that the body can be used to attain atonement, because perceiving the body as a temple alters only part of the distortion that the body can be used as a temple. 
-⁶Perceiving the body as a a temple *does* recognise that Atonement in physical terms is impossible. 
-⁷The next step, however, is to realise that a temple is not a structure at all. 
+⁶Perceiving the body as a a temple *does* recognize that Atonement in physical terms is impossible. 
+⁷The next step, however, is to realize that a temple is not a structure at all. 
 ⁸A temple’s true holiness lies at the inner altar around which the structure is built. 
 ⁹The emphasis on beautiful structures is a sign of the fear of Atonement, and an unwillingness to reach the altar itself. 
 ¹⁰The real beauty of the temple cannot be seen with the physical eye. 
@@ -58,7 +58,7 @@ next: T-2.IV
 You believe you need the body to attain Atonement. 
 In separation, you defend the body against Atonement. 
 You protect the body by making it into a temple. 
-You must realise a temple is holy because of the altar inside. 
+You must realize a temple is holy because of the altar inside. 
 Spiritual sight will show you the true altar. 
 :::
 
@@ -69,20 +69,20 @@ Spiritual sight will show you the true altar.
 {% endif %}
 
 
-2. For perfect effectiveness the Atonement belongs at the centre of the inner altar, where it undoes the separation and restores the wholeness of the mind. 
+2. For perfect effectiveness the Atonement belongs at the center of the inner altar, where it undoes the separation and restores the wholeness of the mind. 
 ²Before the separation the mind was invulnerable to fear, because fear did not exist. 
 ³Both the separation and the fear are miscreations that must be undone for the restoration of the temple, and for the opening of the altar to receive the Atonement. 
 ⁴This heals the separation by placing within you the one effective defence against all separation thoughts and making you perfectly invulnerable.
 
 ::: details Expanded
-2. For perfect effectiveness the Atonement belongs at the centre of the inner altar, where it [the Atonement] undoes the separation and restores the wholeness of the mind. 
+2. For perfect effectiveness the Atonement belongs at the center of the inner altar, where it [the Atonement] undoes the separation and restores the wholeness of the mind. 
 ²Before the separation the mind was invulnerable to fear, because fear did not exist. 
 ³Both the separation and the fear are miscreations that must be undone for the restoration of the temple, and for the opening of the altar to receive the Atonement. 
 ⁴This [restoring the temple and opening the altar] heals the separation by placing within you the one effective defence against all separation thoughts and making you perfectly invulnerable.
 :::
 
 ::: details Substituted
-2. For perfect effectiveness the Atonement belongs at the centre of the inner altar, where the Atonement undoes the separation and restores the wholeness of the mind. 
+2. For perfect effectiveness the Atonement belongs at the center of the inner altar, where the Atonement undoes the separation and restores the wholeness of the mind. 
 ²Before the separation the mind was invulnerable to fear, because fear did not exist. 
 ³Both the separation and the fear are miscreations that must be undone for the restoration of the temple, and for the opening of the altar to receive the Atonement. 
 ⁴Restoring the temple and opening the altar heals the separation by placing within you the one effective defence against all separation thoughts and making you perfectly invulnerable.
@@ -100,7 +100,7 @@ The Atonement is the defence against separation thoughts.
 ³You can temporise and you are capable of enormous procrastination, but you cannot depart entirely from your Creator, Who set the limits on your ability to miscreate. 
 ⁴An imprisoned will engenders a situation which, in the extreme, becomes altogether intolerable. 
 ⁵Tolerance for pain may be high, but it is not without limit. 
-⁶Eventually everyone begins to recognise, however dimly, that there *must* be a better way. 
+⁶Eventually everyone begins to recognize, however dimly, that there *must* be a better way. 
 ⁷As this recognition becomes more firmly established, it becomes a turning point. 
 ⁸This ultimately reäwakens spiritual vision, simultaneously weakening the investment in physical sight. 
 ⁹The alternating investment in the two levels of perception is usually experienced as conflict, which can become very acute. 
@@ -112,7 +112,7 @@ The Atonement is the defence against separation thoughts.
 ³You can temporise and you are capable of enormous procrastination, but you cannot depart entirely from your Creator, Who [your Creator] set the limits on your ability to miscreate. 
 ⁴An imprisoned will engenders a situation which, in the extreme, becomes altogether intolerable. 
 ⁵Tolerance for pain may be high, but it [tolerance for pain] is not without limit. 
-⁶Eventually everyone begins to recognise, however dimly, that there *must* be a better way. 
+⁶Eventually everyone begins to recognize, however dimly, that there *must* be a better way. 
 ⁷As this recognition [that there must be a better way] becomes more firmly established, it [recognition that there must be a better way] becomes a turning point. 
 ⁸This [recognising there must be a better way] ultimately reäwakens spiritual vision, simultaneously weakening the investment in physical sight. 
 ⁹The alternating investment in the two levels of perception is usually experienced as conflict, which [experience of conflict] can become very acute. 
@@ -125,7 +125,7 @@ The Atonement is the defence against separation thoughts.
 ³You can temporise and you are capable of enormous procrastination, but you cannot depart entirely from your Creator; your Creator set the limits on your ability to miscreate. 
 ⁴An imprisoned will engenders a situation which, in the extreme, becomes altogether intolerable. 
 ⁵Tolerance for pain may be high, but tolerance for pain is not without limit. 
-⁶Eventually everyone begins to recognise, however dimly, that there *must* be a better way. 
+⁶Eventually everyone begins to recognize, however dimly, that there *must* be a better way. 
 ⁷As the recognition that there must be a better way becomes more firmly established, the recognition that there must be a better way becomes a turning point. 
 ⁸Recognising there must be a better way ultimately reäwakens spiritual vision, simultaneously weakening the investment in physical sight. 
 ⁹The alternating investment in the two levels of perception is usually experienced as conflict; experience of conflict can become very acute. 
@@ -134,7 +134,7 @@ The Atonement is the defence against separation thoughts.
 
 ::: details Simplified
 Everyone has a pain limit. 
-Everyone eventually recognises there must be a better way. 
+Everyone eventually recognizes there must be a better way. 
 Then spiritual vision can be reäwakened.
 ::: 
 
@@ -151,7 +151,7 @@ Then spiritual vision can be reäwakened.
 
 4. Spiritual vision literally cannot see error, and merely looks for Atonement. 
 ²All solutions the physical eye seeks dissolve. 
-³Spiritual vision looks within and recognises immediately that the altar has been defiled and needs to be repaired and protected. 
+³Spiritual vision looks within and recognizes immediately that the altar has been defiled and needs to be repaired and protected. 
 ⁴Perfectly aware of the right defence it passes over all others, looking past error to truth. 
 ⁵Because of the strength of its vision, it brings the mind into its service. 
 ⁶This reëstablishes the power of the mind and makes it increasingly unable to tolerate delay, realising that it only adds unnecessary pain. 
@@ -160,7 +160,7 @@ Then spiritual vision can be reäwakened.
 ::: details Expanded
 4. Spiritual vision literally cannot see error, and merely looks for Atonement. 
 ²All solutions the physical eye seeks dissolve. 
-³Spiritual vision looks within and recognises immediately that the altar has been defiled and needs to be repaired and protected. 
+³Spiritual vision looks within and recognizes immediately that the altar has been defiled and needs to be repaired and protected. 
 ⁴Perfectly aware of the right defence it [spiritual vision] passes over all others [defences], looking past error to truth. 
 ⁵Because of the strength of its [spiritual vision’s] vision, it [spiritual vision] brings the mind into its [spiritual vision’s] service. 
 ⁶This [bringing the mind into the service of spiritual vision] reëstablishes the power of the mind and makes it [the mind] increasingly unable to tolerate delay, realising that it [delay] only adds unnecessary pain. 
@@ -170,7 +170,7 @@ Then spiritual vision can be reäwakened.
 ::: details Substituted
 4. Spiritual vision literally cannot see error, and merely looks for Atonement. 
 ²All solutions the physical eye seeks dissolve. 
-³Spiritual vision looks within and recognises immediately that the altar has been defiled and needs to be repaired and protected. 
+³Spiritual vision looks within and recognizes immediately that the altar has been defiled and needs to be repaired and protected. 
 ⁴Perfectly aware of the right defence spiritual vision passes over all other defences, looking past error to truth. 
 ⁵Because of the strength of spiritual vision’s vision, spiritual vision brings the mind into spiritual vision’s service. 
 ⁶Bringing the mind into the service of spiritual vision reëstablishes the power of the mind and makes the mind increasingly unable to tolerate delay, realising that delay only adds unnecessary pain. 

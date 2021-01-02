@@ -49,7 +49,7 @@ Ask how the error of the ego is happening in the present.
 2. Everyone makes an ego or a self for himself, which is subject to enormous variation because of its instability. 
 ²He also makes an ego for everyone else he perceives, which is equally variable. 
 ³Their interaction is a process that alters both, because they were not made by or with the Unalterable. 
-⁴It is important to realise that this alteration can and does occur as readily when the interaction takes place in the mind as when it involves physical proximity. 
+⁴It is important to realize that this alteration can and does occur as readily when the interaction takes place in the mind as when it involves physical proximity. 
 ⁵Thinking about another ego is as effective in changing relative perception as is physical interaction. 
 ⁶There could be no better example that the ego is only an idea and not a fact.
 
@@ -57,7 +57,7 @@ Ask how the error of the ego is happening in the present.
 Everyone makes an ego or a self for himself [one’s-self], which is subject to enormous variation because of its [ego’s] instability. 
 ²He [everyone] also makes an ego for everyone else he [everyone] perceives, which [others’ ego] is equally variable. 
 ³Their [one’s-ego’s-and-others’-ego’s] interaction is a process that alters both [one’s-ego-and-others’-ego], because they [one’s-ego-and-others’-ego] were not made by or with the Unalterable. 
-⁴It is important to realise that this alteration [egos being altered by interacting with each other] can and does occur as readily when the interaction takes place in the mind as when it [the interaction] involves physical proximity. 
+⁴It is important to realize that this alteration [egos being altered by interacting with each other] can and does occur as readily when the interaction takes place in the mind as when it [the interaction] involves physical proximity. 
 ⁵Thinking about another ego is as effective in changing relative perception as is physical interaction. 
 ⁶There could be no better example that the ego is only an idea and not a fact.
 :::
@@ -66,7 +66,7 @@ Everyone makes an ego or a self for himself [one’s-self], which is subject to 
 Everyone makes an ego or a self for one’s-self, which is subject to enormous variation because of ego’s instability. 
 ²Everyone also makes an ego for everyone else everyone perceives; others’ ego is equally variable. 
 ³One’s-ego’s-and-others’-ego’s interaction is a process that alters one’s-ego-and-others’-ego, because one’s-ego-and-others’-ego were not made by or with the Unalterable. 
-⁴It is important to realise that egos being altered by interacting with each other, can and does occur as readily when the interaction takes place in the mind as when the interaction involves physical proximity. 
+⁴It is important to realize that egos being altered by interacting with each other, can and does occur as readily when the interaction takes place in the mind as when the interaction involves physical proximity. 
 ⁵Thinking about another ego is as effective in changing relative perception as is physical interaction. 
 ⁶There could be no better example that the ego is only an idea and not a fact.
 :::
@@ -87,7 +87,7 @@ By this we know ego is not a fact.
 
 3. Your own state of mind is a good example of how the ego was made. 
 ²When you threw knowledge away it is as if you never had it. 
-³This is so apparent that one need only recognise it to see that it does happen. 
+³This is so apparent that one need only recognize it to see that it does happen. 
 ⁴If this occurs in the present, why is it surprising that it occurred in the past? 
 ⁵Surprise is a reasonable response to the unfamiliar, though hardly to something that occurs with such persistence. 
 ⁶But do not forget that the mind need not work that way, even though it does work that way now.
@@ -95,7 +95,7 @@ By this we know ego is not a fact.
 ::: details Expanded
 Your own state of mind is a good example of how the ego was made. 
 ²When you threw knowledge away it is as if you never had it [knowledge]. 
-³This [that you threw knowledge away] is so apparent that one need only recognise it [that you threw knowledge away] to see that it [throwing knowledge away] does happen. 
+³This [that you threw knowledge away] is so apparent that one need only recognize it [that you threw knowledge away] to see that it [throwing knowledge away] does happen. 
 ⁴If this [throwing knowledge away] occurs in the present, why is it surprising that it [throwing knowledge away] occurred in the past? 
 ⁵Surprise is a reasonable response to the unfamiliar, though hardly [a reasonable response] to something that occurs with such persistence. 
 ⁶But do not forget that the mind need not work that way [throwing knowledge away], even though it [the mind] does work that way [throw away knowledge] now.
@@ -104,7 +104,7 @@ Your own state of mind is a good example of how the ego was made.
 ::: details Substituted
 Your own state of mind is a good example of how the ego was made. 
 ²When you threw knowledge away it is as if you never had knowledge. 
-³That you threw knowledge away is so apparent that one need only recognise that you threw knowledge away, to see that throwing knowledge away does happen. 
+³That you threw knowledge away is so apparent that one need only recognize that you threw knowledge away, to see that throwing knowledge away does happen. 
 ⁴If throwing knowledge away occurs in the present, why is it surprising that throwing knowledge away occurred in the past? 
 ⁵Surprise is a reasonable response to the unfamiliar, though hardly a reasonable response to something that occurs with such persistence. 
 ⁶But do not forget that the mind need not throw knowledge away, even though the mind does throw away knowledge now.
@@ -170,7 +170,7 @@ Believing there is another way of perceiving is a recognition the ego is not the
 ²Babies scream in rage if you take away a knife or scissors, although they may well harm themselves if you do not. 
 ³In this sense you are still a baby. 
 ⁴You have no sense of real self-preservation, and are likely to decide that you need precisely what would hurt you most. 
-⁵Yet whether or not you recognise it now, you have agreed to coöperate in the effort to become both harmless and helpful, attributes that must go together. 
+⁵Yet whether or not you recognize it now, you have agreed to coöperate in the effort to become both harmless and helpful, attributes that must go together. 
 ⁶Your attitudes even toward this are necessarily conflicted, because all attitudes are ego-based. 
 ⁷This will not last. 
 ⁸Be patient a while and remember that the outcome is as certain as God.
@@ -180,7 +180,7 @@ Undermining the ego’s thought system must be perceived as painful, even though
 ²Babies scream in rage if you take away a knife or scissors, although they [babies] may well harm themselves [babies’-selves] if you do not [take away a knife or scissors]. 
 ³In this sense [that you scream in rage when something harmful is taken from you] you are still a baby. 
 ⁴You have no sense of real self-preservation, and are likely to decide that you need precisely what would hurt you most. 
-⁵Yet whether or not you recognise it now, you have agreed to coöperate in the effort to become both harmless and helpful, attributes that must go together. 
+⁵Yet whether or not you recognize it now, you have agreed to coöperate in the effort to become both harmless and helpful, attributes that must go together. 
 ⁶Your attitudes even toward this [becoming harmless and helpful] are necessarily conflicted, because all attitudes are ego-based. 
 ⁷This [conflicted attitudes] will not last. 
 ⁸Be patient a while and remember that the outcome is as certain as God.
@@ -191,7 +191,7 @@ Undermining the ego’s thought system must be perceived as painful, even though
 ²Babies scream in rage if you take away a knife or scissors, although babies may well harm babies’-selves if you do not take away a knife or scissors. 
 ³In the sense that you scream in rage when something harmful is taken from you, you are still a baby. 
 ⁴You have no sense of real self-preservation, and are likely to decide that you need precisely what would hurt you most. 
-⁵Yet whether or not you recognise it now, you have agreed to coöperate in the effort to become both harmless and helpful, attributes that must go together. 
+⁵Yet whether or not you recognize it now, you have agreed to coöperate in the effort to become both harmless and helpful, attributes that must go together. 
 ⁶Your attitudes even toward this [becoming harmless and helpful] are necessarily conflicted, because all attitudes are ego-based. 
 ⁷Conflicted attitudes will not last. 
 ⁸Be patient a while and remember that the outcome is as certain as God.
@@ -354,8 +354,8 @@ The ego believes the ego is completely on the-ego’s own, which is merely anoth
 ::: details Simplified
 The ego believes it the result of the mind believing it is on its own. 
 The ego tries to unite with other egos, or attack other egos. 
-The ego tries to be recognised by spirit. 
-The ego can’t be recognised by spirit, so the ego has a sense of being rejected.
+The ego tries to be recognized by spirit. 
+The ego can’t be recognized by spirit, so the ego has a sense of being rejected.
 :::
 
 ::: details Commentary
@@ -400,14 +400,14 @@ Spirit does not need salvation for any reason.
 
 10. Salvation is nothing more than ‘right-mindedness’, which is not the One-mindedness of the Holy Spirit, but which must be achieved before One-mindedness is restored. 
 ²Right-mindedness leads to the next step automatically, because right perception is uniformly without attack, and therefore wrong-mindedness is obliterated. 
-³The ego cannot survive without judgement, and is laid aside accordingly. 
+³The ego cannot survive without judgment, and is laid aside accordingly. 
 ⁴The mind then has only one direction in which it can move. 
 ⁵Its direction is always automatic, because it cannot but be dictated by the thought system to which it adheres.
 
 ::: details Expanded
 Salvation is nothing more than ‘right-mindedness’, which [right-mindedness] is not the One-mindedness of the Holy Spirit, but which [right-mindedness] must be achieved before One-mindedness is restored. 
 ²Right-mindedness leads to the next step automatically, because right perception is uniformly without attack, and therefore wrong-mindedness is obliterated. 
-³The ego cannot survive without judgement, and is laid aside accordingly. 
+³The ego cannot survive without judgment, and is laid aside accordingly. 
 ⁴The mind then has only one direction in which it [the mind] can move. 
 ⁵Its [the-mind’s] direction is always automatic, because it [the direction] cannot but [must] be dictated by the thought system to which [thought system] it [the mind] adheres.
 :::
@@ -415,7 +415,7 @@ Salvation is nothing more than ‘right-mindedness’, which [right-mindedness] 
 ::: details Substituted
 Salvation is nothing more than ‘right-mindedness’; right-mindedness is not the One-mindedness of the Holy Spirit; but right-mindedness must be achieved before One-mindedness is restored. 
 ²Right-mindedness leads to the next step automatically, because right perception is uniformly without attack, and therefore wrong-mindedness is obliterated. 
-³The ego cannot survive without judgement, and is laid aside accordingly. 
+³The ego cannot survive without judgment, and is laid aside accordingly. 
 ⁴The mind then has only one direction in which the mind can move. 
 ⁵The-mind’s direction is always automatic, because the mind must be dictated by the thought system, to the thought system the mind adheres.
 :::
@@ -424,14 +424,14 @@ Salvation is nothing more than ‘right-mindedness’; right-mindedness is not t
 Salvation is right-mindedness. 
 Right-mindedness is not the One-mindedness of the Holy Spirit. 
 Right-mindedness must be achieved before One-mindedness can be restored. 
-Right-mindedness is without attack and without judgement. 
+Right-mindedness is without attack and without judgment. 
 Right-mindedness is the end of wrong-mindedness. 
 The ego is laid aside. 
 The mind is directed automatically to One-mindedness.
 :::
 
 
-11. It cannot be emphasised too often that correcting perception is merely a temporary expedient. 
+11. It cannot be emphasized too often that correcting perception is merely a temporary expedient. 
 ²It is necessary only because misperception is a block to knowledge, while accurate perception is a stepping-stone towards it. 
 ³The whole value of right perception lies in the inevitable realisation that *all* perception is unnecessary. 
 ⁴This removes the block entirely. 
@@ -446,7 +446,7 @@ The mind is directed automatically to One-mindedness.
 ¹³That is its main difference from everything else the mind can grasp.
 
 ::: details Expanded
-It cannot be emphasised too often that correcting perception is merely a temporary expedient. 
+It cannot be emphasized too often that correcting perception is merely a temporary expedient. 
 ²It [correcting perception] is necessary only because misperception is a block to knowledge, while accurate perception is a stepping-stone towards it [knowledge]. 
 ³The whole value of right perception lies in the inevitable realisation that *all* perception is unnecessary. 
 ⁴This [realising all perception is unecessary] removes the block [to knowledge] entirely. 
@@ -462,7 +462,7 @@ It cannot be emphasised too often that correcting perception is merely a tempora
 :::
 
 ::: details Substituted
-It cannot be emphasised too often that correcting perception is merely a temporary expedient. 
+It cannot be emphasized too often that correcting perception is merely a temporary expedient. 
 ²Correcting perception is necessary only because misperception is a block to knowledge, while accurate perception is a stepping-stone towards knowledge. 
 ³The whole value of right perception lies in the inevitable realisation that *all* perception is unnecessary. 
 ⁴Realising all perception is unecessary removes the block to knowledge entirely. 
