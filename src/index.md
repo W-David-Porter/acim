@@ -7,8 +7,6 @@ eleventyNavigation:
   title: Home
 ---
 
-<main>
-
 ## TEXT
 
 This is a course in miracles. 
@@ -55,4 +53,3 @@ To study the error itself does not lead to correction, if you are indeed to succ
 And it is just this process of overlooking at which the course aims. 
 [🡕](/clarification-of-terms/)
 
-</main>
