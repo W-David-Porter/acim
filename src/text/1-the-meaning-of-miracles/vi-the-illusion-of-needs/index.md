@@ -56,7 +56,7 @@ Forgive yourself and see yourself truly.
 
 {% if showCommentary %}
 ::: details Commentary 
-(3–8) The ego counsels us … to cannabalise what is outside of us, wresting it from another (or the world) and incorporating it within ourselves to fill the gaping hole of nothingness the ego has convinced us is our reality. Thus the orienting premise of the ego is the … scarcity principle: that we are missing something within, a lack that has its origin in the separation from God. (Wapnick, L.D.N.C., p.488.; c/f AAC, p.123.)
+(3–8) The ego counsels us … to cannabalise what is outside of us, wresting it from another (or the world) and incorporating it within ourselves to fill the gaping hole of nothingness the ego has convinced us is our reality. Thus the orienting premise of the ego is the … scarcity principle: that we are missing something within, a lack that has its origin in the separation from God. (Wapnick, LDNC, p.488.; c/f AAC, p.123.)
 :::
 {% endif %}
 
@@ -164,7 +164,7 @@ You can correct the world you made.
 
 {% if showCommentary %}
 ::: details Commentary 
-The course urges us to look at the world benevolently: since we believe we are here, the world can be seen as kind, offering us itself as a classroom in which we learn the lessons that will lead us beyond the world entirely. (Wapnick, L.D.N.C., p.575–576.)
+The course urges us to look at the world benevolently: since we believe we are here, the world can be seen as kind, offering us itself as a classroom in which we learn the lessons that will lead us beyond the world entirely. (Wapnick, LDNC, p.575–576.)
 :::
 {% endif %}
 

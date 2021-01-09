@@ -250,7 +250,7 @@ Time is the gap that enables you to recognize the belief in separation before yo
 
 {% if showCommentary %}
 ::: details Commentary 
-(14) *A Course in Miracles* does not teach that the world, the flesh and the devil are to be avoided, indulged in or fought against. Rather, its central teaching is to forgive the world, loving it *for* its gift of forgiveness. … The world that God gave “to” us is the real world, which reflects the Holy Spirit’s purpose in helping us shift from the ego’s purpose for being here — hatred and separation — to the Holy Spirit’s of forgiveness and joining. (Wapnick, L.D.N.C., p. 583.)
+(14) *A Course in Miracles* does not teach that the world, the flesh and the devil are to be avoided, indulged in or fought against. Rather, its central teaching is to forgive the world, loving it *for* its gift of forgiveness. … The world that God gave “to” us is the real world, which reflects the Holy Spirit’s purpose in helping us shift from the ego’s purpose for being here — hatred and separation — to the Holy Spirit’s of forgiveness and joining. (Wapnick, LDNC, p. 583.)
 
 (14) … [the Course’s] central teaching is to forgive the world, being grateful for its capacity of being a classroom in which we can accept Jesus’s gift of forgiveness. (Wapnick, AAC, p. 300.) 
 :::
@@ -308,7 +308,7 @@ The conflict is between there being only one Son while the Son has many parts. I
 
 {% if showCommentary %}
 ::: details Commentary 
-(1–3) Similarly, the Course talks about the Great Rays (not Ray), which are the extensions of the light of God, similar to the rays of light that emanate from the sun. … we may yet state that Christ consists of infinite Rays (Sons of God), all perfectly united and indivisible; however, we clearly are not speaking here of personal individuality as we experience it in the world. (Wapnick, L.D.N.C., p. 449.) 
+(1–3) Similarly, the Course talks about the Great Rays (not Ray), which are the extensions of the light of God, similar to the rays of light that emanate from the sun. … we may yet state that Christ consists of infinite Rays (Sons of God), all perfectly united and indivisible; however, we clearly are not speaking here of personal individuality as we experience it in the world. (Wapnick, LDNC, p. 449.) 
 
 (3) …one cannot appreciate the pure wholeness and oneness of Christ by simply adding up the billions and billions of fragments that the world thinks is the Son of God, as if the Sonship were like a huge pie, a quantifiable entity consisting of a certain amount of separated fragments. (Wapnick, FCTL, p. 67.) 
 :::

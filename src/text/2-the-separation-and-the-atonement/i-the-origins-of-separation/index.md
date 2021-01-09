@@ -64,13 +64,13 @@ Your projections make distortions.
 
 {% if showCommentary %}
 ::: details Commentary
-(7) In the Course, the words “extension’ and “projection’ reflect the identical dynamic — the proceeding outward  of what is within the mind. “Extension’ … is reserved for the “movement’ or “outflow’ of spirit, while “projection’ is almost always utilised for the ego. …we can speak of extension as being the “appropriate’ use of projection. (Wapnick, L.D.N.C., p.447–448).
+(7) In the Course, the words “extension’ and “projection’ reflect the identical dynamic — the proceeding outward  of what is within the mind. “Extension’ … is reserved for the “movement’ or “outflow’ of spirit, while “projection’ is almost always utilised for the ego. …we can speak of extension as being the “appropriate’ use of projection. (Wapnick, LDNC, p.447–448).
 
 (7) The Course distinguishes between two types of “projection’: One is called “extension’, referring to extending the Love of God that is accepted within. The other is an “inappropriate use of extension, or projection, occurs when you believe that some emptiness or lack exists in you, and that you can fill emptiness or lack with your own ideas instead of truth”. The ego’s purpose is always to distort the present reality of a situation so as to project guilt or lack, and justify its attack. (Wapnick, FAJ, p.39.)
 
 (7) …linking the two terms [projection and extension] to the same dynamic [the proceeding “outward’ of what is within the mind] … (Wapnick, AAC, p.8.)
 
-(9–2:1) “You”, the ego tells the Son, “by refusing to accept as sufficient His gifts to you, have committed a sin against your Father and Creator. You”, the ego continues, “decided that perfection and everything as Christ was not enough, and that there had to be something more: “freedom’ to choose to be other than God”. It is this illusory exercise of choice in the name of “freedom’ that the ego terms sin. (Wapnick, L.D.N.C., p.461.)
+(9–2:1) “You”, the ego tells the Son, “by refusing to accept as sufficient His gifts to you, have committed a sin against your Father and Creator. You”, the ego continues, “decided that perfection and everything as Christ was not enough, and that there had to be something more: “freedom’ to choose to be other than God”. It is this illusory exercise of choice in the name of “freedom’ that the ego terms sin. (Wapnick, LDNC, p.461.)
 
 (9–2:1) In the dream we believed that we had the power to oppose and defeat God, usurping His authority, making up a body we call our self to inhabit a material world of duality and fragmentation. (Wapnick, AVI, p.38.)
 

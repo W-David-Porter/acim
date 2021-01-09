@@ -29,17 +29,17 @@ This workbook trains your mind to think according to the theory.
 
 Jesus conceived of his Course as an integrated work in which each book had its own particular place, making a unique contrbution to the student’s learning and growth, as well as being integrated with the other two books. (Wapnick F.C.T.L, p.11)
 
-(1) *A Course in Miracles* is a unified curriculum, and the three books need to be studied and used as a set, even though the actual sequence of study is left to the individual student and the Holy Spirit — “The curriculumn is highly individualised, and all aspects are under the Holy Spirit’s particuralr care and guidance” ([M-29.2:6](/manual/29-as-for-the-rest#m-29-2)). The workbook, therefore, is not meaningful without the text. (Wapnick, L.D.N.C., p.603)
+(1) *A Course in Miracles* is a unified curriculum, and the three books need to be studied and used as a set, even though the actual sequence of study is left to the individual student and the Holy Spirit — “The curriculumn is highly individualised, and all aspects are under the Holy Spirit’s particuralr care and guidance” ([M-29.2:6](/manual/29-as-for-the-rest#m-29-2)). The workbook, therefore, is not meaningful without the text. (Wapnick, LDNC, p.603)
 
 (1) At the very beginning of the workbook, Jesus underscores this relationship between theory and application, both of which are essential fo rthe completion of *A Course in Miracles*’ curriculumn (Wapnick, AAC, p.227)
 
-(2–3) …the workbook provides the practical application of the principles of the text (Wapnick, L.D.N.C., p.603)
+(2–3) …the workbook provides the practical application of the principles of the text (Wapnick, LDNC, p.603)
 
-(3–4) …in order to accomplish the Course’s purpose of retraining our minds, some structure is obviously necessary (Wapnick, L.D.N.C., p.550, 
+(3–4) …in order to accomplish the Course’s purpose of retraining our minds, some structure is obviously necessary (Wapnick, LDNC, p.550, 
 
 (3–4) Such structure is particularly important in the early stages of one’s growth, and it is obviously between the individual and the Holy Spirit to determine the parameters of “early”. (AAC,p.274)
 
-(4) …the workbook clarifies its purpose (Wapnick, L.D.N.C., p.603)
+(4) …the workbook clarifies its purpose (Wapnick, LDNC, p.603)
 
 (4) Once we are able to dislodge our thinking from the ego — the puprpose of this training — we must spend the rest of our lives reinforcing what we have learned, attempting to remember to apply its principles to *all* situations and relationships. It is this generalisation of forgiveness, without exception, that constitutes the difficulty in hearing the Holy Spirit clearly and consistently. (Wapnick, FAJ, p.269)
 
@@ -136,7 +136,7 @@ Your mind will be trained to see everything differently.
 :::
 
 {% if showCommentary %}::: details Commentary
-(1–2 and 5:1–2) …it is the Course’s uncompromising metaphysical absoluteness that is deeply problematic for many people. One of its stated goals, therefore, is to effect a total transfer of learning, for “the impariment of the ability to generalise is a crucial learning failure” ([T-12.V.6:4](/text/12-the-holy-spirits-curriculum#t-12-v-6)). (Wapnick, L.D.N.C., p.595; F.C.T.L, p.154)
+(1–2 and 5:1–2) …it is the Course’s uncompromising metaphysical absoluteness that is deeply problematic for many people. One of its stated goals, therefore, is to effect a total transfer of learning, for “the impariment of the ability to generalise is a crucial learning failure” ([T-12.V.6:4](/text/12-the-holy-spirits-curriculum#t-12-v-6)). (Wapnick, LDNC, p.595; F.C.T.L, p.154)
 ::: {% endif %}
 
 5. Transfer of training in true perception does not proceed as does transfer of the training of the world. 

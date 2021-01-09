@@ -53,7 +53,7 @@ The Atonement makes miracles possible.
 
 {% if showCommentary %}
 ::: details Commentary
-(3–4) And yet Chapter 27 speaks of “a miracle of healing” ([T-27.II.5:2](/text/27-the-healing-of-the-dream/ii-the-fear-of-healing#5)). The apparent inconsistency is resloved by recognizing that in the first reference [i.e. this paragraph] Jesus is emphasising that the miracle is a means, while healing is the result. This teaching purpose was not present later in the text, and so the more poetic expression, “a miracle of healing” could be used. (Wapnick, L.D.N.C., p.609.)
+(3–4) And yet Chapter 27 speaks of “a miracle of healing” ([T-27.II.5:2](/text/27-the-healing-of-the-dream/ii-the-fear-of-healing#5)). The apparent inconsistency is resloved by recognizing that in the first reference [i.e. this paragraph] Jesus is emphasising that the miracle is a means, while healing is the result. This teaching purpose was not present later in the text, and so the more poetic expression, “a miracle of healing” could be used. (Wapnick, LDNC, p.609.)
 :::
 {% endif %}
 
@@ -174,7 +174,7 @@ So don’t deny the body, but use the body as a learning device. —Ed.
 ::: details Commentary
 (8–12) When we fall into this ego trap of denial we are forgetting that one cannot leave this world of illusion without *first* correcting these illuusions on the level where our belief is placed. The goal of *A Course in Miracles* is to transform the world not to transcend it, which is the step belonging to God when He lifts us back to Himself after all our misperceptions have been corrected by the Holy Spirit. While the Course places great emphasis on saving time, time is *not* saved through denial , but through  undoing our guilt in our relationships where it is the most pwerfully projected. (Wapnick, FAJ, p. 111.)
 
-(8–12) Once deluded into believing the phenomenal world is real, one must inevitably make physical and/or psychological suffering real as well. However, because we believe our bodies are the locus of our experience, *A Course in Miracles* does not ask us to deny our bodiy experiences in this world, or the experiences of others. Such denial merely serves the ego by having made something terrible appear to be real and external to our minds, thereby protecting the thought of guilt that *is* the only problem. … [this] passage … highlights its gentle practicality, even within the context of an uncompromising non-dualism. (Wapnick, L.D.N.C., p. 561–562.)
+(8–12) Once deluded into believing the phenomenal world is real, one must inevitably make physical and/or psychological suffering real as well. However, because we believe our bodies are the locus of our experience, *A Course in Miracles* does not ask us to deny our bodiy experiences in this world, or the experiences of others. Such denial merely serves the ego by having made something terrible appear to be real and external to our minds, thereby protecting the thought of guilt that *is* the only problem. … [this] passage … highlights its gentle practicality, even within the context of an uncompromising non-dualism. (Wapnick, LDNC, p. 561–562.)
  
 (8–13) …highlights his gentle practicality, even within the context of an uncompromising non-dualism… (Wapnick, AAC, p. 290.) 
 
@@ -184,7 +184,7 @@ So don’t deny the body, but use the body as a learning device. —Ed.
 
 …differences do exist in the world that we believe is real and is our home, and so it would be “a particularly unworthy form of denial” for Course students to deny any experience in the world of form. (Wapnick, FCTL, p. 148–149.)
 
-(12) …to practice any form of asceticism, believing that it is rooting out “the world, the flesh and the devil”, merely reinforces the body’s reality, thus fulfilling the ego’s plan for its salvation. (Wapnick, L.D.N.C., p. 56³.)
+(12) …to practice any form of asceticism, believing that it is rooting out “the world, the flesh and the devil”, merely reinforces the body’s reality, thus fulfilling the ego’s plan for its salvation. (Wapnick, LDNC, p. 56³.)
 
 (12) The more ascetically successful aspirants are, the more they are deluded into believing that they have actually accomplished something (by “denying the unmindful”), while all the time their unconscious guilt remains safe and secure in their minds, behind the body’ armour and therefore requiring still greater effort to undo. (Wapnick, AAC, p. 29³.) 
 ::: 
@@ -283,7 +283,7 @@ Miracles express the Atonement in whatever way is most helpful to the receiver.
 ::: details Commentary 
 (2–3, 6) What our Father knows we need is the healing of our mind, for which purpose He gave us His Holy Spirit, now made manifest through Jesus. When it appears as if God is delayed in His response of help, it is because we have asked for the wrong things, and God does not answer with illusions which would only exacerbate the fear underlying the request. (Wapnick, FAJ, p.218.)
 
-(4–6) *A Course in Miracles* has been written at a level we can understand and use. (Wapnick, L.D.N.C., p.512.)
+(4–6) *A Course in Miracles* has been written at a level we can understand and use. (Wapnick, LDNC, p.512.)
 
 
 The importance of the form of help lies in the *purpose* for which it is used. …the Course is coming to meet a specific need that we have now, but it is not the highest level of communication of which we are capable. … it is the highest level that we can accept at this point in human history, when we are still so pre-occupied with fundamental ego self-centerdness, greed, attainment of pleasure and rampant specialness. Jesus very specifically meets us where we are, and provides us with his gentle coprrection of forgiveness to help us along our journey home. (Wapnick, AVI, p.124.)

@@ -210,7 +210,7 @@ Healing your mind will heal other minds.
 
 (1) Our one responsibility is in deciding it is His life we wish and not the ego’s, for the Holy Spirit can take away our guilt only when we have withdrawn our investment in it. This is why the Course states that *the sole responsibility of the miracle worker is to accept the Atonement for himself*, meaning to accept the unreality of our guilt through forgiveness. (Wapnick, FAJ, p.54.)
 
-(1) The Holy Spirit’s gentle Voice speaks only of the love of Heaven that could never be shattered by the sin that would render the Son homeless. Our one responsibility then is to accept the truth about who we are. (Wapnick, L.D.N.C., p. 514.)
+(1) The Holy Spirit’s gentle Voice speaks only of the love of Heaven that could never be shattered by the sin that would render the Son homeless. Our one responsibility then is to accept the truth about who we are. (Wapnick, LDNC, p. 514.)
 
 (1) He [Jesus] is telling us rather that we will no longer be concerned with things that are not truly problems, but rather will recognize what our true problems are. The Course’s purpose is to help us gradually to recognize that our only function is to heal our own minds, and only that is important. …Jesus is certainly not suggesting that we do this apart from the form and symbols of the world; his Course does not advocate removing ourselves from the world but rather that we shift how we perceive the world. (Wapnick, AVI, p.207–208.)
  

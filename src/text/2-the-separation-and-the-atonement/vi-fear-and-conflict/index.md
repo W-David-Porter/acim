@@ -56,7 +56,7 @@ Let me guide your mind.
 
 (3) Jesus discusses our need to turn over to him all that does not matter, placing our egos under his control, so that he may then guide us in what does matter. (Wapnick, AVI, p.129.) 
 
-(4–5) Salvation is basically accomplished by our own work, done in union with the Holy Spirit. Jesus [is] addressing the traditional view of his “doing it for us” … Jesus thus can help us in making another choice, but he cannot make that choice for us. (Wapnick, L.D.N.C., p.507 and paraphrased AAC, p.173.) (see [para. 4:1–5](#4))
+(4–5) Salvation is basically accomplished by our own work, done in union with the Holy Spirit. Jesus [is] addressing the traditional view of his “doing it for us” … Jesus thus can help us in making another choice, but he cannot make that choice for us. (Wapnick, LDNC, p.507 and paraphrased AAC, p.173.) (see [para. 4:1–5](#4))
 :::
 {% endif %}
 
@@ -205,9 +205,9 @@ Correct the error by making choices in accord with my choices.
  
 (1–4) Through our “little willingness” to turn our wills over to his [Jesus’], we undo the decision to separate which was the original problem. He cannot accomplish this for us without our choosing to join him. (Wapnick, AVI, p.185.)
 
-(1–5) Salvation is basically accomplished by our own work, done in union with the Holy Spirit. Jesus [is] addressing the traditional view of his “doing it for us” … Jesus thus can help us in making another choice, but he cannot make that choice for us. (Wapnick, L.D.N.C., p.507.) (see [para. 1:4–5](#))
+(1–5) Salvation is basically accomplished by our own work, done in union with the Holy Spirit. Jesus [is] addressing the traditional view of his “doing it for us” … Jesus thus can help us in making another choice, but he cannot make that choice for us. (Wapnick, LDNC, p.507.) (see [para. 1:4–5](#))
 
-(6) …the curriculum of *A Course in Miracles* is a lifelong one, helping its students to embark on a journey that requires great diligence and consistent application. … One of the important messages to be learned from the text is the respect we should accord our ego thought system, not because it is true, but because we believe in it. Thus we can also state that the process of learning the Course involves growing in the discernment of knowing to which voice we are listening. (Wapnick, L.D.N.C., p.604.)
+(6) …the curriculum of *A Course in Miracles* is a lifelong one, helping its students to embark on a journey that requires great diligence and consistent application. … One of the important messages to be learned from the text is the respect we should accord our ego thought system, not because it is true, but because we believe in it. Thus we can also state that the process of learning the Course involves growing in the discernment of knowing to which voice we are listening. (Wapnick, LDNC, p.604.)
 :::
 {% endif %}
 

@@ -38,7 +38,7 @@ next: W-pI.2
 ⁷One thing is like another as far as the application of the idea is concerned.
 
 {% if showCommentary %}::: details Commentary
-(5) …rituals, as they are discussed in the Course, especially in the workbook which, given its structured exercises, *could* easily lend itself to ritual. Yet, it clearly cautions against such practices (Wapnick, L.D.N.C.,p.550, AAC,p.274)
+(5) …rituals, as they are discussed in the Course, especially in the workbook which, given its structured exercises, *could* easily lend itself to ritual. Yet, it clearly cautions against such practices (Wapnick, LDNC,p.550, AAC,p.274)
 :::
 
 <a name="w-pi-1-4"></a>4. Each of the first three lessons should not be done more than twice a day each, preferably morning and evening. ²Nor should they be attempted for more than a minute or so, unless that entails a sense of hurry. ³A comfortable sense of leisure is essential.

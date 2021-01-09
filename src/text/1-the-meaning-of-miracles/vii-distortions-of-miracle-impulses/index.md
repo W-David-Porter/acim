@@ -182,7 +182,7 @@ Without preparation now you may be fearful later on.
 
 (4–5) …this gentle though firm rebuke and reminder… (Wapnick, FCTL, p.16.)
 
-(4) Students of *A Course in Miracles* may … argue that understanding its theory is irrelevant, and that study of the text is a waste of time, clearly ignoring this warning. (Wapnick, L.D.N.C., p.610).
+(4) Students of *A Course in Miracles* may … argue that understanding its theory is irrelevant, and that study of the text is a waste of time, clearly ignoring this warning. (Wapnick, LDNC, p.610).
 
 (4) …many students emphasize the workbook at the expense of the text, rather than viewing each book as a companion to the other. The mistake here … reflects the unconscious error of believing that our ego identification is weak and can be easily discarded, leaving our minds open to recieve — instantaneously and joyously — the Word of God. (Wapnick, FCTL, p.171.)
 :::
