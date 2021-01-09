@@ -81,7 +81,7 @@ Every collapse brings everyone closer to knowledge of oneness.
 
 {% if showCommentary %}
 ::: details Commentary
-(1–5) We could use time on our behalf by regarding the world of linear time as a classroom in which we learn that there is no time. (Wapnick, A.V.I., p.129.)
+(1–5) We could use time on our behalf by regarding the world of linear time as a classroom in which we learn that there is no time. (Wapnick, AVI, p.129.)
 :::
 {% endif %}
 
@@ -129,9 +129,9 @@ Distorted perceptions create distorted relationships.
 
 {% if showCommentary %}
 ::: details Commentary
-(4) Since guilt makes God into an ememy, recognizing our dependency on Him, which we have denied, can only occur when our inherent guiltlessness as God’s children is accepted. At this point, we are able to identify with our invulnerability as spirit, the prerequisite for forgiveness. This quotation of Jesus does not refer to the so-called innocence of children. As we have seen, children are born into the world with the same fullly developed egos we experience as adults. The perceived “innocence” is nothing more than the projection of the innocence that we feel has been lost in the infancy of the ego’s exsitence, when the separation occurred. (Wapnick, F.A.J., p. 171.)
+(4) Since guilt makes God into an ememy, recognizing our dependency on Him, which we have denied, can only occur when our inherent guiltlessness as God’s children is accepted. At this point, we are able to identify with our invulnerability as spirit, the prerequisite for forgiveness. This quotation of Jesus does not refer to the so-called innocence of children. As we have seen, children are born into the world with the same fullly developed egos we experience as adults. The perceived “innocence” is nothing more than the projection of the innocence that we feel has been lost in the infancy of the ego’s exsitence, when the separation occurred. (Wapnick, FAJ, p. 171.)
 
-(6) Without guilt’s demand to see others as separate from us, we are free to affirm our inherent unity in the Sonship of God …  Jesus’ lack of ego enabled him to have no special relationships. In his perception, none of his brothers or sisters was special. (Wapnick, F.A.J., p.184.)
+(6) Without guilt’s demand to see others as separate from us, we are free to affirm our inherent unity in the Sonship of God …  Jesus’ lack of ego enabled him to have no special relationships. In his perception, none of his brothers or sisters was special. (Wapnick, FAJ, p.184.)
 
 (6) The we–they battlefield … hating and attacking the other group … Thus its [the Course’s] students often confuse form with content, and forget Jesus’ statement in the text that “All my brothers are special” (Wapnick, L.D.N.C., p.590.)
 

@@ -67,7 +67,7 @@ Do not allow anything not of God to affect you.
 
 {% if showCommentary %}
 ::: details Commentary
-(11–2:5) … the two uses of denial: the ego’s need to deny the guilt it has first made real, as opposed to the Holy Spirit’s denial of the ego’s denial of truth. The Holy Spirit denies the reality of the ego’s story of sin, guilt and fear, and denies that the ego has indeed changed our reality as God’s Son. (Wapnick, A.V.I., p.84.) 
+(11–2:5) … the two uses of denial: the ego’s need to deny the guilt it has first made real, as opposed to the Holy Spirit’s denial of the ego’s denial of truth. The Holy Spirit denies the reality of the ego’s story of sin, guilt and fear, and denies that the ego has indeed changed our reality as God’s Son. (Wapnick, AVI, p.84.) 
 :::
 {% endif %}
 
@@ -233,9 +233,9 @@ Keep learning to improve your perceptions until the Atonement is fully learnt.
 
 {% if showCommentary %}
 ::: details Commentary
-(1–3) We made space and time in the instant the ego seemed to occur, and at that same instant God “gave” the Holy Spirit as the Correction, the principle of the Atonement. … When we have finally learned this lesson the classroom disappears, as does the ego itself. (Wapnick, A.V.I., p.130–131.)
+(1–3) We made space and time in the instant the ego seemed to occur, and at that same instant God “gave” the Holy Spirit as the Correction, the principle of the Atonement. … When we have finally learned this lesson the classroom disappears, as does the ego itself. (Wapnick, AVI, p.130–131.)
 
-(4–8) Learning cannot exist in Heaven, where there is only perfection. Learning is required only in this world. … Once we have totally learned our lessons, all that remains in our minds is the pure experience of our oneness with Christ and with God. Until that time, however, learning is necessary to help us unlearn the ego’s thought system of differences. (Wapnick, A.V.I., p.131.)
+(4–8) Learning cannot exist in Heaven, where there is only perfection. Learning is required only in this world. … Once we have totally learned our lessons, all that remains in our minds is the pure experience of our oneness with Christ and with God. Until that time, however, learning is necessary to help us unlearn the ego’s thought system of differences. (Wapnick, AVI, p.131.)
 :::
 {% endif %}
 
@@ -287,13 +287,13 @@ The whole Atonement is at the end of time.
 ::: details Commentary
 When the separation occurred … ever since we have walked … away from God. The further we went away from God, the deeper we got involved with the world and the problems of guilt and sin. When we ask the Holy Spiriit to help us, we reverse this process and begin to walk towards God. Several of the most interesting sections of the Course talk about time. These are very hard to understand because we are still stuck in it. At one point it says that time seems to go forwards, but it is really going backward to the point at which time began. This is when the separation occurred. (Wapnick, A.T.G., p.106–107.)
 
-(1–2) *A Course in Miracles* uses this image [linear time],  … [but] teaches on another level that the journey “without distance” has already been completed, and in fact, never was. … The actual “movement” of the journey is backwards… (Wapnick, A.V.I., p.132.)
+(1–2) *A Course in Miracles* uses this image [linear time],  … [but] teaches on another level that the journey “without distance” has already been completed, and in fact, never was. … The actual “movement” of the journey is backwards… (Wapnick, AVI, p.132.)
 
-(3) We experience ourselves as evolving, but we are really returning to the Heaven we believe we left. (Wapnick, A.V.I., p.132.)
+(3) We experience ourselves as evolving, but we are really returning to the Heaven we believe we left. (Wapnick, AVI, p.132.)
 
-(4–5) The Atonement undoes our past errors which really are the errors of guilt, the errors which we are holding on to in our mind. (Wapnick, A.V.I., p.133.)
+(4–5) The Atonement undoes our past errors which really are the errors of guilt, the errors which we are holding on to in our mind. (Wapnick, AVI, p.133.)
 
-(6–10) If we think of the Atonement as the Holy Spirit, we can see Him standing outside of time with us (the observer), awaiting our decision to awaken from the dream. (Wapnick, A.V.I., p.133.) 
+(6–10) If we think of the Atonement as the Holy Spirit, we can see Him standing outside of time with us (the observer), awaiting our decision to awaken from the dream. (Wapnick, AVI, p.133.) 
 :::
 {% endif %}
 

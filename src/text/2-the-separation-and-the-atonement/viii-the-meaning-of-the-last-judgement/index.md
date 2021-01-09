@@ -47,9 +47,9 @@ Whatever you make alone is real to you but is not real to God.
 
 {% if showCommentary %}
 ::: details Commentary 
-(1–5) …making is of the separated mind, and creating [is] of the spirit. (Wapnick, A.V.I., p.239.)
+(1–5) …making is of the separated mind, and creating [is] of the spirit. (Wapnick, AVI, p.239.)
 
-(6) …the true meaning of the Last judgment is that God is not vengeful. His Final judgment … is that He simply loves us as He always did. (Wapnick, A.V.I., p. 240.)
+(6) …the true meaning of the Last judgment is that God is not vengeful. His Final judgment … is that He simply loves us as He always did. (Wapnick, AVI, p. 240.)
 ::: 
 {% endif %}
 
@@ -96,13 +96,13 @@ Free yourself from fear and conflict to bring peace to other minds.
 
 {% if showCommentary %}
 ::: details Commentary 
-(1–4) The One-mindedness of God or Christ cannot judge, and thus God’s only judgment is not a judgment at all. … God’s judgment is simply the fact of His total Love for His beloved Sons. … In His [Holy Spirit’s] judgment there is no need to punish, simply to correct. Thus, the Holy Spirit's form of judgment is simply a way to re-unify the seemingly separated Sobnship. This is the “learning device” that was built into the overall plan. (Wapnick, A.V.I., p.240.)
+(1–4) The One-mindedness of God or Christ cannot judge, and thus God’s only judgment is not a judgment at all. … God’s judgment is simply the fact of His total Love for His beloved Sons. … In His [Holy Spirit’s] judgment there is no need to punish, simply to correct. Thus, the Holy Spirit's form of judgment is simply a way to re-unify the seemingly separated Sobnship. This is the “learning device” that was built into the overall plan. (Wapnick, AVI, p.240.)
 
 (5) It is really not likely to happen overnight. If you just thiink about how our world is constituted, there is a tremendous amount of frear that underlies and motivates every single aspect of it. Every institution, every system of thought within this world is motivated by fear and guilt. You just cannot change that right now. I think the plan of the Atonement and the Course’s part in it is to change individuals’ minds much more quickly than would otherwise happen. (Wapnick, ATG, p.102–103.)
 
-(5) …within the illusion of time, undoing the belief in separation will take long indeed. The tremendous amount of fear that is present in our minds seems to ensure that this is the case. (Wapnick, A.V.I., p.241.)
+(5) …within the illusion of time, undoing the belief in separation will take long indeed. The tremendous amount of fear that is present in our minds seems to ensure that this is the case. (Wapnick, AVI, p.241.)
 
-(6–8) The more quickly we can make this choice [between miracles or grievances], the more quickly our minds can be healed; thus the more quickly Jesus can heal other minds through our own. (Wapnick, A.V.I., p. 241.) 
+(6–8) The more quickly we can make this choice [between miracles or grievances], the more quickly our minds can be healed; thus the more quickly Jesus can heal other minds through our own. (Wapnick, AVI, p. 241.) 
 :::
 {% endif %}
 
@@ -144,11 +144,11 @@ The Last judgment is the restoration of right-mindedness to all the Sonship.
 
 {% if showCommentary %}
 ::: details Commentary 
-(1–2) God cannot be involved in the Last judgment because it is a correction for an error which He does not even know about. (Wapnick, A.V.I., p. 241.)
+(1–2) God cannot be involved in the Last judgment because it is a correction for an error which He does not even know about. (Wapnick, AVI, p. 241.)
 
-(3–6) At this final awakening we stand at the threshold of Heaven and look back at all the things we thought had been real, the entire span of time and space. We realize at last that everything we have made is false, and all that remains is the truth as God created it. (Wapnick, A.V.I., p.242.)
+(3–6) At this final awakening we stand at the threshold of Heaven and look back at all the things we thought had been real, the entire span of time and space. We realize at last that everything we have made is false, and all that remains is the truth as God created it. (Wapnick, AVI, p.242.)
 
-(7–8) The individual process of learning right-minded judgments is what is referred to here. As this is learned and we accept the Atonemnt for ourselves, the vacillations between the ego and the Holy Spirit cease, so that our judgments are only those of the Holy Spirit. (Wapnick, A.V.I., p.242.) 
+(7–8) The individual process of learning right-minded judgments is what is referred to here. As this is learned and we accept the Atonemnt for ourselves, the vacillations between the ego and the Holy Spirit cease, so that our judgments are only those of the Holy Spirit. (Wapnick, AVI, p.242.) 
 :::
 {% endif %}
 
@@ -185,9 +185,9 @@ Withdraw belief from your miscreations.
 
 {% if showCommentary %}
 ::: details Commentary 
-(1–2) Jesus here re-interprets the final sorting out as … the distinguishing of the true from the false — the falsity of the ego’s teachings sorted out from the truth of God. (Wapnick, A.V.I., p.24³.)
+(1–2) Jesus here re-interprets the final sorting out as … the distinguishing of the true from the false — the falsity of the ego’s teachings sorted out from the truth of God. (Wapnick, AVI, p.24³.)
 
-(3–5) We are … asked once again to judge between the truth of God’s and Christ’s reality as spirit, and the ego’s illusory world of materiality. (Wapnick, A.V.I., p.244.)
+(3–5) We are … asked once again to judge between the truth of God’s and Christ’s reality as spirit, and the ego’s illusory world of materiality. (Wapnick, AVI, p.244.)
 :::
 {% endif %}
 
@@ -239,12 +239,12 @@ judgment ends when the is no fear left over.
 
 {% if showCommentary %}
 ::: details Commentary 
-(3) The Course’s understanding of the Last judgment is that it is the instant when we make that final judgment separating out the illusions of the ego from the truth of God, and there thus remains nothing left to hinder our return home. (Wapnick, A.V.I., p. 244.)
+(3) The Course’s understanding of the Last judgment is that it is the instant when we make that final judgment separating out the illusions of the ego from the truth of God, and there thus remains nothing left to hinder our return home. (Wapnick, AVI, p. 244.)
 
-(4) Living in fear is tantamount to identifying with the ego thought system which is, of course, the denial of life. (Wapnick, A.V.I., p.245.)
+(4) Living in fear is tantamount to identifying with the ego thought system which is, of course, the denial of life. (Wapnick, AVI, p.245.)
 
-(5–6) We cannot forgive our guilt by ourselves, but through forgiving others with the Holy Spirit’s help, our own guilt is undone. (Wapnick, A.V.I., p.246.)
+(5–6) We cannot forgive our guilt by ourselves, but through forgiving others with the Holy Spirit’s help, our own guilt is undone. (Wapnick, AVI, p.246.)
 
-(7–11) When we forgive everything in this world, thereby forgiving ourselves, there will be no fear. The guilt that demands fear of God’s punishment would be gone: without its *cause* (guilt), the *effect* (fear) must disappear. And this undoing of our guilt and fear through forgiveness constitutes our role in the Atonement. (Wapnick, A.V.I., p. 247.) 
+(7–11) When we forgive everything in this world, thereby forgiving ourselves, there will be no fear. The guilt that demands fear of God’s punishment would be gone: without its *cause* (guilt), the *effect* (fear) must disappear. And this undoing of our guilt and fear through forgiveness constitutes our role in the Atonement. (Wapnick, AVI, p. 247.) 
 ::: 
 {% endif %}

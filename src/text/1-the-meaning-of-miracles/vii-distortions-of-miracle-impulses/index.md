@@ -45,11 +45,11 @@ Peace can only be found in doing God’s Will.
 
 {% if showCommentary %}
 ::: details Commentary
-(4) By using the world as a substitute for the role God alone would have in our lives, our belief in the spearation from God is reinforced, and it is this that gave rise to the world of suffering and pain in the first place. (Wapnick, F.A.J., p.17.)
+(4) By using the world as a substitute for the role God alone would have in our lives, our belief in the spearation from God is reinforced, and it is this that gave rise to the world of suffering and pain in the first place. (Wapnick, FAJ, p.17.)
 
-(4–5) If we truly looked at anything in this world, we would realize that what we thought had given us happiness and joy was really filled with pain. (Wapnick, A.V.I., p.265.)
+(4–5) If we truly looked at anything in this world, we would realize that what we thought had given us happiness and joy was really filled with pain. (Wapnick, AVI, p.265.)
 
-(4–5) This discussion is not meant to imply that one should feel guilt over sexual thoughts, feelings, or behavior, any more than one should feel guilt for needing oxygen or food to survive. But it is helpful to recognize the dynamics of sexuality so as to understand better the dynamics of guilt, which *is* the problem. (c/f [T-19.IV-A.17:10–11](/text/19-the-attainment-of-peace/iv-a-the-first-obstacle-the-desire-to-get-rid-of-it#17), [T-19.IV-B.12](/text/19-the-attainment-of-peace/iv-b-the-second-obstacle-the-belief-the-body-is-valuable-for-what-it-offers#12). (Wapnick, A.A.C., p. 105.)
+(4–5) This discussion is not meant to imply that one should feel guilt over sexual thoughts, feelings, or behavior, any more than one should feel guilt for needing oxygen or food to survive. But it is helpful to recognize the dynamics of sexuality so as to understand better the dynamics of guilt, which *is* the problem. (c/f [T-19.IV-A.17:10–11](/text/19-the-attainment-of-peace/iv-a-the-first-obstacle-the-desire-to-get-rid-of-it#17), [T-19.IV-B.12](/text/19-the-attainment-of-peace/iv-b-the-second-obstacle-the-belief-the-body-is-valuable-for-what-it-offers#12). (Wapnick, AAC, p. 105.)
 :::
 {% endif %}
 
@@ -176,15 +176,15 @@ Without preparation now you may be fearful later on.
 
 {% if showCommentary %}
 ::: details Commentary
-(1) The miracle changes the misperceptions in our wrong mind, which reflects the purpose of *A Course in Miracles*. (Wapnick, A.V.I., p.119.)
+(1) The miracle changes the misperceptions in our wrong mind, which reflects the purpose of *A Course in Miracles*. (Wapnick, AVI, p.119.)
 
-(1) …the text …explains this paradoxical situation to us of being “at home in God, [yet] dreaming of exile” ([T-10.I.2:1](/text/10-the-idols-of-sickness/i-at-home-in-god#2)): how this insane belief in separation seemd to arise in our *minds*, how it is maintained in our *minds*, and how it finally is undone in our *minds*. *A Course in Miracles* is thus … a “mind training” curriculum designed to help us change our thought system from the ego’s to the Holy Spirit’s. (Wapnick, F.C.T.L., p.13.) 
+(1) …the text …explains this paradoxical situation to us of being “at home in God, [yet] dreaming of exile” ([T-10.I.2:1](/text/10-the-idols-of-sickness/i-at-home-in-god#2)): how this insane belief in separation seemd to arise in our *minds*, how it is maintained in our *minds*, and how it finally is undone in our *minds*. *A Course in Miracles* is thus … a “mind training” curriculum designed to help us change our thought system from the ego’s to the Holy Spirit’s. (Wapnick, FCTL, p.13.) 
 
-(4–5) …this gentle though firm rebuke and reminder… (Wapnick, F.C.T.L., p.16.)
+(4–5) …this gentle though firm rebuke and reminder… (Wapnick, FCTL, p.16.)
 
 (4) Students of *A Course in Miracles* may … argue that understanding its theory is irrelevant, and that study of the text is a waste of time, clearly ignoring this warning. (Wapnick, L.D.N.C., p.610).
 
-(4) …many students emphasize the workbook at the expense of the text, rather than viewing each book as a companion to the other. The mistake here … reflects the unconscious error of believing that our ego identification is weak and can be easily discarded, leaving our minds open to recieve — instantaneously and joyously — the Word of God. (Wapnick, F.C.T.L., p.171.)
+(4) …many students emphasize the workbook at the expense of the text, rather than viewing each book as a companion to the other. The mistake here … reflects the unconscious error of believing that our ego identification is weak and can be easily discarded, leaving our minds open to recieve — instantaneously and joyously — the Word of God. (Wapnick, FCTL, p.171.)
 :::
 {% endif %}
 

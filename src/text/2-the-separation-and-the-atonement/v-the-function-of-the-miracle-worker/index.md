@@ -60,9 +60,9 @@ The body is a learning device for the mind.
 
 {% if showCommentary %}
 ::: details Commentary 
-(3–11) … elaborates on … this theme of the inherent non-existence of the split mind and body. The acceptance of this truth *is* the acceptance of the Atonement, and is the basis of all healing. (Wapnick, A.A.C., 232.)
+(3–11) … elaborates on … this theme of the inherent non-existence of the split mind and body. The acceptance of this truth *is* the acceptance of the Atonement, and is the basis of all healing. (Wapnick, AAC, 232.)
 
-(3–11) Therefore the miracle would undo the heart of the ego’s strategy by undoing the Son’s level confusion of believing his problem was in the body, rather than in his mind’s decision to turn away from the truth of his Identity as spirit. (Wapnick, A.A.C., 233.) (c/f [para 5](#5), [para 15:1–2](#15)). 
+(3–11) Therefore the miracle would undo the heart of the ego’s strategy by undoing the Son’s level confusion of believing his problem was in the body, rather than in his mind’s decision to turn away from the truth of his Identity as spirit. (Wapnick, AAC, 233.) (c/f [para 5](#5), [para 15:1–2](#15)). 
 :::
 {% endif %}
 
@@ -208,13 +208,13 @@ Healing your mind will heal other minds.
 
 (1) The presence of the Holy Spirit as the bridge to Heaven this reflects what the Course calls the Atonement principle: the separation never truly happened. Acceptance of this truth is presented to us in the Course as our sole responsibility in this world. (Wapnick, CP, p. 79.)
 
-(1) Our one responsibility is in deciding it is His life we wish and not the ego’s, for the Holy Spirit can take away our guilt only when we have withdrawn our investment in it. This is why the Course states that *the sole responsibility of the miracle worker is to accept the Atonement for himself*, meaning to accept the unreality of our guilt through forgiveness. (Wapnick, F.A.J., p.54.)
+(1) Our one responsibility is in deciding it is His life we wish and not the ego’s, for the Holy Spirit can take away our guilt only when we have withdrawn our investment in it. This is why the Course states that *the sole responsibility of the miracle worker is to accept the Atonement for himself*, meaning to accept the unreality of our guilt through forgiveness. (Wapnick, FAJ, p.54.)
 
 (1) The Holy Spirit’s gentle Voice speaks only of the love of Heaven that could never be shattered by the sin that would render the Son homeless. Our one responsibility then is to accept the truth about who we are. (Wapnick, L.D.N.C., p. 514.)
 
-(1) He [Jesus] is telling us rather that we will no longer be concerned with things that are not truly problems, but rather will recognize what our true problems are. The Course’s purpose is to help us gradually to recognize that our only function is to heal our own minds, and only that is important. …Jesus is certainly not suggesting that we do this apart from the form and symbols of the world; his Course does not advocate removing ourselves from the world but rather that we shift how we perceive the world. (Wapnick, A.V.I., p.207–208.)
+(1) He [Jesus] is telling us rather that we will no longer be concerned with things that are not truly problems, but rather will recognize what our true problems are. The Course’s purpose is to help us gradually to recognize that our only function is to heal our own minds, and only that is important. …Jesus is certainly not suggesting that we do this apart from the form and symbols of the world; his Course does not advocate removing ourselves from the world but rather that we shift how we perceive the world. (Wapnick, AVI, p.207–208.)
  
-(1) Our one responsibility then is to change our minds and accept the truth about who we are: the sinless Son of God. It is this shift that Jesus refers to in *A Course in Miracles* when he re-iterates our “sole responsibility”… (Wapnick, A.A.C., p. 205.)
+(1) Our one responsibility then is to change our minds and accept the truth about who we are: the sinless Son of God. It is this shift that Jesus refers to in *A Course in Miracles* when he re-iterates our “sole responsibility”… (Wapnick, AAC, p. 205.)
 :::
 {% endif %}
 

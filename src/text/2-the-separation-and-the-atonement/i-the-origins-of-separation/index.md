@@ -66,15 +66,15 @@ Your projections make distortions.
 ::: details Commentary
 (7) In the Course, the words “extension’ and “projection’ reflect the identical dynamic — the proceeding outward  of what is within the mind. “Extension’ … is reserved for the “movement’ or “outflow’ of spirit, while “projection’ is almost always utilised for the ego. …we can speak of extension as being the “appropriate’ use of projection. (Wapnick, L.D.N.C., p.447–448).
 
-(7) The Course distinguishes between two types of “projection’: One is called “extension’, referring to extending the Love of God that is accepted within. The other is an “inappropriate use of extension, or projection, occurs when you believe that some emptiness or lack exists in you, and that you can fill emptiness or lack with your own ideas instead of truth”. The ego’s purpose is always to distort the present reality of a situation so as to project guilt or lack, and justify its attack. (Wapnick, F.A.J., p.39.)
+(7) The Course distinguishes between two types of “projection’: One is called “extension’, referring to extending the Love of God that is accepted within. The other is an “inappropriate use of extension, or projection, occurs when you believe that some emptiness or lack exists in you, and that you can fill emptiness or lack with your own ideas instead of truth”. The ego’s purpose is always to distort the present reality of a situation so as to project guilt or lack, and justify its attack. (Wapnick, FAJ, p.39.)
 
-(7) …linking the two terms [projection and extension] to the same dynamic [the proceeding “outward’ of what is within the mind] … (Wapnick, A.A.C., p.8.)
+(7) …linking the two terms [projection and extension] to the same dynamic [the proceeding “outward’ of what is within the mind] … (Wapnick, AAC, p.8.)
 
 (9–2:1) “You”, the ego tells the Son, “by refusing to accept as sufficient His gifts to you, have committed a sin against your Father and Creator. You”, the ego continues, “decided that perfection and everything as Christ was not enough, and that there had to be something more: “freedom’ to choose to be other than God”. It is this illusory exercise of choice in the name of “freedom’ that the ego terms sin. (Wapnick, L.D.N.C., p.461.)
 
-(9–2:1) In the dream we believed that we had the power to oppose and defeat God, usurping His authority, making up a body we call our self to inhabit a material world of duality and fragmentation. (Wapnick, A.V.I., p.38.)
+(9–2:1) In the dream we believed that we had the power to oppose and defeat God, usurping His authority, making up a body we call our self to inhabit a material world of duality and fragmentation. (Wapnick, AVI, p.38.)
 
-(9–2:1) …the entire ego thought system of betrayal and murder that begins with the insane thought that the reality of Christ must be sacrificed for the survival of the separated self. …this entire thought system is fabricated by the ego, wherein it substitutes its made-up version of the separated relationship between God and His Son for the truth of Their unity. Thus it achieves the goal of preserving its own existence. (Wapnick, A.A.C., p. ³5.)
+(9–2:1) …the entire ego thought system of betrayal and murder that begins with the insane thought that the reality of Christ must be sacrificed for the survival of the separated self. …this entire thought system is fabricated by the ego, wherein it substitutes its made-up version of the separated relationship between God and His Son for the truth of Their unity. Thus it achieves the goal of preserving its own existence. (Wapnick, AAC, p. ³5.)
 :::
 {% endif %}
 
@@ -206,7 +206,7 @@ You are free.
 ::: details Commentary
 (para 3–4) The sin that we are most guilty of, which ultimately is the source of all our guilt, is the sin of our belief in a separation from God… This is roughly the same as what the Churches have taught as “original sin”. The description in the third chapter of Genesis gives a perfect account of how the ego was born. (Wapnick, A.T.G., p.39.)
 
-(6–9) The world was comfortably asleep, dreaming its dream of separation, individuality and specialness. Suddenly, like a telephone ringing outside the dream, Jesus appeared. His very presence stated the following: this world of time and space is a dream that in truth is already over; it is possible to awaken from this dream by listening to my words and following my example; and the many gods you believe in are not true because the real God is One of total Oneness and Love. (Wapnick, A.A.C., p.209.)
+(6–9) The world was comfortably asleep, dreaming its dream of separation, individuality and specialness. Suddenly, like a telephone ringing outside the dream, Jesus appeared. His very presence stated the following: this world of time and space is a dream that in truth is already over; it is possible to awaken from this dream by listening to my words and following my example; and the many gods you believe in are not true because the real God is One of total Oneness and Love. (Wapnick, AAC, p.209.)
 :::
 {% endif %}
 

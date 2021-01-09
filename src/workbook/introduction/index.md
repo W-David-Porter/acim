@@ -31,19 +31,19 @@ Jesus conceived of his Course as an integrated work in which each book had its o
 
 (1) *A Course in Miracles* is a unified curriculum, and the three books need to be studied and used as a set, even though the actual sequence of study is left to the individual student and the Holy Spirit — “The curriculumn is highly individualised, and all aspects are under the Holy Spirit’s particuralr care and guidance” ([M-29.2:6](/manual/29-as-for-the-rest#m-29-2)). The workbook, therefore, is not meaningful without the text. (Wapnick, L.D.N.C., p.603)
 
-(1) At the very beginning of the workbook, Jesus underscores this relationship between theory and application, both of which are essential fo rthe completion of *A Course in Miracles*’ curriculumn (Wapnick, A.A.C., p.227)
+(1) At the very beginning of the workbook, Jesus underscores this relationship between theory and application, both of which are essential fo rthe completion of *A Course in Miracles*’ curriculumn (Wapnick, AAC, p.227)
 
 (2–3) …the workbook provides the practical application of the principles of the text (Wapnick, L.D.N.C., p.603)
 
 (3–4) …in order to accomplish the Course’s purpose of retraining our minds, some structure is obviously necessary (Wapnick, L.D.N.C., p.550, 
 
-(3–4) Such structure is particularly important in the early stages of one’s growth, and it is obviously between the individual and the Holy Spirit to determine the parameters of “early”. (A.A.C.,p.274)
+(3–4) Such structure is particularly important in the early stages of one’s growth, and it is obviously between the individual and the Holy Spirit to determine the parameters of “early”. (AAC,p.274)
 
 (4) …the workbook clarifies its purpose (Wapnick, L.D.N.C., p.603)
 
-(4) Once we are able to dislodge our thinking from the ego — the puprpose of this training — we must spend the rest of our lives reinforcing what we have learned, attempting to remember to apply its principles to *all* situations and relationships. It is this generalisation of forgiveness, without exception, that constitutes the difficulty in hearing the Holy Spirit clearly and consistently. (Wapnick, F.A.J., p.269)
+(4) Once we are able to dislodge our thinking from the ego — the puprpose of this training — we must spend the rest of our lives reinforcing what we have learned, attempting to remember to apply its principles to *all* situations and relationships. It is this generalisation of forgiveness, without exception, that constitutes the difficulty in hearing the Holy Spirit clearly and consistently. (Wapnick, FAJ, p.269)
 
-(4) Although certainly [the workbook] does contain some important passages bearing on an a number of themes in the text, it does not aim at presenting or explaining the thought system of *A Course in Miracles*. (Wapnick, F.C.T.L., p.17)
+(4) Although certainly [the workbook] does contain some important passages bearing on an a number of themes in the text, it does not aim at presenting or explaining the thought system of *A Course in Miracles*. (Wapnick, FCTL, p.17)
 ::: {% endif %}
 
 2. The exercises are very simple. 
@@ -273,7 +273,7 @@ If you use the ideas, you will see the the ideas are true.
 {% if showCommentary %}::: details Commentary
 (3–6) The course’s focus is always practical, dealing with specific ways in which to undo the interferences in our spiritual growth. Emphasis on doctrinal issues, in the context of the Course, would tend to impede one’s learning and practice of its principles. (Wapnick, C.P., p.1)
 
-(3, 5, 9:4) The introduction to the workbook highlights the important place that *using* the Course’s ideas has in the curriculum (Wapnick, F.C.T.L., p.25)
+(3, 5, 9:4) The introduction to the workbook highlights the important place that *using* the Course’s ideas has in the curriculum (Wapnick, FCTL, p.25)
 ::: {% endif %}
 
 9. Remember only this: you need not believe the ideas, you need not accept them, and you need not even welcome them. 

@@ -64,7 +64,7 @@ Spiritual sight will show you the true altar.
 
 {% if showCommentary %}
 ::: details Commentary
-(5–10, 2:1) …referring to this famous teaching … St. Paul’s reference to the body as the temple of the Holy Spirit (1 Corinthians 6:19) … cited by Christians to substantiate this deification of the ego’s world (… worshipping a *form* of truth at the expense of *content)* (Wapnick, A.A.C., p. 251.).
+(5–10, 2:1) …referring to this famous teaching … St. Paul’s reference to the body as the temple of the Holy Spirit (1 Corinthians 6:19) … cited by Christians to substantiate this deification of the ego’s world (… worshipping a *form* of truth at the expense of *content)* (Wapnick, AAC, p. 251.).
 :::
 {% endif %}
 
@@ -140,11 +140,11 @@ Then spiritual vision can be reawakened.
 
 {% if showCommentary %}
 ::: details Commentary>
-(3) We cannot choose *not* to choose again; but we can delay this choice. …This limit, the Holy Spirit’s presence in our minds, ensures that at some point within the hologram of time, we shall choose to awaken from the dream. (Wapnick, A.V.I., p.13.) 
+(3) We cannot choose *not* to choose again; but we can delay this choice. …This limit, the Holy Spirit’s presence in our minds, ensures that at some point within the hologram of time, we shall choose to awaken from the dream. (Wapnick, AVI, p.13.) 
 
-(3) Jesus speaks of the Atonement (or the Holy Spirit) as being the limit God set on the Son’s ability to miscreate. (Wapnick, A.V.I., p.130–131.) 
+(3) Jesus speaks of the Atonement (or the Holy Spirit) as being the limit God set on the Son’s ability to miscreate. (Wapnick, AVI, p.130–131.) 
 
-(4–8) And what allows the Presence of God in our minds — the Holy Spirit or Jesus — to undo the ego’s seemingly invincible plot is the pain that we feel from our original and ongoing decision to remain separate from the Love of God, a decision that enables us to exist as an individual. It is this discomfort over our unhappy situation (referred to as having “an imporsioned will”) that impels us finally to ask for “a better way”. … Realising that our way has not worked… we call upon the “better way”, which means calling upon the better Teacher. (Wapnick, A.A.C., p. 176.)
+(4–8) And what allows the Presence of God in our minds — the Holy Spirit or Jesus — to undo the ego’s seemingly invincible plot is the pain that we feel from our original and ongoing decision to remain separate from the Love of God, a decision that enables us to exist as an individual. It is this discomfort over our unhappy situation (referred to as having “an imporsioned will”) that impels us finally to ask for “a better way”. … Realising that our way has not worked… we call upon the “better way”, which means calling upon the better Teacher. (Wapnick, AAC, p. 176.)
 :::
 {% endif %}
 
@@ -185,9 +185,9 @@ The mind becomes more sensitive to error and pain.
 
 {% if showCommentary %}
 :::details Commentary 
-(1–4) The Atonement undoes guilt simply by moving past it to the guiltlessness underneath. …our forgiveness of each other is the means through which God reminds us that we are guiltless as His Children. This is the Holy Spirit’s plan of the Atonement: I acknowledge the guiltlessness of the Son of God in you, and this awareness, shared with you in my mind, teaches me that that guiltlessness is what I am as well. (Wapnick, A.V.I., p. 146.) 
+(1–4) The Atonement undoes guilt simply by moving past it to the guiltlessness underneath. …our forgiveness of each other is the means through which God reminds us that we are guiltless as His Children. This is the Holy Spirit’s plan of the Atonement: I acknowledge the guiltlessness of the Son of God in you, and this awareness, shared with you in my mind, teaches me that that guiltlessness is what I am as well. (Wapnick, AVI, p. 146.) 
 
-(7) This sensitivity [to our deepest self], however, can become a two-edged sword. On the one hand, it allows us to turn over to Jesus our ego temptations, but on the other, it causes us to react even to the slightest ego stirrings. What really happens is that things we would have never noticed before now stick out like sore thumbs, a situation where “the mind becomes increasingly sensitive to what the mind would once have regarded as very minor intrusions of discomfort”. (Wapnick, F.A.J., p.260.) 
+(7) This sensitivity [to our deepest self], however, can become a two-edged sword. On the one hand, it allows us to turn over to Jesus our ego temptations, but on the other, it causes us to react even to the slightest ego stirrings. What really happens is that things we would have never noticed before now stick out like sore thumbs, a situation where “the mind becomes increasingly sensitive to what the mind would once have regarded as very minor intrusions of discomfort”. (Wapnick, FAJ, p.260.) 
 ::: 
 {% endif %}
 
@@ -248,7 +248,7 @@ The world is a means of healing the separation.
 
 {% if showCommentary %}
 ::: details Commentary 
-(11) God, of course, cannot weep or be lonely, but these references reflect both His love for us and the Holy Spirit’s desire that we return to our Father and be free from the pain of believing we are still separate from Him. (Wapnick, F.A.J., p.215.) (see [T-5.VII.4:5](/text/5-healing-and-wholeness/vii-the-decision-for-god#p4)) 
+(11) God, of course, cannot weep or be lonely, but these references reflect both His love for us and the Holy Spirit’s desire that we return to our Father and be free from the pain of believing we are still separate from Him. (Wapnick, FAJ, p.215.) (see [T-5.VII.4:5](/text/5-healing-and-wholeness/vii-the-decision-for-god#p4)) 
 
 (11) Clearly, since God is abstract and does not have a body, He does not get lonely, nor weep; as He is the All, He cannot be incomplete. Further, the very idea that He could be any of these things clearly implies that the separation of His Son from Himself has actually happened, and this of course is directly antithetical to the Course’s teachings. The point that is being made, therefore, has to be understood on the level of the *content* of God’s love for His children (itself of course an anthropocentric metaphor), expressd through the *form* of an earthly father’s love for his child. Since we are still very much children in the spiritual life —  “You are very new in the ways of salvation” ([T-17.V.9:1](/text/17-forgiveness-and-the-holy-relationship/v-the-healed-relationship#9)), *A Course in Miracles* tells us — the Course’s use of language at this level is more than appropriate. (Wapnick, L.D.N.C., p. 608.) (see also [T-5.VII.4:5](/text/5-healing-and-wholeness/vii-the-decision-for-god#4), [T-7.VII.10:7](/text/7-the-gifts-of-the-kingdom/vii-the-totality-of-the-kingdom#10), [T-9.VII.8:2](/text/9-the-acceptance-of-the-atonement/vii-the-two-evaluations#8), [T-19.II.2:7](/text/19-the-attainment-of-peace-/ii-sin-versus-error#2)) 
 :::

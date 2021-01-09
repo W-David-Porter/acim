@@ -102,9 +102,9 @@ The body responds to errors in the mind.
 
 {% if showCommentary %}
 ::: details Commentary 
-Sickness is no different from any other form in the world that reflects the ego’s purpose. … The physical world is nothing but the projection of the underlying thought of separation. Thus, the body merely carries out the wishes of the mind, having no power within itself. (Wapnick, F.A.J., p.76.)
+Sickness is no different from any other form in the world that reflects the ego’s purpose. … The physical world is nothing but the projection of the underlying thought of separation. Thus, the body merely carries out the wishes of the mind, having no power within itself. (Wapnick, FAJ, p.76.)
 
-…the Son’s mistake of confusing the levels of the mind and body, and his believing that the body can cause pain, indeed, that the body can do anything at all. It is the belief that it can that Jesus equates with magic, the ego’s tactic to confuse the Son as to where the problem and solution truly are. … it is not only the body that does nothing, but the separated mind as well; it has not really created “beyond itself”, as the ego has claimed. (Wapnick, A.A.C., p. 231, 232.) 
+…the Son’s mistake of confusing the levels of the mind and body, and his believing that the body can cause pain, indeed, that the body can do anything at all. It is the belief that it can that Jesus equates with magic, the ego’s tactic to confuse the Son as to where the problem and solution truly are. … it is not only the body that does nothing, but the separated mind as well; it has not really created “beyond itself”, as the ego has claimed. (Wapnick, AAC, p. 231, 232.) 
 :::
 {% endif %}
 
@@ -172,13 +172,13 @@ So don’t deny the body, but use the body as a learning device. —Ed.
 
 {% if showCommentary %}
 ::: details Commentary
-(8–12) When we fall into this ego trap of denial we are forgetting that one cannot leave this world of illusion without *first* correcting these illuusions on the level where our belief is placed. The goal of *A Course in Miracles* is to transform the world not to transcend it, which is the step belonging to God when He lifts us back to Himself after all our misperceptions have been corrected by the Holy Spirit. While the Course places great emphasis on saving time, time is *not* saved through denial , but through  undoing our guilt in our relationships where it is the most pwerfully projected. (Wapnick, F.A.J., p. 111.)
+(8–12) When we fall into this ego trap of denial we are forgetting that one cannot leave this world of illusion without *first* correcting these illuusions on the level where our belief is placed. The goal of *A Course in Miracles* is to transform the world not to transcend it, which is the step belonging to God when He lifts us back to Himself after all our misperceptions have been corrected by the Holy Spirit. While the Course places great emphasis on saving time, time is *not* saved through denial , but through  undoing our guilt in our relationships where it is the most pwerfully projected. (Wapnick, FAJ, p. 111.)
 
 (8–12) Once deluded into believing the phenomenal world is real, one must inevitably make physical and/or psychological suffering real as well. However, because we believe our bodies are the locus of our experience, *A Course in Miracles* does not ask us to deny our bodiy experiences in this world, or the experiences of others. Such denial merely serves the ego by having made something terrible appear to be real and external to our minds, thereby protecting the thought of guilt that *is* the only problem. … [this] passage … highlights its gentle practicality, even within the context of an uncompromising non-dualism. (Wapnick, L.D.N.C., p. 561–562.)
  
-(8–13) …highlights his gentle practicality, even within the context of an uncompromising non-dualism… (Wapnick, A.A.C., p. 290.) 
+(8–13) …highlights his gentle practicality, even within the context of an uncompromising non-dualism… (Wapnick, AAC, p. 290.) 
 
-(8–13) Thus we are asked to respect the power of our minds to make illusions more powerful than truth, so that over time we can use this power to change our minds about truth and illusion. (Wapnick, A.A.C., p. 290.)
+(8–13) Thus we are asked to respect the power of our minds to make illusions more powerful than truth, so that over time we can use this power to change our minds about truth and illusion. (Wapnick, AAC, p. 290.)
  
 (10–11) Jesus of *A Course in Miracles* speaks of living and teaching in the world, *in the world’s terms*, a world that he never denigrates nor dismisses, though he clearly insists to us is illusory. (Wapnick, FCTL, p. 40.) 
 
@@ -186,7 +186,7 @@ So don’t deny the body, but use the body as a learning device. —Ed.
 
 (12) …to practice any form of asceticism, believing that it is rooting out “the world, the flesh and the devil”, merely reinforces the body’s reality, thus fulfilling the ego’s plan for its salvation. (Wapnick, L.D.N.C., p. 56³.)
 
-(12) The more ascetically successful aspirants are, the more they are deluded into believing that they have actually accomplished something (by “denying the unmindful”), while all the time their unconscious guilt remains safe and secure in their minds, behind the body’ armour and therefore requiring still greater effort to undo. (Wapnick, A.A.C., p. 29³.) 
+(12) The more ascetically successful aspirants are, the more they are deluded into believing that they have actually accomplished something (by “denying the unmindful”), while all the time their unconscious guilt remains safe and secure in their minds, behind the body’ armour and therefore requiring still greater effort to undo. (Wapnick, AAC, p. 29³.) 
 ::: 
 {% endif %}
 
@@ -239,13 +239,13 @@ Using material means in this case is not a bad thing.
 
 {% if showCommentary %}
 ::: details Commentary 
-Believing that magic has healing properties falls nicely into the ego’s trap of having us first seek solutions where they cannot be found, and then having us believe we have indeed found them. (Wapnick, F.A.J., p.78.)
+Believing that magic has healing properties falls nicely into the ego’s trap of having us first seek solutions where they cannot be found, and then having us believe we have indeed found them. (Wapnick, FAJ, p.78.)
 
-(1) [Magic principles] would include not only traditional forms of medical treatment such as drugs, surgery, and rest, but also many of the new Age techniques of acupuncture, massage, special diets, vitamins, exercise, aura manupulation, laying on of hands, repetition of certan prayers or rituals, forms of breathing, and meditations etc. (Wapnick, F.A.J., p.78.)
+(1) [Magic principles] would include not only traditional forms of medical treatment such as drugs, surgery, and rest, but also many of the new Age techniques of acupuncture, massage, special diets, vitamins, exercise, aura manupulation, laying on of hands, repetition of certan prayers or rituals, forms of breathing, and meditations etc. (Wapnick, FAJ, p.78.)
 
-(4) If a person’s fear level is too great to abandon the ego’s investment in guilt, seeking healing through the love of the Holy Spirit would merely re-inforece the underlying fear of this love. (Wapnick, F.A.J., p.78.)
+(4) If a person’s fear level is too great to abandon the ego’s investment in guilt, seeking healing through the love of the Holy Spirit would merely re-inforece the underlying fear of this love. (Wapnick, FAJ, p.78.)
 
-(6) As we all have experienced, magic *does* work at its own level. … Although it is not a mistake to use such agents [ie medicine or surgery], it *is* a mistake to ascribe healing properties to them, for they do not remove the causes that brought on the symptom. To believe that magic heals closes off the power of the miracle to undo the guilt that *is* the cause of sickness, “protecting” the guilt from healing by refusing to recognize its existence. (Wapnick, F.A.J., p.78–79.) see [T-2.V.2:2](/text/2-the-separation-and-the-atonement/v-the-function-of-the-miracle-worker#2). 
+(6) As we all have experienced, magic *does* work at its own level. … Although it is not a mistake to use such agents [ie medicine or surgery], it *is* a mistake to ascribe healing properties to them, for they do not remove the causes that brought on the symptom. To believe that magic heals closes off the power of the miracle to undo the guilt that *is* the cause of sickness, “protecting” the guilt from healing by refusing to recognize its existence. (Wapnick, FAJ, p.78–79.) see [T-2.V.2:2](/text/2-the-separation-and-the-atonement/v-the-function-of-the-miracle-worker#2). 
 :::
 {% endif %}
 
@@ -281,12 +281,12 @@ Miracles express the Atonement in whatever way is most helpful to the receiver.
 
 {% if showCommentary %}
 ::: details Commentary 
-(2–3, 6) What our Father knows we need is the healing of our mind, for which purpose He gave us His Holy Spirit, now made manifest through Jesus. When it appears as if God is delayed in His response of help, it is because we have asked for the wrong things, and God does not answer with illusions which would only exacerbate the fear underlying the request. (Wapnick, F.A.J., p.218.)
+(2–3, 6) What our Father knows we need is the healing of our mind, for which purpose He gave us His Holy Spirit, now made manifest through Jesus. When it appears as if God is delayed in His response of help, it is because we have asked for the wrong things, and God does not answer with illusions which would only exacerbate the fear underlying the request. (Wapnick, FAJ, p.218.)
 
 (4–6) *A Course in Miracles* has been written at a level we can understand and use. (Wapnick, L.D.N.C., p.512.)
 
 
-The importance of the form of help lies in the *purpose* for which it is used. …the Course is coming to meet a specific need that we have now, but it is not the highest level of communication of which we are capable. … it is the highest level that we can accept at this point in human history, when we are still so pre-occupied with fundamental ego self-centerdness, greed, attainment of pleasure and rampant specialness. Jesus very specifically meets us where we are, and provides us with his gentle coprrection of forgiveness to help us along our journey home. (Wapnick, A.V.I., p.124.)
+The importance of the form of help lies in the *purpose* for which it is used. …the Course is coming to meet a specific need that we have now, but it is not the highest level of communication of which we are capable. … it is the highest level that we can accept at this point in human history, when we are still so pre-occupied with fundamental ego self-centerdness, greed, attainment of pleasure and rampant specialness. Jesus very specifically meets us where we are, and provides us with his gentle coprrection of forgiveness to help us along our journey home. (Wapnick, AVI, p.124.)
 
 Jesus’ own Course [is] the perfect example of the principles he was teaching his students; his words not being “the highest level of communication” of which his students are capable of understanding, but certainly the highest level that they can tolerate in their fearful state. (Wapnick, FCTL, p. 94.) 
 :::

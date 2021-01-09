@@ -56,9 +56,9 @@ The purpose of A Course in Miracles is to train you to think in a miracle-minded
 
 {% if showCommentary %}
 ::: details Commentary 
-(1–6) What Jesus and the Holy Spirit *do* do, however, is teach us that we have made a mistake in our thinking, which has resulted in the problem of fear that we have now externalised. They have come to us to represent another way of thinking, that we may choose again. (Wapnick, F.A.J., p.123.)
+(1–6) What Jesus and the Holy Spirit *do* do, however, is teach us that we have made a mistake in our thinking, which has resulted in the problem of fear that we have now externalised. They have come to us to represent another way of thinking, that we may choose again. (Wapnick, FAJ, p.123.)
 
-(4–5) One cannot undo fear by reducing or underestimating the power of the mind. If the power of our mind which chose mistakenly is not honored and respected, then we are denying that very mind the power to correct itself through the Holy Spirit. We would have successfully denied the only means for our salvation — our power of decision — its efficacy to save us. (Wapnick, F.A.J., p.2³8.) see [T-2.VI.1:4](/text/2-the-separation-and-the-atonement/vi-fear-and-conflict), [T-2.VI.4:1–4](/text/2-the-separation-and-the-atonement/vi-fear-and-conflict#4).
+(4–5) One cannot undo fear by reducing or underestimating the power of the mind. If the power of our mind which chose mistakenly is not honored and respected, then we are denying that very mind the power to correct itself through the Holy Spirit. We would have successfully denied the only means for our salvation — our power of decision — its efficacy to save us. (Wapnick, FAJ, p.2³8.) see [T-2.VI.1:4](/text/2-the-separation-and-the-atonement/vi-fear-and-conflict), [T-2.VI.4:1–4](/text/2-the-separation-and-the-atonement/vi-fear-and-conflict#4).
 
 (4–6) Jesus is exhorting his students to pay careful attention to their mind’s decision to be unhappy, and to correct that *cause*, rather than continually seeking his help in remedying the *effect*, which ultimately makes no sense at all. (Wapnick, FCTL, p. 6.)  
 :::
@@ -252,7 +252,7 @@ Time is the gap that enables you to recognize the belief in separation before yo
 ::: details Commentary 
 (14) *A Course in Miracles* does not teach that the world, the flesh and the devil are to be avoided, indulged in or fought against. Rather, its central teaching is to forgive the world, loving it *for* its gift of forgiveness. … The world that God gave “to” us is the real world, which reflects the Holy Spirit’s purpose in helping us shift from the ego’s purpose for being here — hatred and separation — to the Holy Spirit’s of forgiveness and joining. (Wapnick, L.D.N.C., p. 583.)
 
-(14) … [the Course’s] central teaching is to forgive the world, being grateful for its capacity of being a classroom in which we can accept Jesus’s gift of forgiveness. (Wapnick, A.A.C., p. 300.) 
+(14) … [the Course’s] central teaching is to forgive the world, being grateful for its capacity of being a classroom in which we can accept Jesus’s gift of forgiveness. (Wapnick, AAC, p. 300.) 
 :::
 {% endif %}
 
@@ -359,11 +359,11 @@ I control time and space.
 
 {% if showCommentary %}
 ::: details Commentary 
-(8–9) …we do not have to be perfect, and need not have mastered something in order to be ready to perform it. …if we feel overwhelmed by this task and think it would take a tremendous amount of time to learn to forgive, Jesus steps in at that point to remind us that time and space are under his control and therefore the miracle has the power to shorten time. (Wapnick, A.V.I., p.204.)
+(8–9) …we do not have to be perfect, and need not have mastered something in order to be ready to perform it. …if we feel overwhelmed by this task and think it would take a tremendous amount of time to learn to forgive, Jesus steps in at that point to remind us that time and space are under his control and therefore the miracle has the power to shorten time. (Wapnick, AVI, p.204.)
 
-(9) …when we turn our minds over to him, his love can then direct us within the illusory world of time and space to learn our lessons of forgiveness through the miracle. (Wapnick, A.V.I., p.129.)
+(9) …when we turn our minds over to him, his love can then direct us within the illusory world of time and space to learn our lessons of forgiveness through the miracle. (Wapnick, AVI, p.129.)
 
-(9) …time is not linear, space is not real … if we let him teach us his lesson we could learn very quickly. (Wapnick, A.V.I., p.152.) 
+(9) …time is not linear, space is not real … if we let him teach us his lesson we could learn very quickly. (Wapnick, AVI, p.152.) 
 :::
 {% endif %}
 

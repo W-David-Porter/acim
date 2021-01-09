@@ -56,7 +56,7 @@ Forgive yourself and see yourself truly.
 
 {% if showCommentary %}
 ::: details Commentary 
-(3–8) The ego counsels us … to cannabalise what is outside of us, wresting it from another (or the world) and incorporating it within ourselves to fill the gaping hole of nothingness the ego has convinced us is our reality. Thus the orienting premise of the ego is the … scarcity principle: that we are missing something within, a lack that has its origin in the separation from God. (Wapnick, L.D.N.C., p.488.; c/f A.A.C., p.123.)
+(3–8) The ego counsels us … to cannabalise what is outside of us, wresting it from another (or the world) and incorporating it within ourselves to fill the gaping hole of nothingness the ego has convinced us is our reality. Thus the orienting premise of the ego is the … scarcity principle: that we are missing something within, a lack that has its origin in the separation from God. (Wapnick, L.D.N.C., p.488.; c/f AAC, p.123.)
 :::
 {% endif %}
 
@@ -125,7 +125,7 @@ Then you can correct the error of separation.
 
 {% if showCommentary %}
 ::: details Commentary
-(5–4:1) The purpose of the world is to correct our belief about the reality of space and time. (Wapnick, A.V.I., p. 247.)
+(5–4:1) The purpose of the world is to correct our belief about the reality of space and time. (Wapnick, AVI, p. 247.)
 :::
 {% endif %}
 
@@ -233,7 +233,7 @@ God only creates love.
 
 {% if showCommentary %}
 ::: details Commentary
-(4) In the presence of God’s Love all fear automatically disappears. (Wapnick, A.V.I., p.96.)
+(4) In the presence of God’s Love all fear automatically disappears. (Wapnick, AVI, p.96.)
 ::: 
 {% endif %}
 

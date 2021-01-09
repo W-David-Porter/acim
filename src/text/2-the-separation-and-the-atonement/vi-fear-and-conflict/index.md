@@ -50,13 +50,13 @@ Let me guide your mind.
 
 {% if showCommentary %}
 ::: details Commentary 
-(1) One cannot undo fear by reducing or underestimating the power of the mind. If the power of our mind which chose mistakenly is not honored and respected, then we are denying that very mind the power to correct itself through the Holy Spirit. We would have successfully denied the only means for our salvation — our power of decision — its efficacy to save us. (Wapnick, F.A.J., p.238.) see [T-2.VI.4:1–4](#4), [T-2.VII.1:4–5](/text/2-the-separation-and-the-atonement/vii-the-meaning-of-the-last-judgment).
+(1) One cannot undo fear by reducing or underestimating the power of the mind. If the power of our mind which chose mistakenly is not honored and respected, then we are denying that very mind the power to correct itself through the Holy Spirit. We would have successfully denied the only means for our salvation — our power of decision — its efficacy to save us. (Wapnick, FAJ, p.238.) see [T-2.VI.4:1–4](#4), [T-2.VII.1:4–5](/text/2-the-separation-and-the-atonement/vii-the-meaning-of-the-last-judgment).
  
-(3) The gap between our separated selves — the ego and our true self — is too great, remaining forever before our firghtened eyes as the constant reminder of our sin. Jesus becomes this bridge, and in making a distinction between control and guidance, he states in the Course that we should allow him to take *control* over everything that does not matter in our lives, turning our fears, anxieties and concerns over to him so that they may be removed from us. (Wapnick, F.A.J., p. 298.) 
+(3) The gap between our separated selves — the ego and our true self — is too great, remaining forever before our firghtened eyes as the constant reminder of our sin. Jesus becomes this bridge, and in making a distinction between control and guidance, he states in the Course that we should allow him to take *control* over everything that does not matter in our lives, turning our fears, anxieties and concerns over to him so that they may be removed from us. (Wapnick, FAJ, p. 298.) 
 
-(3) Jesus discusses our need to turn over to him all that does not matter, placing our egos under his control, so that he may then guide us in what does matter. (Wapnick, A.V.I., p.129.) 
+(3) Jesus discusses our need to turn over to him all that does not matter, placing our egos under his control, so that he may then guide us in what does matter. (Wapnick, AVI, p.129.) 
 
-(4–5) Salvation is basically accomplished by our own work, done in union with the Holy Spirit. Jesus [is] addressing the traditional view of his “doing it for us” … Jesus thus can help us in making another choice, but he cannot make that choice for us. (Wapnick, L.D.N.C., p.507 and paraphrased A.A.C., p.173.) (see [para. 4:1–5](#4))
+(4–5) Salvation is basically accomplished by our own work, done in union with the Holy Spirit. Jesus [is] addressing the traditional view of his “doing it for us” … Jesus thus can help us in making another choice, but he cannot make that choice for us. (Wapnick, L.D.N.C., p.507 and paraphrased AAC, p.173.) (see [para. 4:1–5](#4))
 :::
 {% endif %}
 
@@ -144,9 +144,9 @@ Your mind needs guidance.
 
 {% if showCommentary %}
 ::: details Commentary 
-(1, 4, 6–7) …controlling one’s actions is not sufficient to achieve real peace. Controlling one’s behavior, while often a step in the right direction as it can reflect a desire to change one’s mind, still does not change the thoughts of guilt, which merely become strengthened, through their denial. (Wapnick, F.A.J., p.109–110.) 
+(1, 4, 6–7) …controlling one’s actions is not sufficient to achieve real peace. Controlling one’s behavior, while often a step in the right direction as it can reflect a desire to change one’s mind, still does not change the thoughts of guilt, which merely become strengthened, through their denial. (Wapnick, FAJ, p.109–110.) 
 
-(4, 6) Our basic problem is the decision to see ourselves separated from God and thus unloved by Him, not what the world would identify as problems. It is this decision that must be changed. The correction for this error must occur in the place where it was made: in our minds, not in the world. (Wapnick, F.A.J., p.2³8.)
+(4, 6) Our basic problem is the decision to see ourselves separated from God and thus unloved by Him, not what the world would identify as problems. It is this decision that must be changed. The correction for this error must occur in the place where it was made: in our minds, not in the world. (Wapnick, FAJ, p.2³8.)
 :::
 {% endif %}
 
@@ -199,11 +199,11 @@ Correct the error by making choices in accord with my choices.
 
 {% if showCommentary %}
 ::: details Commentary 
-(1–4) One cannot undo fear by reducing or underestimating the power of the mind. If the power of our mind which chose mistakenly is not honored and respected, then we are denying that very mind the power to correct itself through the Holy Spirit. We would have successfully denied the only means for our salvation — our power of decision — its efficacy to save us. (Wapnick, F.A.J., p.238.) see [para. 1:4](#), [T-2.VII.1:4–5](/text/2-the-separation-and-the-atonement/vii-the-meaning-of-the-last-judgment).
+(1–4) One cannot undo fear by reducing or underestimating the power of the mind. If the power of our mind which chose mistakenly is not honored and respected, then we are denying that very mind the power to correct itself through the Holy Spirit. We would have successfully denied the only means for our salvation — our power of decision — its efficacy to save us. (Wapnick, FAJ, p.238.) see [para. 1:4](#), [T-2.VII.1:4–5](/text/2-the-separation-and-the-atonement/vii-the-meaning-of-the-last-judgment).
 
 (1–4) Jesus is not offering to help us solve our external problems, nor to remove the fears we experience in our everyday lives, but rather he is teaching us how to join with him in undoing the *causes* of our fear, which lie in the mind’s decision to be separate from him and therefore from God. (Wapnick, FCTL, p.5.)
  
-(1–4) Through our “little willingness” to turn our wills over to his [Jesus’], we undo the decision to separate which was the original problem. He cannot accomplish this for us without our choosing to join him. (Wapnick, A.V.I., p.185.)
+(1–4) Through our “little willingness” to turn our wills over to his [Jesus’], we undo the decision to separate which was the original problem. He cannot accomplish this for us without our choosing to join him. (Wapnick, AVI, p.185.)
 
 (1–5) Salvation is basically accomplished by our own work, done in union with the Holy Spirit. Jesus [is] addressing the traditional view of his “doing it for us” … Jesus thus can help us in making another choice, but he cannot make that choice for us. (Wapnick, L.D.N.C., p.507.) (see [para. 1:4–5](#))
 
@@ -437,9 +437,9 @@ All thinking produces some form.
 
 {% if showCommentary %}
 ::: details Commentary 
-(14) …a helpful metaphor is the decision maker (observer) as the part of our minds that chooses to review the ego’s movie (wrong mind) or the Holy Spirit’s correction (right mind). Remember that the entire movie *including* the correction has already been filmed, and encompasses the world of evolution, spanning billions of years. Within this gigantic epic  is an *almost* infinite number of segments or video tapes, each corresponding to the epxression of a thought. (Wapnick, A.V.I., p.10.)
+(14) …a helpful metaphor is the decision maker (observer) as the part of our minds that chooses to review the ego’s movie (wrong mind) or the Holy Spirit’s correction (right mind). Remember that the entire movie *including* the correction has already been filmed, and encompasses the world of evolution, spanning billions of years. Within this gigantic epic  is an *almost* infinite number of segments or video tapes, each corresponding to the epxression of a thought. (Wapnick, AVI, p.10.)
 
-(14) …it means that the thoughts of [for example] shooting your wife, of putting the revolver down, or of doing something else entirely, have already happened. Thus you are not really having a new thought, but merely accessing different thoughts in your mind. Therefore, you are re-experiencing a thought that you once had. This is a mind-boggling idea, but it is the key to understanding what *A Course in Miracles* says about time. (Wapnick, A.V.I., p.19.) 
+(14) …it means that the thoughts of [for example] shooting your wife, of putting the revolver down, or of doing something else entirely, have already happened. Thus you are not really having a new thought, but merely accessing different thoughts in your mind. Therefore, you are re-experiencing a thought that you once had. This is a mind-boggling idea, but it is the key to understanding what *A Course in Miracles* says about time. (Wapnick, AVI, p.19.) 
 :::
 {% endif %}
 

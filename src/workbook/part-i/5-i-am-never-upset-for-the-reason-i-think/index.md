@@ -45,7 +45,7 @@ Upsets may seem to have different forms.
 Upsets are all the same.
 
 {% if showCommentary %}::: details Commentary
-Through the dynamic of projection, the ego continually seeks to have us believe our problems are outside us in the world of the body — our own or others’. Thus we believe that what upsets us are problems perceived as external to us, beyound our control, for which we must find solutions. As long as we believe in the ego’s seductive smokescreens, the true source of the problem — our misthoughts — remains beyond recognition and therefore beyond correction. (Wapnick, F.A.J., p.67)
+Through the dynamic of projection, the ego continually seeks to have us believe our problems are outside us in the world of the body — our own or others’. Thus we believe that what upsets us are problems perceived as external to us, beyound our control, for which we must find solutions. As long as we believe in the ego’s seductive smokescreens, the true source of the problem — our misthoughts — remains beyond recognition and therefore beyond correction. (Wapnick, FAJ, p.67)
 ::: {% endif %}
 
 :::
