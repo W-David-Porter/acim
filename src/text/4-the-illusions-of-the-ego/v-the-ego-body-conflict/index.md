@@ -206,7 +206,7 @@ Many things you want to learn have no lasting value.
 ³The ego compromises with the issue of the eternal, just as it does with all issues touching on the real question in any way. 
 ⁴By becoming involved with tangential issues, it hopes to hide the real question and keep it out of mind. 
 ⁵The ego’s characteristic busyness with nonessentials is for precisely that purpose. 
-⁶Preoccupations with problems set up to be incapable of solution are favourite ego devices for impeding learning progress. 
+⁶Preoccupations with problems set up to be incapable of solution are favorite ego devices for impeding learning progress. 
 ⁷In all these diversionary tactics, however, the one question that is never asked by those who pursue them is, “What for?”. 
 ⁸This is the question that *you* must learn to ask in connection with everything. 
 ⁹What is the purpose? 
@@ -219,7 +219,7 @@ The ego thinks it is an advantage not to commit itself [the-ego’s-self] to any
 ³The ego compromises with the issue of the eternal, just as it [the ego] does [compromises] with all issues touching on the real question in any way. 
 ⁴By becoming involved with tangential issues, it [the ego] hopes to hide the real question and keep it [the real question] out of mind. 
 ⁵The ego’s characteristic busyness with non-essentials is for precisely that purpose [keeping the real question out of mind]. 
-⁶Preoccupations with problems set up to be incapable of solution are favourite ego devices for impeding learning progress. 
+⁶Preoccupations with problems set up to be incapable of solution are favorite ego devices for impeding learning progress. 
 ⁷In all these diversionary tactics, however, the one question that is never asked by those who pursue them is, “What for?”. 
 ⁸This is the question that *you* must learn to ask in connection with everything. 
 ⁹What is the purpose? 
@@ -233,7 +233,7 @@ The ego thinks it is an advantage not to commit the-ego’s-self to anything tha
 ³The ego compromises with the issue of the eternal, just as the ego compromises with all issues touching on the real question in any way. 
 ⁴By becoming involved with tangential issues, the ego hopes to hide the real question and keep the real question out of mind. 
 ⁵The ego’s characteristic busyness with non-essentials is for precisely the purpose of keeping the real question out of mind. 
-⁶Preoccupations with problems set up to be incapable of solution are favourite ego devices for impeding learning progress. 
+⁶Preoccupations with problems set up to be incapable of solution are favorite ego devices for impeding learning progress. 
 ⁷In all these diversionary tactics, however, the one question that is never asked by those who pursue them is, “What for?”. 
 ⁸This is the question that *you* must learn to ask in connection with everything. 
 ⁹What is the purpose? 
