@@ -151,14 +151,14 @@ God wants everyone to be saved.
 ²Perceiving this as “sin’ you become defensive because you expect attack. 
 ³The decision to react in this way is yours, and can therefore be undone. 
 ⁴It cannot be undone by repentance in the usual sense, because this implies guilt. 
-⁵If you allow yourself to feel guilty, you will reïnforce the error rather than allow it to be undone for you.
+⁵If you allow yourself to feel guilty, you will reinforce the error rather than allow it to be undone for you.
 
 ::: details Expanded
 Whenever you are not wholly joyous, it [not being wholly joyous] is because you have reacted with a lack of love to one of God’s creations. 
 ²Perceiving this [reacting with a lack of love] as “sin’ you become defensive because you expect attack. 
 ³The decision to react in this way [becoming defensive] is yours [decision], and can therefore be undone. 
 ⁴It [the decision to become defensive] cannot be undone by repentance in the usual sense, because this [repentance] implies guilt. 
-⁵If you allow yourself to feel guilty, you will reïnforce the error rather than allow it [the error] to be undone for you.
+⁵If you allow yourself to feel guilty, you will reinforce the error rather than allow it [the error] to be undone for you.
 :::
 
 ::: details Substituted
@@ -166,7 +166,7 @@ Whenever you are not wholly joyous, not being wholly joyous is because you have 
 ²Perceiving [reacting with a lack of love] as “sin’ you become defensive because you expect attack. 
 ³The decision to react by becoming defensive is your [decision], and can therefore be undone. 
 ⁴The decision to become defensive cannot be undone by repentance in the usual sense, because repentance implies guilt. 
-⁵If you allow yourself to feel guilty, you will reïnforce the error rather than allow the error to be undone for you.
+⁵If you allow yourself to feel guilty, you will reinforce the error rather than allow the error to be undone for you.
 :::
 
 ::: details Simplified

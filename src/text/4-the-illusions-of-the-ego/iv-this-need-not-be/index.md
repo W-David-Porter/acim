@@ -12,7 +12,7 @@ next: T-4.V
 ---
 
 1. If you cannot hear the Voice for God, it is because you do not choose to listen. 
-²That you *do* listen to the voice of your ego is demonstrated by your attitudes, your feelings and your behaviour. 
+²That you *do* listen to the voice of your ego is demonstrated by your attitudes, your feelings and your behavior. 
 ³Yet this is what you want. 
 ⁴This is what you are fighting to keep, and what you are vigilant to save. 
 ⁵Your mind is filled with schemes to save the face of your ego, and you do not seek the face of Christ. 
@@ -22,7 +22,7 @@ next: T-4.V
 
 ::: details Expanded
 If you cannot hear the Voice for God, it is because you do not choose to listen. 
-²That you *do* listen to the voice of your ego is demonstrated by your attitudes, your feelings and your behaviour. 
+²That you *do* listen to the voice of your ego is demonstrated by your attitudes, your feelings and your behavior. 
 ³Yet this [listening to your ego] is what you want. 
 ⁴This [your ego] is what you are fighting to keep, and what you are vigilant to save. 
 ⁵Your mind is filled with schemes to save the face of your ego, and you do not seek the face of Christ. 
@@ -33,7 +33,7 @@ If you cannot hear the Voice for God, it is because you do not choose to listen.
 
 ::: details Substituted
 If you cannot hear the Voice for God, it is because you do not choose to listen. 
-²That you *do* listen to the voice of your ego is demonstrated by your attitudes, your feelings and your behaviour. 
+²That you *do* listen to the voice of your ego is demonstrated by your attitudes, your feelings and your behavior. 
 ³Yet listening to your ego is what you want. 
 ⁴Your ego is what you are fighting to keep, and what you are vigilant to save. 
 ⁵Your mind is filled with schemes to save the face of your ego, and you do not seek the face of Christ. 
@@ -51,7 +51,7 @@ The ego exists as a trick.
 
 <div id=2 class=zero-height></div>
 
-2. I have said that you cannot change your mind by changing your behaviour, but I have also said, and many times, that you *can* change your mind. 
+2. I have said that you cannot change your mind by changing your behavior, but I have also said, and many times, that you *can* change your mind. 
 ²When your mood tells you that you have chosen wrongly, and this is so whenever you are not joyous, then *know this need not be* 
 ³In every case you have thought wrongly about some brother God created, and are perceiving images your ego makes in a darkened glass. 
 ⁴Think honestly what you have thought that God would not have thought, and what you have not thought that God would have you think. 
@@ -62,7 +62,7 @@ The ego exists as a trick.
 ⁹As a loving brother I am deeply concerned with your mind, and urge you to follow my example as you look at yourself and at your brother, and see in both the glorious creations of a glorious Father.
 
 ::: details Expanded
-I have said that you cannot change your mind by changing your behaviour, but I have also said, and many times, that you *can* change your mind. 
+I have said that you cannot change your mind by changing your behavior, but I have also said, and many times, that you *can* change your mind. 
 ²When your mood tells you that you have chosen wrongly, and this [you choosing wrongly] is so whenever you are not joyous, then *know this [choosing wrongly] need not be* 
 ³In every case you have thought wrongly about some brother God created, and are perceiving images your ego makes in a darkened glass. 
 ⁴Think honestly what you have thought that God would not have thought, and what you have not thought that God would have you think. 
@@ -74,7 +74,7 @@ I have said that you cannot change your mind by changing your behaviour, but I h
 :::
 
 ::: details Substituted
-I have said that you cannot change your mind by changing your behaviour, but I have also said, and many times, that you *can* change your mind. 
+I have said that you cannot change your mind by changing your behavior, but I have also said, and many times, that you *can* change your mind. 
 ²When your mood tells you that you have chosen wrongly, and you choosing wrongly is so whenever you are not joyous, then *know choosing wrongly need not be* 
 ³In every case you have thought wrongly about some brother God created, and are perceiving images your ego makes in a darkened glass. 
 ⁴Think honestly what you have thought that God would not have thought, and what you have not thought that God would have you think. 

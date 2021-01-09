@@ -62,55 +62,55 @@ Let me guide your mind.
 
 
 2. I do not foster level confusion, but you must choose to correct it. 
-²You would not excuse insane behaviour on your part by saying you could not help it. 
+²You would not excuse insane behavior on your part by saying you could not help it. 
 ³Why should you condone insane thinking? 
 ⁴There is a confusion here that you would do well to look at clearly. 
 ⁵You may believe that you are responsible for what you do, but not for what you think. 
 ⁶The truth is that you are responsible for what you think, because it is only at this level that you can exercise choice. 
 ⁷What you do comes from what you think. 
-⁸You cannot separate yourself from the truth by “giving’ autonomy to behaviour. 
+⁸You cannot separate yourself from the truth by “giving’ autonomy to behavior. 
 ⁹This is controlled by me automatically as soon as you place what you think under my guidance. 
 ¹⁰Whenever you are afraid, it is a sure sign that you have allowed your mind to miscreate and have not allowed me to guide it.
 
 ::: details Expanded
 I do not foster level confusion, but you must choose to correct it [level-confusion]. 
-²You would not excuse insane behaviour on your part by saying you could not help it [insane behaviour]. 
+²You would not excuse insane behavior on your part by saying you could not help it [insane behavior]. 
 ³Why should you condone insane thinking? 
 ⁴There is a confusion here that you would do well to look at clearly. 
 ⁵You may believe that you are responsible for what you do, but not [responsible] for what you think. 
 ⁶The truth is that you are responsible for what you think, because it is only at this level [the level of what you think] that you can exercise choice. 
 ⁷What you do comes from what you think. 
-⁸You cannot separate yourself from the truth by “giving’ autonomy to behaviour. 
-⁹This [behaviour] is controlled by me automatically as soon as you place what you think under my guidance. 
+⁸You cannot separate yourself from the truth by “giving’ autonomy to behavior. 
+⁹This [behavior] is controlled by me automatically as soon as you place what you think under my guidance. 
 ¹⁰Whenever you are afraid, it [being afraid] is a sure sign that you have allowed your mind to miscreate and have not allowed me to guide it [your mind].
 :::
 
 ::: details Substituted
 I do not foster level confusion, but you must choose to correct level-confusion. 
-²You would not excuse insane behaviour on your part by saying you could not help insane behaviour. 
+²You would not excuse insane behavior on your part by saying you could not help insane behavior. 
 ³Why should you condone insane thinking? 
 ⁴There is a confusion here that you would do well to look at clearly. 
 ⁵You may believe that you are responsible for what you do, but not responsible for what you think. 
 ⁶The truth is that you are responsible for what you think, because it is only at the level of what you think that you can exercise choice. 
 ⁷What you do comes from what you think. 
-⁸You cannot separate yourself from the truth by “giving’ autonomy to behaviour. 
-⁹Behaviour is controlled by me automatically as soon as you place what you think under my guidance. 
+⁸You cannot separate yourself from the truth by “giving’ autonomy to behavior. 
+⁹behavior is controlled by me automatically as soon as you place what you think under my guidance. 
 ¹⁰Whenever you are afraid, being afraid is a sure sign that you have allowed your mind to miscreate and have not allowed me to guide your mind.
 ::: 
 
 ::: details Simplified
-Behaviour is not a choice. 
-Behaviour follows what you think. 
+behavior is not a choice. 
+behavior follows what you think. 
 You choose what to think. 
 Allow me to guide what you think. 
-Fear and insane behaviour are the results of your own thinking. 
+Fear and insane behavior are the results of your own thinking. 
 :::
 
 
 3. It is pointless to believe that controlling the outcome of misthought can result in healing. 
 ²When you are fearful, you have chosen wrongly. 
 ³That is why you feel responsible for it. 
-⁴You must change your mind, not your behaviour, and this *is* a matter of willingness. 
+⁴You must change your mind, not your behavior, and this *is* a matter of willingness. 
 ⁵You do not need guidance except at the mind level. 
 ⁶Correction belongs only at the level where change is possible. 
 ⁷Change does not mean anything at the symptom level, where it cannot work.
@@ -119,7 +119,7 @@ Fear and insane behaviour are the results of your own thinking.
 It is pointless to believe that controlling the outcome of misthought can result in healing. 
 ²When you are fearful, you have chosen wrongly. 
 ³That [fear coming from your wrong choice] is why you feel responsible for it [being fearful]. 
-⁴You must change your mind, not your behaviour, and this [changing your mind] *is* a matter of willingness. 
+⁴You must change your mind, not your behavior, and this [changing your mind] *is* a matter of willingness. 
 ⁵You do not need guidance except at the mind level. 
 ⁶Correction belongs only at the level where change is possible. 
 ⁷Change does not mean anything at the symptom level, where it [correction] cannot work.
@@ -129,14 +129,14 @@ It is pointless to believe that controlling the outcome of misthought can result
 It is pointless to believe that controlling the outcome of misthought can result in healing. 
 ²When you are fearful, you have chosen wrongly. 
 ³Fear coming from your wrong choice, is why you feel responsible for being fearful. 
-⁴You must change your mind, not your behaviour, and changing your mind *is* a matter of willingness. 
+⁴You must change your mind, not your behavior, and changing your mind *is* a matter of willingness. 
 ⁵You do not need guidance except at the mind level. 
 ⁶Correction belongs only at the level where change is possible. 
 ⁷Change does not mean anything at the symptom level, where correction cannot work.
 :::
 
 ::: details Simplified
-Behaviour and fear are the outcomes of misthought. 
+behavior and fear are the outcomes of misthought. 
 Correction and healing can only occur at the level of mind. 
 Be willing to change your mind. 
 Your mind needs guidance.
@@ -144,7 +144,7 @@ Your mind needs guidance.
 
 {% if showCommentary %}
 ::: details Commentary 
-(1, 4, 6–7) …controlling one’s actions is not sufficient to achieve real peace. Controlling one’s behaviour, while often a step in the right direction as it can reflect a desire to change one’s mind, still does not change the thoughts of guilt, which merely become strengthened, through their denial. (Wapnick, F.A.J., p.109–110.) 
+(1, 4, 6–7) …controlling one’s actions is not sufficient to achieve real peace. Controlling one’s behavior, while often a step in the right direction as it can reflect a desire to change one’s mind, still does not change the thoughts of guilt, which merely become strengthened, through their denial. (Wapnick, F.A.J., p.109–110.) 
 
 (4, 6) Our basic problem is the decision to see ourselves separated from God and thus unloved by Him, not what the world would identify as problems. It is this decision that must be changed. The correction for this error must occur in the place where it was made: in our minds, not in the world. (Wapnick, F.A.J., p.2³8.)
 :::
@@ -214,44 +214,44 @@ Correct the error by making choices in accord with my choices.
 
 5. Fear is always a sign of strain, arising whenever what you want conflicts with what you do. 
 ²This situation arises in two ways: First, you can choose to do conflicting things, either simultaneously or successively. 
-³This produces conflicted behaviour, which is intolerable to you because the part of the mind that wants to do something else is outraged. 
+³This produces conflicted behavior, which is intolerable to you because the part of the mind that wants to do something else is outraged. 
 ⁴Second, you can behave as you think you should, but without entirely wanting to do so. 
-⁵This produces consistent behaviour, but entails great strain. 
-⁶In both cases, the mind and the behaviour are out of accord, resulting in a situation in which you are doing what you do not wholly want to do. 
+⁵This produces consistent behavior, but entails great strain. 
+⁶In both cases, the mind and the behavior are out of accord, resulting in a situation in which you are doing what you do not wholly want to do. 
 ⁷This arouses a sense of coërcion that usually produces rage, and projection is likely to follow. 
 ⁸Whenever there is fear, it is because you have not made up your mind. 
-⁹Your mind is therefore split, and your behaviour inevitably becomes erratic. 
-¹⁰Correcting at the behavioural level can shift the error from the first to the second type, but will not obliterate the fear.
+⁹Your mind is therefore split, and your behavior inevitably becomes erratic. 
+¹⁰Correcting at the behavioral level can shift the error from the first to the second type, but will not obliterate the fear.
 
 ::: details Expanded
 Fear is always a sign of strain, [fear] arising whenever what you want conflicts with what you do. 
 ²This situation [what you want conflicts with what you do] arises in two ways: First, you can choose to do conflicting things, either simultaneously or successively. 
-³This [choosing to do conflicting things] produces conflicted behaviour, which [conflicted behaviour] is intolerable to you because the part of the mind that wants to do something else is outraged. 
+³This [choosing to do conflicting things] produces conflicted behavior, which [conflicted behavior] is intolerable to you because the part of the mind that wants to do something else is outraged. 
 ⁴Second, you can behave as you think you should [behave], but without entirely wanting to do so [behave as you think you should behave]. 
-⁵This [not entirely wanting to behave as you think you should behave] produces consistent behaviour, but entails great strain. 
-⁶In both cases [doing conflicting things, and behaving as you think you should behave], the mind and the behaviour are out of accord, resulting in a situation in which [situation] you are doing what you do not wholly want to do. 
+⁵This [not entirely wanting to behave as you think you should behave] produces consistent behavior, but entails great strain. 
+⁶In both cases [doing conflicting things, and behaving as you think you should behave], the mind and the behavior are out of accord, resulting in a situation in which [situation] you are doing what you do not wholly want to do. 
 ⁷This [doing what you do not wholly want to do] arouses a sense of coërcion that usually produces rage, and projection is likely to follow. 
 ⁸Whenever there is fear, it is [fear exists] because you have not made up your mind. 
-⁹Your mind is therefore split, and your behaviour inevitably becomes erratic. 
-¹⁰Correcting at the behavioural level can shift the error from the first [doing conflicting things] to the second type [behaving as you think you should behave], but [correcting at the behavioural level] will not obliterate the fear.
+⁹Your mind is therefore split, and your behavior inevitably becomes erratic. 
+¹⁰Correcting at the behavioral level can shift the error from the first [doing conflicting things] to the second type [behaving as you think you should behave], but [correcting at the behavioral level] will not obliterate the fear.
 :::
 
 ::: details Substituted
 Fear is always a sign of strain; fear arises whenever what you want conflicts with what you do. 
 ²The situation of what you want conflicting with what you do arises in two ways: First, you can choose to do conflicting things, either simultaneously or successively. 
-³Choosing to do conflicting things produces conflicted behaviour; conflicted behaviour is intolerable to you because the part of the mind that wants to do something else is outraged. 
+³Choosing to do conflicting things produces conflicted behavior; conflicted behavior is intolerable to you because the part of the mind that wants to do something else is outraged. 
 ⁴Second, you can behave as you think you should behave, but without entirely wanting to behave as you think you should behave. 
-⁵Not entirely wanting to behave as you think you should behave produces consistent behaviour, but entails great strain. 
-⁶In the cases of doing conflicting things, and behaving as you think you should behave, the mind and the behaviour are out of accord, resulting in a situation where you are doing what you do not wholly want to do. 
+⁵Not entirely wanting to behave as you think you should behave produces consistent behavior, but entails great strain. 
+⁶In the cases of doing conflicting things, and behaving as you think you should behave, the mind and the behavior are out of accord, resulting in a situation where you are doing what you do not wholly want to do. 
 ⁷Doing what you do not wholly want to do arouses a sense of coërcion that usually produces rage, and projection is likely to follow. 
 ⁸Whenever there is fear, fear exists because you have not made up your mind. 
-⁹Your mind is therefore split, and your behaviour inevitably becomes erratic. 
-¹⁰Correcting at the behavioural level can shift the error from doing confilicting things to behaving as you think you should behave, but correcting at the behavioural level will not obliterate the fear.
+⁹Your mind is therefore split, and your behavior inevitably becomes erratic. 
+¹⁰Correcting at the behavioral level can shift the error from doing confilicting things to behaving as you think you should behave, but correcting at the behavioral level will not obliterate the fear.
 :::
 
 ::: details Simplified
-When mind and behaviour are out of accord, the result is fear, rage and projection. 
-Correcting behaviour cannot obliterate fear.
+When mind and behavior are out of accord, the result is fear, rage and projection. 
+Correcting behavior cannot obliterate fear.
 :::
 
 

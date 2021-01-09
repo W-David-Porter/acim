@@ -160,18 +160,18 @@ You were too afraid to appeal to a Higher Court.
 :::
 
 
-5. There are many examples of how the ego’s interpretations are misleading, but a few will suffice to show how the Holy Spirit can reïnterpret them in His Own light.
+5. There are many examples of how the ego’s interpretations are misleading, but a few will suffice to show how the Holy Spirit can reinterpret them in His Own light.
 
 ::: details Expanded
-There are many examples of how the ego’s interpretations are misleading, but a few [examples] will suffice to show how the Holy Spirit can reïnterpret them [the-ego’s-interpretations] in His [the-Holy-Spirit’s] Own light.
+There are many examples of how the ego’s interpretations are misleading, but a few [examples] will suffice to show how the Holy Spirit can reinterpret them [the-ego’s-interpretations] in His [the-Holy-Spirit’s] Own light.
 :::
 
 ::: details Substituted
-There are many examples of how the ego’s interpretations are misleading, but a few examples will suffice to show how the Holy Spirit can reïnterpret the-ego’s-interpretations in the-Holy-Spirit’s Own light.
+There are many examples of how the ego’s interpretations are misleading, but a few examples will suffice to show how the Holy Spirit can reinterpret the-ego’s-interpretations in the-Holy-Spirit’s Own light.
 :::
 
 ::: details Simplified
-The Holy Spirit can reïnterpret the ego’s misleading interpretations.
+The Holy Spirit can reinterpret the ego’s misleading interpretations.
 :::
 
 
@@ -193,18 +193,18 @@ You will cultivate in yourself whatever you consider worthy of cultivating.
 :::
 
 
-7. “Vengeance is mine, says the Lord” is easily reïnterpreted if you remember that ideas increase only by being shared. 
+7. “Vengeance is mine, says the Lord” is easily reinterpreted if you remember that ideas increase only by being shared. 
 ²The statement emphasizes that vengeance cannot be shared. 
 ³Give it therefore to the Holy Spirit, Who will undo it in you because it does not belong in your mind, which is part of God.
 
 ::: details Expanded
-“Vengeance is mine, says the Lord” is easily reïnterpreted if you remember that ideas increase only by being shared. 
+“Vengeance is mine, says the Lord” is easily reinterpreted if you remember that ideas increase only by being shared. 
 ²The statement emphasizes that vengeance cannot be shared. 
 ³Give it [vengeance] therefore to the Holy Spirit, Who will undo it [vengeance] in you because it [vengeance] does not belong in your mind, which is part of God.
 :::
 
 ::: details Substituted
-“Vengeance is mine, says the Lord” is easily reïnterpreted if you remember that ideas increase only by being shared. 
+“Vengeance is mine, says the Lord” is easily reinterpreted if you remember that ideas increase only by being shared. 
 ²The statement emphasizes that vengeance cannot be shared. 
 ³Give vengeance therefore to the Holy Spirit, Who will undo vengeance in you because vengeance does not belong in your mind, which is part of God.
 :::
@@ -219,29 +219,29 @@ Ask the Holy Spirit to undo your desire for vengeance.
 
 8. “I will visit the sins of the fathers unto the third and fourth generation”, as interpreted by the ego, is particularly vicious. 
 ²It becomes merely an attempt to guarantee the ego’s own survival. 
-³To the Holy Spirit, the statement means that in later generations He can still reïnterpret what former generations had misunderstood, and thus release the thoughts from the ability to produce fear.
+³To the Holy Spirit, the statement means that in later generations He can still reinterpret what former generations had misunderstood, and thus release the thoughts from the ability to produce fear.
 
 ::: details Expanded
 “I will visit the sins of the fathers unto the third and fourth generation”, as interpreted by the ego, is particularly vicious. 
 ²It [visiting the sins of the fathers unto the third and fourth generation] becomes merely an attempt to guarantee the ego’s own survival. 
-³To the Holy Spirit, the statement means that in later generations He [the Holy Spirit] can still reïnterpret what former generations had misunderstood, and thus release the thoughts from the ability to produce fear.
+³To the Holy Spirit, the statement means that in later generations He [the Holy Spirit] can still reinterpret what former generations had misunderstood, and thus release the thoughts from the ability to produce fear.
 :::
 
 ::: details Substituted
 “I will visit the sins of the fathers unto the third and fourth generation”, as interpreted by the ego, is particularly vicious. 
 ²Visiting the sins of the fathers unto the third and fourth generation becomes merely an attempt to guarantee the ego’s own survival. 
-³To the Holy Spirit, the statement means that in later generations the Holy Spirit can still reïnterpret what former generations had misunderstood, and thus release the thoughts from the ability to produce fear.
+³To the Holy Spirit, the statement means that in later generations the Holy Spirit can still reinterpret what former generations had misunderstood, and thus release the thoughts from the ability to produce fear.
 :::
 
 ::: details Simplified
-The Holy Spirit can reïnterpret on behalf of later generations to release them from fear.
+The Holy Spirit can reinterpret on behalf of later generations to release them from fear.
 :::
 
 
 9. “The wicked shall perish” becomes a statement of Atonement, if the word “perish’ is understood as “be undone’. 
 ²Every loveless thought must be undone, a word the ego cannot even understand. 
 ³To the ego, to be undone means to be destroyed. 
-⁴The ego will not be destroyed because it is part of your thought, but because it is uncreative and therefore unsharing, it will be reïnterpreted to release you from fear. 
+⁴The ego will not be destroyed because it is part of your thought, but because it is uncreative and therefore unsharing, it will be reinterpreted to release you from fear. 
 ⁵The part of your mind that you have given to the ego will merely return to the Kingdom, where your whole mind belongs. 
 ⁶You can delay the completion of the Kingdom, but you cannot introduce the concept of fear into it.
 
@@ -249,7 +249,7 @@ The Holy Spirit can reïnterpret on behalf of later generations to release them 
 “The wicked shall perish” becomes a statement of Atonement, if the word “perish’ is understood as “be undone’. 
 ²Every loveless thought must be undone, a word the ego cannot even understand. 
 ³To the ego, to be undone means to be destroyed. 
-⁴The ego will not be destroyed because it [the ego] is part of your thought, but because it [the ego] is uncreative and therefore unsharing, it [the ego] will be reïnterpreted to release you from fear. 
+⁴The ego will not be destroyed because it [the ego] is part of your thought, but because it [the ego] is uncreative and therefore unsharing, it [the ego] will be reinterpreted to release you from fear. 
 ⁵The part of your mind that you have given to the ego will merely return to the Kingdom, where your whole mind belongs. 
 ⁶You can delay the completion of the Kingdom, but you cannot introduce the concept of fear into it [the Kingdom].
 :::
@@ -258,13 +258,13 @@ The Holy Spirit can reïnterpret on behalf of later generations to release them 
 “The wicked shall perish” becomes a statement of Atonement, if the word “perish’ is understood as “be undone’. 
 ²Every loveless thought must be undone, a word the ego cannot even understand. 
 ³To the ego, to be undone means to be destroyed. 
-⁴The ego will not be destroyed because the ego is part of your thought, but because the ego is uncreative and therefore unsharing, it will be reïnterpreted to release you from fear. 
+⁴The ego will not be destroyed because the ego is part of your thought, but because the ego is uncreative and therefore unsharing, it will be reinterpreted to release you from fear. 
 ⁵The part of your mind that you have given to the ego will merely return to the Kingdom, where your whole mind belongs. 
 ⁶You can delay the completion of the Kingdom, but you cannot introduce the concept of fear into the Kingdom.
 :::
 
 ::: details Simplified
-Reïnterpret the ego and be released from fear. 
+Reinterpret the ego and be released from fear. 
 There is no fear in the Kingdom.
 :::
 

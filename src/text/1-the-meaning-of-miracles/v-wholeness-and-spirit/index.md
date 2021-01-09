@@ -137,7 +137,7 @@ Distorted perceptions create distorted relationships.
 
 (6) The “special” person of the Course is Jesus or the Holy Spirit; that is, the internal presence of God’s love that, again, leads Jesus to state that all his “brothers are special”.  (Wapnick, L.D.N.C., p.593.)
 
-(6) The true teacher of God … is not one with a *special* mission, nor a *special* gift to give others *special* messages of wisdom. Rather, it is to remind others of the choice they may make to separate filnally from the ego’s specialness and to join Jesus’ love. Thus Jesus in reïnforcing for his students the idea that no one is more special than any other. (Wapnick, FCTL, p. 111.)
+(6) The true teacher of God … is not one with a *special* mission, nor a *special* gift to give others *special* messages of wisdom. Rather, it is to remind others of the choice they may make to separate filnally from the ego’s specialness and to join Jesus’ love. Thus Jesus in reinforcing for his students the idea that no one is more special than any other. (Wapnick, FCTL, p. 111.)
 :::
 {% endif %}
 

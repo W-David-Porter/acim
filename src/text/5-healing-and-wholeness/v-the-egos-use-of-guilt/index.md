@@ -349,7 +349,7 @@ God offers the Atonement, which undoes the effects of your disorded thinking.
 
 8. The continuing decision to remain separated is the only possible reason for continuing guilt feelings. 
 ²We have said this before, but did not emphasize the destructive results of the decision. 
-³Any decision of the mind will affect both behaviour and experience. 
+³Any decision of the mind will affect both behavior and experience. 
 ⁴What you want you expect. 
 ⁵This is not delusional. 
 ⁶Your mind *does* make your future, and it will turn it back to full creation at any minute if it accepts the Atonement first. 
@@ -359,7 +359,7 @@ God offers the Atonement, which undoes the effects of your disorded thinking.
 ::: details Expanded
 The continuing decision to remain separated is the only possible reason for continuing guilt feelings. 
 ²We have said this [the continuing decision to remain separated is the only possible reason for continuing guilt feelings] before, but did not emphasize the destructive results of the decision [to remain separated]. 
-³Any decision of the mind will affect both behaviour and experience. 
+³Any decision of the mind will affect both behavior and experience. 
 ⁴What you want you expect. 
 ⁵This [expecting what you want] is not delusional. 
 ⁶Your mind *does* make your future, and it [your mind] will turn it [your future] back to full creation at any minute if it [your mind] accepts the Atonement first. 
@@ -370,7 +370,7 @@ The continuing decision to remain separated is the only possible reason for cont
 ::: details Substituted
 The continuing decision to remain separated is the only possible reason for continuing guilt feelings. 
 ²We have said the continuing decision to remain separated is the only possible reason for continuing guilt feelings before, but did not emphasize the destructive results of the decision to remain separated. 
-³Any decision of the mind will affect both behaviour and experience. 
+³Any decision of the mind will affect both behavior and experience. 
 ⁴What you want you expect. 
 ⁵Expecting what you want is not delusional. 
 ⁶Your mind *does* make your future, and your mind will turn your future back to full creation at any minute if your mind accepts the Atonement first. 

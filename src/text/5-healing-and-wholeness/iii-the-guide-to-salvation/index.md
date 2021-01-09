@@ -207,29 +207,29 @@ The “now” is eternal.
 7. The Holy Spirit is the Mediator between the interpretations of the ego and the knowledge of the spirit. 
 ²His ability to deal with symbols enables Him to work with the ego’s beliefs in its own language. 
 ³His ability to look beyond symbols into eternity enables Him to understand the laws of God, for which He speaks. 
-⁴He can therefore perform the function of reïnterpreting what the ego makes, not by destruction but by understanding. 
+⁴He can therefore perform the function of reinterpreting what the ego makes, not by destruction but by understanding. 
 ⁵Understanding is light, and light leads to knowledge. 
 ⁶The Holy Spirit is in light because He is in you who are light, but you yourself do not know this. 
-⁷It is therefore the task of the Holy Spirit to reïnterpret you on behalf of God.
+⁷It is therefore the task of the Holy Spirit to reinterpret you on behalf of God.
 
 ::: details Expanded
 The Holy Spirit is the Mediator between the interpretations of the ego and the knowledge of the spirit. 
 ²His [the-Holy-Spirit’s] ability to deal with symbols enables Him [the Holy Spirit] to work with the ego’s beliefs in its [the-ego’s] own language. 
 ³His [the-Holy-Spirit’s] ability to look beyond symbols into eternity enables Him [the Holy Spirit] to understand the laws of God, for which [laws of God] He [the Holy Spirit] speaks. 
-⁴He [the Holy Spirit] can therefore perform the function of reïnterpreting what the ego makes, not [reïnterpreting] by destruction but [reïnterpreting] by understanding. 
+⁴He [the Holy Spirit] can therefore perform the function of reinterpreting what the ego makes, not [reinterpreting] by destruction but [reinterpreting] by understanding. 
 ⁵Understanding is light, and light leads to knowledge. 
 ⁶The Holy Spirit is in light because He [the Holy Spirit] is in you who [you] are light, but you yourself do not know this [you are light]. 
-⁷It is therefore the task of the Holy Spirit to reïnterpret you on behalf of God.
+⁷It is therefore the task of the Holy Spirit to reinterpret you on behalf of God.
 :::
 
 ::: details Substituted
 The Holy Spirit is the Mediator between the interpretations of the ego and the knowledge of the spirit. 
 ²The-Holy-Spirit’s ability to deal with symbols enables the Holy Spirit to work with the ego’s beliefs in the-ego’s own language. 
 ³The-Holy-Spirit’s ability to look beyond symbols into eternity enables the Holy Spirit to understand the laws of God; the Holy Spirit speaks for the laws of God. 
-⁴The Holy Spirit can therefore perform the function of reïnterpreting what the ego makes, not reïnterpreting by destruction, but reïnterpreting by understanding. 
+⁴The Holy Spirit can therefore perform the function of reinterpreting what the ego makes, not reinterpreting by destruction, but reinterpreting by understanding. 
 ⁵Understanding is light, and light leads to knowledge. 
 ⁶The Holy Spirit is in light because the Holy Spirit is in you; you are light, but you yourself do not know you are light. 
-⁷It is therefore the task of the Holy Spirit to reïnterpret you on behalf of God.
+⁷It is therefore the task of the Holy Spirit to reinterpret you on behalf of God.
 :::
 
 ::: details Simplified
@@ -299,7 +299,7 @@ The Holy Spirit brings the strength of peace and eternity.
 ³The separation is merely another term for a split mind. 
 ⁴The ego is the symbol of separation, just as the Holy Spirit is the symbol of peace. 
 ⁵What you perceive in others you are strengthening in yourself. 
-⁶You may let your mind misperceive, but the Holy Spirit lets your mind reïnterpret its own misperceptions.
+⁶You may let your mind misperceive, but the Holy Spirit lets your mind reinterpret its own misperceptions.
 
 ::: details Expanded
 Perception derives meaning from relationships. 
@@ -307,7 +307,7 @@ Perception derives meaning from relationships.
 ³The separation is merely another term for a split mind. 
 ⁴The ego is the symbol of separation, just as the Holy Spirit is the symbol of peace. 
 ⁵What you perceive in others you are strengthening in yourself. 
-⁶You may let your mind misperceive, but the Holy Spirit lets your mind reïnterpret its own misperceptions.
+⁶You may let your mind misperceive, but the Holy Spirit lets your mind reinterpret its own misperceptions.
 :::
 
 ::: details Substituted
@@ -316,12 +316,12 @@ Perception derives meaning from relationships.
 ³The separation is merely another term for a split mind. 
 ⁴The ego is the symbol of separation, just as the Holy Spirit is the symbol of peace. 
 ⁵What you perceive in others you are strengthening in yourself. 
-⁶You may let your mind misperceive, but the Holy Spirit lets your mind reïnterpret its own misperceptions.
+⁶You may let your mind misperceive, but the Holy Spirit lets your mind reinterpret its own misperceptions.
 :::
 
 ::: details Simplified
 If you accept separation, you will perceive separation.
-The Holy Spirit lets you reïnterpret your relationships.
+The Holy Spirit lets you reinterpret your relationships.
 :::
 
 
@@ -365,8 +365,8 @@ In that part of the mind you know peace.
 :::
 
 
-11. The ego made the world as it perceives it, but the Holy Spirit, the reïnterpreter of what the ego made, sees the world as a teaching device for bringing you home. 
-²The Holy Spirit must perceive time, and reïnterpret it into the timeless. 
+11. The ego made the world as it perceives it, but the Holy Spirit, the reinterpreter of what the ego made, sees the world as a teaching device for bringing you home. 
+²The Holy Spirit must perceive time, and reinterpret it into the timeless. 
 ³He must work through opposites, because He must work with and for a mind that is in opposition. 
 ⁴Correct and learn, and be open to learning. 
 ⁵You have not made truth, but truth can still set you free. 
@@ -377,8 +377,8 @@ In that part of the mind you know peace.
 ¹⁰He holds this gladness gently in your mind, asking only that you increase it in His Name by sharing it to increase His joy in you.
 
 ::: details Expanded
-The ego made the world as it [the ego] perceives it [the world], but the Holy Spirit, the reïnterpreter of what the ego made, sees the world as a teaching device for bringing you home. 
-²The Holy Spirit must perceive time, and reïnterpret it [time] into the timeless. 
+The ego made the world as it [the ego] perceives it [the world], but the Holy Spirit, the reinterpreter of what the ego made, sees the world as a teaching device for bringing you home. 
+²The Holy Spirit must perceive time, and reinterpret it [time] into the timeless. 
 ³He [the Holy Spirit] must work through opposites, because He [the Holy Spirit] must work with and for a mind that is in opposition. 
 ⁴Correct and learn, and be open to learning. 
 ⁵You have not made truth, but truth can still set you free. 
@@ -390,8 +390,8 @@ The ego made the world as it [the ego] perceives it [the world], but the Holy Sp
 :::
 
 ::: details Substituted
-The ego made the world as the ego perceives the world, but the Holy Spirit, the reïnterpreter of what the ego made, sees the world as a teaching device for bringing you home. 
-²The Holy Spirit must perceive time, and reïnterpret time into the timeless. 
+The ego made the world as the ego perceives the world, but the Holy Spirit, the reinterpreter of what the ego made, sees the world as a teaching device for bringing you home. 
+²The Holy Spirit must perceive time, and reinterpret time into the timeless. 
 ³The Holy Spirit must work through opposites, because the Holy Spirit must work with and for a mind that is in opposition. 
 ⁴Correct and learn, and be open to learning. 
 ⁵You have not made truth, but truth can still set you free. 
@@ -404,7 +404,7 @@ The ego made the world as the ego perceives the world, but the Holy Spirit, the 
 
 ::: details Simplified
 The Holy Spirit works with your mind. 
-The Holy Spirit teaches you to reïnterpret what you have made. 
+The Holy Spirit teaches you to reinterpret what you have made. 
 The Holy Spirit brings you home. 
 Your home is the gladness of salvation.
 :::

@@ -184,7 +184,7 @@ So don’t deny the body, but use the body as a learning device. —Ed.
 
 …differences do exist in the world that we believe is real and is our home, and so it would be “a particularly unworthy form of denial” for Course students to deny any experience in the world of form. (Wapnick, FCTL, p. 148–149.)
 
-(12) …to practice any form of asceticism, believing that it is rooting out “the world, the flesh and the devil”, merely reïnforces the body’s reality, thus fulfilling the ego’s plan for its salvation. (Wapnick, L.D.N.C., p. 56³.)
+(12) …to practice any form of asceticism, believing that it is rooting out “the world, the flesh and the devil”, merely reinforces the body’s reality, thus fulfilling the ego’s plan for its salvation. (Wapnick, L.D.N.C., p. 56³.)
 
 (12) The more ascetically successful aspirants are, the more they are deluded into believing that they have actually accomplished something (by “denying the unmindful”), while all the time their unconscious guilt remains safe and secure in their minds, behind the body’ armour and therefore requiring still greater effort to undo. (Wapnick, A.A.C., p. 29³.) 
 ::: 

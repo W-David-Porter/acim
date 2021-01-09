@@ -86,7 +86,7 @@ Everyone benefits whenever anyone is healed.
 ³You need not know them individually, or they you. 
 ⁴The light is so strong that it radiates throughout the Sonship and returns thanks to the Father for radiating His joy upon it. 
 ⁵Only God’s holy children are worthy channels of His beautiful joy, because only they are beautiful enough to hold it by sharing it. 
-⁶It is impossible for a child of God to love his neighbour except as himself. 
+⁶It is impossible for a child of God to love his neighbor except as himself. 
 ⁷That is why the healer’s prayer is:
 >⁸Let me know this brother as I know myself.
 
@@ -96,7 +96,7 @@ You are being blessed by every beneficent thought of any of your brothers anywhe
 ³You need not know them [your brothers] individually, or they [your brothers know] you. 
 ⁴The light is so strong that it [the light] radiates throughout the Sonship and returns thanks to the Father for radiating His [the Father’s] joy upon it [the Sonship]. 
 ⁵Only God’s holy children are worthy channels of His [God’s] beautiful joy, because only they [God’s-holy-children] are beautiful enough to hold it [God’s-beautiful-joy] by sharing it [God’s-beautiful-joy]. 
-⁶It is impossible for a child of God to love his [a-child-of-God’s] neighbour except as himself [a-child-of-God’s-self]. 
+⁶It is impossible for a child of God to love his [a-child-of-God’s] neighbor except as himself [a-child-of-God’s-self]. 
 ⁷That is why the healer’s prayer is:
 
 >⁸Let me know this brother as I know myself.
@@ -108,7 +108,7 @@ You are being blessed by every beneficent thought of any of your brothers anywhe
 ³You need not know your brothers individually, or your brothers know you. 
 ⁴The light is so strong that the light radiates throughout the Sonship and returns thanks to the Father for radiating the Father’s joy upon it the Sonship. 
 ⁵Only God’s holy children are worthy channels of God’s beautiful joy, because only God’s-holy-children are beautiful enough to hold God’s-beautiful-joy by sharing God’s-beautiful-joy. 
-⁶It is impossible for a child of God to love a-child-of-God’s neighbour except as a-child-of-God’s-self. 
+⁶It is impossible for a child of God to love a-child-of-God’s neighbor except as a-child-of-God’s-self. 
 ⁷That is why the healer’s prayer is:
 
 >⁸Let me know this brother as I know myself.
@@ -118,5 +118,5 @@ You are being blessed by every beneficent thought of any of your brothers anywhe
 The good thoughts of all your brothers bless you. 
 You should bless them in return. 
 God’s beautiful joy is shared amongst all God’s holy children. 
-God’s children always love their neighbours as themselves.
+God’s children always love their neighbors as themselves.
 :::

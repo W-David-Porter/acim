@@ -88,7 +88,7 @@ In *A Course in Miracles*, “make” is reserved for the world of separation or
 ²The confusion between your real creation and what you have made of yourself is so profound that it has become literaly impossible for you to know anything. 
 ³Knowledge is always stable, and it is quite evident that you are not. 
 ⁴Nevertheless, you are perfectly stable as God created you. 
-⁵In this sense, when your behaviour is unstable, you are disagreeing with God’s idea of your creation. 
+⁵In this sense, when your behavior is unstable, you are disagreeing with God’s idea of your creation. 
 ⁶You can do this if you choose, but you would hardly want to do it if you were in your right mind.
 
 ::: details Expanded
@@ -96,7 +96,7 @@ Knowing, as we have already observed, does not lead to doing.
 ²The confusion between your real creation and what you have made of yourself is so profound that it has become literaly impossible for you to know anything. 
 ³Knowledge is always stable, and it is quite evident that you are not [stable]. 
 ⁴Nevertheless, you are perfectly stable as God created you. 
-⁵In this sense [being stable as God created you], when your behaviour is unstable, you are disagreeing with God’s idea of your creation. 
+⁵In this sense [being stable as God created you], when your behavior is unstable, you are disagreeing with God’s idea of your creation. 
 ⁶You can do this [disagree with God’s idea of your creation] if you choose, but you would hardly want to do it [disagree with God’s idea of your creation] if you were in your right mind.
 :::
 
@@ -105,7 +105,7 @@ Knowing, as we have already observed, does not lead to doing.
 ²The confusion between your real creation and what you have made of yourself is so profound that it has become literaly impossible for you to know anything. 
 ³Knowledge is always stable, and it is quite evident that you are not stable. 
 ⁴Nevertheless, you are perfectly stable as God created you. 
-⁵Being stable as God created you, when your behaviour is unstable, you are disagreeing with God’s idea of your creation. 
+⁵Being stable as God created you, when your behavior is unstable, you are disagreeing with God’s idea of your creation. 
 ⁶You can disagree with God’s idea of your creation if you choose, but you would hardly want to disagree with God’s idea of your creation if you were in your right mind.
 :::
 
@@ -243,7 +243,7 @@ Creation is your source and your function.
 
 <div id=7 class=zero-height></div>
 
-7. The statement “God created man in his own image and likeness” needs reïnterpretation. 
+7. The statement “God created man in his own image and likeness” needs reinterpretation. 
 ²“Image’ can be understood as “thought’, and “likeness’ as “of a like quality’. 
 ³God did create spirit in His Own Thought and of a quality like to His Own. 
 ⁴There is nothing else. 
@@ -253,7 +253,7 @@ Creation is your source and your function.
 ⁸Evaluation is an essential part of perception, because judgments are necessary in order to select.
 
 ::: details Expanded
-The statement “God created man in his own image and likeness” needs reïnterpretation. 
+The statement “God created man in his own image and likeness” needs reinterpretation. 
 ²“Image” can be understood as “thought’, and “likeness” [can be understood] as “of a like quality’. 
 ³God did create spirit in His [God’s] Own Thought and of a quality like to His [God’s] Own. 
 ⁴There is nothing else. 
@@ -264,7 +264,7 @@ The statement “God created man in his own image and likeness” needs reïnter
 :::
 
 ::: details Substituted
-The statement “God created man in his own image and likeness” needs reïnterpretation. 
+The statement “God created man in his own image and likeness” needs reinterpretation. 
 ²“Image” can be understood as “thought’, and “likeness” can be understood as “of a like quality’. 
 ³God did create spirit in God’s Own Thought and of a quality like to God’s Own. 
 ⁴There is nothing else. 

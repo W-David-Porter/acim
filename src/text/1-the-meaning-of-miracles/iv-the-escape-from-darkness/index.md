@@ -136,7 +136,7 @@ You don’t need anything else.
 
 4. The emptiness engendered by fear must be replaced by forgiveness. 
 ²That is what the Bible means by “There is no death”, and why I could demonstrate that death does not exist. 
-³I came to fulfill the law by reïnterpreting it. 
+³I came to fulfill the law by reinterpreting it. 
 ⁴The law itself, if properly understood, offers only protection. 
 ⁵It is those who have not yet changed their minds who brought the “hell-fire’ concept into it. 
 ⁶I assure you that I will witness for anyone who lets me, and to whatever extent he permits it. 
@@ -146,7 +146,7 @@ You don’t need anything else.
 ::: details Expanded
 The emptiness engendered by fear must be replaced by forgiveness. 
 ²That [fear must be replaced by forgiveness] is what the Bible means by “There is no death”, and why I could demonstrate that death does not exist. 
-³I came to fulfill the law by reïnterpreting it [the law]. 
+³I came to fulfill the law by reinterpreting it [the law]. 
 ⁴The law itself [law’s self], if properly understood, offers only protection. 
 ⁵It is those [yet-unchanged-minds] who have not yet changed their [yet-unchanged] minds who brought the “hell-fire’ concept into it [the law]. 
 ⁶I assure you that I will witness for anyone who lets me, and to whatever extent he [the one letting me witness] permits it [me to witness]. 
@@ -157,7 +157,7 @@ The emptiness engendered by fear must be replaced by forgiveness.
 ::: details Substituted
 The emptiness engendered by fear must be replaced by forgiveness. 
 ²Fear must be replaced by forgiveness is what the Bible means by “There is no death”, and why I could demonstrate that death does not exist. 
-³I came to fulfill the law by reïnterpreting the law. 
+³I came to fulfill the law by reinterpreting the law. 
 ⁴The law law’s self, if properly understood, offers only protection. 
 ⁵It is those with not-yet-changed-minds who brought the “hell-fire’ concept into the law. 
 ⁶I assure you that I will witness for anyone who lets me, and to whatever extent the one letting me witness for permits me to witness. 

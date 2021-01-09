@@ -23,7 +23,7 @@ next: T-5.II
 ¹⁰If you share a physical possession, you do divide its ownership. 
 ¹¹If you share an idea, however, you do not lessen it. 
 ¹²All of it is still yours although all of it has been given away. 
-¹³Further, if the one to whom you give it accepts it as his, he reïnforces it in your mind and thus increases it. 
+¹³Further, if the one to whom you give it accepts it as his, he reinforces it in your mind and thus increases it. 
 ¹⁴If you can accept the concept that the world is one of ideas, the whole belief in the false association the ego makes between giving and losing is gone.
 
 
@@ -40,7 +40,7 @@ Healing is a thought by which [thought] two minds perceive their [two-mind’s] 
 ¹⁰If you share a physical possession, you do divide its [a-physical-possession’s] ownership. 
 ¹¹If you share an idea, however, you do not lessen it [the idea]. 
 ¹²All of it [the idea] is still yours although all of it [the idea] has been given away. 
-¹³Further, if the one to whom you give it [the idea] accepts it [the idea] as his [the-receiver-of-the-idea’s], he [the receiver] reïnforces it [the idea] in your mind and thus increases it [the idea]. 
+¹³Further, if the one to whom you give it [the idea] accepts it [the idea] as his [the-receiver-of-the-idea’s], he [the receiver] reinforces it [the idea] in your mind and thus increases it [the idea]. 
 ¹⁴If you can accept the concept that the world is one [a world] of ideas, the whole belief in the false association the ego makes between giving and losing is gone.
 :::
 
@@ -57,7 +57,7 @@ Healing is a thought, by thought two minds perceive two-mind’s oneness and bec
 ¹⁰If you share a physical possession, you do divide a-physical-possession’s ownership. 
 ¹¹If you share an idea, however, you do not lessen the idea. 
 ¹²All of the idea is still yours although all of the idea has been given away. 
-¹³Further, if the one to whom you give the idea accepts the idea as the-receiver-of-the-idea’s], the receiver reïnforces the idea in your mind and thus increases the idea. 
+¹³Further, if the one to whom you give the idea accepts the idea as the-receiver-of-the-idea’s], the receiver reinforces the idea in your mind and thus increases the idea. 
 ¹⁴If you can accept the concept that the world is a world of ideas, the whole belief in the false association the ego makes between giving and losing is gone.
 :::
 

@@ -41,7 +41,7 @@ Jesus conceived of his Course as an integrated work in which each book had its o
 
 (4) …the workbook clarifies its purpose (Wapnick, L.D.N.C., p.603)
 
-(4) Once we are able to dislodge our thinking from the ego — the puprpose of this training — we must spend the rest of our lives reïnforcing what we have learned, attempting to remember to apply its principles to *all* situations and relationships. It is this generalisation of forgiveness, without exception, that constitutes the difficulty in hearing the Holy Spirit clearly and consistently. (Wapnick, F.A.J., p.269)
+(4) Once we are able to dislodge our thinking from the ego — the puprpose of this training — we must spend the rest of our lives reinforcing what we have learned, attempting to remember to apply its principles to *all* situations and relationships. It is this generalisation of forgiveness, without exception, that constitutes the difficulty in hearing the Holy Spirit clearly and consistently. (Wapnick, F.A.J., p.269)
 
 (4) Although certainly [the workbook] does contain some important passages bearing on an a number of themes in the text, it does not aim at presenting or explaining the thought system of *A Course in Miracles*. (Wapnick, F.C.T.L., p.17)
 ::: {% endif %}

@@ -13,7 +13,7 @@ next: T-5.V
 
 1. What fear has hidden still is part of you. 
 ²Joining the Atonement is the way out of fear. 
-³The Holy Spirit will help you reïnterpret everything that you perceive as fearful, and teach you that only what is loving is true. 
+³The Holy Spirit will help you reinterpret everything that you perceive as fearful, and teach you that only what is loving is true. 
 ⁴Truth is beyond your ability to destroy, but entirely within your ability to accept. 
 ⁵It belongs to you because, as an extension of God, you created it with Him. 
 ⁶It is yours because it is part of you, just as you are part of God because He created you. 
@@ -26,7 +26,7 @@ next: T-5.V
 ::: details Expanded
 What fear has hidden still is part of you. 
 ²Joining the Atonement is the way out of fear. 
-³The Holy Spirit will help you reïnterpret everything that you perceive as fearful, and teach you that only what is loving is true. 
+³The Holy Spirit will help you reinterpret everything that you perceive as fearful, and teach you that only what is loving is true. 
 ⁴Truth is beyond your ability to destroy, but entirely within your ability to accept. 
 ⁵It [Truth] belongs to you because, as an extension of God, you created it [Truth] with Him [God]. 
 ⁶It [Truth] is yours because it [Truth] is part of you, just as you are part of God because He [God] created you. 
@@ -40,7 +40,7 @@ What fear has hidden still is part of you.
 ::: details Substituted
 What fear has hidden still is part of you. 
 ²Joining the Atonement is the way out of fear. 
-³The Holy Spirit will help you reïnterpret everything that you perceive as fearful, and teach you that only what is loving is true. 
+³The Holy Spirit will help you reinterpret everything that you perceive as fearful, and teach you that only what is loving is true. 
 ⁴Truth is beyond your ability to destroy, but entirely within your ability to accept. 
 ⁵Truth belongs to you because, as an extension of God, you created Truth with God. 
 ⁶Truth is yours because Truth is part of you, just as you are part of God because God created you. 
@@ -130,7 +130,7 @@ Then you can share your real ideas with the Sonship.
 ⁷*It is impossible to share opposing thoughts*. 
 ⁸You can share only the thoughts that are of God and that He keeps for you. 
 ⁹And of such is the Kingdom of Heaven. 
-¹⁰The rest remains with you until the Holy Spirit has reïnterpreted them in the light of the Kingdom, making them, too, worthy of being shared. 
+¹⁰The rest remains with you until the Holy Spirit has reinterpreted them in the light of the Kingdom, making them, too, worthy of being shared. 
 ¹¹When they have been sufficiently purified He lets you give them away. 
 ¹²The decision to share them *is* their purification.
 
@@ -144,7 +144,7 @@ Every loving thought held in any part of the Sonship belongs to every part [of t
 ⁷*It is impossible to share opposing thoughts*. 
 ⁸You can share only the thoughts that are of God and that He [God] keeps for you. 
 ⁹And of such [thoughts that God keeps for you] is the Kingdom of Heaven. 
-¹⁰The rest [thoughts that oppose God] remains with you until the Holy Spirit has reïnterpreted them [thoughts that oppose God] in the light of the Kingdom, making them [thoughts that oppose God], too, worthy of being shared. 
+¹⁰The rest [thoughts that oppose God] remains with you until the Holy Spirit has reinterpreted them [thoughts that oppose God] in the light of the Kingdom, making them [thoughts that oppose God], too, worthy of being shared. 
 ¹¹When they [thoughts that oppose God] have been sufficiently purified He [God] lets you give them [purified thoughts] away. 
 ¹²The decision to share them [purified thoughts] *is* their [purified-thoughts’] purification.
 :::
@@ -159,7 +159,7 @@ Every loving thought held in any part of the Sonship belongs to every part of th
 ⁷*It is impossible to share opposing thoughts*. 
 ⁸You can share only the thoughts that are of God and that God keeps for you. 
 ⁹And the Kingdom of Heaven is of thoughts that God keeps for you. 
-¹⁰The thoughts that oppose God remains with you until the Holy Spirit has reïnterpreted thoughts that oppose God in the light of the Kingdom, making thoughts that oppose God, too, worthy of being shared. 
+¹⁰The thoughts that oppose God remains with you until the Holy Spirit has reinterpreted thoughts that oppose God in the light of the Kingdom, making thoughts that oppose God, too, worthy of being shared. 
 ¹¹When thoughts that oppose God have been sufficiently purified God lets you give purified thoughts away. 
 ¹²The decision to share purified thoughts *is* purified-thoughts’ purification.
 :::
@@ -167,7 +167,7 @@ Every loving thought held in any part of the Sonship belongs to every part of th
 ::: details Simplified
 You create by sharing loving thoughts with the Sonship and with God. 
 There are also thoughts that oppose God. 
-The thoughts that oppose God can be shared after they have been reïnterpreted by the Holy Spirit.
+The thoughts that oppose God can be shared after they have been reinterpreted by the Holy Spirit.
 :::
 
 
