@@ -21,7 +21,7 @@
 		"body": [
 			"<details>\n\t<summary>Expanded</summary>\n\n</details>\n",
 			"<details>\n\t<summary>Substituted</summary>\n\n</details>\n",
-			"<details>\n\t<summary>Readable</summary>\n\n</details>\n",			"<details>\n\t<summary>Simplified</summary>\n\n</details>"
+			"<details>\n\t<summary>Simplified</summary>\n\n</details>"
 		],
 		"description": "Add details elements for expanded, substituted, readable and simplified"
 	},
