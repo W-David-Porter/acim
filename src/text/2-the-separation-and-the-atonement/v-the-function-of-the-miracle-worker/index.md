@@ -547,7 +547,7 @@ Miracles mindedness forgives regardless of consequences.
 ⁴Only the latter involves an awareness of time, since to remember is to recall the past in the present. 
 ⁵Time is under my direction, but timelessness belongs to God. 
 ⁶In time we exist for and with each other. 
-⁷In timelessness we coëxist with God.
+⁷In timelessness we coexist with God.
 
 ::: details Expanded
 (7) The injunction “Be of one mind” is the statement for revelation-readiness. 
@@ -556,7 +556,7 @@ Miracles mindedness forgives regardless of consequences.
 ⁴Only the latter [“do this in remembrance of me”] involves an awareness of time, since to remember is to recall the past in the present. 
 ⁵Time is under my direction, but timelessness belongs to God. 
 ⁶In time we exist for and with each other. 
-⁷In timelessness we coëxist with God.
+⁷In timelessness we coexist with God.
 :::
 
 ::: details Substituted
@@ -566,7 +566,7 @@ Miracles mindedness forgives regardless of consequences.
 ⁴Only “do this in remembrance of me” involves an awareness of time, since to remember is to recall the past in the present. 
 ⁵Time is under my direction, but timelessness belongs to God. 
 ⁶In time we exist for and with each other. 
-⁷In timelessness we coëxist with God.
+⁷In timelessness we coexist with God.
 :::
 
 ::: details Simplified

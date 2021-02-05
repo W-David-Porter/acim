@@ -46,7 +46,7 @@ With this joy you can heal others.
 
 
 2. To be wholehearted you must be happy. 
-²If fear and love cannot coëxist, and if it is impossible to be wholly fearful and remain alive, the only possible whole state is that of love. 
+²If fear and love cannot coexist, and if it is impossible to be wholly fearful and remain alive, the only possible whole state is that of love. 
 ³There is no difference between love and joy. 
 ⁴Therefore, the only possible whole state is the wholly joyous. 
 ⁵To heal or to make joyous is therefore the same as to integrate and to make one. 
@@ -55,7 +55,7 @@ With this joy you can heal others.
 
 ::: details Expanded
 To be wholehearted you must be happy. 
-²If fear and love cannot coëxist, and if it is impossible to be wholly fearful and remain alive, the only possible whole state is that [a state] of love. 
+²If fear and love cannot coexist, and if it is impossible to be wholly fearful and remain alive, the only possible whole state is that [a state] of love. 
 ³There is no difference between love and joy. 
 ⁴Therefore, the only possible whole state is the wholly joyous [state]. 
 ⁵To heal or to make joyous is therefore the same as to integrate and to make one. 
@@ -65,7 +65,7 @@ To be wholehearted you must be happy.
 
 ::: details Substituted
 To be wholehearted you must be happy. 
-²If fear and love cannot coëxist, and if it is impossible to be wholly fearful and remain alive, the only possible whole state is a state of love. 
+²If fear and love cannot coexist, and if it is impossible to be wholly fearful and remain alive, the only possible whole state is a state of love. 
 ³There is no difference between love and joy. 
 ⁴Therefore, the only possible whole state is the wholly joyous state. 
 ⁵To heal or to make joyous is therefore the same as to integrate and to make one. 

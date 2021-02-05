@@ -188,7 +188,7 @@ Fear is resolved by love.
 :::
 
 
-5. Nothing and everything cannot coëxist. 
+5. Nothing and everything cannot coexist. 
 ²To believe in one is to deny the other. 
 ³Fear is really nothing and love is everything. 
 ⁴Whenever light enters darkness, the darkness is abolished. 
@@ -204,7 +204,7 @@ Fear is resolved by love.
 ¹⁴The statement “For God so loved the world that he gave his only begotten Son, that whosoëver believes in him should not perish but have everlasting life” needs only one slight correction to be meaningful in this context: “He gave it *to* His only begotten Son”.
 
 ::: details Expanded
-Nothing and everything cannot coëxist. 
+Nothing and everything cannot coexist. 
 ²To believe in one is to deny the other. 
 ³Fear is really nothing and love is everything. 
 ⁴Whenever light enters darkness, the darkness is abolished. 
@@ -221,7 +221,7 @@ Nothing and everything cannot coëxist.
 :::
 
 ::: details Substituted
-Nothing and everything cannot coëxist. 
+Nothing and everything cannot coexist. 
 ²To believe in one is to deny the other. 
 ³Fear is really nothing and love is everything. 
 ⁴Whenever light enters darkness, the darkness is abolished. 
