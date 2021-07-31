@@ -1,3 +1,5 @@
-# A Course In Miracles
+This repository is kind of deprected, although it has a better name
 
-## written as if readability mattered.
+I want to see if I can delete this one and then rename my "acim" repository
+
+but for now, use "acim" repository instead.
